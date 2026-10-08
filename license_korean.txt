@@ -1,0 +1,126 @@
+﻿End User License Agreement
+
+Please read the following information carefully as it sets out the terms upon which you are allowed by Out of the Park Developments GmbH, Adalbertstr. 8, 10999 Berlin, Germany ("OOTP Developments") to use Out of the Park Baseball 27 ("OOTP 27") incorporated in the game.
+
+By installing, copying, or otherwise using OOTP 27 (as defined below), you agree to be bound by the terms of this EULA, and further agree that you accept the terms of our Data Protection and Privacy Statement as posted on our website at https://www.ootpdevelopments.com/data-protection/ at the time of your agreement.
+
+If you do not agree to these terms, your use of OOTP 27 will not be granted. Do not install, copy, or use the software. If you have proof of payment, you may return your license to use the software within fourteen (14) days for a refund of the license fee.
+
+1. Licence to use the Software
+
+The term "OOTP 27" includes the software included in this game, the associated media, any software associated with the online mode of the game, any printed materials, and any online or electronic documentation, and any and all copies and derivative works of such software and materials.
+
+If you have purchased the FastSpring/QLM version of the game, OOTP Developments grants you a non-exclusive, non-transferable license to use two (2) copies of OOTP 27 solely for the personal use of the licensee. The two copies may not be used by two people in two places at the same time. OOTP Developments grants the use of two copies of OOTP 27 solely to provide the licensee with flexibility, and does not condone the use of the two licensed copies by users other than the licensee. All rights not specifically transferred by this Licence remain with OOTP Developments. OOTP 27 is licensed to you and not sold. This licence does not give you any title or ownership in OOTP 27 and should not be construed as a sale or transfer of any intellectual property rights to OOTP 27.  You are authorized to make backup copies of OOTP 27 for the sole purpose of protecting your investment. You may transfer OOTP 27 freely from one computer to another, subject to the other requirements listed above.
+
+If you have purchased the game via another distribution method, such as Steam, Origin, the Apple Store, or similar services, the license granted by OOTP Developments is subject to the terms and conditions listed in your user/subscriber agreement with that service.
+
+2. Ownership of OOTP 27
+
+You agree and acknowledge that all right, title, interest and ownership rights in any and all copyright, design right, database right, patents and any rights to inventions, know-how, trade and business names, trade secrets and trade marks (whether registered or unregistered) and any applications therefor and other intellectual property rights ("Intellectual Property Rights"), in or connected with OOTP 27 and any and all copies thereof (including in particular but not limited to any data, database, designs, titles, computer code, themes, objects, characters, character names, stories, dialogues, catch phrases, places, concepts, artwork, animation, sounds, music, audio-visual effects, text, methods of operation, moral rights and any related documentation) are owned by OOTP Developments or its licensors (where relevant). OOTP 27 may contain certain licensed materials and OOTP Developments or its licensors may protect their rights in the event of any violation of this Agreement.
+
+3. Use of OOTP 27
+
+You agree only to use OOTP 27 or any part of it in a manner which is consistent with this Licence and you shall not:
+
+(a) without the permission of OOTP Developments use OOTP 27 or any part of it for commercial use, for example use at a Internet cafe, computer gaming center or any other location-based site;
+
+(b) without a further licence, use OOTP 27, or permit the use of OOTP 27, on more than two computers at the same time;
+
+(c) make copies of OOTP 27 or any part thereof;
+
+(d) use OOTP 27, or permit use of OOTP 27, in a network, multi-user arrangement or remote access arrangement, including any online use, except as otherwise explicitly provided by OOTP Developments and subject to acceptance of the terms and conditions of use;
+
+(e) sell, rent, lease, license, distribute or otherwise transfer OOTP 27 or any copies without the express prior written consent of OOTP Developments;
+
+(f) reverse engineer, derive source code, modify, decompile, disassemble, or create derivative works of OOTP 27 modify, adapt, merge, translate, decompile or disassemble OOTP 27 or any part of it (save as the applicable law expressly permits whereupon all and any modification, adaptations, improvements etc shall belong to, vest in and be the exclusive property of OOTP Developments on creation in any event);
+
+(g) remove, disable or circumvent any proprietary notices or labels contained on or within OOTP 27;
+
+(h) export or re-export OOTP 27 or any copy or adaptation in violation of any applicable laws or regulations; and
+
+(i) create data or executable programs which mimic data or functionality in OOTP 27.
+
+(j) otherwise use, copy, transfer or distribute OOTP 27 or part of it except as expressly permitted by this Licence.
+
+4. Use of Perfect Team Mode
+
+When you access Perfect Team mode, you agree that you will not, nor encourage another party to:
+
+(a) Use any software, program, or practice that damages, interferes with, or disrupts gameplay, related services, or any other party's computer or property, such as denial of service attacks, spamming, hacking, uploading computer viruses or similar malicious software.
+
+(b) Exploit the game in such a way as to use bugs or other unintended design or coding issues of the software in a manner intended to gain an advantage in gameplay over players who do not use such exploits, or to disrupt the normal operation of the game.
+
+(c) Cheat, deliberately lose, trade wins or Perfect Points, "feed" wins or Perfect Points from one account to another via the Card Shop, Tournaments, Perfect Drafts, Entry Fee Tournaments, or any other method, or otherwise fail to make a good-faith effort to play the game in a fashion intended to win via fair gameplay according to the intended operation of the game. An Out of the Park Developments account is required to play Perfect Team. Individuals are limited to three (3) Perfect Teams per desktop OOTP 27 license, and one (1) account per copy of OOTP Go 24 (where the copy equals one device), each of which must be registered via unique email accounts. No transactions between any accounts a user owns regardless of which license they are using. No placement of multiple teams a user owns regardless of which license they are using in Tournaments or Perfect Drafts for the purpose of manipulating the results of an event in favor of any of those teams. No placement of multiple teams a user owns regardless of which license they are using in Entry Fee tournaments. Use of more than the allowed number of accounts by an individual, including the use of accounts registered under another person's name, real or fictitious, will be subject to the sanctions listed in (m) (n) and/or (o) below for the party or parties involved.
+
+(d) Deliberately manipulate, outside the course of normal gameplay, the game's economy or the economy of any game-related marketplace in a manner intended to gain a financial or competitive advantage.
+
+(e) Use or distribute unauthorized software programs or tools that automate gameplay or related functions or allow a user to cheat, exploit, hack, or otherwise gain an advantage in the game not available to users who do not possess such software or tools.
+
+(f) Buy, sell, trade or otherwise transfer or offer to transfer a Perfect Team user account (whether it is associated with yourself or another user) or Perfect Points.
+
+(g) Attempt to obtain a password, account information, or other private information other than your own from another user or Out of the Park Developments.
+
+(h) Impersonate another person or falsely imply that you are an employee, agent, or spokesperson employed by or associated with Out of the Park Developments.
+
+(i) Harass, troll, threaten, bully, defame, publish the private information of, or otherwise abuse other users or employees or agents of Out of the Park Developments.
+
+(j) Use any messaging provided in-game or on a related service for any purpose other than personal communication; the following practices are specfically but not exclusively banned: commercial advertising, spam, forwarding chain letters, organizing or promoting pyramid schemes, or any other types of solicitation or commercial activities.
+
+(k) Publish, post, upload or distribute any content in the game and/or on related services, including but not limited to, usernames, team names, forum posts, titles of forum posts, or other graphical or textual material or information, that Out of the Park Developments, in its reasonable and objective judgment, determines is inappropriate, abusive, harassing, obscene, defamatory, threatening, hateful, obscene, infringes on another party's copyrights and/or trademarks, and/or unlawful. Additionally, usernames, team names and other editable and customizable text in-game may not be used to make political, religious or other statements that are potentially controversial, in the judgement of Out of the Park Developments, even if such statements are not specifically inappropriate in and of themselves.
+
+(l) Violate any law or legal regulation of Germany, the European Union, your present place of residence, or any jurisdiction in which Out of the Park Developments hosts or contracts to host any game-related services and in doing so becomes subject to local laws.
+
+You further agree that, in order to permit Out of the Park Developments to maintain and promote the fair, proper, and safe operation of Perfect Team and its related services, that Out of the Park Developments and its employees and agents shall have the ability to:
+
+(m) Ban, delete, suspend, or otherwise restrict your user account if you are found to be in violation of any portion of this agreement.
+
+(n) Ban you from the creation of any new accounts if your existing or inactive account is/has been subject to discipline for violating any portion of this agreement.
+
+(o) Remove cards, points, or any other rewards or gameplay elements, whether for the purpose of discipline associated with rules violations, or correcting unintended economic, design, or operational issues with the game, or in order to allow restructuring or redesign of the game.
+
+(p) Restore or revert the game's files and records in order to resume regular operation after a service-disrupting event.
+
+(q) Finally, you also agree that purchases of any in-game items or currency, including but not limited to "Perfect Points", are non-refundable, non-transferable and only valid for the product (game version) they were purchased for. We reserve the right to indefinitely suspend a user account if the user requests revocation of any payment through a third party.
+
+When you access Perfect Team mode, you agree that you will allow Out of the Park Developments to contact you via email and in-game messages.
+
+5. Warranty
+
+OOTP 27 is provided without any warranties or guaranties save as specifically provided in these conditions and to the extent permitted by the applicable law.
+
+This Licence does not affect your statutory rights as a consumer.
+
+6. Liability
+
+OOTP Developments will not be held responsible for the risks connected with lost profit, damage to property, lost data, loss of goodwill, console, computer or handheld device failure, errors and lost business or other information as a result of possession, use or malfunction of OOTP 27, even if OOTP Developments has been advised of the possibility of such loss.
+
+OOTP Developments will not be held liable for any damage, injury or loss if caused as a result of your negligence, accident or misuse, or if OOTP 27 has been modified in any manner (not by OOTP Developments) after it has been bought.
+
+OOTP Developments' liability shall not exceed the actual price paid for OOTP 27.
+
+OOTP Developments does not seek to exclude or limit its liability for any death or personal injury arising from its negligence.
+
+If any of the conditions in this Licence are held to be invalid or void under any applicable law, the other provisions of these conditions will be unaffected and remain in full force and effect.
+
+7.Termination
+
+In addition to other rights of OOTP Developments that may be available to it, this Licence will terminate automatically if you fail to comply with its terms and conditions. In such event, you must destroy all copies of OOTP 27 and all of its component parts.
+
+8. Injunction
+
+Because OOTP Developments could be irreparably damaged if the terms of this Licence were not enforced, you acknowledge that OOTP Developments will take such action as may be required, including seeking an injunction and other equitable remedies, in addition to any other remedies available to it under the applicable law.
+
+9. Indemnity
+
+You agree to indemnify, defend and hold OOTP Developments, its partners, affiliates, contractors, officers, directors, employees and agents harmless from any claims, costs and expenses (including legal expenses) arising directly or indirectly from your acts and omissions to act in using OOTP 27 otherwise than in accordance with the terms of this Agreement.
+
+10. Miscellaneous
+
+This Licence represents the complete agreement between OOTP Developments and yourself in relation to the use of OOTP 27 and supersedes all prior agreements and representations, warranties or understandings (whether negligently or innocently made but excluding those made fraudulently).
+
+If any provision of this Licence is held to be unenforceable for any reason, such provision shall be reformed only to the extent necessary to make it enforceable and the remaining provisions of this Licence shall not be affected.
+
+Nothing in this Licence gives or claims to give to any third party any benefit or right to enforce any term of this Licence, and the provisions of the Contracts (Rights of Third Parties) Act 1999 (as amended or modified from time to time) are expressly excluded.
+
+OOTP 27 is protected by the copyright laws of Germany, the United States and international copyright treaties. All rights in OOTP 27 are owned by OOTP Developments or its licensors. No license under any invention, patent, copyright, trade secret or other proprietary right is granted, either directly or indirectly, by this Agreement or by any disclosure of Confidential Information hereunder except as specifically granted herein.
+

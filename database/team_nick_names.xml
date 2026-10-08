@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TEAM_NICK_NAMES>
+	<TNN><SO>Abbots</SO><ST_KR>修道院長</ST_KR></TNN>
+	<TNN><SO>Aces</SO><ST_KR>王牌</ST_KR></TNN>
+	<TNN><SO>Acorns</SO><ST_KR>橡實</ST_KR></TNN>
+	<TNN><SO>Admirals</SO><ST_KR>上將</ST_KR></TNN>
+	<TNN><SO>Aeros</SO><ST_KR>飛航</ST_KR></TNN>
+	<TNN><SO>Aggies</SO><ST_KR>農校</ST_KR></TNN>
+	<TNN><SO>Air Riders</SO><ST_KR>空騎士</ST_KR></TNN>
+	<TNN><SO>Airhogs</SO><ST_KR>空中野豬</ST_KR></TNN>
+	<TNN><SO>Alleycats</SO><ST_KR>巷貓</ST_KR></TNN>
+	<TNN><SO>Alliance</SO><ST_KR>聯盟</ST_KR></TNN>
+	<TNN><SO>Alligators</SO><ST_KR>短吻鱷</ST_KR></TNN>
+	<TNN><SO>All-Stars</SO><ST_KR>明星</ST_KR></TNN>
+	<TNN><SO>Alouettes</SO><ST_KR>雲雀</ST_KR></TNN>
+	<TNN><SO>Alpines</SO><ST_KR>高山</ST_KR></TNN>
+	<TNN><SO>Ambassadors</SO><ST_KR>大使</ST_KR></TNN>
+	<TNN><SO>Americans</SO><ST_KR>美國人</ST_KR></TNN>
+	<TNN><SO>Anchors</SO><ST_KR>船錨</ST_KR></TNN>
+	<TNN><SO>Angels</SO><ST_KR>天使</ST_KR></TNN>
+	<TNN><SO>Anglers</SO><ST_KR>釣客</ST_KR></TNN>
+	<TNN><SO>Apple Sox</SO><ST_KR>蘋果襪</ST_KR></TNN>
+	<TNN><SO>Aqua Sox</SO><ST_KR>水藍襪</ST_KR></TNN>
+	<TNN><SO>Archers</SO><ST_KR>弓箭手</ST_KR></TNN>
+	<TNN><SO>Argonauts</SO><ST_KR>阿爾戈人</ST_KR></TNN>
+	<TNN><SO>Armada</SO><ST_KR>艦隊</ST_KR></TNN>
+	<TNN><SO>Armadillos</SO><ST_KR>犰狳</ST_KR></TNN>
+	<TNN><SO>Arrows</SO><ST_KR>箭矢</ST_KR></TNN>
+	<TNN><SO>Arsenal</SO><ST_KR>兵工廠</ST_KR></TNN>
+	<TNN><SO>A's</SO><ST_KR>運動家</ST_KR></TNN>
+	<TNN><SO>Astronauts</SO><ST_KR>太空人</ST_KR></TNN>
+	<TNN><SO>Astros</SO><ST_KR>太空人</ST_KR></TNN>
+	<TNN><SO>Athletics</SO><ST_KR>運動家</ST_KR></TNN>
+	<TNN><SO>Atlantics</SO><ST_KR>大西洋</ST_KR></TNN>
+	<TNN><SO>Atomics</SO><ST_KR>原子</ST_KR></TNN>
+	<TNN><SO>Attack</SO><ST_KR>猛攻</ST_KR></TNN>
+	<TNN><SO>Avalanche</SO><ST_KR>雪崩</ST_KR></TNN>
+	<TNN><SO>Avengers</SO><ST_KR>復仇者</ST_KR></TNN>
+	<TNN><SO>Aviators</SO><ST_KR>飛行員</ST_KR></TNN>
+	<TNN><SO>Axemen</SO><ST_KR>伐木手</ST_KR></TNN>
+	<TNN><SO>Aztecs</SO><ST_KR>阿茲提克</ST_KR></TNN>
+	<TNN><SO>Badlanders</SO><ST_KR>荒原人</ST_KR></TNN>
+	<TNN><SO>Bandits</SO><ST_KR>強盜</ST_KR></TNN>
+	<TNN><SO>Barbarians</SO><ST_KR>野蠻人</ST_KR></TNN>
+	<TNN><SO>Barnstormers</SO><ST_KR>特技飛人</ST_KR></TNN>
+	<TNN><SO>Barons</SO><ST_KR>男爵</ST_KR></TNN>
+	<TNN><SO>Barracudas</SO><ST_KR>梭子魚</ST_KR></TNN>
+	<TNN><SO>Bashers</SO><ST_KR>重砲手</ST_KR></TNN>
+	<TNN><SO>Bass</SO><ST_KR>鱸魚</ST_KR></TNN>
+	<TNN><SO>Bats</SO><ST_KR>蝙蝠</ST_KR></TNN>
+	<TNN><SO>Battalion</SO><ST_KR>營隊</ST_KR></TNN>
+	<TNN><SO>Battle Kings</SO><ST_KR>戰王</ST_KR></TNN>
+	<TNN><SO>Battle Wings</SO><ST_KR>戰翼</ST_KR></TNN>
+	<TNN><SO>Bay Hawks</SO><ST_KR>海灣鷹</ST_KR></TNN>
+	<TNN><SO>Bay Sox</SO><ST_KR>海灣襪</ST_KR></TNN>
+	<TNN><SO>Baycats</SO><ST_KR>海灣貓</ST_KR></TNN>
+	<TNN><SO>Bayhawks</SO><ST_KR>海灣鷹</ST_KR></TNN>
+	<TNN><SO>Beach Boys</SO><ST_KR>海灘男孩</ST_KR></TNN>
+	<TNN><SO>Beach Bums</SO><ST_KR>海灘浪人</ST_KR></TNN>
+	<TNN><SO>Beacons</SO><ST_KR>燈塔</ST_KR></TNN>
+	<TNN><SO>Bearcats</SO><ST_KR>熊貓</ST_KR></TNN>
+	<TNN><SO>Bears</SO><ST_KR>熊</ST_KR></TNN>
+	<TNN><SO>Beavers</SO><ST_KR>海狸</ST_KR></TNN>
+	<TNN><SO>Bees</SO><ST_KR>蜜蜂</ST_KR></TNN>
+	<TNN><SO>Bengals</SO><ST_KR>孟加拉虎</ST_KR></TNN>
+	<TNN><SO>Berserkers</SO><ST_KR>狂戰士</ST_KR></TNN>
+	<TNN><SO>Big Cats</SO><ST_KR>大貓</ST_KR></TNN>
+	<TNN><SO>Big Stick</SO><ST_KR>重砲</ST_KR></TNN>
+	<TNN><SO>Big Train</SO><ST_KR>大火車</ST_KR></TNN>
+	<TNN><SO>Bighorns</SO><ST_KR>大角羊</ST_KR></TNN>
+	<TNN><SO>Biplanes</SO><ST_KR>雙翼機</ST_KR></TNN>
+	<TNN><SO>Biscuits</SO><ST_KR>餅乾</ST_KR></TNN>
+	<TNN><SO>Bishops</SO><ST_KR>主教</ST_KR></TNN>
+	<TNN><SO>Bisons</SO><ST_KR>野牛</ST_KR></TNN>
+	<TNN><SO>Black Aces</SO><ST_KR>黑王牌</ST_KR></TNN>
+	<TNN><SO>Black Bears</SO><ST_KR>黑熊</ST_KR></TNN>
+	<TNN><SO>Black Cats</SO><ST_KR>黑貓</ST_KR></TNN>
+	<TNN><SO>Black Diamonds</SO><ST_KR>黑鑽石</ST_KR></TNN>
+	<TNN><SO>Black Dogs</SO><ST_KR>黑犬</ST_KR></TNN>
+	<TNN><SO>Black Gold</SO><ST_KR>黑金</ST_KR></TNN>
+	<TNN><SO>Black Knights</SO><ST_KR>黑騎士</ST_KR></TNN>
+	<TNN><SO>Black Sox</SO><ST_KR>黑襪</ST_KR></TNN>
+	<TNN><SO>Black Wolves</SO><ST_KR>黑狼</ST_KR></TNN>
+	<TNN><SO>Blackbirds</SO><ST_KR>黑鳥</ST_KR></TNN>
+	<TNN><SO>Blackhawks</SO><ST_KR>黑鷹</ST_KR></TNN>
+	<TNN><SO>Blasters</SO><ST_KR>轟擊者</ST_KR></TNN>
+	<TNN><SO>Blazers</SO><ST_KR>開拓者</ST_KR></TNN>
+	<TNN><SO>Blizzard</SO><ST_KR>暴風雪</ST_KR></TNN>
+	<TNN><SO>Blue Chips</SO><ST_KR>藍籌</ST_KR></TNN>
+	<TNN><SO>Blue Claws</SO><ST_KR>藍爪</ST_KR></TNN>
+	<TNN><SO>Blue Devils</SO><ST_KR>藍魔鬼</ST_KR></TNN>
+	<TNN><SO>Blue Falcons</SO><ST_KR>藍隼</ST_KR></TNN>
+	<TNN><SO>Blue Hens</SO><ST_KR>藍母雞</ST_KR></TNN>
+	<TNN><SO>Blue Jackets</SO><ST_KR>藍外套</ST_KR></TNN>
+	<TNN><SO>Blue Jays</SO><ST_KR>藍鳥</ST_KR></TNN>
+	<TNN><SO>Blue Knights</SO><ST_KR>藍騎士</ST_KR></TNN>
+	<TNN><SO>Blue Raiders</SO><ST_KR>藍突擊者</ST_KR></TNN>
+	<TNN><SO>Blue Sox</SO><ST_KR>藍襪</ST_KR></TNN>
+	<TNN><SO>Blue Wahoos</SO><ST_KR>藍刺鮁</ST_KR></TNN>
+	<TNN><SO>Blue Wings</SO><ST_KR>藍翼</ST_KR></TNN>
+	<TNN><SO>Bluebirds</SO><ST_KR>藍鳥</ST_KR></TNN>
+	<TNN><SO>Blues</SO><ST_KR>藍調</ST_KR></TNN>
+	<TNN><SO>Bobcats</SO><ST_KR>山貓</ST_KR></TNN>
+	<TNN><SO>Bolts</SO><ST_KR>閃電</ST_KR></TNN>
+	<TNN><SO>Bombardiers</SO><ST_KR>轟炸機</ST_KR></TNN>
+	<TNN><SO>Bonnies</SO><ST_KR>邦尼</ST_KR></TNN>
+	<TNN><SO>Boomers</SO><ST_KR>轟炸手</ST_KR></TNN>
+	<TNN><SO>Border Cats</SO><ST_KR>邊境貓</ST_KR></TNN>
+	<TNN><SO>Braves</SO><ST_KR>勇士</ST_KR></TNN>
+	<TNN><SO>Brawlers</SO><ST_KR>鬥士</ST_KR></TNN>
+	<TNN><SO>Brewers</SO><ST_KR>釀酒人</ST_KR></TNN>
+	<TNN><SO>Brigadiers</SO><ST_KR>旅長</ST_KR></TNN>
+	<TNN><SO>Brigands</SO><ST_KR>盜賊</ST_KR></TNN>
+	<TNN><SO>Broncos</SO><ST_KR>野馬</ST_KR></TNN>
+	<TNN><SO>Brown Bears</SO><ST_KR>棕熊</ST_KR></TNN>
+	<TNN><SO>Browns</SO><ST_KR>棕人</ST_KR></TNN>
+	<TNN><SO>Bruins</SO><ST_KR>棕熊</ST_KR></TNN>
+	<TNN><SO>Buccaneers</SO><ST_KR>海盜</ST_KR></TNN>
+	<TNN><SO>Buckeyes</SO><ST_KR>七葉樹</ST_KR></TNN>
+	<TNN><SO>Bucks</SO><ST_KR>雄鹿</ST_KR></TNN>
+	<TNN><SO>Bucs</SO><ST_KR>海盜</ST_KR></TNN>
+	<TNN><SO>Buffaloes</SO><ST_KR>猛牛</ST_KR></TNN>
+	<TNN><SO>Bulldogs</SO><ST_KR>鬥牛犬</ST_KR></TNN>
+	<TNN><SO>Bulldozers</SO><ST_KR>推土機</ST_KR></TNN>
+	<TNN><SO>Bulls</SO><ST_KR>公牛</ST_KR></TNN>
+	<TNN><SO>Buzz</SO><ST_KR>嗡嗡</ST_KR></TNN>
+	<TNN><SO>Cadets</SO><ST_KR>軍校生</ST_KR></TNN>
+	<TNN><SO>Canaries</SO><ST_KR>金絲雀</ST_KR></TNN>
+	<TNN><SO>Cannonballers</SO><ST_KR>砲彈手</ST_KR></TNN>
+	<TNN><SO>Cannoneers</SO><ST_KR>砲兵</ST_KR></TNN>
+	<TNN><SO>Cannons</SO><ST_KR>大砲</ST_KR></TNN>
+	<TNN><SO>Canucks</SO><ST_KR>加拿大人</ST_KR></TNN>
+	<TNN><SO>Capitals</SO><ST_KR>首都</ST_KR></TNN>
+	<TNN><SO>Captains</SO><ST_KR>船長</ST_KR></TNN>
+	<TNN><SO>Cardinals</SO><ST_KR>紅雀</ST_KR></TNN>
+	<TNN><SO>Caribou</SO><ST_KR>馴鹿</ST_KR></TNN>
+	<TNN><SO>Catbirds</SO><ST_KR>貓鳥</ST_KR></TNN>
+	<TNN><SO>Catfish</SO><ST_KR>鯰魚</ST_KR></TNN>
+	<TNN><SO>Cats</SO><ST_KR>貓咪</ST_KR></TNN>
+	<TNN><SO>Cavaliers</SO><ST_KR>騎士</ST_KR></TNN>
+	<TNN><SO>Cavalry</SO><ST_KR>騎兵</ST_KR></TNN>
+	<TNN><SO>Celtics</SO><ST_KR>塞爾提克</ST_KR></TNN>
+	<TNN><SO>Centaurs</SO><ST_KR>半人馬</ST_KR></TNN>
+	<TNN><SO>Centurions</SO><ST_KR>百夫長</ST_KR></TNN>
+	<TNN><SO>Chameleons</SO><ST_KR>變色龍</ST_KR></TNN>
+	<TNN><SO>Champions</SO><ST_KR>冠軍</ST_KR></TNN>
+	<TNN><SO>Chanticleers</SO><ST_KR>雄雞</ST_KR></TNN>
+	<TNN><SO>Chaparrals</SO><ST_KR>灌木地</ST_KR></TNN>
+	<TNN><SO>Chargers</SO><ST_KR>衝鋒者</ST_KR></TNN>
+	<TNN><SO>Checkers</SO><ST_KR>方格</ST_KR></TNN>
+	<TNN><SO>Cheetahs</SO><ST_KR>獵豹</ST_KR></TNN>
+	<TNN><SO>Chicks</SO><ST_KR>小雞</ST_KR></TNN>
+	<TNN><SO>Chippers</SO><ST_KR>碎木機</ST_KR></TNN>
+	<TNN><SO>Chukars</SO><ST_KR>石雞</ST_KR></TNN>
+	<TNN><SO>Citadelles</SO><ST_KR>城塞</ST_KR></TNN>
+	<TNN><SO>Classics</SO><ST_KR>經典</ST_KR></TNN>
+	<TNN><SO>Clippers</SO><ST_KR>快船</ST_KR></TNN>
+	<TNN><SO>Clowns</SO><ST_KR>小丑</ST_KR></TNN>
+	<TNN><SO>Coal Miners</SO><ST_KR>煤礦工</ST_KR></TNN>
+	<TNN><SO>Colonels</SO><ST_KR>上校</ST_KR></TNN>
+	<TNN><SO>Colt 45s</SO><ST_KR>四五手槍</ST_KR></TNN>
+	<TNN><SO>Colts</SO><ST_KR>小馬</ST_KR></TNN>
+	<TNN><SO>Comets</SO><ST_KR>彗星</ST_KR></TNN>
+	<TNN><SO>Commandos</SO><ST_KR>突擊隊</ST_KR></TNN>
+	<TNN><SO>Commodores</SO><ST_KR>海軍准將</ST_KR></TNN>
+	<TNN><SO>Condors</SO><ST_KR>神鷹</ST_KR></TNN>
+	<TNN><SO>Conquest</SO><ST_KR>征服</ST_KR></TNN>
+	<TNN><SO>Conquistadors</SO><ST_KR>征服者</ST_KR></TNN>
+	<TNN><SO>Cornhuskers</SO><ST_KR>剝殼者</ST_KR></TNN>
+	<TNN><SO>Continentals</SO><ST_KR>大陸人</ST_KR></TNN>
+	<TNN><SO>Copper Kings</SO><ST_KR>銅王</ST_KR></TNN>
+	<TNN><SO>Copperheads</SO><ST_KR>銅頭蛇</ST_KR></TNN>
+	<TNN><SO>Corsairs</SO><ST_KR>私掠者</ST_KR></TNN>
+	<TNN><SO>Cossacks</SO><ST_KR>哥薩克</ST_KR></TNN>
+	<TNN><SO>Cottonmouths</SO><ST_KR>棉口蛇</ST_KR></TNN>
+	<TNN><SO>Cougars</SO><ST_KR>美洲獅</ST_KR></TNN>
+	<TNN><SO>Counts</SO><ST_KR>伯爵</ST_KR></TNN>
+	<TNN><SO>Cowboys</SO><ST_KR>牛仔</ST_KR></TNN>
+	<TNN><SO>Coyotes</SO><ST_KR>郊狼</ST_KR></TNN>
+	<TNN><SO>Crawdads</SO><ST_KR>小龍蝦</ST_KR></TNN>
+	<TNN><SO>Crawfish</SO><ST_KR>小龍蝦</ST_KR></TNN>
+	<TNN><SO>Crew</SO><ST_KR>船員</ST_KR></TNN>
+	<TNN><SO>Crocs</SO><ST_KR>鱷魚</ST_KR></TNN>
+	<TNN><SO>Crosscutters</SO><ST_KR>橫切鋸</ST_KR></TNN>
+	<TNN><SO>Crunch</SO><ST_KR>重擊</ST_KR></TNN>
+	<TNN><SO>Crush</SO><ST_KR>碾壓</ST_KR></TNN>
+	<TNN><SO>Cubs</SO><ST_KR>小熊</ST_KR></TNN>
+	<TNN><SO>Cyclones</SO><ST_KR>旋風</ST_KR></TNN>
+	<TNN><SO>Danes</SO><ST_KR>丹麥人</ST_KR></TNN>
+	<TNN><SO>Daredevils</SO><ST_KR>冒險王</ST_KR></TNN>
+	<TNN><SO>Dawgs</SO><ST_KR>猛犬</ST_KR></TNN>
+	<TNN><SO>Defenders</SO><ST_KR>捍衛者</ST_KR></TNN>
+	<TNN><SO>Deputies</SO><ST_KR>副警長</ST_KR></TNN>
+	<TNN><SO>Desperados</SO><ST_KR>亡命客</ST_KR></TNN>
+	<TNN><SO>Destroyers</SO><ST_KR>驅逐艦</ST_KR></TNN>
+	<TNN><SO>Devil Dogs</SO><ST_KR>魔犬</ST_KR></TNN>
+	<TNN><SO>Devil Rays</SO><ST_KR>魔鬼魟</ST_KR></TNN>
+	<TNN><SO>Devils</SO><ST_KR>魔鬼</ST_KR></TNN>
+	<TNN><SO>Diablos</SO><ST_KR>惡魔</ST_KR></TNN>
+	<TNN><SO>Diamond Cats</SO><ST_KR>鑽石貓</ST_KR></TNN>
+	<TNN><SO>Diamond Dawgs</SO><ST_KR>鑽石犬</ST_KR></TNN>
+	<TNN><SO>Diamond Kings</SO><ST_KR>鑽石王</ST_KR></TNN>
+	<TNN><SO>Diamond Miners</SO><ST_KR>鑽石礦工</ST_KR></TNN>
+	<TNN><SO>Diamondbacks</SO><ST_KR>響尾蛇</ST_KR></TNN>
+	<TNN><SO>Diamonds</SO><ST_KR>鑽石</ST_KR></TNN>
+	<TNN><SO>Dingos</SO><ST_KR>澳洲野犬</ST_KR></TNN>
+	<TNN><SO>Dinos</SO><ST_KR>恐龍</ST_KR></TNN>
+	<TNN><SO>Diplomats</SO><ST_KR>外交官</ST_KR></TNN>
+	<TNN><SO>Dolphins</SO><ST_KR>海豚</ST_KR></TNN>
+	<TNN><SO>Donkeys</SO><ST_KR>驢子</ST_KR></TNN>
+	<TNN><SO>Dragons</SO><ST_KR>龍</ST_KR></TNN>
+	<TNN><SO>Drifters</SO><ST_KR>漂泊者</ST_KR></TNN>
+	<TNN><SO>Drillers</SO><ST_KR>鑽井工</ST_KR></TNN>
+	<TNN><SO>Ducks</SO><ST_KR>鴨</ST_KR></TNN>
+	<TNN><SO>Dukes</SO><ST_KR>公爵</ST_KR></TNN>
+	<TNN><SO>Dust Devils</SO><ST_KR>塵捲風</ST_KR></TNN>
+	<TNN><SO>Dynamo</SO><ST_KR>發電機</ST_KR></TNN>
+	<TNN><SO>89ers</SO><ST_KR>八九人</ST_KR></TNN>
+	<TNN><SO>Eagles</SO><ST_KR>鷹</ST_KR></TNN>
+	<TNN><SO>Earthquakes</SO><ST_KR>地震</ST_KR></TNN>
+	<TNN><SO>Eclipse</SO><ST_KR>日蝕</ST_KR></TNN>
+	<TNN><SO>Elephants</SO><ST_KR>象</ST_KR></TNN>
+	<TNN><SO>Emeralds</SO><ST_KR>翡翠</ST_KR></TNN>
+	<TNN><SO>Emperors</SO><ST_KR>皇帝</ST_KR></TNN>
+	<TNN><SO>Enforcers</SO><ST_KR>執法者</ST_KR></TNN>
+	<TNN><SO>Engineers</SO><ST_KR>工程師</ST_KR></TNN>
+	<TNN><SO>Explorers</SO><ST_KR>探險家</ST_KR></TNN>
+	<TNN><SO>Explosion</SO><ST_KR>爆發</ST_KR></TNN>
+	<TNN><SO>Express</SO><ST_KR>快車</ST_KR></TNN>
+	<TNN><SO>49ers</SO><ST_KR>四九人</ST_KR></TNN>
+	<TNN><SO>Falcons</SO><ST_KR>獵鷹</ST_KR></TNN>
+	<TNN><SO>Federals</SO><ST_KR>聯邦</ST_KR></TNN>
+	<TNN><SO>Fighters</SO><ST_KR>鬥士</ST_KR></TNN>
+	<TNN><SO>Fighting Falcons</SO><ST_KR>戰鷹</ST_KR></TNN>
+	<TNN><SO>Fighting Knights</SO><ST_KR>戰騎士</ST_KR></TNN>
+	<TNN><SO>Fighting Lions</SO><ST_KR>戰獅</ST_KR></TNN>
+	<TNN><SO>Fire</SO><ST_KR>烈焰</ST_KR></TNN>
+	<TNN><SO>Fire Ants</SO><ST_KR>火蟻</ST_KR></TNN>
+	<TNN><SO>Fire Dogs</SO><ST_KR>火犬</ST_KR></TNN>
+	<TNN><SO>Fire Fighters</SO><ST_KR>消防員</ST_KR></TNN>
+	<TNN><SO>Firebirds</SO><ST_KR>火鳥</ST_KR></TNN>
+	<TNN><SO>Fisher Cats</SO><ST_KR>漁貂</ST_KR></TNN>
+	<TNN><SO>Flames</SO><ST_KR>火焰</ST_KR></TNN>
+	<TNN><SO>Flight</SO><ST_KR>飛行</ST_KR></TNN>
+	<TNN><SO>Flyers</SO><ST_KR>飛人</ST_KR></TNN>
+	<TNN><SO>Flying Monkeys</SO><ST_KR>飛猴</ST_KR></TNN>
+	<TNN><SO>Flying Squirrels</SO><ST_KR>飛鼠</ST_KR></TNN>
+	<TNN><SO>Flying Tigers</SO><ST_KR>飛虎</ST_KR></TNN>
+	<TNN><SO>Foresters</SO><ST_KR>森林人</ST_KR></TNN>
+	<TNN><SO>Foxes</SO><ST_KR>狐狸</ST_KR></TNN>
+	<TNN><SO>Freedom</SO><ST_KR>自由</ST_KR></TNN>
+	<TNN><SO>Friars</SO><ST_KR>修士</ST_KR></TNN>
+	<TNN><SO>Frozen Ropes</SO><ST_KR>冰凍繩索</ST_KR></TNN>
+	<TNN><SO>Fusion</SO><ST_KR>融合</ST_KR></TNN>
+	<TNN><SO>Gaels</SO><ST_KR>蓋爾人</ST_KR></TNN>
+	<TNN><SO>Galaxy</SO><ST_KR>銀河</ST_KR></TNN>
+	<TNN><SO>Gales</SO><ST_KR>強風</ST_KR></TNN>
+	<TNN><SO>Gamblers</SO><ST_KR>賭徒</ST_KR></TNN>
+	<TNN><SO>Gamecocks</SO><ST_KR>鬥雞</ST_KR></TNN>
+	<TNN><SO>Gangsters</SO><ST_KR>幫派</ST_KR></TNN>
+	<TNN><SO>Gators</SO><ST_KR>短吻鱷</ST_KR></TNN>
+	<TNN><SO>Gauchos</SO><ST_KR>高卓人</ST_KR></TNN>
+	<TNN><SO>Gems</SO><ST_KR>寶石</ST_KR></TNN>
+	<TNN><SO>Generals</SO><ST_KR>將軍</ST_KR></TNN>
+	<TNN><SO>Ghostriders</SO><ST_KR>幽靈騎士</ST_KR></TNN>
+	<TNN><SO>Ghosts</SO><ST_KR>幽靈</ST_KR></TNN>
+	<TNN><SO>Giants</SO><ST_KR>巨人</ST_KR></TNN>
+	<TNN><SO>Gladiators</SO><ST_KR>角鬥士</ST_KR></TNN>
+	<TNN><SO>Glory</SO><ST_KR>榮耀</ST_KR></TNN>
+	<TNN><SO>Gold Miners</SO><ST_KR>淘金客</ST_KR></TNN>
+	<TNN><SO>Gold Rush</SO><ST_KR>淘金潮</ST_KR></TNN>
+	<TNN><SO>Gold Sox</SO><ST_KR>金襪</ST_KR></TNN>
+	<TNN><SO>Golden Bears</SO><ST_KR>金熊</ST_KR></TNN>
+	<TNN><SO>Golden Eagles</SO><ST_KR>金鷹</ST_KR></TNN>
+	<TNN><SO>Golden Gophers</SO><ST_KR>金地鼠</ST_KR></TNN>
+	<TNN><SO>Golden Grizzlies</SO><ST_KR>金灰熊</ST_KR></TNN>
+	<TNN><SO>Golden Hawks</SO><ST_KR>金鷹</ST_KR></TNN>
+	<TNN><SO>Golden Knights</SO><ST_KR>金騎士</ST_KR></TNN>
+	<TNN><SO>Golden Panthers</SO><ST_KR>金豹</ST_KR></TNN>
+	<TNN><SO>Gophers</SO><ST_KR>地鼠</ST_KR></TNN>
+	<TNN><SO>Governors</SO><ST_KR>州長</ST_KR></TNN>
+	<TNN><SO>Grand Slam</SO><ST_KR>滿貫</ST_KR></TNN>
+	<TNN><SO>Grasshoppers</SO><ST_KR>蚱蜢</ST_KR></TNN>
+	<TNN><SO>Gray Sox</SO><ST_KR>灰襪</ST_KR></TNN>
+	<TNN><SO>Green Devils</SO><ST_KR>綠魔鬼</ST_KR></TNN>
+	<TNN><SO>Green Dragons</SO><ST_KR>綠龍</ST_KR></TNN>
+	<TNN><SO>Green Jackets</SO><ST_KR>綠外套</ST_KR></TNN>
+	<TNN><SO>Green Knights</SO><ST_KR>綠騎士</ST_KR></TNN>
+	<TNN><SO>Green Sox</SO><ST_KR>綠襪</ST_KR></TNN>
+	<TNN><SO>Green Wave</SO><ST_KR>綠浪</ST_KR></TNN>
+	<TNN><SO>Greyhounds</SO><ST_KR>靈緹</ST_KR></TNN>
+	<TNN><SO>Griffons</SO><ST_KR>獅鷲</ST_KR></TNN>
+	<TNN><SO>Grizzlies</SO><ST_KR>灰熊</ST_KR></TNN>
+	<TNN><SO>Gryphons</SO><ST_KR>獅鷲</ST_KR></TNN>
+	<TNN><SO>Gulls</SO><ST_KR>海鷗</ST_KR></TNN>
+	<TNN><SO>Gunners</SO><ST_KR>砲手</ST_KR></TNN>
+	<TNN><SO>Gunslingers</SO><ST_KR>快槍手</ST_KR></TNN>
+	<TNN><SO>Hammerheads</SO><ST_KR>槌頭鯊</ST_KR></TNN>
+	<TNN><SO>Hawkeyes</SO><ST_KR>鷹眼</ST_KR></TNN>
+	<TNN><SO>Hawks</SO><ST_KR>鷹</ST_KR></TNN>
+	<TNN><SO>Headhunters</SO><ST_KR>獵頭者</ST_KR></TNN>
+	<TNN><SO>Heat</SO><ST_KR>熱火</ST_KR></TNN>
+	<TNN><SO>Heroes</SO><ST_KR>英雄</ST_KR></TNN>
+	<TNN><SO>Herons</SO><ST_KR>蒼鷺</ST_KR></TNN>
+	<TNN><SO>Highlanders</SO><ST_KR>高地人</ST_KR></TNN>
+	<TNN><SO>Hillcats</SO><ST_KR>山貓</ST_KR></TNN>
+	<TNN><SO>Honkers</SO><ST_KR>鳴雁</ST_KR></TNN>
+	<TNN><SO>Honu</SO><ST_KR>海龜</ST_KR></TNN>
+	<TNN><SO>Hooks</SO><ST_KR>魚鉤</ST_KR></TNN>
+	<TNN><SO>Hops</SO><ST_KR>啤酒花</ST_KR></TNN>
+	<TNN><SO>Horned Frogs</SO><ST_KR>角蛙</ST_KR></TNN>
+	<TNN><SO>Hornets</SO><ST_KR>黃蜂</ST_KR></TNN>
+	<TNN><SO>Horsemen</SO><ST_KR>騎兵</ST_KR></TNN>
+	<TNN><SO>Hot Rods</SO><ST_KR>改裝車</ST_KR></TNN>
+	<TNN><SO>Hound Dogs</SO><ST_KR>獵犬</ST_KR></TNN>
+	<TNN><SO>Hounds</SO><ST_KR>獵犬</ST_KR></TNN>
+	<TNN><SO>Hurons</SO><ST_KR>休倫人</ST_KR></TNN>
+	<TNN><SO>Hurricanes</SO><ST_KR>颶風</ST_KR></TNN>
+	<TNN><SO>Huskies</SO><ST_KR>哈士奇</ST_KR></TNN>
+	<TNN><SO>Hustlers</SO><ST_KR>拼命客</ST_KR></TNN>
+	<TNN><SO>Impact</SO><ST_KR>衝擊</ST_KR></TNN>
+	<TNN><SO>Imperials</SO><ST_KR>帝國</ST_KR></TNN>
+	<TNN><SO>Inferno</SO><ST_KR>煉獄</ST_KR></TNN>
+	<TNN><SO>Invaders</SO><ST_KR>侵略者</ST_KR></TNN>
+	<TNN><SO>Irish</SO><ST_KR>愛爾蘭人</ST_KR></TNN>
+	<TNN><SO>Iron Horses</SO><ST_KR>鐵馬</ST_KR></TNN>
+	<TNN><SO>Ironmen</SO><ST_KR>鐵人</ST_KR></TNN>
+	<TNN><SO>Islanders</SO><ST_KR>島民</ST_KR></TNN>
+	<TNN><SO>Isotopes</SO><ST_KR>同位素</ST_KR></TNN>
+	<TNN><SO>Ivy</SO><ST_KR>常春藤</ST_KR></TNN>
+	<TNN><SO>Jackalopes</SO><ST_KR>鹿角兔</ST_KR></TNN>
+	<TNN><SO>Jackals</SO><ST_KR>豺狼</ST_KR></TNN>
+	<TNN><SO>Jackhammers</SO><ST_KR>破碎錘</ST_KR></TNN>
+	<TNN><SO>Jackrabbits</SO><ST_KR>長耳兔</ST_KR></TNN>
+	<TNN><SO>Jaguars</SO><ST_KR>美洲豹</ST_KR></TNN>
+	<TNN><SO>Jammers</SO><ST_KR>阻擊者</ST_KR></TNN>
+	<TNN><SO>Jaspers</SO><ST_KR>碧玉</ST_KR></TNN>
+	<TNN><SO>Jayhawks</SO><ST_KR>藍鴉鷹</ST_KR></TNN>
+	<TNN><SO>Jays</SO><ST_KR>藍鴉</ST_KR></TNN>
+	<TNN><SO>Jazz</SO><ST_KR>爵士</ST_KR></TNN>
+	<TNN><SO>Jesters</SO><ST_KR>弄臣</ST_KR></TNN>
+	<TNN><SO>Jet Hawks</SO><ST_KR>噴射鷹</ST_KR></TNN>
+	<TNN><SO>Jets</SO><ST_KR>噴射機</ST_KR></TNN>
+	<TNN><SO>Judges</SO><ST_KR>法官</ST_KR></TNN>
+	<TNN><SO>Juggernauts</SO><ST_KR>無敵戰艦</ST_KR></TNN>
+	<TNN><SO>Jungle Cats</SO><ST_KR>叢林貓</ST_KR></TNN>
+	<TNN><SO>Kangaroos</SO><ST_KR>袋鼠</ST_KR></TNN>
+	<TNN><SO>Kernels</SO><ST_KR>玉米粒</ST_KR></TNN>
+	<TNN><SO>Keys</SO><ST_KR>鑰匙</ST_KR></TNN>
+	<TNN><SO>Keystones</SO><ST_KR>基石</ST_KR></TNN>
+	<TNN><SO>Killer Whales</SO><ST_KR>殺人鯨</ST_KR></TNN>
+	<TNN><SO>Kings</SO><ST_KR>國王</ST_KR></TNN>
+	<TNN><SO>Klondikes</SO><ST_KR>克朗代克</ST_KR></TNN>
+	<TNN><SO>Knighthawks</SO><ST_KR>騎士鷹</ST_KR></TNN>
+	<TNN><SO>Knights</SO><ST_KR>騎士</ST_KR></TNN>
+	<TNN><SO>Kodiaks</SO><ST_KR>科迪亞克熊</ST_KR></TNN>
+	<TNN><SO>Lake Monsters</SO><ST_KR>湖怪</ST_KR></TNN>
+	<TNN><SO>Lakers</SO><ST_KR>湖人</ST_KR></TNN>
+	<TNN><SO>Lancers</SO><ST_KR>長槍騎兵</ST_KR></TNN>
+	<TNN><SO>Leafs</SO><ST_KR>楓葉</ST_KR></TNN>
+	<TNN><SO>Legends</SO><ST_KR>傳奇</ST_KR></TNN>
+	<TNN><SO>Legion</SO><ST_KR>軍團</ST_KR></TNN>
+	<TNN><SO>Leopards</SO><ST_KR>豹</ST_KR></TNN>
+	<TNN><SO>Liberty</SO><ST_KR>自由</ST_KR></TNN>
+	<TNN><SO>Lightning</SO><ST_KR>閃電</ST_KR></TNN>
+	<TNN><SO>Lions</SO><ST_KR>獅</ST_KR></TNN>
+	<TNN><SO>Lobos</SO><ST_KR>狼群</ST_KR></TNN>
+	<TNN><SO>Loggerheads</SO><ST_KR>紅海龜</ST_KR></TNN>
+	<TNN><SO>Loggers</SO><ST_KR>伐木工</ST_KR></TNN>
+	<TNN><SO>Lone Stars</SO><ST_KR>孤星</ST_KR></TNN>
+	<TNN><SO>Longhorns</SO><ST_KR>長角牛</ST_KR></TNN>
+	<TNN><SO>Lookouts</SO><ST_KR>瞭望者</ST_KR></TNN>
+	<TNN><SO>Loons</SO><ST_KR>潛鳥</ST_KR></TNN>
+	<TNN><SO>Lopes</SO><ST_KR>羚羊</ST_KR></TNN>
+	<TNN><SO>Lords</SO><ST_KR>領主</ST_KR></TNN>
+	<TNN><SO>Lugnuts</SO><ST_KR>螺帽</ST_KR></TNN>
+	<TNN><SO>Lumber Kings</SO><ST_KR>木材王</ST_KR></TNN>
+	<TNN><SO>Lumberjacks</SO><ST_KR>伐木工</ST_KR></TNN>
+	<TNN><SO>Lynx</SO><ST_KR>山貓</ST_KR></TNN>
+	<TNN><SO>Mad Dogs</SO><ST_KR>瘋狗</ST_KR></TNN>
+	<TNN><SO>Magicians</SO><ST_KR>魔術師</ST_KR></TNN>
+	<TNN><SO>Majestics</SO><ST_KR>尊爵</ST_KR></TNN>
+	<TNN><SO>Makos</SO><ST_KR>灰鯖鯊</ST_KR></TNN>
+	<TNN><SO>Mallards</SO><ST_KR>綠頭鴨</ST_KR></TNN>
+	<TNN><SO>Mammoths</SO><ST_KR>長毛象</ST_KR></TNN>
+	<TNN><SO>Manatees</SO><ST_KR>海牛</ST_KR></TNN>
+	<TNN><SO>Maples</SO><ST_KR>楓樹</ST_KR></TNN>
+	<TNN><SO>Marauders</SO><ST_KR>掠奪者</ST_KR></TNN>
+	<TNN><SO>Mariners</SO><ST_KR>水手</ST_KR></TNN>
+	<TNN><SO>Marksmen</SO><ST_KR>神射手</ST_KR></TNN>
+	<TNN><SO>Marlins</SO><ST_KR>馬林魚</ST_KR></TNN>
+	<TNN><SO>Maroons</SO><ST_KR>栗色</ST_KR></TNN>
+	<TNN><SO>Marshals</SO><ST_KR>警長</ST_KR></TNN>
+	<TNN><SO>Mastadons</SO><ST_KR>乳齒象</ST_KR></TNN>
+	<TNN><SO>Matadors</SO><ST_KR>鬥牛士</ST_KR></TNN>
+	<TNN><SO>Maulers</SO><ST_KR>粉碎者</ST_KR></TNN>
+	<TNN><SO>Mavericks</SO><ST_KR>獨行俠</ST_KR></TNN>
+	<TNN><SO>Mean Green</SO><ST_KR>狠綠</ST_KR></TNN>
+	<TNN><SO>Medievals</SO><ST_KR>中世紀</ST_KR></TNN>
+	<TNN><SO>Men-O-War</SO><ST_KR>戰艦</ST_KR></TNN>
+	<TNN><SO>Mercenaries</SO><ST_KR>傭兵</ST_KR></TNN>
+	<TNN><SO>Mercury</SO><ST_KR>水星</ST_KR></TNN>
+	<TNN><SO>Metro Stars</SO><ST_KR>都會之星</ST_KR></TNN>
+	<TNN><SO>Mets</SO><ST_KR>大都會</ST_KR></TNN>
+	<TNN><SO>Mighty Mites</SO><ST_KR>小巨人</ST_KR></TNN>
+	<TNN><SO>Millers</SO><ST_KR>磨坊工</ST_KR></TNN>
+	<TNN><SO>Millionaires</SO><ST_KR>百萬富翁</ST_KR></TNN>
+	<TNN><SO>Miners</SO><ST_KR>礦工</ST_KR></TNN>
+	<TNN><SO>Minutemen</SO><ST_KR>民兵</ST_KR></TNN>
+	<TNN><SO>Missions</SO><ST_KR>教會</ST_KR></TNN>
+	<TNN><SO>Monarchs</SO><ST_KR>帝王</ST_KR></TNN>
+	<TNN><SO>Monsters</SO><ST_KR>怪物</ST_KR></TNN>
+	<TNN><SO>Moose</SO><ST_KR>駝鹿</ST_KR></TNN>
+	<TNN><SO>Motors</SO><ST_KR>馬達</ST_KR></TNN>
+	<TNN><SO>Mountain Cats</SO><ST_KR>山貓</ST_KR></TNN>
+	<TNN><SO>Mountaineers</SO><ST_KR>登山客</ST_KR></TNN>
+	<TNN><SO>Mounties</SO><ST_KR>騎警</ST_KR></TNN>
+	<TNN><SO>Mud Cats</SO><ST_KR>泥貓</ST_KR></TNN>
+	<TNN><SO>Mud Hens</SO><ST_KR>泥母雞</ST_KR></TNN>
+	<TNN><SO>Mules</SO><ST_KR>騾子</ST_KR></TNN>
+	<TNN><SO>Music</SO><ST_KR>音樂</ST_KR></TNN>
+	<TNN><SO>Musketeers</SO><ST_KR>火槍手</ST_KR></TNN>
+	<TNN><SO>Muskies</SO><ST_KR>麝香鱸</ST_KR></TNN>
+	<TNN><SO>Mustangs</SO><ST_KR>野馬</ST_KR></TNN>
+	<TNN><SO>Mutiny</SO><ST_KR>叛變</ST_KR></TNN>
+	<TNN><SO>97s</SO><ST_KR>九七人</ST_KR></TNN>
+	<TNN><SO>Nailers</SO><ST_KR>釘槌手</ST_KR></TNN>
+	<TNN><SO>Nationals</SO><ST_KR>國民</ST_KR></TNN>
+	<TNN><SO>Naturals</SO><ST_KR>自然人</ST_KR></TNN>
+	<TNN><SO>Navigators</SO><ST_KR>航海家</ST_KR></TNN>
+	<TNN><SO>Night Hawks</SO><ST_KR>夜鷹</ST_KR></TNN>
+	<TNN><SO>Night Riders</SO><ST_KR>夜騎士</ST_KR></TNN>
+	<TNN><SO>Night Train</SO><ST_KR>夜行列車</ST_KR></TNN>
+	<TNN><SO>Nightowls</SO><ST_KR>夜梟</ST_KR></TNN>
+	<TNN><SO>Ninjas</SO><ST_KR>忍者</ST_KR></TNN>
+	<TNN><SO>Nobles</SO><ST_KR>貴族</ST_KR></TNN>
+	<TNN><SO>Nordiques</SO><ST_KR>北方人</ST_KR></TNN>
+	<TNN><SO>Norse</SO><ST_KR>北歐人</ST_KR></TNN>
+	<TNN><SO>Norsemen</SO><ST_KR>北歐戰士</ST_KR></TNN>
+	<TNN><SO>North Stars</SO><ST_KR>北極星</ST_KR></TNN>
+	<TNN><SO>Northmen</SO><ST_KR>北方人</ST_KR></TNN>
+	<TNN><SO>Nuggets</SO><ST_KR>金塊</ST_KR></TNN>
+	<TNN><SO>Nuts</SO><ST_KR>堅果</ST_KR></TNN>
+	<TNN><SO>Oaks</SO><ST_KR>橡樹</ST_KR></TNN>
+	<TNN><SO>Oceanics</SO><ST_KR>海洋</ST_KR></TNN>
+	<TNN><SO>Ocelots</SO><ST_KR>豹貓</ST_KR></TNN>
+	<TNN><SO>Odyssey</SO><ST_KR>奧德賽</ST_KR></TNN>
+	<TNN><SO>Oil Barons</SO><ST_KR>石油大亨</ST_KR></TNN>
+	<TNN><SO>Oil Kings</SO><ST_KR>石油王</ST_KR></TNN>
+	<TNN><SO>Oilers</SO><ST_KR>採油工</ST_KR></TNN>
+	<TNN><SO>Oilmen</SO><ST_KR>石油人</ST_KR></TNN>
+	<TNN><SO>Olympians</SO><ST_KR>奧林匹亞人</ST_KR></TNN>
+	<TNN><SO>Orange Kings</SO><ST_KR>橘王</ST_KR></TNN>
+	<TNN><SO>Orange Sox</SO><ST_KR>橘襪</ST_KR></TNN>
+	<TNN><SO>Orcas</SO><ST_KR>虎鯨</ST_KR></TNN>
+	<TNN><SO>Orioles</SO><ST_KR>金鶯</ST_KR></TNN>
+	<TNN><SO>Osprey</SO><ST_KR>魚鷹</ST_KR></TNN>
+	<TNN><SO>Otters</SO><ST_KR>水獺</ST_KR></TNN>
+	<TNN><SO>Outlaws</SO><ST_KR>亡命徒</ST_KR></TNN>
+	<TNN><SO>Owls</SO><ST_KR>貓頭鷹</ST_KR></TNN>
+	<TNN><SO>Padres</SO><ST_KR>教士</ST_KR></TNN>
+	<TNN><SO>Paints</SO><ST_KR>花馬</ST_KR></TNN>
+	<TNN><SO>Paladins</SO><ST_KR>聖騎士</ST_KR></TNN>
+	<TNN><SO>Panthers</SO><ST_KR>黑豹</ST_KR></TNN>
+	<TNN><SO>Parrots</SO><ST_KR>鸚鵡</ST_KR></TNN>
+	<TNN><SO>Patriots</SO><ST_KR>愛國者</ST_KR></TNN>
+	<TNN><SO>Peach Kings</SO><ST_KR>桃王</ST_KR></TNN>
+	<TNN><SO>Peaches</SO><ST_KR>桃子</ST_KR></TNN>
+	<TNN><SO>Peacocks</SO><ST_KR>孔雀</ST_KR></TNN>
+	<TNN><SO>Pelicans</SO><ST_KR>鵜鶘</ST_KR></TNN>
+	<TNN><SO>Penguins</SO><ST_KR>企鵝</ST_KR></TNN>
+	<TNN><SO>Penmen</SO><ST_KR>文書</ST_KR></TNN>
+	<TNN><SO>Peregrines</SO><ST_KR>遊隼</ST_KR></TNN>
+	<TNN><SO>Phantoms</SO><ST_KR>幻影</ST_KR></TNN>
+	<TNN><SO>Phoenix</SO><ST_KR>鳳凰</ST_KR></TNN>
+	<TNN><SO>Pilgrims</SO><ST_KR>朝聖者</ST_KR></TNN>
+	<TNN><SO>Pilots</SO><ST_KR>飛行員</ST_KR></TNN>
+	<TNN><SO>Pioneers</SO><ST_KR>拓荒者</ST_KR></TNN>
+	<TNN><SO>Pipeliners</SO><ST_KR>管線工</ST_KR></TNN>
+	<TNN><SO>Pipers</SO><ST_KR>風笛手</ST_KR></TNN>
+	<TNN><SO>Pirates</SO><ST_KR>海盜</ST_KR></TNN>
+	<TNN><SO>Players</SO><ST_KR>球員</ST_KR></TNN>
+	<TNN><SO>Polar Bears</SO><ST_KR>北極熊</ST_KR></TNN>
+	<TNN><SO>Polecats</SO><ST_KR>臭鼬</ST_KR></TNN>
+	<TNN><SO>Ports</SO><ST_KR>港口</ST_KR></TNN>
+	<TNN><SO>Potros</SO><ST_KR>小馬</ST_KR></TNN>
+	<TNN><SO>Power</SO><ST_KR>力量</ST_KR></TNN>
+	<TNN><SO>Prairie Dogs</SO><ST_KR>草原犬鼠</ST_KR></TNN>
+	<TNN><SO>Prairie Thunder</SO><ST_KR>草原雷霆</ST_KR></TNN>
+	<TNN><SO>Predators</SO><ST_KR>掠食者</ST_KR></TNN>
+	<TNN><SO>Pride</SO><ST_KR>榮耀</ST_KR></TNN>
+	<TNN><SO>Princes</SO><ST_KR>王子</ST_KR></TNN>
+	<TNN><SO>Privateers</SO><ST_KR>私掠船</ST_KR></TNN>
+	<TNN><SO>Prospects</SO><ST_KR>新秀</ST_KR></TNN>
+	<TNN><SO>Pumas</SO><ST_KR>美洲獅</ST_KR></TNN>
+	<TNN><SO>Pump Jacks</SO><ST_KR>抽油機</ST_KR></TNN>
+	<TNN><SO>Purple Aces</SO><ST_KR>紫王牌</ST_KR></TNN>
+	<TNN><SO>Purple Warriors</SO><ST_KR>紫勇士</ST_KR></TNN>
+	<TNN><SO>Quakers</SO><ST_KR>貴格會</ST_KR></TNN>
+	<TNN><SO>Quakes</SO><ST_KR>地震</ST_KR></TNN>
+	<TNN><SO>Raccoons</SO><ST_KR>浣熊</ST_KR></TNN>
+	<TNN><SO>Racers</SO><ST_KR>賽車手</ST_KR></TNN>
+	<TNN><SO>Rage</SO><ST_KR>狂怒</ST_KR></TNN>
+	<TNN><SO>Ragin Cajuns</SO><ST_KR>怒火卡津</ST_KR></TNN>
+	<TNN><SO>Raging Bulls</SO><ST_KR>狂牛</ST_KR></TNN>
+	<TNN><SO>Raiders</SO><ST_KR>突擊者</ST_KR></TNN>
+	<TNN><SO>Rail Cats</SO><ST_KR>鐵道貓</ST_KR></TNN>
+	<TNN><SO>Railers</SO><ST_KR>鐵路工</ST_KR></TNN>
+	<TNN><SO>Railhawks</SO><ST_KR>鐵路鷹</ST_KR></TNN>
+	<TNN><SO>Railroaders</SO><ST_KR>鐵路工</ST_KR></TNN>
+	<TNN><SO>Railsplitters</SO><ST_KR>劈軌者</ST_KR></TNN>
+	<TNN><SO>Rainiers</SO><ST_KR>雷尼爾</ST_KR></TNN>
+	<TNN><SO>Ramblers</SO><ST_KR>漫遊者</ST_KR></TNN>
+	<TNN><SO>Rampage</SO><ST_KR>暴走</ST_KR></TNN>
+	<TNN><SO>Rams</SO><ST_KR>公羊</ST_KR></TNN>
+	<TNN><SO>Rangers</SO><ST_KR>遊騎兵</ST_KR></TNN>
+	<TNN><SO>Rapids</SO><ST_KR>急流</ST_KR></TNN>
+	<TNN><SO>Raptors</SO><ST_KR>猛禽</ST_KR></TNN>
+	<TNN><SO>Rascals</SO><ST_KR>小惡棍</ST_KR></TNN>
+	<TNN><SO>Rattlers</SO><ST_KR>響尾蛇</ST_KR></TNN>
+	<TNN><SO>Ravens</SO><ST_KR>烏鴉</ST_KR></TNN>
+	<TNN><SO>Rawhide</SO><ST_KR>生皮</ST_KR></TNN>
+	<TNN><SO>Rays</SO><ST_KR>光芒</ST_KR></TNN>
+	<TNN><SO>Razorbacks</SO><ST_KR>剃刀背</ST_KR></TNN>
+	<TNN><SO>Red Aces</SO><ST_KR>紅王牌</ST_KR></TNN>
+	<TNN><SO>Red Barons</SO><ST_KR>紅男爵</ST_KR></TNN>
+	<TNN><SO>Red Claws</SO><ST_KR>紅爪</ST_KR></TNN>
+	<TNN><SO>Red Devils</SO><ST_KR>紅魔鬼</ST_KR></TNN>
+	<TNN><SO>Red Dragons</SO><ST_KR>紅龍</ST_KR></TNN>
+	<TNN><SO>Red Flash</SO><ST_KR>紅閃電</ST_KR></TNN>
+	<TNN><SO>Red Foxes</SO><ST_KR>紅狐</ST_KR></TNN>
+	<TNN><SO>Red Hawks</SO><ST_KR>紅鷹</ST_KR></TNN>
+	<TNN><SO>Red Raiders</SO><ST_KR>紅突擊者</ST_KR></TNN>
+	<TNN><SO>Red Sox</SO><ST_KR>紅襪</ST_KR></TNN>
+	<TNN><SO>Red Storm</SO><ST_KR>紅風暴</ST_KR></TNN>
+	<TNN><SO>Red Wings</SO><ST_KR>紅翼</ST_KR></TNN>
+	<TNN><SO>Redbirds</SO><ST_KR>紅鳥</ST_KR></TNN>
+	<TNN><SO>Reds</SO><ST_KR>紅人</ST_KR></TNN>
+	<TNN><SO>Renegades</SO><ST_KR>叛徒</ST_KR></TNN>
+	<TNN><SO>Revolution</SO><ST_KR>革命</ST_KR></TNN>
+	<TNN><SO>Riptide</SO><ST_KR>裂潮</ST_KR></TNN>
+	<TNN><SO>River Bandits</SO><ST_KR>河盜</ST_KR></TNN>
+	<TNN><SO>River Bats</SO><ST_KR>河蝙蝠</ST_KR></TNN>
+	<TNN><SO>River Cats</SO><ST_KR>河貓</ST_KR></TNN>
+	<TNN><SO>River Hawks</SO><ST_KR>河鷹</ST_KR></TNN>
+	<TNN><SO>River Kings</SO><ST_KR>河王</ST_KR></TNN>
+	<TNN><SO>River Otters</SO><ST_KR>河獺</ST_KR></TNN>
+	<TNN><SO>River Rats</SO><ST_KR>河鼠</ST_KR></TNN>
+	<TNN><SO>River Sharks</SO><ST_KR>河鯊</ST_KR></TNN>
+	<TNN><SO>Rivermen</SO><ST_KR>河人</ST_KR></TNN>
+	<TNN><SO>Road Warriors</SO><ST_KR>公路勇士</ST_KR></TNN>
+	<TNN><SO>Roadrunners</SO><ST_KR>走鵑</ST_KR></TNN>
+	<TNN><SO>Robins</SO><ST_KR>知更鳥</ST_KR></TNN>
+	<TNN><SO>Rock Cats</SO><ST_KR>岩貓</ST_KR></TNN>
+	<TNN><SO>Rocketmen</SO><ST_KR>火箭人</ST_KR></TNN>
+	<TNN><SO>Rockets</SO><ST_KR>火箭</ST_KR></TNN>
+	<TNN><SO>Rockies</SO><ST_KR>洛磯</ST_KR></TNN>
+	<TNN><SO>Rogues</SO><ST_KR>流氓</ST_KR></TNN>
+	<TNN><SO>Rough Riders</SO><ST_KR>莽騎兵</ST_KR></TNN>
+	<TNN><SO>Roughnecks</SO><ST_KR>粗獷者</ST_KR></TNN>
+	<TNN><SO>Royals</SO><ST_KR>皇家</ST_KR></TNN>
+	<TNN><SO>Running Rebels</SO><ST_KR>奔跑叛軍</ST_KR></TNN>
+	<TNN><SO>Rush</SO><ST_KR>衝刺</ST_KR></TNN>
+	<TNN><SO>76ers</SO><ST_KR>七六人</ST_KR></TNN>
+	<TNN><SO>Sabercats</SO><ST_KR>劍齒貓</ST_KR></TNN>
+	<TNN><SO>Sabres</SO><ST_KR>軍刀</ST_KR></TNN>
+	<TNN><SO>Sailfish</SO><ST_KR>旗魚</ST_KR></TNN>
+	<TNN><SO>Sailors</SO><ST_KR>水手</ST_KR></TNN>
+	<TNN><SO>Saints</SO><ST_KR>聖徒</ST_KR></TNN>
+	<TNN><SO>Salmon Kings</SO><ST_KR>鮭魚王</ST_KR></TNN>
+	<TNN><SO>Salukis</SO><ST_KR>薩路基犬</ST_KR></TNN>
+	<TNN><SO>Samurai</SO><ST_KR>武士</ST_KR></TNN>
+	<TNN><SO>Sand Gnats</SO><ST_KR>沙蚋</ST_KR></TNN>
+	<TNN><SO>Saxons</SO><ST_KR>薩克遜人</ST_KR></TNN>
+	<TNN><SO>Scarecrows</SO><ST_KR>稻草人</ST_KR></TNN>
+	<TNN><SO>Scarlet Knights</SO><ST_KR>緋紅騎士</ST_KR></TNN>
+	<TNN><SO>Schooners</SO><ST_KR>縱帆船</ST_KR></TNN>
+	<TNN><SO>Scorpions</SO><ST_KR>蠍子</ST_KR></TNN>
+	<TNN><SO>Scots</SO><ST_KR>蘇格蘭人</ST_KR></TNN>
+	<TNN><SO>Scouts</SO><ST_KR>球探</ST_KR></TNN>
+	<TNN><SO>Screaming Eagles</SO><ST_KR>怒吼鷹</ST_KR></TNN>
+	<TNN><SO>Sea Lions</SO><ST_KR>海獅</ST_KR></TNN>
+	<TNN><SO>Sea Turtles</SO><ST_KR>海龜</ST_KR></TNN>
+	<TNN><SO>Seadogs</SO><ST_KR>海狗</ST_KR></TNN>
+	<TNN><SO>Seafarers</SO><ST_KR>航海家</ST_KR></TNN>
+	<TNN><SO>Seagulls</SO><ST_KR>海鷗</ST_KR></TNN>
+	<TNN><SO>Seahawks</SO><ST_KR>海鷹</ST_KR></TNN>
+	<TNN><SO>Seals</SO><ST_KR>海豹</ST_KR></TNN>
+	<TNN><SO>Seawolves</SO><ST_KR>海狼</ST_KR></TNN>
+	<TNN><SO>Seminoles</SO><ST_KR>塞米諾爾人</ST_KR></TNN>
+	<TNN><SO>Senators</SO><ST_KR>參議員</ST_KR></TNN>
+	<TNN><SO>Shamrocks</SO><ST_KR>三葉草</ST_KR></TNN>
+	<TNN><SO>Sharks</SO><ST_KR>鯊魚</ST_KR></TNN>
+	<TNN><SO>Shockers</SO><ST_KR>震撼者</ST_KR></TNN>
+	<TNN><SO>Shorebirds</SO><ST_KR>濱鳥</ST_KR></TNN>
+	<TNN><SO>Sidewinders</SO><ST_KR>側風蛇</ST_KR></TNN>
+	<TNN><SO>Silver Hawks</SO><ST_KR>銀鷹</ST_KR></TNN>
+	<TNN><SO>Silver Knights</SO><ST_KR>銀騎士</ST_KR></TNN>
+	<TNN><SO>Silver Sox</SO><ST_KR>銀襪</ST_KR></TNN>
+	<TNN><SO>Silver Stars</SO><ST_KR>銀星</ST_KR></TNN>
+	<TNN><SO>Silver Wolves</SO><ST_KR>銀狼</ST_KR></TNN>
+	<TNN><SO>Silverbacks</SO><ST_KR>銀背猩猩</ST_KR></TNN>
+	<TNN><SO>Silvertips</SO><ST_KR>銀尖</ST_KR></TNN>
+	<TNN><SO>Skeeters</SO><ST_KR>蚊子</ST_KR></TNN>
+	<TNN><SO>Sky Chiefs</SO><ST_KR>天空酋長</ST_KR></TNN>
+	<TNN><SO>Sky Sox</SO><ST_KR>天空襪</ST_KR></TNN>
+	<TNN><SO>Skyhawks</SO><ST_KR>天鷹</ST_KR></TNN>
+	<TNN><SO>Skyliners</SO><ST_KR>天際線</ST_KR></TNN>
+	<TNN><SO>Slammers</SO><ST_KR>重擊手</ST_KR></TNN>
+	<TNN><SO>Sluggers</SO><ST_KR>重砲手</ST_KR></TNN>
+	<TNN><SO>Smokies</SO><ST_KR>煙山</ST_KR></TNN>
+	<TNN><SO>Snake Eyes</SO><ST_KR>蛇眼</ST_KR></TNN>
+	<TNN><SO>Snappers</SO><ST_KR>鱷龜</ST_KR></TNN>
+	<TNN><SO>Sound Tigers</SO><ST_KR>海灣虎</ST_KR></TNN>
+	<TNN><SO>Sox</SO><ST_KR>襪隊</ST_KR></TNN>
+	<TNN><SO>Sparks</SO><ST_KR>火花</ST_KR></TNN>
+	<TNN><SO>Spartans</SO><ST_KR>斯巴達人</ST_KR></TNN>
+	<TNN><SO>Spectres</SO><ST_KR>幽魂</ST_KR></TNN>
+	<TNN><SO>Speed Devils</SO><ST_KR>速度惡魔</ST_KR></TNN>
+	<TNN><SO>Speedsters</SO><ST_KR>飛毛腿</ST_KR></TNN>
+	<TNN><SO>Spiders</SO><ST_KR>蜘蛛</ST_KR></TNN>
+	<TNN><SO>Spikes</SO><ST_KR>尖刺</ST_KR></TNN>
+	<TNN><SO>Spinners</SO><ST_KR>旋轉者</ST_KR></TNN>
+	<TNN><SO>Spirit</SO><ST_KR>精神</ST_KR></TNN>
+	<TNN><SO>Spitfires</SO><ST_KR>噴火機</ST_KR></TNN>
+	<TNN><SO>Spurs</SO><ST_KR>馬刺</ST_KR></TNN>
+	<TNN><SO>Squires</SO><ST_KR>侍從</ST_KR></TNN>
+	<TNN><SO>Stags</SO><ST_KR>雄鹿</ST_KR></TNN>
+	<TNN><SO>Stallions</SO><ST_KR>種馬</ST_KR></TNN>
+	<TNN><SO>Stampede</SO><ST_KR>奔騰</ST_KR></TNN>
+	<TNN><SO>Stars</SO><ST_KR>星隊</ST_KR></TNN>
+	<TNN><SO>Steamrollers</SO><ST_KR>壓路機</ST_KR></TNN>
+	<TNN><SO>Steeldogs</SO><ST_KR>鋼犬</ST_KR></TNN>
+	<TNN><SO>Steelers</SO><ST_KR>鋼鐵人</ST_KR></TNN>
+	<TNN><SO>Steelhawks</SO><ST_KR>鋼鷹</ST_KR></TNN>
+	<TNN><SO>Steelheads</SO><ST_KR>虹鱒</ST_KR></TNN>
+	<TNN><SO>Steelhounds</SO><ST_KR>鋼獵犬</ST_KR></TNN>
+	<TNN><SO>Sting</SO><ST_KR>毒刺</ST_KR></TNN>
+	<TNN><SO>Stingrays</SO><ST_KR>魟魚</ST_KR></TNN>
+	<TNN><SO>Stone Crabs</SO><ST_KR>石蟹</ST_KR></TNN>
+	<TNN><SO>Storm</SO><ST_KR>風暴</ST_KR></TNN>
+	<TNN><SO>Storm Kings</SO><ST_KR>風暴王</ST_KR></TNN>
+	<TNN><SO>Sultans</SO><ST_KR>蘇丹</ST_KR></TNN>
+	<TNN><SO>Sun Cats</SO><ST_KR>太陽貓</ST_KR></TNN>
+	<TNN><SO>Sun Dogs</SO><ST_KR>幻日犬</ST_KR></TNN>
+	<TNN><SO>Sun Kings</SO><ST_KR>太陽王</ST_KR></TNN>
+	<TNN><SO>Sun Sox</SO><ST_KR>太陽襪</ST_KR></TNN>
+	<TNN><SO>Sunbirds</SO><ST_KR>太陽鳥</ST_KR></TNN>
+	<TNN><SO>Sunchasers</SO><ST_KR>逐日者</ST_KR></TNN>
+	<TNN><SO>Sundevils</SO><ST_KR>太陽魔鬼</ST_KR></TNN>
+	<TNN><SO>Sunrays</SO><ST_KR>太陽光</ST_KR></TNN>
+	<TNN><SO>Suns</SO><ST_KR>太陽</ST_KR></TNN>
+	<TNN><SO>Superstars</SO><ST_KR>超級巨星</ST_KR></TNN>
+	<TNN><SO>Surf</SO><ST_KR>衝浪</ST_KR></TNN>
+	<TNN><SO>Surge</SO><ST_KR>浪湧</ST_KR></TNN>
+	<TNN><SO>Swallows</SO><ST_KR>燕子</ST_KR></TNN>
+	<TNN><SO>Swamp Bats</SO><ST_KR>沼澤蝙蝠</ST_KR></TNN>
+	<TNN><SO>Swamp Dogs</SO><ST_KR>沼澤犬</ST_KR></TNN>
+	<TNN><SO>Swamp Foxes</SO><ST_KR>沼澤狐</ST_KR></TNN>
+	<TNN><SO>Swarm</SO><ST_KR>蜂群</ST_KR></TNN>
+	<TNN><SO>Swashbucklers</SO><ST_KR>海上豪客</ST_KR></TNN>
+	<TNN><SO>Swingers</SO><ST_KR>揮棒者</ST_KR></TNN>
+	<TNN><SO>Swordfish</SO><ST_KR>旗魚</ST_KR></TNN>
+	<TNN><SO>Swordsmen</SO><ST_KR>劍士</ST_KR></TNN>
+	<TNN><SO>Sycamores</SO><ST_KR>懸鈴木</ST_KR></TNN>
+	<TNN><SO>Tanks</SO><ST_KR>戰車</ST_KR></TNN>
+	<TNN><SO>Tar Heels</SO><ST_KR>焦油腳</ST_KR></TNN>
+	<TNN><SO>Tarpons</SO><ST_KR>大海鰱</ST_KR></TNN>
+	<TNN><SO>Tartans</SO><ST_KR>格紋軍</ST_KR></TNN>
+	<TNN><SO>Tasmanian Devils</SO><ST_KR>塔斯惡魔</ST_KR></TNN>
+	<TNN><SO>T-Bones</SO><ST_KR>丁骨牛排</ST_KR></TNN>
+	<TNN><SO>Tempest</SO><ST_KR>暴風</ST_KR></TNN>
+	<TNN><SO>Terrapins</SO><ST_KR>澤龜</ST_KR></TNN>
+	<TNN><SO>Terriers</SO><ST_KR>梗犬</ST_KR></TNN>
+	<TNN><SO>Texans</SO><ST_KR>德州人</ST_KR></TNN>
+	<TNN><SO>Thieves</SO><ST_KR>盜賊</ST_KR></TNN>
+	<TNN><SO>Thoroughbreds</SO><ST_KR>純血馬</ST_KR></TNN>
+	<TNN><SO>Thrashers</SO><ST_KR>猛擊者</ST_KR></TNN>
+	<TNN><SO>Threshers</SO><ST_KR>長尾鯊</ST_KR></TNN>
+	<TNN><SO>Thunder</SO><ST_KR>雷霆</ST_KR></TNN>
+	<TNN><SO>Thunder Bats</SO><ST_KR>雷霆球棒</ST_KR></TNN>
+	<TNN><SO>Thunder Bears</SO><ST_KR>雷霆熊</ST_KR></TNN>
+	<TNN><SO>Thunder Cats</SO><ST_KR>雷霆貓</ST_KR></TNN>
+	<TNN><SO>Thunder Dogs</SO><ST_KR>雷霆犬</ST_KR></TNN>
+	<TNN><SO>Thunder Wolves</SO><ST_KR>雷霆狼</ST_KR></TNN>
+	<TNN><SO>Thunderbirds</SO><ST_KR>雷鳥</ST_KR></TNN>
+	<TNN><SO>Thunderbolts</SO><ST_KR>雷電</ST_KR></TNN>
+	<TNN><SO>Tides</SO><ST_KR>潮汐</ST_KR></TNN>
+	<TNN><SO>Tiger Sharks</SO><ST_KR>虎鯊</ST_KR></TNN>
+	<TNN><SO>Tigercats</SO><ST_KR>虎貓</ST_KR></TNN>
+	<TNN><SO>Tigers</SO><ST_KR>老虎</ST_KR></TNN>
+	<TNN><SO>Timber Rattlers</SO><ST_KR>林響尾蛇</ST_KR></TNN>
+	<TNN><SO>Timberjacks</SO><ST_KR>伐木工</ST_KR></TNN>
+	<TNN><SO>Timberwolves</SO><ST_KR>灰狼</ST_KR></TNN>
+	<TNN><SO>Tincaps</SO><ST_KR>錫帽</ST_KR></TNN>
+	<TNN><SO>Titans</SO><ST_KR>泰坦</ST_KR></TNN>
+	<TNN><SO>Tomahawks</SO><ST_KR>戰斧</ST_KR></TNN>
+	<TNN><SO>Tomcats</SO><ST_KR>雄貓</ST_KR></TNN>
+	<TNN><SO>Toreros</SO><ST_KR>鬥牛士</ST_KR></TNN>
+	<TNN><SO>Tornado</SO><ST_KR>龍捲風</ST_KR></TNN>
+	<TNN><SO>Toros</SO><ST_KR>公牛</ST_KR></TNN>
+	<TNN><SO>Torpedoes</SO><ST_KR>魚雷</ST_KR></TNN>
+	<TNN><SO>Tourists</SO><ST_KR>遊客</ST_KR></TNN>
+	<TNN><SO>Trail Blazers</SO><ST_KR>拓荒者</ST_KR></TNN>
+	<TNN><SO>Trains</SO><ST_KR>火車</ST_KR></TNN>
+	<TNN><SO>Trappers</SO><ST_KR>捕獸者</ST_KR></TNN>
+	<TNN><SO>Triplets</SO><ST_KR>三胞胎</ST_KR></TNN>
+	<TNN><SO>Tritons</SO><ST_KR>海神</ST_KR></TNN>
+	<TNN><SO>Trojans</SO><ST_KR>特洛伊</ST_KR></TNN>
+	<TNN><SO>Tropics</SO><ST_KR>熱帶</ST_KR></TNN>
+	<TNN><SO>Tsunami</SO><ST_KR>海嘯</ST_KR></TNN>
+	<TNN><SO>Turtles</SO><ST_KR>烏龜</ST_KR></TNN>
+	<TNN><SO>Twins</SO><ST_KR>雙子</ST_KR></TNN>
+	<TNN><SO>Tycoons</SO><ST_KR>大亨</ST_KR></TNN>
+	<TNN><SO>Typhoon</SO><ST_KR>颱風</ST_KR></TNN>
+	<TNN><SO>Tyrants</SO><ST_KR>暴君</ST_KR></TNN>
+	<TNN><SO>Underdogs</SO><ST_KR>黑馬</ST_KR></TNN>
+	<TNN><SO>Unicorns</SO><ST_KR>獨角獸</ST_KR></TNN>
+	<TNN><SO>Valiants</SO><ST_KR>英勇者</ST_KR></TNN>
+	<TNN><SO>Valley Cats</SO><ST_KR>山谷貓</ST_KR></TNN>
+	<TNN><SO>Vandals</SO><ST_KR>汪達爾</ST_KR></TNN>
+	<TNN><SO>Velocity</SO><ST_KR>極速</ST_KR></TNN>
+	<TNN><SO>Veterans</SO><ST_KR>老將</ST_KR></TNN>
+	<TNN><SO>Victory</SO><ST_KR>勝利</ST_KR></TNN>
+	<TNN><SO>Vikings</SO><ST_KR>維京人</ST_KR></TNN>
+	<TNN><SO>Villains</SO><ST_KR>反派</ST_KR></TNN>
+	<TNN><SO>Vipers</SO><ST_KR>蝮蛇</ST_KR></TNN>
+	<TNN><SO>Volcanoes</SO><ST_KR>火山</ST_KR></TNN>
+	<TNN><SO>Volts</SO><ST_KR>伏特</ST_KR></TNN>
+	<TNN><SO>Volunteers</SO><ST_KR>志願軍</ST_KR></TNN>
+	<TNN><SO>Voyagers</SO><ST_KR>航行者</ST_KR></TNN>
+	<TNN><SO>Vulcans</SO><ST_KR>火神</ST_KR></TNN>
+	<TNN><SO>Vultures</SO><ST_KR>禿鷹</ST_KR></TNN>
+	<TNN><SO>Wallabys</SO><ST_KR>小袋鼠</ST_KR></TNN>
+	<TNN><SO>Walruses</SO><ST_KR>海象</ST_KR></TNN>
+	<TNN><SO>War Dogs</SO><ST_KR>戰犬</ST_KR></TNN>
+	<TNN><SO>War Eagles</SO><ST_KR>戰鷹</ST_KR></TNN>
+	<TNN><SO>Warbirds</SO><ST_KR>戰鳥</ST_KR></TNN>
+	<TNN><SO>Warcats</SO><ST_KR>戰貓</ST_KR></TNN>
+	<TNN><SO>Warhawks</SO><ST_KR>戰鷹</ST_KR></TNN>
+	<TNN><SO>Warlocks</SO><ST_KR>術士</ST_KR></TNN>
+	<TNN><SO>Warlords</SO><ST_KR>軍閥</ST_KR></TNN>
+	<TNN><SO>Warriors</SO><ST_KR>勇士</ST_KR></TNN>
+	<TNN><SO>Waveriders</SO><ST_KR>乘浪者</ST_KR></TNN>
+	<TNN><SO>Waves</SO><ST_KR>海浪</ST_KR></TNN>
+	<TNN><SO>Werewolves</SO><ST_KR>狼人</ST_KR></TNN>
+	<TNN><SO>Westerners</SO><ST_KR>西部人</ST_KR></TNN>
+	<TNN><SO>Whalers</SO><ST_KR>捕鯨人</ST_KR></TNN>
+	<TNN><SO>Wheat Kings</SO><ST_KR>麥王</ST_KR></TNN>
+	<TNN><SO>Whiskeyjacks</SO><ST_KR>灰松鴉</ST_KR></TNN>
+	<TNN><SO>White Knights</SO><ST_KR>白騎士</ST_KR></TNN>
+	<TNN><SO>White Sox</SO><ST_KR>白襪</ST_KR></TNN>
+	<TNN><SO>White Wings</SO><ST_KR>白翼</ST_KR></TNN>
+	<TNN><SO>Whitecaps</SO><ST_KR>白浪</ST_KR></TNN>
+	<TNN><SO>Whitehawks</SO><ST_KR>白鷹</ST_KR></TNN>
+	<TNN><SO>Wild</SO><ST_KR>野性</ST_KR></TNN>
+	<TNN><SO>Wild Dogs</SO><ST_KR>野犬</ST_KR></TNN>
+	<TNN><SO>Wild Horses</SO><ST_KR>野馬</ST_KR></TNN>
+	<TNN><SO>Wild Riders</SO><ST_KR>狂騎士</ST_KR></TNN>
+	<TNN><SO>Wild Things</SO><ST_KR>野物</ST_KR></TNN>
+	<TNN><SO>Wildcats</SO><ST_KR>山貓</ST_KR></TNN>
+	<TNN><SO>Wingnuts</SO><ST_KR>蝶形螺帽</ST_KR></TNN>
+	<TNN><SO>Wings</SO><ST_KR>飛翼</ST_KR></TNN>
+	<TNN><SO>Winter Hawks</SO><ST_KR>冬鷹</ST_KR></TNN>
+	<TNN><SO>Wizards</SO><ST_KR>巫師</ST_KR></TNN>
+	<TNN><SO>Wolf Pack</SO><ST_KR>狼群</ST_KR></TNN>
+	<TNN><SO>Wolfhounds</SO><ST_KR>獵狼犬</ST_KR></TNN>
+	<TNN><SO>Wolverines</SO><ST_KR>狼獾</ST_KR></TNN>
+	<TNN><SO>Wolves</SO><ST_KR>狼群</ST_KR></TNN>
+	<TNN><SO>Wranglers</SO><ST_KR>牧馬人</ST_KR></TNN>
+	<TNN><SO>Wreckers</SO><ST_KR>破壞者</ST_KR></TNN>
+	<TNN><SO>Yaks</SO><ST_KR>犛牛</ST_KR></TNN>
+	<TNN><SO>Yellow Jackets</SO><ST_KR>黃蜂</ST_KR></TNN>
+	<TNN><SO>Zebras</SO><ST_KR>斑馬</ST_KR></TNN>
+	<TNN><SO>Zephyrs</SO><ST_KR>西風</ST_KR></TNN>
+	<TNN><SO>Zips</SO><ST_KR>疾風</ST_KR></TNN>
+</TEAM_NICK_NAMES>

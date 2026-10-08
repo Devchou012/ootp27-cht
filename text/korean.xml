@@ -101723,7 +101723,7 @@ It will be hard to improve on a campaign that saw the [%playerposition] stroke [
 <COND id="62" value="1"/>
 </OBJ>-->
 <OBJ id="23306">
-<TXT>今天在[%game ballpark]，[%personlink]準星十足、控球穩健。這位[%team#1link]投手三振[%pitching k]名打者，率隊以[%game score]擊敗[%team#2link]。[%personname l]送出[%pitching bb word]，被敲出[%pitching ha word]，協助球隊擊敗[%team#2nickname]。</TXT>
+<TXT>今天在[%game ballpark]，[%personlink]精準控球、掌控全場。這位[%team#1link]投手三振[%pitching k]名打者，率隊以[%game score]擊敗[%team#2link]。[%personname l]送出[%pitching bb word]，被敲出[%pitching ha word]，協助球隊擊敗[%team#2nickname]。</TXT>
 <COND id="62" value="1"/>
 <COND id="214" value="7"/>
 </OBJ><!--
@@ -136846,7 +136846,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="92" value="1"/>
 </OBJ>-->
 <OBJ id="66207">
-<TXT>[%personlink][%person descriptor trailing]帶領[%team#1link]擊敗[%team#2link]。最終比數為[%game score]，比賽打到第[%game inning]局。這位[%player game position]敲出[%batting h]支長打，包括[%batting t word]與[%batting d word]，另貢獻[%batting rbi]分打點。</TXT>
+<TXT>[%personlink][%person descriptor trailing]帶領[%team#1link]擊敗[%team#2link]。最終比數為[%game score]，打滿[%game inning]局。這位[%player game position]敲出[%batting h]支長打，包括[%batting t word]與[%batting d word]，另貢獻[%batting rbi]分打點。</TXT>
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="203" value="1"/>
@@ -136866,13 +136866,13 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="298" value="1"/>
 <COND id="92" value="1"/>
 </OBJ>
-<OBJ id="66208" text="[%team#1link nickname]在[%ballpark]歷經第[%game inning]局，以[%game score]擊敗[%team#2link nickname]。[%personlink] [%player game line]，帶領球隊取勝。">
+<OBJ id="66208" text="[%team#1link nickname]在[%ballpark]歷經[%game inning]局，以[%game score]擊敗[%team#2link nickname]。[%personlink] [%player game line]，帶領球隊取勝。">
 <COND id="72" value="14"/>
 <COND id="147" value="1"/>
 <COND id="213" value="8"/>
 <COND id="92" value="1"/>
 </OBJ>
-<OBJ id="66209" text="[%team#1link nickname]在第[%game inning]局以[%game score]擊敗[%team#2link nickname]。[%team#1name]先發投手[%personlink]投出一場代表作。">
+<OBJ id="66209" text="[%team#1link nickname]打了[%game inning]局以[%game score]擊敗[%team#2link nickname]。[%team#1name]先發投手[%personlink]投出一場代表作。">
 <COND id="72" value="11"/>
 <COND id="147" value="1"/>
 <COND id="203" value="1"/>
@@ -136893,14 +136893,14 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="214" value="3"/>
 <COND id="92" value="1"/>
 </OBJ>-->
-<OBJ id="66212" text="[%team#1link]靠著先發投手[%personlink]的出色表現，在第[%game inning]局以[%game score]擊敗[%team#2link nickname]。">
+<OBJ id="66212" text="[%team#1link]靠著先發投手[%personlink]的出色表現，打了[%game inning]局以[%game score]擊敗[%team#2link nickname]。">
 <COND id="72" value="11"/>
 <COND id="147" value="1"/>
 <COND id="216" value="1"/>
 <COND id="188" value="4"/>
 <COND id="92" value="1"/>
 </OBJ>
-<OBJ id="66213" text="[%team#1link nickname]在[%ballpark]經過第[%game inning]局後，以[%game score]擊敗[%team#2link nickname]。[%playerposition capital] [%personlink f l]是[%team#1name]的致勝功臣。他[%player game line]。">
+<OBJ id="66213" text="[%team#1link nickname]在[%ballpark]經過[%game inning]局後，以[%game score]擊敗[%team#2link nickname]。[%playerposition capital] [%personlink f l]是[%team#1name]的致勝功臣。他[%player game line]。">
 <COND id="72" value="14"/>
 <COND id="147" value="1"/>
 <COND id="214" value="6"/>
@@ -137033,7 +137033,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="72" value="14"/>
 <COND id="92" value="1"/>
 </OBJ>-->
-<OBJ id="66232" text="[%team#1link nickname]先發投手[%personlink]面對[%team#2link nickname]繳出精彩表現，率隊在[%game inning]局中以[%game score]取得一分險勝。">
+<OBJ id="66232" text="[%team#1link nickname]先發投手[%personlink]面對[%team#2link nickname]繳出精彩表現，率隊在[%game inning]局中以[%game score]險勝。">
 <COND id="72" value="11"/>
 <COND id="84" value="1"/>
 <COND id="214" value="3"/>
@@ -137202,14 +137202,14 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="72" value="14"/>
 <COND id="92" value="1"/>
 </OBJ>-->
-<OBJ id="66252" text="[%team#1link nickname]在[%ballpark]順利奪勝，於[%game inning]局中以[%game score]擊潰[%team#2link nickname]。[%personlink][%person descriptor trailing]是左右勝負的關鍵人物。">
+<OBJ id="66252" text="[%team#1link nickname]在[%ballpark]順利奪勝，於[%game inning]局中以[%game score]擊敗[%team#2link nickname]。[%personlink][%person descriptor trailing]是左右勝負的關鍵人物。">
 <COND id="72" value="11"/>
 <COND id="147" value="1"/>
 <COND id="203" value="1"/>
 <COND id="217" value="6"/>
 <COND id="92" value="1"/>
 </OBJ>
-<OBJ id="66253" text="[%team#1name][%team#1nickname]先發投手[%personlink#1]投出優質內容，帶領球隊在[%game inning]局中以[%game score]力克[%team#2link nickname]。">
+<OBJ id="66253" text="[%team#1name][%team#1nickname]先發投手[%personlink#1]率領球隊在[%game inning]局中以[%game score]擊敗[%team#2link nickname]。">
 <COND id="216" value="2"/>
 <COND id="147" value="1"/>
 <COND id="72" value="11"/>
@@ -137250,7 +137250,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="83" value="-1"/>
 <COND id="92" value="1"/>
 </OBJ>
-<OBJ id="66257" text="[%team#1link nickname]在[%ballpark]歷經[%game inning]局，以[%game score]擊倒[%team#2link nickname]。[%personlink]敲出[%batting s word]與[%batting d word]，同時送回[%batting rbi]分打點。">
+<OBJ id="66257" text="[%team#1link nickname]在[%ballpark]歷經[%game inning]局，以[%game score]擊倒[%team#2link nickname]。[%personlink]敲出[%batting s word]與[%batting d word]，同時貢獻[%batting rbi]分打點。">
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="203" value="1"/>
@@ -137505,7 +137505,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="203" value="0"/>
 <COND id="92" value="1"/>
 </OBJ>-->
-<OBJ id="66300" text="[%team#1link nickname]先發投手[%personlink]完全進入狀況，封鎖對手，率領球隊在[%game inning]局中以[%game score]擊敗[%team#2link nickname]。">
+<OBJ id="66300" text="[%team#1link nickname]先發投手[%personlink]完全進入狀況，率領球隊在[%game inning]局中以[%game score]擊敗[%team#2link nickname]。">
 <COND id="147" value="1"/>
 <COND id="72" value="11"/>
 <COND id="216" value="3"/>
@@ -137551,7 +137551,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="214" value="3"/>
 <COND id="92" value="1"/>
 </OBJ>
-<OBJ id="66307" text="[%team#2link][%player game position][%personlink]表現驚豔全場，他[%player game line]。但這仍不足以帶領球隊上演逆轉勝，[%team#1link]最終在[%game inning]局中以[%game score]擊敗[%team#2nickname]。">
+<OBJ id="66307" text="[%team#2link][%player game position][%personlink]表現驚豔全場，他[%player game line]。但這仍不足以帶領球隊獲勝，[%team#1link]最終在[%game inning]局中以[%game score]擊敗[%team#2nickname]。">
 <COND id="147" value="0"/>
 <COND id="203" value="1"/>
 <COND id="72" value="14"/>
@@ -137603,7 +137603,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="92" value="1"/>
 </OBJ>-->
 <OBJ id="66315">
-<TXT>[%team#1link nickname]在[%ballpark]讓[%team#2link nickname]吞下敗仗。最終比數為[%game inning]局[%game score]。[%personlink]是[%team#1link]的重要功臣之一，除了擊出[%batting s word]與[%batting hr word]之外，他還跑回[%batting r word]並打進[%batting rbi]分打點。</TXT>
+<TXT>[%team#1link nickname]在[%ballpark]讓[%team#2link nickname]吞下敗仗。最終比數為[%game inning]局[%game score]。[%personlink]是[%team#1link]的重要功臣之一，除了擊出[%batting s word]與[%batting hr word]之外，他還跑回[%batting r word]並貢獻[%batting rbi]分打點。</TXT>
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="203" value="1"/>
@@ -138055,7 +138055,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="92" value="1"/>
 </OBJ>
 <OBJ id="66396">
-<TXT>[%personlink]成為[%team#1link nickname]在與[%team#2link nickname]上演打擊大戰時的致勝關鍵。[%personname L][%person descriptor trailing]在這場延長賽、[%game score]的[%teamnickname]勝利中，繳出[%batting h]打數[%batting ab]安的成績。</TXT>
+<TXT>[%personlink]成為[%team#1link nickname]在與[%team#2link nickname]上演打擊大戰時的致勝關鍵。[%personname L][%person descriptor trailing]在這場延長賽、[%game score]的[%teamnickname]勝利中，繳出[%batting ab]打數[%batting h]安的成績。</TXT>
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="215" value="9"/>
@@ -138122,7 +138122,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="214" value="6"/>
 <COND id="92" value="1"/>
 </OBJ>-->
-<OBJ id="66415" text="[%team#1link nickname]先發投手[%personlink]展現季中巔峰狀態，幫助球隊在[%game inning]局後以[%game score]擊敗[%team#2link nickname]。">
+<OBJ id="66415" text="[%team#1link nickname]先發投手[%personlink]展現季中狀態，幫助球隊在[%game inning]局後以[%game score]擊敗[%team#2link nickname]。">
 <COND id="147" value="1"/>
 <COND id="72" value="11"/>
 <COND id="216" value="1"/>
@@ -138177,7 +138177,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="214" value="3"/>
 <COND id="92" value="1"/>
 </OBJ>-->
-<OBJ id="66424" text="[%team#1link nickname]與[%team#2link nickname]的接戰相當膠著，投手[%personlink]狀態絕佳。這名[%team#1name] [%player throws]投手幫助球隊在[%game inning]局後以[%game score]勝出。">
+<OBJ id="66424" text="[%team#1link nickname]與[%team#2link nickname]的接戰相當膠著，投手[%personlink]狀態絕佳。這名[%team#1name] [%player throws]投幫助球隊在[%game inning]局後以[%game score]勝出。">
 <COND id="147" value="1"/>
 <COND id="72" value="11"/>
 <COND id="214" value="3"/>
@@ -138335,7 +138335,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="218" value="3"/>
 <COND id="92" value="1"/>
 </OBJ>-->
-<OBJ id="66482" text="[%team#1link]與[%team#2link]進行一場低比分戰役，[%personlink]表現出色。這名[%team#1nickname] [%player throws]投手[%person descriptor trailing]幫助球隊在[%game inning]局後以[%game score]擊敗[%team#2nickname]。">
+<OBJ id="66482" text="[%team#1link]與[%team#2link]進行一場低比分戰役，[%personlink]表現出色。這名[%team#1nickname] [%player throws]投[%person descriptor trailing]幫助球隊在[%game inning]局後以[%game score]擊敗[%team#2nickname]。">
 <COND id="147" value="1"/>
 <COND id="72" value="11"/>
 <COND id="214" value="3"/>
@@ -138411,7 +138411,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="203" value="1"/>
 <COND id="92" value="1"/>
 </OBJ>-->
-<OBJ id="66559" text="[%team#1link nickname]在[%ballpark]歷經[%game inning]局後擊敗[%team#2link nickname]。[%team#1name]以[%game score]獲勝。[%personlink f l]領軍主隊，繳出[%batting h]打數[%batting ab]安的成績。">
+<OBJ id="66559" text="[%team#1link nickname]在[%ballpark]歷經[%game inning]局後擊敗[%team#2link nickname]。[%team#1name]以[%game score]獲勝。[%personlink f l]領軍主隊，繳出[%batting ab]打數[%batting h]安的成績。">
 <COND id="147" value="1"/>
 <COND id="72" value="14"/>
 <COND id="198" value="1"/>
@@ -139149,14 +139149,14 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="203" value="0"/>
 </OBJ>-->
 <OBJ id="65043">
-<TXT>[%personlink f l]主投[%pitching ip word]，被敲[%pitching ha word]、失[%pitching r word]。這名右投手[%person descriptor trailing]送出[%pitching k]次三振，投出[%pitching bb]次保送。拿下勝投後，他本季戰績來到[%player season wins]-[%player season losses]。</TXT>
+<TXT>[%personlink f l]主投[%pitching ip word]，被敲[%pitching ha word]、失[%pitching r word]。這名右投[%person descriptor trailing]送出[%pitching k]次三振，投出[%pitching bb]次保送。拿下勝投後，他本季戰績來到[%player season wins]-[%player season losses]。</TXT>
 <COND id="199" value="1"/>
 <COND id="189" value="1"/>
 <COND id="203" value="0"/>
 <COND id="75" value="0"/>
 </OBJ>
 <OBJ id="65044">
-<TXT>[%personlink f l]主投[%pitching ip word]，被敲[%pitching ha word]、失[%pitching r word]。這名左投手送出[%pitching k]次三振，投出[%pitching bb]次保送。拿下勝投後，他本季戰績提升至[%player season wins]-[%player season losses]。</TXT>
+<TXT>[%personlink f l]主投[%pitching ip word]，被敲[%pitching ha word]、失[%pitching r word]。這名左投送出[%pitching k]次三振，投出[%pitching bb]次保送。拿下勝投後，他本季戰績提升至[%player season wins]-[%player season losses]。</TXT>
 <COND id="199" value="1"/>
 <COND id="189" value="1"/>
 <COND id="203" value="0"/>
@@ -149060,7 +149060,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="216" value="1"/>
 </OBJ>
 <OBJ id="65930">
-<TXT>[%personname l] 拿下勝投，將個人本季戰績推進至 [%player season wins] 勝 [%player season losses] 敗。[%personname l] 主投 [%player game ip] 局，被敲出 [%pitching ha word] 失掉 [%pitching r word]，同時送出 [%pitching k] 次三振。[%team#2nickname] 在需要追分時始終無法擊出關鍵安打。</TXT>
+<TXT>[%personname l]拿下勝投，將個人本季戰績推進至[%player season wins]勝[%player season losses]敗。[%personname l]主投[%player game ip]局，被敲出[%pitching ha word]失掉[%pitching r word]，同時送出[%pitching k]次三振。[%team#2nickname]在需要時始終無法擊出關鍵安打。</TXT>
 <COND id="187" value="5"/>
 <COND id="189" value="1"/>
 <COND id="188" value="3"/>
@@ -149164,7 +149164,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="227" value="0"/>
 <COND id="188" value="4"/>
 </OBJ>
-<OBJ id="66171" text="[%personname l] 順利進帳勝投。他將 [%team#2name] 打線完全凍結後，戰績來到 [%player season wins] 勝 [%player season losses] 敗。他主投 [%player game ip] 局，被敲 [%pitching ha word] 僅失 [%pitching er word] 責失。">
+<OBJ id="66171" text="[%personname l] 順利進帳勝投。他將 [%team#2name] 打線完全凍結後，戰績來到 [%player season wins] 勝 [%player season losses] 敗。他主投 [%player game ip] 局，被敲 [%pitching ha word] 僅失 [%pitching er word]。">
 <COND id="189" value="1"/>
 <COND id="216" value="2"/>
 <COND id="217" value="7"/>
@@ -149262,7 +149262,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="541" value="0"/>
 </OBJ>-->
 <OBJ id="68826">
-<TXT>[%personname l] 封鎖了 [%team#2name] 打線。這位 [%team#1name] [%player throws]投在 [%player game ip] 局投球中僅被敲出少得可憐的 [%pitching ha word]，同時飆出 [%player game k] 次三振，未送出任何四死球。獲勝後他本季戰績來到 [%player season wins] 勝 [%player season losses] 敗。</TXT>
+<TXT>[%personname l] 封鎖了 [%team#2name] 打線。這位 [%team#1name] [%player throws]投在 [%player game ip] 局投球中僅被敲出少得可憐的 [%pitching ha word]，同時飆出 [%player game k] 次三振，未送出任何保送。獲勝後他本季戰績來到 [%player season wins] 勝 [%player season losses] 敗。</TXT>
 <COND id="189" value="1"/>
 <COND id="216" value="1"/>
 <COND id="187" value="9"/>
@@ -149356,7 +149356,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="184" value="1"/>
 <COND id="188" value="4"/>
 </OBJ>
-<OBJ id="68846" text="[%team#1name] 先發投手 [%personname F L] 為球隊繳出一流身手。對手面對這位身高 [%person height long] 的[%player throws]投，主投 [%pitching ip] 局僅敲出 [%pitching ha word] 攻下 [%pitching r word]。">
+<OBJ id="68846" text="[%team#1name] 先發投手 [%personname F L] 為球隊繳出一流身手。對手面對這位身高 [%person height long] 的[%player throws]投，在 [%pitching ip] 局中僅敲出 [%pitching ha word]，攻下 [%pitching r word]。">
 <COND id="203" value="0"/>
 <COND id="72" value="11"/>
 <COND id="217" value="7.2"/>
@@ -150044,7 +150044,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="230" value="1"/>
 <COND id="198" value="1"/>
 </OBJ>
-<OBJ id="44457" text="[%team#1nickname] 再見勝氣勢如虹，與 [%team#2nickname] 戰成平手">
+<OBJ id="44457" text="[%team#1nickname] 再見勝，與 [%team#2nickname] 戰成平手">
 <COND id="230" value="1"/>
 <COND id="192" value="1"/>
 </OBJ>
@@ -150365,7 +150365,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="191" value="0"/>
 <COND id="92" value="0"/>
 </OBJ>-->
-<OBJ id="44747" text="喜上加喜！[%team#1name] 再見勝嗨翻天，系列賽領先擴大至 [%team#1 playoff wins] 比 [%team#2 playoff wins]">
+<OBJ id="44747" text="喜上加喜！[%team#1name] 靠再見勝將系列賽領先擴大至 [%team#1 playoff wins] 比 [%team#2 playoff wins]">
 <COND id="231" value="2"/>
 <COND id="236" value="2"/>
 <COND id="192" value="1"/>
@@ -150502,13 +150502,13 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="147" value="1"/>
 <COND id="237" value="1"/>
 </OBJ>
-<OBJ id="44764" text="[%team#1nickname]苦戰至最後，於[%game inning]局耐力戰中拿下[%team#1 playoff series]">
+<OBJ id="44764" text="[%team#1nickname]苦戰至最後，於[%game inning]局耐力戰中拿下第[%team#1 playoff series]戰">
 <COND id="230" value="1"/>
 <COND id="240" value="20"/>
 <COND id="147" value="1"/>
 <COND id="237" value="1"/>
 </OBJ>
-<OBJ id="44765" text="[%team#1nickname]與[%team#2nickname]鏖戰[%game inning]局，才分出[%team playoff currentgame]勝負">
+<OBJ id="44765" text="[%team#1nickname]與[%team#2nickname]鏖戰[%game inning]局，才分出第[%team playoff currentgame]戰勝負">
 <COND id="231" value="1"/>
 <COND id="92" value="1"/>
 <COND id="233" value="1"/>
@@ -150578,7 +150578,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="236" value="1"/>
 <COND id="216" value="1"/>
 </OBJ>
-<OBJ id="44774" text="[%team#2nickname]遭[%personname l]痛擊，將[%team playoff currentgame]敗給[%team#1nickname]">
+<OBJ id="44774" text="[%team#2nickname]遭[%personname l]痛擊，第[%team playoff currentgame]戰敗給[%team#1nickname]">
 <COND id="233" value="1"/>
 <COND id="194" value="1"/>
 <COND id="72" value="14"/>
@@ -150624,7 +150624,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="193" value="0"/>
 <COND id="228" value="3"/>
 </OBJ>
-<OBJ id="44780" text="[%personname l]、[%team#1nickname]在[%game inning]局馬拉松大戰中逼出[%team#1 playoff series]">
+<OBJ id="44780" text="[%personname l]、[%team#1nickname]在[%game inning]局馬拉松大戰中逼出第[%team#1 playoff series]戰">
 <COND id="230" value="1"/>
 <COND id="81" value="19"/>
 <COND id="147" value="1"/>
@@ -155225,7 +155225,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="92" value="1"/>
 </OBJ>-->
 <OBJ id="68801">
-<TXT>真正關鍵的比賽來臨時，[%team#1link nickname] 展現最佳表現，以 [%game score] 擊敗 [%team#2link nickname]。[%playerlink] [%player game line]。這個 [%team#1 playoff series] 戰制系列賽目前由 [%team#1 playoff record] 領先。</TXT>
+<TXT>真正關鍵的比賽來臨時，[%team#1link nickname]展現最佳表現，以[%game score]擊敗[%team#2link nickname]。[%playerlink] [%player game line]。這個[%team#1 playoff series]戰制系列賽目前戰績為[%team#1 playoff record]。</TXT>
 </OBJ>
 </CAT>
 
@@ -176982,7 +176982,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <OBJ id="54629" text="[%personname L] is a pedestrian prospect who isn't expect to have much success in the majors.">
 <COND id="337" value="1"/>
 </OBJ>-->
-<OBJ id="67394" text="[%personname L]具備先發投手的球威，但必須開發另一種球路才能更有效率。">
+<OBJ id="67394" text="[%personname L]具備先發投手的球威，但必須開發另一種球路才能更有效。">
 <COND id="337" value="4"/>
 <COND id="340" value="2"/>
 </OBJ>
@@ -185111,7 +185111,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="20" value="5"/>
 <COND id="103" value="5"/>
 </OBJ>-->
-<OBJ id="67431" text="他必須擔任捕手，才能幫上大聯盟球隊。">
+<OBJ id="67431" text="他必須蹲捕，才能幫上大聯盟球隊。">
 <COND id="72" value="2"/>
 <COND id="337" value="2"/>
 </OBJ><!--
@@ -193793,7 +193793,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <OBJ id="67080" text="球員將與外野教練合作，提升守備的重要面向。透過場上練習，球員將改善右外野的臂力、守備範圍與整體守備能力。">
 <COND id="530" value="9"/>
 </OBJ>
-<OBJ id="67084" text="教練將運用影像分析與實際跑者，協助投手控制對手跑壘。投手守備訓練將著重於牽制跑者、快速朝本壘移動、牽制、補壘及其他一般守備技巧。">
+<OBJ id="67084" text="教練將運用影像分析與實際跑者，協助投手控制對手跑壘。投手守備練習將著重於牽制跑者、快速朝本壘動作、牽制、補位及其他一般守備技巧。">
 <COND id="530" value="1"/>
 <COND id="142" value="1985"/>
 </OBJ>
@@ -193804,7 +193804,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="530" value="3"/>
 </OBJ>
 <OBJ id="67104">
-<TXT>教練將指導投手在完成投球動作後保持就位防守姿勢，提升牽制動作，並利用實戰跑者來協助掌控對手跑壘。場上的投手守備練習也將著重在看管跑者、迅速轉傳至本壘、補位以及更全面的基本守備技能。</TXT>
+<TXT>教練將指導投手在完成投球動作後保持就位防守姿勢，提升牽制動作，並利用實戰跑者來協助掌控對手跑壘。場上的投手守備練習也將著重在看管跑者、快速移動至本壘、補位以及更全面的基本守備技能。</TXT>
 <COND id="143" value="1984"/>
 <COND id="530" value="1"/>
 </OBJ><!--
@@ -193831,7 +193831,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 </CAT>
 
 <CAT id="1137">
-<OBJ id="67096" text="防護員與數據科學家將分析球員的跑步生物力學，並運用相關數據，透過活動訓練、體能強化與球感建立來協助球員進步。本計畫將提升球員的跑壘速度，同時也可能預防未來發生運動傷害。">
+<OBJ id="67096" text="防護員與數據科學家將分析球員的跑步生物力學，並運用相關數據，透過活動訓練、體能強化與動作感覺來協助球員進步。本計畫將提升球員的跑壘速度，同時也可能預防未來發生運動傷害。">
 <COND id="142" value="2010"/>
 </OBJ>
 <OBJ id="67113" text="防護員與教練將分析球員的跑步機制，並透過活動訓練、體能強化與球感建立來協助進步。本計畫將提升球員的跑壘速度，同時也可能預防未來發生運動傷害。">
@@ -193951,22 +193951,22 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 
 <CAT id="1148">
 <OBJ id="67090">
-<TXT>打者將與球隊教練及數據科學家密切合作，運用多種科技分析生物力學、視線追蹤、揮棒路徑與打擊設定。這些回饋能協助球員在投手出手時更清楚看清球路、纏鬥邊角球，並將更多球打進場內。在計畫結束時，球員將有效降低被三振率，甚至有能力自主進一步改善。</TXT>
+<TXT>打者將與球隊教練及數據科學家密切合作，運用多種科技分析生物力學、視線追蹤、揮棒路徑與打擊策略。這些回饋能協助球員在投手出手時更清楚看清球路、纏鬥邊角球，並將更多球打進場內。在計畫結束時，球員將有效降低被三振率，甚至有能力自主進一步改善。</TXT>
 <COND id="142" value="2010"/>
 </OBJ>
 <OBJ id="67108">
-<TXT>打者將與球隊教練密切合作，分析自身的動作機制、眼部與頭部動態、揮棒路徑與打擊設定。這些回饋能協助球員在投手出手時更清楚看清球路、纏鬥邊角球，並將更多球打進場內。在計畫結束時，球員將有效降低被三振率，甚至有能力自主進一步改善。</TXT>
+<TXT>打者將與球隊教練密切合作，分析自身的動作機制、眼部與頭部動態、揮棒路徑與打擊策略。這些回饋能協助球員在投手出手時更清楚看清球路、纏鬥邊角球，並將更多球打進場內。在計畫結束時，球員將有效降低被三振率，甚至有能力自主進一步改善。</TXT>
 <COND id="143" value="2009"/>
 </OBJ>
 </CAT>
 
 <CAT id="1149">
 <OBJ id="67094">
-<TXT>打者將與球隊教練及數據科學家密切合作，運用多種科技分析生物力學、揮棒路徑與擊球數據。透過這些回饋，教練將協助球員調整擊球機制與擊球仰角等，以提升全壘打威力。此外，球員還將與防護員配合專注於核心肌群、下盤爆發力、肌力與柔軟度的體能訓練。在計畫結束時，球員將大幅發揮全壘打長打潛力，甚至為未來的進一步成長鋪路。</TXT>
+<TXT>打者將與球隊教練及數據科學家密切合作，運用多種科技分析生物力學、揮棒路徑與擊球數據。透過這些回饋，教練將協助球員調整擊球機制與擊球仰角等，以提升全壘打威力。此外，球員還將與防護員配合專注於核心肌群、下盤爆發力、肌力與柔軟度的體能訓練。在計畫結束時，球員將大幅發揮長打潛力，甚至為未來的進一步成長鋪路。</TXT>
 <COND id="142" value="2010"/>
 </OBJ>
 <OBJ id="67111">
-<TXT>打者將與球隊教練密切合作，調整擊球機制與打擊策略等，以提升全壘打威力。此外，球員還將與防護員配合專注於核心肌群、下盤爆發力、肌力與柔軟度的體能訓練。在計畫結束時，球員將大幅發揮全壘打長打潛力，甚至為未來的進一步成長鋪路。</TXT>
+<TXT>打者將與球隊教練密切合作，調整擊球機制與打擊策略等，以提升全壘打威力。此外，球員還將與防護員配合專注於核心肌群、下盤爆發力、肌力與柔軟度的體能訓練。在計畫結束時，球員將大幅發揮長打潛力，甚至為未來的進一步成長鋪路。</TXT>
 <COND id="143" value="2009"/>
 </OBJ>
 </CAT>
@@ -193977,11 +193977,11 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 
 <CAT id="1151">
 <OBJ id="67073">
-<TXT>本計畫著重於為投手的球路庫增添新球種。投手將與球隊教練及數據科學家合作，運用投球追蹤數據練出有效的新球種。雖然在訓練結束時可能尚未達實戰水準，但未來有潛力發展成一記強大殺器。</TXT>
+<TXT>本計畫著重於為投手增添一種球路。投手將與球隊教練及數據科學家合作，運用投球追蹤數據練出有效的新球種。雖然在訓練結束時可能尚未達實戰水準，但未來有潛力發展成強而有力的球種。</TXT>
 <COND id="142" value="2010"/>
 </OBJ>
 <OBJ id="67110">
-<TXT>本計畫著重於為投手的球路庫增添新球種。投手將與球隊教練合作以掌握新球種的優良手感。雖然在訓練結束時可能尚未達實戰水準，但未來有潛力發展成一記強大殺器。</TXT>
+<TXT>本計畫著重於為投手增添一種球路。投手將與球隊教練合作以掌握新球種的優良手感。雖然在訓練結束時可能尚未達實戰水準，但未來有潛力發展成強而有力的球種。</TXT>
 <COND id="143" value="2009"/>
 </OBJ>
 </CAT>
@@ -193999,12 +193999,12 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="531" value="0"/>
 </OBJ>
 <OBJ id="67117">
-<TXT>很遺憾地，[%personname] 在壘包上的跑動似乎超出了他所能負荷的極限，卻完全沒有學到任何新東西。他目前反應腿部有些微緊繃，以他的年紀來看，所有場上高強度重複練習帶來的唯一結果，恐怕只會讓他的腿更容易感到疼痛。</TXT>
+<TXT>很遺憾地，[%personname]在壘包上的跑動似乎超出了他所能負荷的極限，卻完全沒有學到任何新東西。他目前反應腿部有些微緊繃，以他的年紀來看，所有場上反覆練習帶來的唯一結果，恐怕只會讓他的腿更容易感到疼痛。</TXT>
 <COND id="525" value="0"/>
 <COND id="531" value="0"/>
 <COND id="7" value="31"/>
 </OBJ>
-<OBJ id="67118" text="遺憾的是，即使付出了努力，[%personname] 在跑壘方面仍未見任何顯著進步。我預期他在壘線上的表現大概就維持生涯一貫的水準。">
+<OBJ id="67118" text="遺憾的是，即使付出了努力，[%personname]在跑壘方面仍未見任何顯著進步。我預期他的跑壘表現大概就維持生涯一貫的水準。">
 <COND id="525" value="1"/>
 <COND id="531" value="0"/>
 </OBJ><!--
@@ -194049,7 +194049,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="531" value="0"/>
 <COND id="523" value="55"/>
 </OBJ>
-<OBJ id="67126" text="經過大量反覆練習、充分判讀飛球與滾地球，並培養出良好跑壘直覺後，我可以肯定地說，他接下來在壘包間的表現會更好。">
+<OBJ id="67126" text="經過大量反覆練習、充分判讀飛球與滾地球，並培養出良好跑壘直覺後，我可以肯定地說，他接下來在跑壘上的表現會更好。">
 <COND id="525" value="2"/>
 <COND id="531" value="0"/>
 </OBJ><!--
@@ -194058,13 +194058,13 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="531" value="0"/>
 </OBJ>-->
 <OBJ id="67128">
-<TXT>一切都很順利，他確實掌握了教練團傳授的觀念。訓練接近尾聲時，他被觸殺出局或誤判球路的次數，比剛開始時少得多。你大可放心，他下個球季在壘包間會更聰明。</TXT>
+<TXT>一切都很順利，他確實掌握了教練團傳授的觀念。訓練接近尾聲時，他出局或誤判球路的次數，比剛開始時少得多。</TXT>
 <COND id="525" value="2"/>
 <COND id="531" value="0"/>
 <COND id="36" value="4"/>
 </OBJ>
 <OBJ id="67129">
-<TXT>[%personname]在培訓中心的訓練表現極佳！和剛進培訓中心時相比，我看到他在跑壘各方面都有大幅進步。下個球季，他在壘包間的表現肯定會明顯優於從前。</TXT>
+<TXT>[%personname]在培訓中心的訓練表現極佳！和剛進培訓中心時相比，我看到他在跑壘各方面都有大幅進步。下個球季，他在跑壘上的表現肯定會明顯優於從前。</TXT>
 <COND id="525" value="3"/>
 <COND id="531" value="0"/>
 </OBJ><!--
@@ -194147,13 +194147,13 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="531" value="0"/>
 </OBJ>-->
 <OBJ id="67137">
-<TXT>[%personname]有許多人員協助，卻始終看不出投入，如今也沒有留下任何成果。儘管有人建議調整他的打擊姿勢與雙手位置，他幾乎沒嘗試實際套用。或許隨著更多時間與反覆練習他能進步，但以目前情況來看，我不預期他今年會有更好的表現。</TXT>
+<TXT>[%personname]有許多人員協助，卻始終看不出投入，如今也沒有留下任何成果。儘管有人建議調整他的觸擊姿勢與雙手位置，他幾乎沒嘗試實際套用。或許隨著更多時間與反覆練習他能進步，但以目前情況來看，我不預期他今年會有更好的表現。</TXT>
 <COND id="525" value="1"/>
 <COND id="531" value="0"/>
 <COND id="37" value="1"/>
 </OBJ>
 <OBJ id="67138">
-<TXT>[%personname]有許多人員協助，卻始終看不出投入，如今也沒有留下任何成果。儘管有人建議調整他的打擊姿勢與雙手位置，他幾乎沒嘗試實際套用。或許隨著更多時間與反覆練習他能進步，但以目前情況來看，我不預期他今年會有更好的表現。</TXT>
+<TXT>[%personname]有許多人員協助，卻始終看不出投入，如今也沒有留下任何成果。儘管有人建議調整他的觸擊姿勢與雙手位置，他幾乎沒嘗試實際套用。或許隨著更多時間與反覆練習他能進步，但以目前情況來看，我不預期他今年會有更好的表現。</TXT>
 <COND id="525" value="1"/>
 <COND id="531" value="0"/>
 <COND id="524" value="40"/>
@@ -194199,7 +194199,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="7" value="31"/>
 </OBJ>
 <OBJ id="67146">
-<TXT>[%personname]在培訓中心的訓練表現極佳！無論突襲短打或犧牲短打，我都看見他有大幅進步。下個球季，期待他在這兩種短打時都能更穩定地點成功。</TXT>
+<TXT>[%personname]在培訓中心的訓練表現極佳！無論突襲短打或犧牲短打，我都看見他有大幅進步。下個球季，期待他在突襲短打與犧牲短打時都能更穩定地點成功。</TXT>
 <COND id="525" value="3"/>
 <COND id="531" value="0"/>
 </OBJ><!--
@@ -194210,7 +194210,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="531" value="0"/>
 </OBJ>-->
 <OBJ id="68511">
-<TXT>他的觸擊訓練完全不順利。他正在嘗試調整打擊姿勢與動作，但目前實在還沒抓到訣竅。訓練師希望度過初期學習曲線後，他能真正有所進步；但以現況來看，他比開始前更差。</TXT>
+<TXT>他的觸擊訓練完全不順利。他正在嘗試調整觸擊姿勢與動作，但目前實在還沒抓到訣竅。訓練師希望度過初期學習曲線後，他能真正有所進步；但以現況來看，他比開始前更差。</TXT>
 <COND id="525" value="0"/>
 <COND id="531" value="1"/>
 </OBJ>
@@ -194228,7 +194228,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="531" value="1"/>
 <COND id="524" value="40"/>
 </OBJ>
-<OBJ id="68515" text="[%personname]正對觸擊做出不錯的微調，包括調整打擊姿勢與握棒雙手的位置。這些改變看似正在發揮作用，並應能在訓練結束時帶來具體成果。">
+<OBJ id="68515" text="[%personname]正對觸擊做出不錯的微調，包括調整觸擊姿勢與握棒雙手的位置。這些改變看似正在發揮作用，並應能在訓練結束時帶來具體成果。">
 <COND id="525" value="2"/>
 <COND id="531" value="1"/>
 </OBJ><!--
@@ -194261,7 +194261,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="531" value="0"/>
 </OBJ>
 <OBJ id="67150">
-<TXT>很可惜，即使投入了努力，[%personname]仍未能讓擊球有明顯進步。依據收到的回饋，他做了一些微調，但始終沒有真正開竅。這些小改變看不出負面影響，他或許仍有進步空間；但我預期這次訓練不會讓他下個球季出現明顯變化。</TXT>
+<TXT>很可惜，即使投入了努力，[%personname]仍未能讓擊球有明顯進步。依據收到的回饋意見，他做了一些微調，但始終沒有真正開竅。這些小改變看不出負面影響，他或許仍有進步空間；但我預期這次訓練不會讓他下個球季出現明顯變化。</TXT>
 <COND id="525" value="1"/>
 <COND id="531" value="0"/>
 </OBJ><!--
@@ -194288,7 +194288,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="37" value="1"/>
 </OBJ>
 <OBJ id="67155">
-<TXT>[%personname]有許多人員協助，卻始終看不出投入，如今也沒有留下任何成果。儘管有人建議透過訓練與練習，讓他能更晚轉動髖部以增加擊中慢速球路的機會，他幾乎沒認真嘗試。或許隨著更多時間與反覆練習他能進步，但以目前情況來看，我不預期他今年會有更好的表現。</TXT>
+<TXT>[%personname]有許多人員協助，卻始終看不出投入，如今也沒有留下任何成果。儘管有人建議透過訓練與練習，讓他能更晚轉動髖部以增加擊中慢速球路的機會，他幾乎沒努力嘗試。或許隨著更多時間與反覆練習他能進步，但以目前情況來看，我不預期他今年會有更好的表現。</TXT>
 <COND id="525" value="1"/>
 <COND id="531" value="0"/>
 <COND id="524" value="30"/>
@@ -194474,7 +194474,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="531" value="0"/>
 </OBJ>
 <OBJ id="67194">
-<TXT>[%personname]與教練及訓練員密切配合，並努力落實他們的意見回饋，但似乎沒有任何方法能真正讓他突破瓶頸。團隊找出了幾處需要加強的環節，卻始終找不到能帶來關鍵改變的訓練項目或演練。這種情況偶爾會發生，唯一的壞處就是他的時間與精力毫無所獲。</TXT>
+<TXT>[%personname]與教練及訓練員密切配合，並努力落實他們的建議，但似乎沒有任何方法能真正讓他突破瓶頸。團隊找出了幾處需要加強的環節，卻始終找不到能帶來關鍵改變的訓練項目或演練。這種情況偶爾會發生，唯一的壞處就是他的時間與精力毫無所獲。</TXT>
 <COND id="525" value="1"/>
 <COND id="531" value="0"/>
 </OBJ>
@@ -194712,7 +194712,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="531" value="0"/>
 </OBJ>
 <OBJ id="67223">
-<TXT>[%personname]與教練及訓練員密切合作，也試著落實他們的回饋，但似乎沒有任何方法能讓他再上一層樓。工作人員找出幾個需要改善的部分，卻始終找不到能帶來差異的訓練或練習。有時就是會這樣，唯一的損失是他的時間與努力沒有得到回報。</TXT>
+<TXT>[%personname]與教練及防護員密切合作，也試著落實他們的建議，但似乎沒有任何方法能讓他再上一層樓。工作人員找出幾個需要改善的部分，卻始終找不到能帶來差異的訓練或練習。有時就是會這樣，唯一的損失是他的時間與努力沒有得到回報。</TXT>
 <COND id="525" value="1"/>
 <COND id="531" value="0"/>
 </OBJ>
@@ -194773,13 +194773,13 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="535" value="4"/>
 </OBJ>
 <OBJ id="67234">
-<TXT>[%personname]與防護團隊密切合作，他們為他量身打造的訓練計畫確實發揮了效果。隨著各項訓練推進，我看到他的各項守備能力都有穩定提升。相較於全聯盟水準，守備一直是他球技中較弱的一環，因此看到這樣的進步非常令人欣慰！</TXT>
+<TXT>[%personname]與訓練團隊密切合作，他們為他量身打造的訓練計畫確實發揮了效果。隨著各項訓練推進，我看到他的各項守備能力都有穩定提升。相較於全聯盟水準，守備一直是他球技中較弱的一環，因此看到這樣的進步非常令人欣慰！</TXT>
 <COND id="525" value="2"/>
 <COND id="531" value="0"/>
 <COND id="532" value="2"/>
 </OBJ>
 <OBJ id="67235">
-<TXT>[%personname]在訓練計畫中的表現令人驚豔！他充分運用了現有的各項資源，配合的團隊成員在溝通上毫無障礙，各項回饋也都獲得了極佳的落實。可以預期他在守備端將迎來大幅進步，遠遠超越以往的表現。
+<TXT>[%personname]在訓練計畫中的表現令人驚豔！他充分運用了現有的各項資源，配合的團隊成員在溝通上毫無障礙，他也能熟練地落實各項建議。可以預期他在守備端將迎來大幅進步，遠遠超越以往的表現。
 
 </TXT>
 <COND id="525" value="3"/>
@@ -194921,7 +194921,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="531" value="1"/>
 </OBJ>
 <OBJ id="68571">
-<TXT>遺憾的是，在擺在眼前的訓練計畫面前，他並沒有全力以赴。如果不逼自己一把，在健身房的苦練將毫無用處，我看不到他的力量或柔軟度有進步的可能。他需要防護員好好敲打一番，這套計畫才有一絲發揮效果的希望。</TXT>
+<TXT>遺憾的是，他並沒有全力執行眼前安排的訓練計畫。如果不逼自己一把，在健身房的訓練將毫無用處，我看不出他的力量或柔軟度會有所提升。防護員得好好鞭策他，他才有希望從這套計畫中獲益。</TXT>
 <COND id="525" value="1"/>
 <COND id="531" value="1"/>
 <COND id="37" value="2"/>
@@ -194931,7 +194931,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="531" value="1"/>
 </OBJ>
 <OBJ id="68573">
-<TXT>[%personname]一直與防護員專注於手臂調整與下半身強化。他持續在健身房鍛鍊、丟加重球等。到目前為止看來成效不錯，但在他完全結束計畫前，我們還無法得知最終成果。</TXT>
+<TXT>[%personname]一直與防護員專注於手臂體能訓練與下半身強化。他持續在健身房鍛鍊、投擲加重球等。到目前為止看來成效不錯，但在他完全結束計畫前，我們還無法得知最終成果。</TXT>
 <COND id="525" value="2"/>
 <COND id="531" value="1"/>
 <COND id="72" value="1"/>
@@ -194943,7 +194943,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="72" value="14"/>
 </OBJ>
 <OBJ id="68575">
-<TXT>[%personname]一直將重心高度放在手臂調整與下半身爆發力上。防護員為他安排的課表重度依賴重量訓練、加重球、阻力訓練以及基礎體能。我已經注意到他的力量明顯提升，投球機制效率也有所改善。這甚至反映在他的牛棚練投中，他的球速已經開始刷新個人最佳紀錄。因此，只要他保持下去，這不僅有助於他的耐打度，還可能帶來球速的提升。</TXT>
+<TXT>[%personname]一直將重心高度放在手臂體能訓練與下半身爆發力上。防護員為他安排的課表重度依賴重量訓練、加重球、阻力訓練以及基礎體能。我已經注意到他的力量明顯提升，投球機制效率也有所改善。這甚至反映在他的牛棚練投中，他的球速已經開始刷新個人最佳紀錄。因此，只要他保持下去，這不僅有助於他的耐打度，還可能帶來球速的提升。</TXT>
 <COND id="525" value="3"/>
 <COND id="531" value="1"/>
 <COND id="72" value="1"/>
@@ -194972,7 +194972,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 
 <CAT id="1162">
 <OBJ id="67607">
-<TXT>遺憾的是，訓練成效非常糟糕。[%personname]無法領會防護團隊的建議，他嘗試調整的動作似乎只帶來了負面影響。不知何故，他很難看清楚球從投手手中出手的軌跡，也難以判讀球路旋轉。似乎是為了矯正過度，我開始注意到他面對邊角球時猶豫不決，對慢速球路也更容易呆立原地被凍結。遺憾的是，他目前避免被三振的能力似乎受到了這些調整嘗試的負面打擊，我預期他需要一段時間才能找回原有身手。</TXT>
+<TXT>遺憾的是，訓練成效非常糟糕。[%personname]無法領會防護團隊的建議，他嘗試調整的動作似乎只帶來了負面影響。不知何故，他很難看清楚球從投手手中出手的軌跡，也難以判讀球路旋轉。似乎因為過度矯正，我開始注意到他面對邊角球時猶豫不決，對慢速球路也更常僵在原地。遺憾的是，他目前避免被三振的能力似乎受到了這些調整嘗試的負面影響，我預期他需要一段時間才能找回原有身手。</TXT>
 <COND id="525" value="0"/>
 <COND id="531" value="0"/>
 </OBJ>
@@ -195035,7 +195035,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="36" value="4"/>
 </OBJ>
 <OBJ id="67619">
-<TXT>你大概不會相信，訓練師在入隊體檢時發現[%personname]有視力問題，而[%personname]承認自己多年沒看眼科。替他配了合適的運動眼鏡後，他說自己更能看清投手出手後的來球。經過大量練習，他適應得相當好，選球耐心也明顯進步。沒錯，隊友可能會拿他開點玩笑，但如今不只是事後回看才看得清楚。因此，我預期[%personname]在比賽中的打擊紀律會更好，畢竟他現在真的看得見球了……</TXT>
+<TXT>你大概不會相信，防護員在入隊體檢時發現[%personname]有視力問題，而[%personname]承認自己多年沒看眼科。替他配了合適的運動眼鏡後，他說自己更能看清投手出手後的來球。經過大量練習，他適應得相當好，選球耐心也明顯進步。沒錯，隊友可能會拿他開點玩笑，但現在視力真的變好了。因此，我預期[%personname]在比賽中的打擊紀律會更好，畢竟他現在真的看得見球了……</TXT>
 <COND id="525" value="2"/>
 <COND id="531" value="0"/>
 <COND id="143" value="1980"/>
@@ -195137,7 +195137,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="38" value="4"/>
 </OBJ>
 <OBJ id="67630">
-<TXT>身為老將，[%personname]對自己的揮棒有很深的理解。因此，訓練基地教練很容易與他溝通，並依需求調整。最後，他的動作機制進行了一些微調，似乎有助於他維持更久的收棒姿勢，並更好地將球打進外野空檔。</TXT>
+<TXT>身為老將，[%personname]對自己的揮棒有很深的理解。因此，訓練基地教練很容易與他溝通，並依需求調整。最後，他的動作機制進行了一些微調，似乎有助於他維持更久的蓄力，並更好地將球打進外野空檔。</TXT>
 <COND id="525" value="2"/>
 <COND id="531" value="0"/>
 <COND id="7" value="34"/>
@@ -195243,7 +195243,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="535" value="4"/>
 </OBJ>
 <OBJ id="67642">
-<TXT>[%personname]在養成訓練基地的表現非常出色。教練團針對他的投打機制與兩好球擊球策略所做的微調，似乎讓他提升到全新層次。訓練結束時，他已大幅縮短兩好球後的揮棒幅度，讓他能把更多刁鑽的球破壞成界外。這不僅明顯提升了他目前避免被三振的能力，我也認為這些改變同時拉高了他的天花板潛力。</TXT>
+<TXT>[%personname]在養成訓練基地的表現非常出色。教練團針對他的打擊機制與兩好球擊球策略所做的微調，似乎讓他提升到全新層次。訓練結束時，他已大幅縮短兩好球後的揮棒幅度，讓他能把更多刁鑽的球破壞成界外。這不僅明顯提升了他目前避免被三振的能力，我也認為這些改變同時拉高了他的天花板潛力。</TXT>
 <COND id="525" value="3"/>
 <COND id="531" value="0"/>
 </OBJ>
@@ -195287,7 +195287,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 
 <CAT id="1165">
 <OBJ id="67643">
-<TXT>遺憾的是，對[%personname]來說，這次的訓練成果似乎非常糟糕。教練們曾協助他提升球的轉速能力，但結果卻導致他的出手點改變，而且他始終抓不到手感。因此，他表現出令人遺憾的控球不良問題。雖然在他需要站上投手丘時或許能夠穩住制球力，但更令人擔憂的改變是整體球速的下滑。球離開他手中的竄勁似乎不如以往。與訓練前相比，他確實出現了退步。</TXT>
+<TXT>遺憾的是，對[%personname]來說，這次的訓練成果似乎非常糟糕。教練們曾協助他提升球的旋轉能力，但結果卻導致他的出手點改變，而且他始終抓不到手感。因此，他的控球表現不佳。雖然等到他需要登板時或許能找回精準控球，但更令人擔憂的是整體球速下滑。球離開他手中的竄勁似乎不如以往。與訓練前相比，他確實退步了。</TXT>
 <COND id="525" value="0"/>
 <COND id="531" value="0"/>
 </OBJ>
@@ -195308,7 +195308,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="534" value="1"/>
 </OBJ>
 <OBJ id="67647">
-<TXT>[%personname]在訓練期間展現出對好球帶的敏銳嗅覺，但他的球路進壘時缺乏尾勁、相當平庸。這太常導致他把球投進好球帶偏甜位置，進而被轟出全壘打牆。我們的投手教練建議他藉由縮短投球跨步並在隨球動作中保持身體挺直來修正投球機制，以便能更從上方把球下壓出手。[%personname]在與指導員合作時很好地吸收了這項建議，如今他的球路避開打者甜蜜點的位移表現改善許多，因此我們可以預期他進入本球季時會被敲出較少全壘打。</TXT>
+<TXT>[%personname]在訓練期間展現出對好球帶的敏銳嗅覺，但他的球路進壘時缺乏尾勁、相當平庸。他經常把球投到好球帶正中央，結果被轟出牆外。我們的投手教練建議他藉由縮短投球跨步並在隨球動作中保持身體挺直，修正投球機制，以便能從球的上方出手。[%personname]在與指導員合作時很好地吸收了這項建議，如今他能讓球路更有效遠離打者甜蜜點，因此我們可以預期他進入本球季時會被敲出較少全壘打。</TXT>
 <COND id="525" value="2"/>
 <COND id="531" value="0"/>
 </OBJ><!--
@@ -195318,7 +195318,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="531" value="0"/>
 </OBJ>-->
 <OBJ id="67649">
-<TXT>[%personname]在養成訓練基地的表現好得驚人。教練團調整了他的放球臂角度，以最大化他天生產生的轉速，這似乎讓他提升到了另一個境界。他的速球更具欺騙性，慢速球路也避開了更多甜蜜點擊球。他不僅明顯提升了現有的球路位移，我也覺得他提高了自己的潛力上限。</TXT>
+<TXT>[%personname]在養成訓練基地的表現好得驚人。教練團調整了他的放球手臂角度，以最大化他天生產生的轉速，這似乎讓他提升到了另一個境界。他的速球更具欺騙性，慢速球路也讓打者更難紮實擊球。他不僅明顯提升了現有的球路位移，我也覺得他提高了球路位移的潛力。</TXT>
 <COND id="525" value="3"/>
 <COND id="531" value="0"/>
 </OBJ>
@@ -195353,7 +195353,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="531" value="1"/>
 </OBJ>-->
 <OBJ id="68560">
-<TXT>他的訓練到目前為止表現令人難以置信。透過與教練團密切合作調整出手的動作機制，他的球路對打者來說具備更強大的欺騙性。在實戰打擊練習中，他已經能讓更多球避開打者的甜蜜點。照這個進度看來，我不僅預期他能改善目前的球路位移，甚至可能拉高他潛在的位移上限。</TXT>
+<TXT>他的訓練到目前為止進展極佳。透過與教練團密切合作調整出手動作，他的球路對打者來說具備更強大的欺騙性。在實戰打擊練習中，他已經能讓打者更難紮實擊球。照這個進度看來，我不僅預期他能改善目前的球路位移，甚至可能拉高他潛在的位移上限。</TXT>
 <COND id="525" value="3"/>
 <COND id="531" value="1"/>
 </OBJ>
@@ -195361,7 +195361,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 
 <CAT id="1166">
 <OBJ id="67695">
-<TXT>[%personname]的進展並不順利。訓練基地的投手教練和他討論了幾種他們認為能增加球路深度的球種。最終，大家都同意嘗試學習[%devlab pitch]，但[%personname l]卻練得相當掙扎。更糟糕的是，由於用不正確的姿勢進行高強度的大量重複投球，他的手臂似乎出現過度耗損。我無法確定這是否會對未來造成影響，但您可能會發現他無法負擔那麼多投球局數，或者手臂受傷的風險可能更高。</TXT>
+<TXT>[%personname]的進展並不順利。訓練基地的投手教練和他討論了幾種他們認為能增加球路深度的球種。最終，大家都同意嘗試學習[%devlab pitch]，但[%personname l]卻練得相當掙扎。更糟糕的是，由於以不正確的姿勢大量反覆練投，他的手臂似乎出現過度耗損。我無法確定這是否會對未來造成影響，但您可能會發現他無法負擔那麼多投球局數，或者手臂受傷的風險可能更高。</TXT>
 <COND id="525" value="0"/>
 <COND id="531" value="0"/>
 </OBJ>
@@ -195407,7 +195407,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="350" value="1"/>
 </OBJ>
 <OBJ id="67703">
-<TXT>養成實驗室的教練與數據科學家與[%personname]密切合作，協助他開發新球路。他們從最初的入館評估開始，蒐集生物力學數據以確定哪種球路最契合他的機制與天生身體動作。當時有幾種可能性，但[%personname l]擁有最終決定權，而他決定學習[%devlab pitch]。接著在投球追蹤科技與教練的協助下，[%personname l]逐步改良這顆球，同時監測其轉速、轉速效率、位移幅度等數據。最終他抓到了手感，雖然這顆球未必能在開季時就立刻大放異彩，但假以時日，我相信它具備相當的潛力。</TXT>
+<TXT>養成實驗室的教練與數據科學家與[%personname]密切合作，協助他開發新球路。他們從最初的入館評估開始，蒐集生物力學數據以確定哪種球路最契合他的機制與天生身體動作。當時有幾種可能性，但[%personname l]擁有最終決定權，而他決定學習[%devlab pitch]。接著在投球追蹤科技與教練的協助下，[%personname l]逐步改良這顆球，同時監測其轉速、轉速效率、位移幅度等數據。最終他抓到了手感，雖然這顆球一開始未必就能立刻大放異彩，但假以時日，我相信它具備相當的潛力。</TXT>
 <COND id="525" value="2"/>
 <COND id="531" value="0"/>
 <COND id="142" value="2010"/>
@@ -195440,7 +195440,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="72" value="19"/>
 </OBJ>
 <OBJ id="68643">
-<TXT>在與[%personname l]完成詳細的入館評估後，教練們認定[%devlab pitch]非常適合納入他的球種組合中。[%devlab pitch]與他其他球路形成的速差與對比，應該能提升整體球威的強度。值得慶幸的是，[%personname l]在訓練計畫中似乎完全步上正軌，等到訓練結束時，這顆球應當能被證明為具備實戰價值的可用球路。</TXT>
+<TXT>在與[%personname l]完成詳細的入館評估後，教練們認定[%devlab pitch]非常適合納入他的球種組合中。[%devlab pitch]與他其他球路形成的對比，應該能提升整體球路的威力。值得慶幸的是，[%personname l]在訓練計畫中似乎完全步上正軌，等到訓練結束時，這顆球應當能成為具備實戰價值的可用球路。</TXT>
 <COND id="525" value="2"/>
 <COND id="531" value="1"/>
 </OBJ>
@@ -195596,7 +195596,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 
 <CAT id="1169">
 <OBJ id="67712">
-<TXT>[%personname]的訓練並不順利。投手教練想協助他改善[%devlab pitch]，但[%personname l]遭遇嚴重挫折，完全無法讓這顆球進步。他的投球動作也經常跑掉，且多次過度用力投球，似乎已讓手臂疲勞。我無法斷定這是否會在未來造成問題，但你可能會發現他無法投那麼多局，或更容易出現手臂傷勢。</TXT>
+<TXT>[%personname]的訓練並不順利。投手教練想協助他改善[%devlab pitch]，但[%personname l]遭遇嚴重挫折，完全無法讓這顆球進步。他的投球機制也經常跑掉，且多次過度用力投球，似乎已讓手臂疲勞。我無法斷定這是否會在未來造成問題，但你可能會發現他無法投那麼多局，或更容易出現手臂傷勢。</TXT>
 <COND id="525" value="0"/>
 <COND id="531" value="0"/>
 </OBJ>
@@ -195697,12 +195697,12 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="531" value="0"/>
 </OBJ>
 <OBJ id="68520">
-<TXT>[%personname]一直與防護員合作改善爆發力與下肢驅動力。然而，由於這些調整，他的跑壘動作開始顯得相當僵硬。雖然我希望這只是初期的適應期，但他也有可能無法達到預期進度，連帶對肌肉記憶造成負面影響。</TXT>
+<TXT>[%personname]一直與防護員合作改善爆發力與下肢驅動力。然而，由於這些調整，他的跑步動作開始顯得相當僵硬。雖然我希望這只是初期的適應期，但他也有可能無法達到預期進度，連帶對肌肉記憶造成負面影響。</TXT>
 <COND id="525" value="0"/>
 <COND id="531" value="1"/>
 </OBJ>
 <OBJ id="68521">
-<TXT>雖然他一直與防護員密切配合，但我還沒看到他的跑壘技巧或速度有任何顯著提升。在剩下的時間裡他或許還有進步的空間，但目前看來，在訓練計畫結束時恐怕很難提升速度。</TXT>
+<TXT>雖然他一直與防護員密切配合，但我還沒看到他的跑步技巧或速度有任何顯著提升。在剩下的時間裡他或許還有進步的空間，但目前看來，在訓練計畫結束時恐怕很難提升速度。</TXT>
 <COND id="525" value="1"/>
 <COND id="531" value="1"/>
 </OBJ><!--
@@ -195716,7 +195716,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="531" value="1"/>
 </OBJ>
 <OBJ id="68524">
-<TXT>他持續出席訓練，並已展現出跑壘速度提升的跡象。雖然他還需要時間來穩定新的跑壘機制，但只要他能保持這個進步節奏，我看好他能帶來扎實且持久的進步。</TXT>
+<TXT>他持續出席訓練，並已展現出跑步速度提升的跡象。雖然他還需要時間來穩定新的跑步機制，但只要他能保持這個進步節奏，我看好他能取得扎實且持久的進步。</TXT>
 <COND id="525" value="2"/>
 <COND id="531" value="1"/>
 <COND id="38" value="4"/>
@@ -195730,7 +195730,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 
 <CAT id="1171">
 <OBJ id="67664">
-<TXT>基地的隨隊人員在重訓室與[%personname]密切配合，進行重量訓練以期強化臂力。可惜他的自尊心作祟，在伸展與恢復上只付出部分心力，到計畫結束時似乎還失去了一些柔軟度。雖然我認為這沒有影響到他的體力，但他的球速略有下滑，而且我預期他手臂受傷的風險可能會提高。</TXT>
+<TXT>基地人員在重訓室與[%personname]密切配合，進行重量訓練以期強化臂力。可惜他的自尊心作祟，在伸展與恢復上只付出部分心力，到計畫結束時似乎還失去了一些柔軟度。雖然我認為這沒有影響到他的體力，但他的球速略有下滑，而且我預期他手臂受傷的風險可能會提高。</TXT>
 <COND id="525" value="0"/>
 <COND id="531" value="0"/>
 </OBJ>
@@ -195756,13 +195756,13 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="37" value="1"/>
 </OBJ>
 <OBJ id="67669">
-<TXT>防護員與教練團為[%personname]制定了一套全新的動態熱身與收操課表，讓他可以根據當天手臂的感覺調整不同項目。教練團認為只要按部就班執行，他在進入投球階段時手臂熱開的程度會更好，賽後恢復也會更快。不幸的是，[%personname]並不理解不同訓練項目的重要性與背後原因，無法落實這些練習。因此，隨隊人員決定讓他換回原本死板的舊習慣，即便那對他的體力沒有任何幫助。</TXT>
+<TXT>防護員與教練團為[%personname]制定了一套全新的動態熱身與收操課表，讓他可以根據當天手臂的感覺調整不同項目。教練團認為只要按部就班執行，他在進入投球階段時手臂熱開的程度會更好，賽後恢復也會更快。不幸的是，[%personname]並不理解不同訓練項目的重要性與背後原因，無法落實這些練習。因此，隨隊人員決定讓他換回原本固定的舊訓練課表，即便那對他的體力沒有任何幫助。</TXT>
 <COND id="525" value="1"/>
 <COND id="531" value="0"/>
 <COND id="35" value="1"/>
 </OBJ>
 <OBJ id="67670">
-<TXT>[%personname]透過勤奮的重訓與體能調整，與防護員密切合作以提升他在投手丘上的耐力。事實上，我看到他的體力有了些許提升，如果下球季有需要，他現在或許能在長中繼拉長投球局數。</TXT>
+<TXT>[%personname]透過勤奮的重訓與體能調整，與防護員密切合作以提升他在投手丘上的耐力。事實上，我看到他的體力有了些許提升，如果下球季有需要，他現在或許能擔任長中繼並拉長投球局數。</TXT>
 <COND id="525" value="2"/>
 <COND id="531" value="0"/>
 </OBJ>
@@ -195810,12 +195810,12 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 
 <CAT id="1172">
 <OBJ id="67672">
-<TXT>基地的隨隊人員在重訓室與[%personname]密切配合，進行重量訓練以期強化臂力。可惜他的自尊心作祟，在伸展與恢復上只付出部分心力，到計畫結束時似乎還失去了一些柔軟度。雖然我認為這沒有影響到他的體力，但他的球速略有下滑，而且我預期他手臂受傷的風險可能會提高。</TXT>
+<TXT>基地人員在重訓室與[%personname]密切配合，進行重量訓練以期強化臂力。可惜他的自尊心作祟，在伸展與恢復上只付出部分心力，到計畫結束時似乎還失去了一些柔軟度。雖然我認為這沒有影響到他的體力，但他的球速略有下滑，而且我預期他手臂受傷的風險可能會提高。</TXT>
 <COND id="525" value="0"/>
 <COND id="531" value="0"/>
 </OBJ>
 <OBJ id="67673">
-<TXT>教練團與訓練人員嘗試讓[%personname]採用特別設計的加重球訓練計畫，其中還包含了遠投、全力下壓投球等項目，希望能強化他的臂力。可惜的是，這種方式對他似乎沒有效果，而且與剛開始相比，到訓練結束時我也沒看到他能在牛棚練投中投得更深入。</TXT>
+<TXT>教練團與訓練人員嘗試讓[%personname]採用特別設計的加重球訓練計畫，其中還包含了遠投、全力下壓投球等項目，希望能強化他的臂力。可惜的是，這種方式對他似乎沒有效果，而且與剛開始相比，到訓練結束時我也沒看到他能在牛棚練投中投得更久。</TXT>
 <COND id="525" value="1"/>
 <COND id="531" value="0"/>
 </OBJ><!--
@@ -195831,7 +195831,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="35" value="1"/>
 </OBJ>
 <OBJ id="67676">
-<TXT>教練團與訓練人員讓[%personname]加入了一套特別設計的加重球計畫，其中也包含了遠投、全力下壓投球、彈力帶訓練等，以強化他的臂力。這套計畫對他成效顯著，我也注意到在訓練結束時，他在牛棚練投能負擔的量比以往更深。</TXT>
+<TXT>教練團與訓練人員讓[%personname]加入了一套特別設計的加重球計畫，其中也包含了遠投、全力下壓投球、彈力帶訓練等，以強化他的臂力。這套計畫對他成效顯著，我也注意到在訓練結束時，他在牛棚練投中能投得比先前更久。</TXT>
 <COND id="525" value="2"/>
 <COND id="531" value="0"/>
 </OBJ><!--
@@ -195897,7 +195897,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="525" value="1"/>
 <COND id="531" value="0"/>
 </OBJ>-->
-<OBJ id="67683" text="透過在球隊基地與教練們通力合作，[%personname]全心投入於精進起跑抓抓時機的技巧。這份努力轉化為了成果，展現在他盜壘時更具爆發力的起跑上。">
+<OBJ id="67683" text="透過在球隊基地與教練們通力合作，[%personname]全心投入於精進起跑時機的技巧。這份努力轉化為了成果，展現在他盜壘時更具爆發力的起跑上。">
 <COND id="525" value="2"/>
 <COND id="531" value="0"/>
 </OBJ><!--
@@ -195963,7 +195963,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 
 <CAT id="1174">
 <OBJ id="67688">
-<TXT>這次訓練似乎適得其反，[%personname]在那段期間表現得很糟。教練團協助他調整投球動作，也安排了加重球、彈力帶等各種訓練；但這些嘗試都沒有奏效，訓練結束時他反而出現用力過猛、投球動作跑掉的情況。因此，雖然我沒有觀察到球速提升，他的來球現在更平，精準控球也明顯下滑。由於目前球路位移幅度減少，我預期下個球季打者會更容易掌握他的球，保送率也可能上升。</TXT>
+<TXT>這次訓練似乎適得其反，[%personname]在那段期間表現得很糟。教練團協助他調整投球動作，也安排了加重球、彈力帶等各種訓練；但這些嘗試都沒有奏效，訓練結束時他反而出現用力過猛、投球動作跑掉的情況。因此，雖然我沒有觀察到球速提升，他的球路現在變得更平，精準控球也明顯下滑。由於目前球路位移幅度減少，我預期下個球季打者會更容易痛擊他的球，保送率也可能上升。</TXT>
 <COND id="525" value="0"/>
 <COND id="531" value="0"/>
 </OBJ>
@@ -197003,7 +197003,7 @@ The [%devlab pitch] should give [%personname] a new tool that opposing hitters m
 </CAT>
 
 <CAT id="1194">
-<OBJ id="68668" text="[%personname]看來準備打進先發輪值"/><!--
+<OBJ id="68668" text="[%personname]看來準備擠進先發輪值"/><!--
 <OBJ id="68669" text="[%personname] has worked his way into contention for a rotation spot"/>
 <OBJ id="68670" text="[%personname] has redefined himself as more than just a bullpen arm"/>
 <OBJ id="68671" text="After stretching out his arm in the offseason, [%personname l] aims to crack into the rotation"/>
@@ -197224,7 +197224,7 @@ As the new season approaches, [%personname] feels stronger and more confident th
 <COND id="531" value="1"/>
 </OBJ>-->
 <OBJ id="68735">
-<TXT>[%personname]在防守端一直很掙扎，而這次的訓練似乎也沒有起到作用。我看過太多強勁滾地球讓他處理得狼狽不堪，更別提他那糟糕的腳步了。令人難過的是，他在這套計畫中並沒有走在正確的方向上，雖然該計畫旨在提升他的守備，但照這樣看來，我不認為能達到預期的效果。</TXT>
+<TXT>[%personname]在守備端一直很掙扎，而這次的訓練似乎也沒有起到作用。我看過太多滾地球讓他處理得狼狽不堪，更別提他那糟糕的腳步了。令人難過的是，他在這套計畫中並沒有走在正確的方向上，雖然該計畫旨在提升他的守備，但照這樣看來，我不認為能達到預期的效果。</TXT>
 <COND id="525" value="1"/>
 <COND id="531" value="1"/>
 <COND id="532" value="2"/>
@@ -197250,13 +197250,13 @@ As the new season approaches, [%personname] feels stronger and more confident th
 <COND id="531" value="1"/>
 </OBJ>
 <OBJ id="68760">
-<TXT>我很欣慰看到他的苦練成果，他在守備能力上有著扎實的進步。他與教練密切合作，在場上進行了大量的投手守備練習，並針對下投手丘的活動度與爆發力進行各種訓練。整體而言，我看見他在內野守備的各個層面都有所精進，看管跑者的能力也同樣提升。</TXT>
+<TXT>我很欣慰看到他的苦練成果，他在守備能力上有著扎實的進步。他與教練密切合作，在場上進行了大量的投手守備練習，並在投手丘外進行各種活動度與爆發力訓練。整體而言，我看見他在內野守備的各個層面都有所精進，看管跑者的能力也同樣提升。</TXT>
 <COND id="525" value="2"/>
 <COND id="530" value="1"/>
 <COND id="531" value="0"/>
 </OBJ>
 <OBJ id="68761">
-<TXT>到目前為止我對他的進步感到非常滿意，這套訓練顯然發揮了成效。他在投手丘上進行了大量的投手守備練習，室內也針對下投手丘的活動度與爆發力進行各種訓練。他在內野守備的各個層面，以及看管跑者的能力上，看起來都有著扎實的進步。</TXT>
+<TXT>到目前為止我對他的進步感到非常滿意，這套訓練顯然發揮了成效。他在投手丘上進行了大量的投手守備練習，室內則進行各種活動度與爆發力訓練。他在內野守備的各個層面，以及看管跑者的能力上，看起來都有著扎實的進步。</TXT>
 <COND id="525" value="2"/>
 <COND id="530" value="1"/>
 <COND id="531" value="1"/>
@@ -197341,7 +197341,7 @@ As the new season approaches, [%personname] feels stronger and more confident th
 <COND id="532" value="2"/>
 </OBJ>
 <OBJ id="68751">
-<TXT>[%personname]在訓練計畫中表現極為出色！他充分運用手邊資源，合作的工作人員與他溝通毫無障礙，也看見回饋被完美執行。預期他的守備會比過去進步一大截。</TXT>
+<TXT>[%personname]在訓練計畫中表現極為出色！他充分運用手邊資源，合作的工作人員與他溝通毫無障礙，也看見回饋被精湛執行。預期他的守備會比過去進步一大截。</TXT>
 <COND id="525" value="3"/>
 <COND id="531" value="0"/>
 </OBJ>
@@ -197395,16 +197395,16 @@ As the new season approaches, [%personname] feels stronger and more confident th
 
 <CAT id="1206">
 <OBJ id="68697">
-<TXT>別誤會，他守的是捕手這個高難度位置，但他不知怎地把它守得更加困難。[%personname]顯然不是以最佳狀態報到，我看見不少落地球從他身邊漏過，傳球準度也比平常差。這讓所有人都很意外，因此計畫重點最後只剩讓他找回狀態。至少在額外投入練習後，訓練結束時他看起來已恢復原有水準。所以我不認為他退步了，但過程並不好看。</TXT>
+<TXT>別誤會，他守的是本壘後方的高難度位置，但他不知怎地把它守得更加困難。[%personname]顯然不是以最佳狀態報到，我看見不少落地球從他身邊漏過，傳球準度也比平常差。這讓所有人都很意外，因此計畫重點最後只剩讓他找回狀態。至少在額外投入練習後，訓練結束時他看起來已恢復原有水準。所以我不認為他退步了，但過程並不好看。</TXT>
 <COND id="525" value="0"/>
 <COND id="531" value="0"/>
 </OBJ>
 <OBJ id="68698">
-<TXT>[%personname]與教練和訓練員密切合作，也嘗試採納他們的回饋，但似乎沒有任何方法能帶給他額外突破。工作人員找出數個需要改善的環節，卻始終找不到能帶來差異的訓練或練習。這種事偶爾會發生，唯一的損失就是他的時間與努力沒有換到成果。</TXT>
+<TXT>[%personname]與教練和訓練員密切合作，也嘗試採納他們的意見，但似乎沒有任何方法能帶給他額外突破。工作人員找出數個需要改善的環節，卻始終找不到能帶來差異的訓練或練習。這種事偶爾會發生，唯一的損失就是他的時間與努力沒有換到成果。</TXT>
 <COND id="525" value="1"/>
 <COND id="531" value="0"/>
 </OBJ>
-<OBJ id="68699" text="他的捕手守備向來不佳，即使教練與訓練員全力協助，[%personname]還是無法改善。若能得到更多指導或許會變好，但肯定得投入更多時間與努力。">
+<OBJ id="68699" text="他向來不擅長蹲捕，即使教練與訓練員全力協助，[%personname]還是無法改善。若能得到更多指導或許會變好，但肯定得投入更多時間與努力。">
 <COND id="525" value="1"/>
 <COND id="531" value="0"/>
 <COND id="532" value="2"/>
@@ -197467,7 +197467,7 @@ As the new season approaches, [%personname] feels stronger and more confident th
 <COND id="531" value="0"/>
 </OBJ>-->
 <OBJ id="68710">
-<TXT>[%personname]在訓練計畫中表現極為出色！他充分運用手邊資源，合作的工作人員與他溝通毫無障礙，也看見回饋被完美執行。預期他的守備會比過去進步一大截。</TXT>
+<TXT>[%personname]在訓練計畫中表現極為出色！他充分運用手邊資源，合作的工作人員與他溝通毫無障礙，也看見建議被完美執行。</TXT>
 <COND id="525" value="3"/>
 <COND id="531" value="0"/>
 </OBJ>
