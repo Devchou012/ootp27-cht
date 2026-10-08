@@ -976,6 +976,16 @@ def placeholders_match(en, kr):
     return not rest
 
 
+def undouble(kr, en):
+    """舊翻譯也帶著上游的雙重跳脫（&amp;#39;），遊戲會直接印出 &#39;。
+
+    英文本身也是同一個雙重跳脫寫法的才留著，免得動到真的要顯示 & 的字串。
+    """
+    en = en or ""
+    return DOUBLE_ESCAPED_RE.sub(
+        lambda m: m.group(0) if m.group(0) in en else f"&{m.group(1)};", kr)
+
+
 def fix_cn_placeholders(kr, en):
     """修 <CN> 機翻常見的佔位符毛病；修不好回傳 None。
 
@@ -1067,7 +1077,7 @@ def merge(base, old, out_path):
                                 new)
             if fixed != new:
                 stats["terms"] += 1
-            new = fixed
+            new = undouble(fixed, tag_value(body, "EN"))
 
             if new == cur:
                 return m.group(0)
@@ -1123,7 +1133,8 @@ def verify(out_path, base, old):
                 or kr == f["CN"]
                 or not CJK_RE.search(html.unescape(kr))):
             continue
-        expect = apply_terms(D[i][0], html.unescape(f["EN"] or ""), kr)
+        expect = undouble(apply_terms(D[i][0], html.unescape(f["EN"] or ""), kr),
+                          O[i][1]["EN"] if i in O else None)
         if i not in O or O[i][1]["KR"] != expect:
             lost.append(i)
     print(f"  遺失的舊中文翻譯      : {len(lost)}", lost[:5] if lost else "")

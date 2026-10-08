@@ -43,6 +43,8 @@ def check(oid, en, zh):
         bad.append(f"(nl) 數量不符 {en.count('(nl)')} -> {zh.count('(nl)')}")
     if '"' in zh:
         bad.append("譯文含有半形雙引號，會破壞 XML 屬性")
+    if re.search(r"[<>]|&(?!#\d+;|[a-z]+;)", zh):
+        bad.append("譯文含有未跳脫的 < > &，會破壞 XML")
     # {He|She|They} 是依性別選分支的。中文常常整個代名詞都不用寫，少幾個沒關係，
     # 但寫出來的每一個分支數都要對得上英文，不然遊戲會選到不存在的分支。
     en_arity = {b.count("|") for b in BRACE_RE.findall(en)}
@@ -66,7 +68,8 @@ def load(path):
             cols = line.split("\t")
             if len(cols) < 2:
                 sys.exit(f"這行不是 id<TAB>中文: {line[:60]}")
-            rows[cols[0]] = cols[-1]
+            # 英文原文本身跨行的，譯文用 ⏎ 代表換行
+            rows[cols[0]] = cols[-1].replace("⏎", "\n")
     return rows
 
 

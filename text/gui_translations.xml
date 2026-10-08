@@ -960,7 +960,7 @@
 </HCS>
 <HCS i="141">
 <EN>There are the following interesting players on the &lt;waiver wire:page#&#37;ps&gt;</EN>
-<KR>&amp;lt;waiver wire:page#&#37;ps&amp;gt; 上有以下有趣的球員</KR>
+<KR>&lt;waiver wire:page#&#37;ps&gt; 上有以下有趣的球員</KR>
 <ES>Hay los siguientes jugadores interesantes en el &amp;lt;waiver wire:page#&#37;ps&amp;gt;</ES>
 <JP>&amp;lt;waiverwire：page＃％ps&amp;gt;には次の興味深いプレイヤーがいます</JP>
 <CN>&lt;讓渡名單:page#&#37;ps&gt;上值得注意的球員如下</CN>
@@ -22507,7 +22507,7 @@
 </HCS>
 <HCS i="3336">
 <EN>Enter the word &#39;submit</EN>
-<KR>輸入單詞&amp;#39;提交</KR>
+<KR>輸入單詞&#39;提交</KR>
 <ES>Ingrese la palabra &amp;#39;enviar</ES>
 <JP>単語を入力してください &amp;#39;送信</JP>
 <CN>輸入字詞「submit</CN>
@@ -39648,7 +39648,7 @@
 <HCS i="5949">
 <EN>Use drag &amp; drop to move players between rosters. The limit of active players is &#37;number1 and only one card per player is allowed on the active roster. {nl}In order to improve performance, we suggest to keep your reserve roster small and sell unused cards on the marketplace. To do so, please right-click on the player name and select &quot;Sell this card now&quot; or &quot;Put card up for auction&quot;. To manage your inactive player cards, please visit your &lt;card collection screen:page#&#37;number2&gt;</EN>
 <DC>translate the card collection screen part, but leave page# untranslated</DC>
-<KR>使用拖放在名單之間移動球員。活躍球員的限制是 &#37;number1，並且每個球員只能在正式名單上使用一張牌。 {nl}為了提高效能，我們建議您保持小規模的預備名單，並在市場上出售未使用的卡。為此，請右鍵點擊球員姓名並選擇“立即出售此卡”或“將卡拍賣”。要管理您的非活動球員卡，請造訪您的 &amp;lt;card collection screen:page#&#37;number2&gt;</KR>
+<KR>使用拖放在名單之間移動球員。活躍球員的限制是 &#37;number1，並且每個球員只能在正式名單上使用一張牌。 {nl}為了提高效能，我們建議您保持小規模的預備名單，並在市場上出售未使用的卡。為此，請右鍵點擊球員姓名並選擇“立即出售此卡”或“將卡拍賣”。要管理您的非活動球員卡，請造訪您的 &lt;card collection screen:page#&#37;number2&gt;</KR>
 <ES>Use arrastrar y soltar para mover jugadores entre listas. El límite de jugadores activos es &#37;number1 y solo se permite una carta por jugador en la lista activa. {nl}Para mejorar el rendimiento, le sugerimos que mantenga su lista de reserva pequeña y venda las tarjetas sin usar en el mercado. Para hacerlo, haz clic con el botón derecho en el nombre del jugador y selecciona &amp;quot;Vender esta carta ahora&amp;quot; o &amp;quot;Poner carta en subasta&amp;quot;. Para administrar sus tarjetas de jugador inactivas, visite su &amp;lt;pantalla de colección de tarjetas: página #&#37; número2&amp;gt;</ES>
 <JP>ドラッグアンドドロップを使用して、名簿間でプレーヤーを移動します。アクティブなプレーヤーの制限は％number1であり、プレーヤーごとに1枚のカードのみがアクティブな名簿に許可されます。 {nl}パフォーマンスを向上させるために、予備の名簿を小さくして、未使用のカードを市場で販売することをお勧めします。これを行うには、プレーヤー名を右クリックして、[このカードを今すぐ販売する]または[カードをオークションにかける]を選択してください。非アクティブなプレーヤーカードを管理するには、&amp;lt;カード収集画面：page＃％number2&amp;gt;にアクセスしてください。</JP>
 <CN>使用拖放方式將球員移至不同球員名單。使用中球員的上限為&#37;number1人，且正式球員名單上每位球員只能有一張球員卡。(nl)為了提升效能，建議你不要在替補球員名單中放入太多球員，並在市場出售未使用的球員卡，方法是以右鍵點擊球員姓名，然後選擇「立即出售這張球員卡」或「拍賣這張球員卡」。如要管理未使用的球員卡，請前往&lt;球員卡收藏畫面:page#&#37;number2&gt;</CN>
@@ -46635,7 +46635,7 @@
 </HCS>
 <HCS i="7063">
 <EN>Only &gt;85&#37; complete</EN>
-<KR>僅完成 &amp;gt;85&#37;</KR>
+<KR>僅完成 &gt;85&#37;</KR>
 <ES>Solo &amp;gt;85&#37; completado</ES>
 <JP>85％以上しか完了していません</JP>
 <CN>僅限完成度&gt;85&#37;</CN>
@@ -47413,7 +47413,7 @@
 </HCS>
 <HCS i="7185">
 <EN>Automatically Sell Player Cards If Value &lt; X</EN>
-<KR>如果價值 &amp;lt; X，則自動出售球員卡</KR>
+<KR>如果價值 &lt; X，則自動出售球員卡</KR>
 <ES>Vender tarjetas de jugador automáticamente si el valor &amp;lt; X</ES>
 <JP>値がX未満の場合、プレーヤーカードを自動的に販売します</JP>
 <CN>自動出售價值低於X的球員卡</CN>
@@ -49697,7 +49697,7 @@
 </HCS>
 <HCS i="7536">
 <EN>Type is &#39;D&#39; = Delta</EN>
-<KR>類型是&amp;#39;D&amp;#39; = Delta</KR>
+<KR>類型是&#39;D&#39; = Delta</KR>
 <ES>El tipo es &amp;#39;D&amp;#39; = Delta</ES>
 <JP>タイプは「D」=デルタ</JP>
 <CN>類型為「D」= 差異</CN>
@@ -50483,7 +50483,7 @@
 </HCS>
 <HCS i="7649">
 <EN>The OOOL server was working on your OOOL league &#39;&#37;leaguename&#39; (ID &#37;id) and sends the following message</EN>
-<KR>OOOL 伺服器正在處理您的 OOOL 聯盟 &amp;#39;&#37;leaguename&amp;#39; (ID &#37;id) 併發送以下訊息</KR>
+<KR>OOOL 伺服器正在處理您的 OOOL 聯盟 &#39;&#37;leaguename&#39; (ID &#37;id) 併發送以下訊息</KR>
 <ES>El servidor OOOL estaba trabajando en su liga OOOL &amp;#39;&#37;leaguename&amp;#39; (ID &#37;id) y envía el siguiente mensaje</ES>
 <JP>OOOLサーバーはOOOLリーグ &amp;#39;％leaguename&amp;#39;（ID％id）で動作しており、次のメッセージを送信します</JP>
 <CN>OOOL伺服器處理你的OOOL聯盟「&#37;leaguename」（ID &#37;id）後，傳送了以下訊息</CN>
@@ -51048,7 +51048,7 @@
 </HCS>
 <HCS i="7807">
 <EN>Enter position factor for profile pictures. Increase value -&gt; move up</EN>
-<KR>輸入個人資料圖片的位置係數。增加價值 -&amp;gt; 向上移動</KR>
+<KR>輸入個人資料圖片的位置係數。增加價值 -&gt; 向上移動</KR>
 <ES>Introduzca el factor de posición para las imágenes de perfil. Aumentar valor -&amp;gt; subir</ES>
 <JP>プロフィール写真の位置係数を入力します。値を増やす-&amp;gt;上に移動</JP>
 <CN>輸入個人資料圖片的位置係數。提高值-&gt;向上移</CN>
@@ -51062,7 +51062,7 @@
 </HCS>
 <HCS i="7809">
 <EN>Enter zoom factor for profile pictures. Increase value -&gt; zoom away</EN>
-<KR>輸入個人資料圖片的縮放係數。增加值 -&amp;gt; 縮小</KR>
+<KR>輸入個人資料圖片的縮放係數。增加值 -&gt; 縮小</KR>
 <ES>Introduzca el factor de zoom para las imágenes de perfil. Aumentar valor -&amp;gt; alejar</ES>
 <JP>プロフィール写真のズーム率を入力します。値を増やす-&amp;gt;ズームアウト</JP>
 <CN>輸入個人資料圖片的縮放係數。提高值-&gt;縮小</CN>
@@ -55522,7 +55522,7 @@
 </HCS>
 <HCS i="8447">
 <EN>&#37;d KM/H</EN>
-<KR>&#37;d KM/H</KR>
+<KR>&#37;d kmh</KR>
 <ES>&#37;d KM/H</ES>
 <JP>％d KM / H</JP>
 <CN>&#37;d KM/H</CN>
@@ -61918,21 +61918,21 @@
 </HCS>
 <HCS i="9365">
 <EN>Triple A</EN>
-<KR>3A</KR>
+<KR>Triple A</KR>
 <ES>Triple A</ES>
 <JP>トリプルA</JP>
 <CN>3A</CN>
 </HCS>
 <HCS i="9366">
 <EN>Double A</EN>
-<KR>2A</KR>
+<KR>Double A</KR>
 <ES>Doble a</ES>
 <JP>ダブルA</JP>
 <CN>2A</CN>
 </HCS>
 <HCS i="9367">
 <EN>Class A</EN>
-<KR>1A</KR>
+<KR>Class A</KR>
 <ES>Clase A</ES>
 <JP>クラスA</JP>
 <CN>1A</CN>
@@ -73393,7 +73393,7 @@
 </HCS>
 <HCS i="11064">
 <EN>OOTP could not initialize OpenGL. Please update your graphics card driver. 3D features will be disabled in OOTP. To turn this message off, disable OpenGL in Settings-&gt;3D</EN>
-<KR>OOTP 無法初始化 OpenGL。請更新您的顯示卡驅動程式。 OOTP 中將禁用 3D 功能。要關閉此訊息，請在 Settings-&amp;gt;3D 中禁用 OpenGL</KR>
+<KR>OOTP 無法初始化 OpenGL。請更新您的顯示卡驅動程式。 OOTP 中將禁用 3D 功能。要關閉此訊息，請在 Settings-&gt;3D 中禁用 OpenGL</KR>
 <ES>OOTP no pudo inicializar OpenGL. Actualice el controlador de su tarjeta gráfica. Las funciones 3D se desactivarán en OOTP. Para desactivar este mensaje, deshabilite OpenGL en Configuración-&amp;gt;3D</ES>
 <JP>OOTPはOpenGLを初期化できませんでした。グラフィックカードドライバを更新してください。 OOTPでは3D機能が無効になります。このメッセージをオフにするには、[設定]-&amp;gt; [3D]でOpenGLを無効にします</JP>
 <CN>《OOTP》無法初始化OpenGL。請更新顯示卡驅動程式。《OOTP》的3D功能將停用。如要關閉此訊息，請在「設定」-&gt;「3D」中停用OpenGL</CN>
@@ -74772,7 +74772,7 @@
 </HCS>
 <HCS i="11274">
 <EN>Sending failed! Please send an email to webstore@pisd.co.uk using your normal email selecting &#39;edit-&gt;paste&#39; to add the required info to your email text</EN>
-<KR>發送失敗！請使用您的普通電子郵件發送電子郵件至 webstore@pisd.co.uk，選擇“編輯-&amp;gt;貼上”以將所需資訊新增到您的電子郵件文字中</KR>
+<KR>發送失敗！請使用您的普通電子郵件發送電子郵件至 webstore@pisd.co.uk，選擇“編輯-&gt;貼上”以將所需資訊新增到您的電子郵件文字中</KR>
 <ES>¡Envío fallido! Envíe un correo electrónico a webstore@pisd.co.uk usando su correo electrónico normal seleccionando &amp;#39;editar-&amp;gt;pegar&amp;#39; para agregar la información requerida a su texto de correo electrónico</ES>
 <JP>送信に失敗しました！通常のメールアドレスを使用してwebstore@pisd.co.ukにメールを送信し、[編集]-&amp;gt; [貼り付け]を選択して、必要な情報をメールテキストに追加してください。</JP>
 <CN>傳送失敗！請選取「編輯」-&gt;「貼上」將必要資訊新增至電子郵件內文，透過平常使用的電子郵件地址傳送電子郵件至webstore@pisd.co.uk</CN>
@@ -76460,7 +76460,7 @@
 </HCS>
 <HCS i="11536">
 <EN>Peoria</EN>
-<KR>皮奧里亞</KR>
+<KR>皮奧裡亞</KR>
 <ES>peoría</ES>
 <JP>ピオリア</JP>
 <CN>皮奧里亞</CN>
@@ -76796,7 +76796,7 @@
 </HCS>
 <HCS i="11584">
 <EN>Loaded bigger logo side len &gt;</EN>
-<KR>載入更大的標誌側鏡頭 &amp;gt;</KR>
+<KR>載入更大的標誌側鏡頭 &gt;</KR>
 <ES>Lengüeta lateral con logo más grande cargado &amp;gt;</ES>
 <JP>より大きなロゴサイドレンズをロード&amp;gt;</JP>
 <CN>已載入較大標誌，側邊長度大於</CN>
@@ -78364,14 +78364,14 @@
 </HCS>
 <HCS i="11815">
 <EN>With our &lt;need:page#&#37;d&gt; for a</EN>
-<KR>使用我們的 &amp;lt;need:page#&#37;d&amp;gt;</KR>
+<KR>使用我們的 &lt;need:page#&#37;d&gt;</KR>
 <ES>Con nuestra &amp;lt;necesidad:página#&#37;d&amp;gt; para un</ES>
 <JP>&amp;lt;need：page＃％d&amp;gt;で</JP>
 <CN>我們&lt;需要:page#&#37;d&gt;</CN>
 </HCS>
 <HCS i="11816">
 <EN>Given our &lt;search:page#&#37;d&gt; for a</EN>
-<KR>鑑於我們的 &amp;lt;search:page#&#37;d&amp;gt;</KR>
+<KR>鑑於我們的 &lt;search:page#&#37;d&gt;</KR>
 <ES>Dado nuestro &amp;lt;search:page#&#37;d&amp;gt; para un</ES>
 <JP>&amp;lt;search：page＃％d&amp;gt;で</JP>
 <CN>考慮到我們要&lt;尋找:page#&#37;d&gt;</CN>
@@ -79777,7 +79777,7 @@
 </HCS>
 <HCS i="12022">
 <EN>The &#37;team_name have announced that they set their team focus from &#39;&#37;old_mode&#39; to &#39;&#37;new_mode</EN>
-<KR>&#37;team_name 宣佈他們將球隊焦點從 &amp;#39;&#37;old_mode&amp;#39; 設定為 &amp;#39;&#37;new_mode</KR>
+<KR>&#37;team_name 宣佈他們將球隊焦點從 &#39;&#37;old_mode&#39; 設定為 &#39;&#37;new_mode</KR>
 <ES>El &#37;team_name ha anunciado que cambiaron el enfoque de su equipo de &#39;&#37;old_mode&#39; a &#39;&#37;new_mode&#39;</ES>
 <JP>％team_nameは、チームのフォーカスを &#39;％old_mode&#39;から &#39;％new_modeに設定したことを発表しました</JP>
 <CN>&#37;team_name宣布將球隊著重方向從「&#37;old_mode」改為「&#37;new_mode</CN>
@@ -81888,7 +81888,7 @@
 </HCS>
 <HCS i="12330">
 <EN>Shortstop</EN>
-<KR>游擊手</KR>
+<KR>遊擊手</KR>
 <ES>campocorto</ES>
 <JP>遊撃手</JP>
 <CN>游擊手</CN>
@@ -83782,14 +83782,14 @@
 </HCS>
 <HCS i="12619">
 <EN>Strikes out looking &lt;b&gt;wild pitch, reaches first!&lt;/b&gt;</EN>
-<KR>出擊看起來&amp;lt;b&amp;gt;暴投，首先到達！&amp;lt;/b&amp;gt;</KR>
+<KR>出擊看起來&lt;b&gt;暴投，首先到達！&lt;/b&gt;</KR>
 <ES>Se poncha buscando &amp;lt;b&amp;gt;lanzamiento salvaje, ¡llega primero!&amp;lt;/b&amp;gt;</ES>
 <JP>&amp;lt;b&amp;gt;暴投を見て、最初に到達します！&amp;lt;/ b&amp;gt;</JP>
 <CN>見振，&lt;b&gt;發生暴投，安全上一壘！&lt;/b&gt;</CN>
 </HCS>
 <HCS i="12620">
 <EN>Strikes out looking &lt;b&gt;passed ball, reaches first!&lt;/b&gt;</EN>
-<KR>看&amp;lt;b&amp;gt;傳球，先到達！&amp;lt;/b&amp;gt;</KR>
+<KR>看&lt;b&gt;傳球，先到達！&lt;/b&gt;</KR>
 <ES>Se poncha buscando &amp;lt;b&amp;gt;pasar el balón, ¡llega a primera!&amp;lt;/b&amp;gt;</ES>
 <JP>&amp;lt;b&amp;gt;パスしたボールを見てストライクアウトし、最初に到達します！&amp;lt;/ b&amp;gt;</JP>
 <CN>見振，&lt;b&gt;發生捕逸，安全上一壘！&lt;/b&gt;</CN>
@@ -84561,7 +84561,7 @@
 </HCS>
 <HCS i="12730">
 <EN>The highlights could not be loaded! Please check the highlight settings in the game settings screen (Global Settings -&gt; Auto-Save &amp; Log Settings</EN>
-<KR>無法載入精彩片段！請檢查遊戲設定畫面中的突出顯示設定（全域設定 -&amp;gt; 自動儲存和日誌設定</KR>
+<KR>無法載入精彩片段！請檢查遊戲設定畫面中的突出顯示設定（全域設定 -&gt; 自動儲存和日誌設定</KR>
 <ES>¡No se pudieron cargar los momentos destacados! Verifique la configuración resaltada en la pantalla de configuración del juego (Configuración global -&amp;gt; Configuración de guardado automático y registro</ES>
 <JP>ハイライトを読み込めませんでした！ゲーム設定画面（グローバル設定-&amp;gt;自動保存とログ設定）でハイライト設定を確認してください</JP>
 <CN>無法載入賽事精華！請在遊戲設定畫面查看賽事精華設定（通用設定-&gt;自動存檔與紀錄設定</CN>
@@ -85003,7 +85003,7 @@
 </HCS>
 <HCS i="12793">
 <EN>Next Page &gt;</EN>
-<KR>下一頁 &amp;gt;</KR>
+<KR>下一頁 &gt;</KR>
 <ES>Página siguiente &amp;gt;</ES>
 <JP>次のページ&amp;gt;</JP>
 <CN>下一頁 &gt;</CN>
@@ -85851,7 +85851,7 @@
 </HCS>
 <HCS i="12933">
 <EN>Shortstops</EN>
-<KR>游擊手</KR>
+<KR>遊擊手</KR>
 <ES>campocorto</ES>
 <JP>遊撃手</JP>
 <CN>游擊手</CN>
@@ -86166,7 +86166,7 @@
 </HCS>
 <HCS i="12978">
 <EN>Could not open the league archive file &#39;&#37;s</EN>
-<KR>無法開啟聯盟存檔檔案 &amp;#39;&#37;s</KR>
+<KR>無法開啟聯盟存檔檔案 &#39;&#37;s</KR>
 <ES>No se pudo abrir el archivo de la liga &amp;#39;&#37;s</ES>
 <JP>リーグアーカイブファイルを開くことができませんでした &amp;#39;％s</JP>
 <CN>無法開啟聯盟封存檔「&#37;s</CN>
@@ -86201,28 +86201,28 @@
 </HCS>
 <HCS i="12983">
 <EN>CRC32 checksum test failed for file &#39;&#37;s</EN>
-<KR>檔案 &amp;#39;&#37;s 的 CRC32 校驗和測試失敗</KR>
+<KR>檔案 &#39;&#37;s 的 CRC32 校驗和測試失敗</KR>
 <ES>La prueba de suma de verificación CRC32 falló para el archivo &amp;#39;&#37;s</ES>
 <JP>ファイル &amp;#39;％sのCRC32チェックサムテストに失敗しました</JP>
 <CN>為以下檔案執行的CRC32核對和測試失敗：「&#37;s</CN>
 </HCS>
 <HCS i="12984">
 <EN>Could not read CRC32 checksum from status file for file &#39;&#37;s</EN>
-<KR>無法從檔案 &amp;#39;&#37;s 的狀態檔案中讀取 CRC32 校驗和</KR>
+<KR>無法從檔案 &#39;&#37;s 的狀態檔案中讀取 CRC32 校驗和</KR>
 <ES>No se pudo leer la suma de verificación CRC32 del archivo de estado para el archivo &amp;#39;&#37;s</ES>
 <JP>ファイル &amp;#39;％sのステータスファイルからCRC32チェックサムを読み取れませんでした</JP>
 <CN>無法為以下檔案從狀態檔案讀取CRC32核對和：「&#37;s</CN>
 </HCS>
 <HCS i="12985">
 <EN>Could not get CRC32 checksum for file &#39;&#37;s</EN>
-<KR>無法獲得檔案 &amp;#39;&#37;s 的 CRC32 校驗和</KR>
+<KR>無法獲得檔案 &#39;&#37;s 的 CRC32 校驗和</KR>
 <ES>No se pudo obtener la suma de verificación CRC32 para el archivo &amp;#39;&#37;s</ES>
 <JP>ファイル &amp;#39;％sのCRC32チェックサムを取得できませんでした</JP>
 <CN>無法為以下檔案取得CRC32核對和：「&#37;s</CN>
 </HCS>
 <HCS i="12986">
 <EN>Missing critical online league file &#39;&#37;s</EN>
-<KR>缺少重要的線上聯盟檔案 &amp;#39;&#37;s</KR>
+<KR>缺少重要的線上聯盟檔案 &#39;&#37;s</KR>
 <ES>Falta el archivo crítico de la liga en línea &amp;#39;&#37;s</ES>
 <JP>重要なオンラインリーグファイルがありません &amp;#39;％s</JP>
 <CN>缺少重要線上聯盟檔案「&#37;s</CN>
@@ -88784,7 +88784,7 @@
 <HCS i="13348">
 <EN>Shortstop</EN>
 <DC>used for player position selection menus</DC>
-<KR>游擊手</KR>
+<KR>遊擊手</KR>
 <ES>campocorto</ES>
 <JP>遊撃手</JP>
 <CN>游擊手</CN>
@@ -90908,7 +90908,7 @@
 </HCS>
 <HCS i="13640">
 <EN>The version string of the currently loaded text file &lt;language&gt;.xml is</EN>
-<KR>目前載入的文字檔 &amp;lt;language&amp;gt;.xml 的版本字串是</KR>
+<KR>目前載入的文字檔 &lt;language&gt;.xml 的版本字串是</KR>
 <ES>La cadena de versión del archivo de texto cargado actualmente &amp;lt;idioma&amp;gt;.xml es</ES>
 <JP>現在ロードされているテキストファイル&amp;lt;language&amp;gt; .xmlのバージョン文字列は次のとおりです。</JP>
 <CN>目前所載入文字檔案&lt;語言&gt;.xml的版本字串為</CN>
@@ -90992,7 +90992,7 @@
 </HCS>
 <HCS i="13652">
 <EN>Player records where picture source is set to &#39;photo file</EN>
-<KR>圖片來源設定為&amp;#39;照片檔案的球員記錄</KR>
+<KR>圖片來源設定為&#39;照片檔案的球員記錄</KR>
 <ES>El reproductor registra dónde la fuente de la imagen está configurada como &amp;#39;archivo de fotos&amp;#39;</ES>
 <JP>画像ソースが &amp;#39;写真ファイルに設定されているプレーヤーの記録</JP>
 <CN>圖片來源設為以下項目的球員紀錄：「照片檔案</CN>
@@ -92147,7 +92147,7 @@
 </HCS>
 <HCS i="13830">
 <EN>Allow Trading of injured ( &gt; 7 days) Players</EN>
-<KR>允許交易受傷（&amp;gt; 7天）球員</KR>
+<KR>允許交易受傷（&gt; 7天）球員</KR>
 <ES>Permitir intercambio de jugadores lesionados (&amp;gt; 7 días)</ES>
 <JP>負傷した（&amp;gt; 7日）プレーヤーの取引を許可する</JP>
 <CN>允許交易傷兵球員（傷期&gt;7天）</CN>
@@ -92982,14 +92982,14 @@
 </HCS>
 <HCS i="13952">
 <EN>Picture Source is set to &#39;photo file</EN>
-<KR>圖片來源設定為&amp;#39;照片檔案</KR>
+<KR>圖片來源設定為&#39;照片檔案</KR>
 <ES>La fuente de la imagen está configurada como &amp;#39;archivo de fotos&amp;#39;</ES>
 <JP>画像ソースが &amp;#39;写真ファイルに設定されている</JP>
 <CN>圖片來自「球員資料」</CN>
 </HCS>
 <HCS i="13953">
 <EN>Picture Source is set to &#39;FaceGen PhotoFit file</EN>
-<KR>圖片來源設定為 &amp;#39;FaceGen PhotoFit 檔案</KR>
+<KR>圖片來源設定為 &#39;FaceGen PhotoFit 檔案</KR>
 <ES>La fuente de la imagen está establecida en &amp;#39;FaceGen PhotoFit file</ES>
 <JP>画像ソースが &amp;#39;FaceGenPhotoFitファイルに設定されている</JP>
 <CN>圖片來自「FaceGen真人擬態資料」</CN>
@@ -93116,7 +93116,7 @@
 <HCS i="13973">
 <EN>Import all teams from folder &#39;\import_export</EN>
 <DC>Do not translate the folder name import_export</DC>
-<KR>從資料夾 &amp;#39;import_export 匯入所有球隊</KR>
+<KR>從資料夾 &#39;import_export 匯入所有球隊</KR>
 <ES>Importar todos los equipos de la carpeta &amp;#39;import_export</ES>
 <JP>フォルダ &amp;#39; import_exportからすべてのチームをインポートします</JP>
 <CN>從資料夾匯入所有球隊&#39;import_export</CN>
@@ -93144,7 +93144,7 @@
 </HCS>
 <HCS i="13977">
 <EN>Export Deadlines Days And Times (e.g. &#39;Tu, Th, Sa 10PM EST</EN>
-<KR>出口截止日期和時間（例如 &amp;#39;Tu, Th, Sa 10PM EST</KR>
+<KR>出口截止日期和時間（例如 &#39;Tu, Th, Sa 10PM EST</KR>
 <ES>Fechas límite de exportación Días y horas (por ejemplo, &amp;#39;Tu, Th, Sa 10PM EST</ES>
 <JP>締め切りの曜日と時間のエクスポート（例： &amp;#39;Tu、Th、Sa 10PM EST</JP>
 <CN>匯出截止日期及時間（例如「週二、週四、週六美東時間晚上十點」</CN>
@@ -93270,7 +93270,7 @@
 </HCS>
 <HCS i="13995">
 <EN>The league structure has been written to the file &#39;&lt;league folder.lg&gt;/import_export/league_structure.xml</EN>
-<KR>聯盟結構已寫入檔案 &amp;#39;&amp;lt;league folder.lg&amp;gt;/import_export/league_structure.xml</KR>
+<KR>聯盟結構已寫入檔案 &#39;&lt;league folder.lg&gt;/import_export/league_structure.xml</KR>
 <ES>La estructura de la liga se ha escrito en el archivo &amp;#39;&amp;lt;carpeta de la liga.lg&amp;gt;/import_export/league_structure.xml</ES>
 <JP>リーグ構造がファイル &amp;#39;&amp;lt;league folder.lg&amp;gt; /import_export/league_structure.xmlに書き込まれました</JP>
 <CN>聯盟架構已寫入資料夾 &#39;&lt;league folder.lg&gt;/import_export/league_structure.xml</CN>
@@ -94002,7 +94002,7 @@
 </HCS>
 <HCS i="14102">
 <EN>WEIGHTED RUNS &gt; AVG</EN>
-<KR>加權執行 &amp;gt; 平均</KR>
+<KR>加權執行 &gt; 平均</KR>
 <ES>CARRERAS PONDERADAS &amp;gt; PROMEDIO</ES>
 <JP>加重ラン&amp;gt; AVG</JP>
 <CN>高於平均加權得分</CN>
@@ -94749,7 +94749,7 @@
 </HCS>
 <HCS i="14213">
 <EN>The Rule 5 Draft is soon, and you have at least &#37;n unprotected players who have decent talent. Please check your &lt;secondary (&#37;sec-man) roster:page#&#37;p&gt;</EN>
-<KR>規則 5 選秀即將到來，您至少有 &#37;n 未受保護的球員擁有不錯的天賦。請檢查您的 &amp;lt;secondary (&#37;sec-man) roster:page#&#37;p&amp;gt;</KR>
+<KR>規則 5 選秀即將到來，您至少有 &#37;n 未受保護的球員擁有不錯的天賦。請檢查您的 &lt;secondary (&#37;sec-man) roster:page#&#37;p&gt;</KR>
 <ES>El Draft de la Regla 5 es pronto y tienes al menos &#37;n jugadores desprotegidos que tienen un talento decente. Por favor revise su lista &amp;lt;secundaria (&#37;sec-man):page#&#37;p&amp;gt;</ES>
 <JP>ルール5ドラフトが間もなく開始され、適切な才能を持つ保護されていないプレーヤーが少なくとも％n人います。 &amp;lt;secondary（％sec-man）roster：page＃％p&amp;gt;を確認してください</JP>
 <CN>規則五選秀即將開始。你有至少&#37;n個具有天賦的球員未受保護。請檢查你的&lt;次級（&#37;sec人）名單:page#&#37;p&gt;</CN>
@@ -95145,7 +95145,7 @@
 </HCS>
 <HCS i="14269">
 <EN>AVG &amp; HR factors must be &lt; 1.1 and &gt; 0.9</EN>
-<KR>AVG &amp;amp; HR 因子必須 &amp;lt; 1.1 和 &amp;gt; 0.9</KR>
+<KR>AVG &amp; HR 因子必須 &lt; 1.1 和 &gt; 0.9</KR>
 <ES>Los factores AVG y HR deben ser &amp;lt; 1,1 y &amp;gt; 0,9</ES>
 <JP>AVGおよびHR係数は、&amp;lt;1.1および&amp;gt; 0.9である必要があります</JP>
 <CN>打擊率與全壘打係數必須介於0.9至1.1</CN>
@@ -97776,14 +97776,14 @@
 </HCS>
 <HCS i="14683">
 <EN>The replay could not be loaded! Please check your replay settings in the game settings screen (Global Settings -&gt; Auto-Save &amp; Log Settings</EN>
-<KR>回放無法載入！請在遊戲設定畫面中檢查您的回放設定（全域設定 -&amp;gt; 自動儲存和日誌設定</KR>
+<KR>回放無法載入！請在遊戲設定畫面中檢查您的回放設定（全域設定 -&gt; 自動儲存和日誌設定</KR>
 <ES>¡No se pudo cargar la repetición! Verifique su configuración de reproducción en la pantalla de configuración del juego (Configuración global -&amp;gt; Configuración de guardado automático y registro</ES>
 <JP>リプレイを読み込めませんでした！ゲーム設定画面（グローバル設定-&amp;gt;自動保存＆ログ設定）でリプレイ設定を確認してください</JP>
 <CN>無法載入重播！請在比賽設定畫面查看重播設定（通用設定-&gt;自動儲存與登入設定</CN>
 </HCS>
 <HCS i="14684">
 <EN>The highlight could not be loaded! Please check your highlight settings in the game settings screen (Global Settings -&gt; Auto-Save &amp; Log Settings</EN>
-<KR>無法載入精彩片段！請在遊戲設定畫面中檢查您的精彩片段設定（全域設定 -&amp;gt; 自動儲存和日誌設定</KR>
+<KR>無法載入精彩片段！請在遊戲設定畫面中檢查您的精彩片段設定（全域設定 -&gt; 自動儲存和日誌設定</KR>
 <ES>¡No se pudo cargar el resaltado! Verifique su configuración destacada en la pantalla de configuración del juego (Configuración global -&amp;gt; Configuración de guardado automático y registro</ES>
 <JP>ハイライトを読み込めませんでした！ゲーム設定画面（グローバル設定-&amp;gt;自動保存とログ設定）でハイライト設定を確認してください</JP>
 <CN>無法載入精華！請在比賽設定畫面查看精華設定（通用設定-&gt;自動儲存與登入設定</CN>
@@ -104102,14 +104102,14 @@
 </HCS>
 <HCS i="15584">
 <EN>young &lt;nationality&gt; striker</EN>
-<KR>年輕的&amp;lt;國籍&amp;gt;前鋒</KR>
+<KR>年輕的&lt;國籍&gt;前鋒</KR>
 <ES>joven delantero &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>若い&amp;lt;国籍&amp;gt;ストライカー</JP>
 <CN>年輕&lt;國籍&gt;先鋒</CN>
 </HCS>
 <HCS i="15585">
 <EN>experienced &lt;nationality&gt; striker</EN>
-<KR>經驗豐富的&amp;lt;國籍&amp;gt;前鋒</KR>
+<KR>經驗豐富的&lt;國籍&gt;前鋒</KR>
 <ES>delantero experimentado de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>経験豊富な&amp;lt;国籍&amp;gt;ストライカー</JP>
 <CN>經驗老到的&lt;國籍&gt;先鋒</CN>
@@ -104144,14 +104144,14 @@
 </HCS>
 <HCS i="15596">
 <EN>veteran &lt;nationality&gt; striker</EN>
-<KR>老將 &amp;lt;國籍&amp;gt; 前鋒</KR>
+<KR>老將 &lt;國籍&gt; 前鋒</KR>
 <ES>veterano &amp;lt;nacionalidad&amp;gt; delantero</ES>
 <JP>ベテラン&amp;lt;国籍&amp;gt;ストライカー</JP>
 <CN>老將&lt;國籍&gt;先鋒</CN>
 </HCS>
 <HCS i="15597">
 <EN>enthusiastic &lt;nationality&gt; striker</EN>
-<KR>熱情的&amp;lt;國籍&amp;gt;前鋒</KR>
+<KR>熱情的&lt;國籍&gt;前鋒</KR>
 <ES>delantero entusiasta de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>熱狂的な&amp;lt;国籍&amp;gt;ストライカー</JP>
 <CN>熱情的&lt;國籍&gt;先鋒</CN>
@@ -104166,7 +104166,7 @@
 </HCS>
 <HCS i="15599">
 <EN>promising &lt;nationality&gt; striker</EN>
-<KR>有前途的&amp;lt;國籍&amp;gt;前鋒</KR>
+<KR>有前途的&lt;國籍&gt;前鋒</KR>
 <ES>prometedor delantero de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>有望な&amp;lt;国籍&amp;gt;ストライカー</JP>
 <CN>前景可期的&lt;國籍&gt;先鋒</CN>
@@ -104188,7 +104188,7 @@
 </HCS>
 <HCS i="15602">
 <EN>flamboyant &lt;nationality&gt; striker</EN>
-<KR>華麗的&amp;lt;國籍&amp;gt;前鋒</KR>
+<KR>華麗的&lt;國籍&gt;前鋒</KR>
 <ES>extravagante delantero de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>華やかな&amp;lt;国籍&amp;gt;ストライカー</JP>
 <CN>賣弄的&lt;國籍&gt;先鋒</CN>
@@ -104218,56 +104218,56 @@
 </HCS>
 <HCS i="15606">
 <EN>explosive &lt;nationality&gt; striker</EN>
-<KR>爆炸性&amp;lt;國籍&amp;gt;前鋒</KR>
+<KR>爆炸性&lt;國籍&gt;前鋒</KR>
 <ES>delantero explosivo &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>爆発的な&amp;lt;国籍&amp;gt;ストライカー</JP>
 <CN>火爆的&lt;國籍&gt;先鋒</CN>
 </HCS>
 <HCS i="15607">
 <EN>clinical &lt;nationality&gt; striker</EN>
-<KR>臨牀 &amp;lt;國籍&amp;gt; 前鋒</KR>
+<KR>臨牀 &lt;國籍&gt; 前鋒</KR>
 <ES>delantero clínico &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>臨床&amp;lt;国籍&amp;gt;ストライカー</JP>
 <CN>無動於衷的&lt;國籍&gt;先鋒</CN>
 </HCS>
 <HCS i="15608">
 <EN>cultured &lt;nationality&gt; striker</EN>
-<KR>有教養的&amp;lt;國籍&amp;gt;前鋒</KR>
+<KR>有教養的&lt;國籍&gt;前鋒</KR>
 <ES>delantero culto &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>養殖&amp;lt;国籍&amp;gt;ストライカー</JP>
 <CN>有文化修養的&lt;國籍&gt;先鋒</CN>
 </HCS>
 <HCS i="15609">
 <EN>powerful &lt;nationality&gt; striker</EN>
-<KR>強大的&amp;lt;國籍&amp;gt;前鋒</KR>
+<KR>強大的&lt;國籍&gt;前鋒</KR>
 <ES>poderoso delantero de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>強力な&amp;lt;国籍&amp;gt;ストライカー</JP>
 <CN>威力強大的&lt;國籍&gt;先鋒</CN>
 </HCS>
 <HCS i="15610">
 <EN>legendary &lt;nationality&gt; striker</EN>
-<KR>傳奇&amp;lt;國籍&amp;gt;前鋒</KR>
+<KR>傳奇&lt;國籍&gt;前鋒</KR>
 <ES>delantero legendario &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>伝説の&amp;lt;国籍&amp;gt;ストライカー</JP>
 <CN>傳奇&lt;國籍&gt;先鋒</CN>
 </HCS>
 <HCS i="15611">
 <EN>world class &lt;nationality&gt; striker</EN>
-<KR>世界級&amp;lt;國籍&amp;gt;前鋒</KR>
+<KR>世界級&lt;國籍&gt;前鋒</KR>
 <ES>delantero de clase mundial &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>ワールドクラスの&amp;lt;国籍&amp;gt;ストライカー</JP>
 <CN>世界級&lt;國籍&gt;先鋒</CN>
 </HCS>
 <HCS i="15612">
 <EN>young &lt;nationality&gt; forward</EN>
-<KR>年輕的&amp;lt;國籍&amp;gt;前鋒</KR>
+<KR>年輕的&lt;國籍&gt;前鋒</KR>
 <ES>joven &amp;lt;nacionalidad&amp;gt; adelante</ES>
 <JP>若い&amp;lt;国籍&amp;gt;フォワード</JP>
 <CN>年輕&lt;國籍&gt;前鋒</CN>
 </HCS>
 <HCS i="15613">
 <EN>experienced &lt;nationality&gt; forward</EN>
-<KR>經驗豐富的&amp;lt;國籍&amp;gt;前鋒</KR>
+<KR>經驗豐富的&lt;國籍&gt;前鋒</KR>
 <ES>delantero experimentado de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>経験豊富な&amp;lt;国籍&amp;gt;フォワード</JP>
 <CN>經驗老到的&lt;國籍&gt;前鋒</CN>
@@ -104282,14 +104282,14 @@
 </HCS>
 <HCS i="15615">
 <EN>veteran &lt;nationality&gt; forward</EN>
-<KR>老兵&amp;lt;國籍&amp;gt;前鋒</KR>
+<KR>老兵&lt;國籍&gt;前鋒</KR>
 <ES>veterano &amp;lt;nacionalidad&amp;gt; delantero</ES>
 <JP>ベテラン&amp;lt;国籍&amp;gt;フォワード</JP>
 <CN>老將&lt;國籍&gt;前鋒</CN>
 </HCS>
 <HCS i="15616">
 <EN>enthusiastic &lt;nationality&gt; forward</EN>
-<KR>熱情的&amp;lt;國籍&amp;gt;前鋒</KR>
+<KR>熱情的&lt;國籍&gt;前鋒</KR>
 <ES>entusiasta &amp;lt;nacionalidad&amp;gt; adelante</ES>
 <JP>熱狂的な&amp;lt;国籍&amp;gt;フォワード</JP>
 <CN>熱情的&lt;國籍&gt;前鋒</CN>
@@ -104304,42 +104304,42 @@
 </HCS>
 <HCS i="15618">
 <EN>promising &lt;nationality&gt; forward</EN>
-<KR>有前途的&amp;lt;國籍&amp;gt;前進</KR>
+<KR>有前途的&lt;國籍&gt;前進</KR>
 <ES>prometedor &amp;lt;nacionalidad&amp;gt; adelante</ES>
 <JP>有望な&amp;lt;国籍&amp;gt;フォワード</JP>
 <CN>經驗老到的&lt;國籍&gt;前鋒</CN>
 </HCS>
 <HCS i="15619">
 <EN>explosive &lt;nationality&gt; forward</EN>
-<KR>爆炸性&amp;lt;國籍&amp;gt;前鋒</KR>
+<KR>爆炸性&lt;國籍&gt;前鋒</KR>
 <ES>explosivo &amp;lt;nacionalidad&amp;gt; adelante</ES>
 <JP>爆発的な&amp;lt;国籍&amp;gt;フォワード</JP>
 <CN>火爆的&lt;國籍&gt;前鋒</CN>
 </HCS>
 <HCS i="15620">
 <EN>flamboyant &lt;nationality&gt; forward</EN>
-<KR>華麗的&amp;lt;國籍&amp;gt;前鋒</KR>
+<KR>華麗的&lt;國籍&gt;前鋒</KR>
 <ES>extravagante &amp;lt;nacionalidad&amp;gt; adelante</ES>
 <JP>華やかな&amp;lt;国籍&amp;gt;フォワード</JP>
 <CN>賣弄的&lt;國籍&gt;前鋒</CN>
 </HCS>
 <HCS i="15621">
 <EN>cultured &lt;nationality&gt; forward</EN>
-<KR>有文化的&amp;lt;國籍&amp;gt;向前</KR>
+<KR>有文化的&lt;國籍&gt;向前</KR>
 <ES>culto &amp;lt;nacionalidad&amp;gt; adelante</ES>
 <JP>養殖&amp;lt;国籍&amp;gt;フォワード</JP>
 <CN>有文化修養的&lt;國籍&gt;前鋒</CN>
 </HCS>
 <HCS i="15623">
 <EN>legendary &lt;nationality&gt; forward</EN>
-<KR>傳奇&amp;lt;國籍&amp;gt;前鋒</KR>
+<KR>傳奇&lt;國籍&gt;前鋒</KR>
 <ES>delantero legendario &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>伝説の&amp;lt;国籍&amp;gt;フォワード</JP>
 <CN>傳奇&lt;國籍&gt;前鋒</CN>
 </HCS>
 <HCS i="15624">
 <EN>world class &lt;nationality&gt; forward</EN>
-<KR>世界級&amp;lt;國籍&amp;gt;前鋒</KR>
+<KR>世界級&lt;國籍&gt;前鋒</KR>
 <ES>delantero de clase mundial &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>ワールドクラス&amp;lt;国籍&amp;gt;フォワード</JP>
 <CN>世界級&lt;國籍&gt;前鋒</CN>
@@ -104374,28 +104374,28 @@
 </HCS>
 <HCS i="15629">
 <EN>young &lt;nationality&gt; winger</EN>
-<KR>年輕的&amp;lt;國籍&amp;gt;邊鋒</KR>
+<KR>年輕的&lt;國籍&gt;邊鋒</KR>
 <ES>extremo joven de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>若い&amp;lt;国籍&amp;gt;ウィンガー</JP>
 <CN>年輕&lt;國籍&gt;邊鋒</CN>
 </HCS>
 <HCS i="15631">
 <EN>experienced &lt;nationality&gt; winger</EN>
-<KR>經驗豐富的&amp;lt;國籍&amp;gt;邊鋒</KR>
+<KR>經驗豐富的&lt;國籍&gt;邊鋒</KR>
 <ES>extremo experimentado de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>経験豊富な&amp;lt;国籍&amp;gt;ウィンガー</JP>
 <CN>經驗老到的&lt;國籍&gt;邊鋒</CN>
 </HCS>
 <HCS i="15632">
 <EN>veteran &lt;nationality&gt; winger</EN>
-<KR>老將 &amp;lt;國籍&amp;gt; 邊鋒</KR>
+<KR>老將 &lt;國籍&gt; 邊鋒</KR>
 <ES>extremo veterano &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>ベテラン&amp;lt;国籍&amp;gt;ウィンガー</JP>
 <CN>老將&lt;國籍&gt;邊鋒</CN>
 </HCS>
 <HCS i="15633">
 <EN>enthusiastic &lt;nationality&gt; winger</EN>
-<KR>熱情的&amp;lt;國籍&amp;gt;邊鋒</KR>
+<KR>熱情的&lt;國籍&gt;邊鋒</KR>
 <ES>extremo entusiasta de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>熱狂的な&amp;lt;国籍&amp;gt;ウィンガー</JP>
 <CN>熱情的&lt;國籍&gt;邊鋒</CN>
@@ -104410,63 +104410,63 @@
 </HCS>
 <HCS i="15637">
 <EN>promising &lt;nationality&gt; winger</EN>
-<KR>有前途的&amp;lt;國籍&amp;gt;邊鋒</KR>
+<KR>有前途的&lt;國籍&gt;邊鋒</KR>
 <ES>extremo prometedor de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>有望な&amp;lt;国籍&amp;gt;ウィンガー</JP>
 <CN>前景可期的&lt;國籍&gt;邊鋒</CN>
 </HCS>
 <HCS i="15638">
 <EN>explosive &lt;nationality&gt; winger</EN>
-<KR>爆炸性&amp;lt;國籍&amp;gt;邊鋒</KR>
+<KR>爆炸性&lt;國籍&gt;邊鋒</KR>
 <ES>extremo explosivo &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>爆発的な&amp;lt;国籍&amp;gt;ウィンガー</JP>
 <CN>火爆的&lt;國籍&gt;邊鋒</CN>
 </HCS>
 <HCS i="15639">
 <EN>flamboyant &lt;nationality&gt; winger</EN>
-<KR>華麗的&amp;lt;國籍&amp;gt;邊鋒</KR>
+<KR>華麗的&lt;國籍&gt;邊鋒</KR>
 <ES>extravagante extremo de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>華やかな&amp;lt;国籍&amp;gt;ウィンガー</JP>
 <CN>賣弄的&lt;國籍&gt;邊鋒</CN>
 </HCS>
 <HCS i="15640">
 <EN>cultured &lt;nationality&gt; winger</EN>
-<KR>有教養的&amp;lt;國籍&amp;gt;邊鋒</KR>
+<KR>有教養的&lt;國籍&gt;邊鋒</KR>
 <ES>extremo culto &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>養殖&amp;lt;国籍&amp;gt;ウィンガー</JP>
 <CN>有文化修養的&lt;國籍&gt;邊鋒</CN>
 </HCS>
 <HCS i="15641">
 <EN>legendary &lt;nationality&gt; winger</EN>
-<KR>傳奇&amp;lt;國籍&amp;gt;邊鋒</KR>
+<KR>傳奇&lt;國籍&gt;邊鋒</KR>
 <ES>extremo legendario &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>伝説の&amp;lt;国籍&amp;gt;ウィンガー</JP>
 <CN>傳奇&lt;國籍&gt;邊鋒</CN>
 </HCS>
 <HCS i="15642">
 <EN>world class &lt;nationality&gt; winger</EN>
-<KR>世界級&amp;lt;國籍&amp;gt;邊鋒</KR>
+<KR>世界級&lt;國籍&gt;邊鋒</KR>
 <ES>extremo de clase mundial &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>ワールドクラスの&amp;lt;国籍&amp;gt;ウィンガー</JP>
 <CN>世界級&lt;國籍&gt;邊鋒</CN>
 </HCS>
 <HCS i="15643">
 <EN>young &lt;nationality&gt; attacking midfielder</EN>
-<KR>年輕的 &amp;lt;國籍&amp;gt; 攻擊型中場</KR>
+<KR>年輕的 &lt;國籍&gt; 攻擊型中場</KR>
 <ES>joven centrocampista ofensivo de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>ミッドフィールダーを攻撃する若い&amp;lt;国籍&amp;gt;</JP>
 <CN>年輕&lt;國籍&gt;進攻中場</CN>
 </HCS>
 <HCS i="15644">
 <EN>experienced &lt;nationality&gt; attacking midfielder</EN>
-<KR>經驗豐富的&amp;lt;國籍&amp;gt;攻擊型中場</KR>
+<KR>經驗豐富的&lt;國籍&gt;攻擊型中場</KR>
 <ES>mediocampista ofensivo experimentado de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>経験豊富な&amp;lt;国籍&amp;gt;がミッドフィールダーを攻撃</JP>
 <CN>經驗老到的&lt;國籍&gt;進攻中場</CN>
 </HCS>
 <HCS i="15645">
 <EN>veteran &lt;nationality&gt; attacking midfielder</EN>
-<KR>老將 &amp;lt;國籍&amp;gt; 攻擊型中場</KR>
+<KR>老將 &lt;國籍&gt; 攻擊型中場</KR>
 <ES>mediocampista ofensivo veterano &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>ベテラン&amp;lt;国籍&amp;gt;がミッドフィールダーを攻撃</JP>
 <CN>老將&lt;國籍&gt;進攻中場</CN>
@@ -104496,7 +104496,7 @@
 </HCS>
 <HCS i="15650">
 <EN>enthusiastic &lt;nationality&gt; attacking midfielder</EN>
-<KR>熱情的&amp;lt;國籍&amp;gt;攻擊型中場</KR>
+<KR>熱情的&lt;國籍&gt;攻擊型中場</KR>
 <ES>entusiasta mediocampista ofensivo de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>熱狂的な&amp;lt;国籍&amp;gt;攻撃的なミッドフィールダー</JP>
 <CN>熱情的&lt;國籍&gt;進攻中場</CN>
@@ -104511,21 +104511,21 @@
 </HCS>
 <HCS i="15652">
 <EN>promising &lt;nationality&gt; attacking midfielder</EN>
-<KR>有前途的&amp;lt;國籍&amp;gt;攻擊型中場</KR>
+<KR>有前途的&lt;國籍&gt;攻擊型中場</KR>
 <ES>prometedor centrocampista ofensivo de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>有望な&amp;lt;国籍&amp;gt;攻撃的MF</JP>
 <CN>前景可期的&lt;國籍&gt;進攻中場</CN>
 </HCS>
 <HCS i="15653">
 <EN>explosive &lt;nationality&gt; attacking midfielder</EN>
-<KR>爆發力&amp;lt;國籍&amp;gt;攻擊型中場</KR>
+<KR>爆發力&lt;國籍&gt;攻擊型中場</KR>
 <ES>centrocampista ofensivo de &amp;lt;nacionalidad&amp;gt; explosivo</ES>
 <JP>爆発的な&amp;lt;国籍&amp;gt;攻撃的なミッドフィールダー</JP>
 <CN>火爆的&lt;國籍&gt;進攻中場</CN>
 </HCS>
 <HCS i="15654">
 <EN>flamboyant &lt;nationality&gt; attacking midfielder</EN>
-<KR>華麗的 &amp;lt;國籍&amp;gt; 攻擊型中場</KR>
+<KR>華麗的 &lt;國籍&gt; 攻擊型中場</KR>
 <ES>extravagante mediocampista ofensivo de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>派手な&amp;lt;国籍&amp;gt;を攻撃するミッドフィールダー</JP>
 <CN>賣弄的&lt;國籍&gt;進攻中場</CN>
@@ -104547,7 +104547,7 @@
 </HCS>
 <HCS i="15657">
 <EN>cultured &lt;nationality&gt; attacking midfielder</EN>
-<KR>有教養的&amp;lt;國籍&amp;gt;攻擊型中場</KR>
+<KR>有教養的&lt;國籍&gt;攻擊型中場</KR>
 <ES>centrocampista ofensivo culto &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>培養された&amp;lt;国籍&amp;gt;攻撃的なミッドフィールダー</JP>
 <CN>有文化修養的老將&lt;國籍&gt;進攻中場</CN>
@@ -104562,35 +104562,35 @@
 </HCS>
 <HCS i="15659">
 <EN>legendary &lt;nationality&gt; attacking midfielder</EN>
-<KR>傳奇 &amp;lt;國籍&amp;gt; 攻擊型中場</KR>
+<KR>傳奇 &lt;國籍&gt; 攻擊型中場</KR>
 <ES>mediocampista ofensivo legendario de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>伝説の&amp;lt;国籍&amp;gt;がミッドフィールダーを攻撃</JP>
 <CN>傳奇&lt;國籍&gt;進攻中場</CN>
 </HCS>
 <HCS i="15660">
 <EN>world class &lt;nationality&gt; attacking midfielder</EN>
-<KR>世界級的&amp;lt;國籍&amp;gt;攻擊型中場</KR>
+<KR>世界級的&lt;國籍&gt;攻擊型中場</KR>
 <ES>centrocampista ofensivo de clase mundial &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>ワールドクラスの&amp;lt;国籍&amp;gt;がミッドフィールダーを攻撃</JP>
 <CN>世界級&lt;國籍&gt;進攻中場</CN>
 </HCS>
 <HCS i="15661">
 <EN>flamboyant &lt;nationality&gt; midfielder</EN>
-<KR>華麗的&amp;lt;國籍&amp;gt;中場</KR>
+<KR>華麗的&lt;國籍&gt;中場</KR>
 <ES>extravagante mediocampista de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>華やかな&amp;lt;国籍&amp;gt;ミッドフィールダー</JP>
 <CN>賣弄的&lt;國籍&gt;中場</CN>
 </HCS>
 <HCS i="15662">
 <EN>young &lt;nationality&gt; midfielder</EN>
-<KR>年輕的&amp;lt;國籍&amp;gt;中場</KR>
+<KR>年輕的&lt;國籍&gt;中場</KR>
 <ES>joven centrocampista de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>若い&amp;lt;国籍&amp;gt;ミッドフィールダー</JP>
 <CN>年輕&lt;國籍&gt;中場</CN>
 </HCS>
 <HCS i="15663">
 <EN>experienced &lt;nationality&gt; midfielder</EN>
-<KR>經驗豐富的&amp;lt;國籍&amp;gt;中場</KR>
+<KR>經驗豐富的&lt;國籍&gt;中場</KR>
 <ES>mediocampista experimentado de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>経験豊富な&amp;lt;国籍&amp;gt;ミッドフィールダー</JP>
 <CN>經驗老到的&lt;國籍&gt;中場</CN>
@@ -104604,7 +104604,7 @@
 </HCS>
 <HCS i="15665">
 <EN>veteran &lt;nationality&gt; midfielder</EN>
-<KR>老將 &amp;lt;國籍&amp;gt; 中場</KR>
+<KR>老將 &lt;國籍&gt; 中場</KR>
 <ES>centrocampista veterano &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>ベテラン&amp;lt;国籍&amp;gt;ミッドフィールダー</JP>
 <CN>老將&lt;國籍&gt;中場</CN>
@@ -104618,14 +104618,14 @@
 </HCS>
 <HCS i="15667">
 <EN>enthusiastic &lt;nationality&gt; midfielder</EN>
-<KR>熱情的&amp;lt;國籍&amp;gt;中場</KR>
+<KR>熱情的&lt;國籍&gt;中場</KR>
 <ES>centrocampista entusiasta de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>熱狂的な&amp;lt;国籍&amp;gt;ミッドフィールダー</JP>
 <CN>熱情的&lt;國籍&gt;中場</CN>
 </HCS>
 <HCS i="15668">
 <EN>promising &lt;nationality&gt; midfielder</EN>
-<KR>有前途的&amp;lt;國籍&amp;gt;中場</KR>
+<KR>有前途的&lt;國籍&gt;中場</KR>
 <ES>prometedor centrocampista de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>有望な&amp;lt;国籍&amp;gt;ミッドフィールダー</JP>
 <CN>前景可期的&lt;國籍&gt;中場</CN>
@@ -104639,14 +104639,14 @@
 </HCS>
 <HCS i="15670">
 <EN>cultured &lt;nationality&gt; midfielder</EN>
-<KR>有教養的&amp;lt;國籍&amp;gt;中場</KR>
+<KR>有教養的&lt;國籍&gt;中場</KR>
 <ES>centrocampista culto &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>養殖&amp;lt;国籍&amp;gt;ミッドフィールダー</JP>
 <CN>有文化修養的&lt;國籍y&gt;中場</CN>
 </HCS>
 <HCS i="15671">
 <EN>tireless &lt;nationality&gt; midfielder</EN>
-<KR>不知疲倦的&amp;lt;國籍&amp;gt;中場</KR>
+<KR>不知疲倦的&lt;國籍&gt;中場</KR>
 <ES>centrocampista incansable de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>疲れ知らずの&amp;lt;国籍&amp;gt;ミッドフィールダー</JP>
 <CN>不知疲倦的&lt;國籍&gt;中場</CN>
@@ -104661,28 +104661,28 @@
 </HCS>
 <HCS i="15673">
 <EN>industrious &lt;nationality&gt; midfielder</EN>
-<KR>勤奮的&amp;lt;國籍&amp;gt;中場</KR>
+<KR>勤奮的&lt;國籍&gt;中場</KR>
 <ES>industrioso mediocampista de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>勤勉な&amp;lt;国籍&amp;gt;ミッドフィールダー</JP>
 <CN>勤奮的&lt;國籍&gt;中場</CN>
 </HCS>
 <HCS i="15674">
 <EN>tenacious &lt;nationality&gt; midfielder</EN>
-<KR>頑強的&amp;lt;國籍&amp;gt;中場</KR>
+<KR>頑強的&lt;國籍&gt;中場</KR>
 <ES>mediocampista tenaz de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>粘り強い&amp;lt;国籍&amp;gt;ミッドフィールダー</JP>
 <CN>頑強的&lt;國籍&gt;中場</CN>
 </HCS>
 <HCS i="15675">
 <EN>legendary &lt;nationality&gt; midfielder</EN>
-<KR>傳奇&amp;lt;國籍&amp;gt;中場</KR>
+<KR>傳奇&lt;國籍&gt;中場</KR>
 <ES>centrocampista legendario de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>伝説の&amp;lt;国籍&amp;gt;ミッドフィールダー</JP>
 <CN>傳奇&lt;國籍&gt;中場</CN>
 </HCS>
 <HCS i="15676">
 <EN>world class &lt;nationality&gt; midfielder</EN>
-<KR>世界級&amp;lt;國籍&amp;gt;中場</KR>
+<KR>世界級&lt;國籍&gt;中場</KR>
 <ES>mediocampista de clase mundial &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>ワールドクラスの&amp;lt;国籍&amp;gt;ミッドフィールダー</JP>
 <CN>世界級&lt;國籍&gt;中場</CN>
@@ -104704,84 +104704,84 @@
 </HCS>
 <HCS i="15679">
 <EN>young &lt;nationality&gt; centre-back</EN>
-<KR>年輕的&amp;lt;國籍&amp;gt;中後衛</KR>
+<KR>年輕的&lt;國籍&gt;中後衛</KR>
 <ES>central joven de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>若い&amp;lt;国籍&amp;gt;センターバック</JP>
 <CN>年輕&lt;國籍&gt;後衛</CN>
 </HCS>
 <HCS i="15680">
 <EN>experienced &lt;nationality&gt; centre-back</EN>
-<KR>經驗豐富的&amp;lt;國籍&amp;gt;中後衛</KR>
+<KR>經驗豐富的&lt;國籍&gt;中後衛</KR>
 <ES>defensa central de &amp;lt;nacionalidad&amp;gt; con experiencia</ES>
 <JP>経験豊富な&amp;lt;国籍&amp;gt;センターバック</JP>
 <CN>經驗老到的&lt;國籍&gt;後衛</CN>
 </HCS>
 <HCS i="15681">
 <EN>veteran &lt;nationality&gt; centre-back</EN>
-<KR>老將&amp;lt;國籍&amp;gt;中後衛</KR>
+<KR>老將&lt;國籍&gt;中後衛</KR>
 <ES>defensa central veterano &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>ベテラン&amp;lt;国籍&amp;gt;センターバック</JP>
 <CN>老將&lt;國籍&gt;後衛</CN>
 </HCS>
 <HCS i="15682">
 <EN>enthusiastic &lt;nationality&gt; centre-back</EN>
-<KR>熱情的&amp;lt;國籍&amp;gt;中後衛</KR>
+<KR>熱情的&lt;國籍&gt;中後衛</KR>
 <ES>entusiasta central de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>熱狂的な&amp;lt;国籍&amp;gt;センターバック</JP>
 <CN>熱情的&lt;國籍&gt;後衛</CN>
 </HCS>
 <HCS i="15683">
 <EN>promising &lt;nationality&gt; centre-back</EN>
-<KR>有前途的&amp;lt;國籍&amp;gt;中後衛</KR>
+<KR>有前途的&lt;國籍&gt;中後衛</KR>
 <ES>prometedor central de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>有望な&amp;lt;国籍&amp;gt;センターバック</JP>
 <CN>前景可期的&lt;國籍&gt;後衛</CN>
 </HCS>
 <HCS i="15684">
 <EN>explosive &lt;nationality&gt; centre-back</EN>
-<KR>爆發力&amp;lt;國籍&amp;gt;中後衛</KR>
+<KR>爆發力&lt;國籍&gt;中後衛</KR>
 <ES>explosivo central de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>爆発的な&amp;lt;国籍&amp;gt;センターバック</JP>
 <CN>火爆的&lt;國籍&gt;後衛</CN>
 </HCS>
 <HCS i="15685">
 <EN>cultured &lt;nationality&gt; centre-back</EN>
-<KR>有教養的&amp;lt;國籍&amp;gt;中後衛</KR>
+<KR>有教養的&lt;國籍&gt;中後衛</KR>
 <ES>defensa central culto &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>養殖&amp;lt;国籍&amp;gt;センターバック</JP>
 <CN>有文化修養的&lt;國籍&gt;後衛</CN>
 </HCS>
 <HCS i="15686">
 <EN>solid &lt;nationality&gt; centre-back</EN>
-<KR>堅實的&amp;lt;國籍&amp;gt;中後衛</KR>
+<KR>堅實的&lt;國籍&gt;中後衛</KR>
 <ES>sólido central de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>堅実な&amp;lt;国籍&amp;gt;センターバック</JP>
 <CN>紮實的&lt;國籍&gt;後衛</CN>
 </HCS>
 <HCS i="15687">
 <EN>strong &lt;nationality&gt; centre-back</EN>
-<KR>強大的&amp;lt;國籍&amp;gt;中後衛</KR>
+<KR>強大的&lt;國籍&gt;中後衛</KR>
 <ES>defensa central de &amp;lt;nacionalidad&amp;gt; fuerte</ES>
 <JP>強い&amp;lt;国籍&amp;gt;センターバック</JP>
 <CN>強壯的&lt;國籍&gt;後衛</CN>
 </HCS>
 <HCS i="15688">
 <EN>commanding &lt;nationality&gt; centre-back</EN>
-<KR>指揮&amp;lt;國籍&amp;gt;中後衛</KR>
+<KR>指揮&lt;國籍&gt;中後衛</KR>
 <ES>defensa central de &amp;lt;nacionalidad&amp;gt; al mando</ES>
 <JP>&amp;lt;国籍&amp;gt;センターバックを指揮</JP>
 <CN>威懾的&lt;國籍&gt;後衛</CN>
 </HCS>
 <HCS i="15689">
 <EN>decisive &lt;nationality&gt; centre-back</EN>
-<KR>決定性的&amp;lt;國籍&amp;gt;中後衛</KR>
+<KR>決定性的&lt;國籍&gt;中後衛</KR>
 <ES>decisivo central de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>決定的な&amp;lt;国籍&amp;gt;センターバック</JP>
 <CN>果斷的&lt;國籍&gt;後衛</CN>
 </HCS>
 <HCS i="15690">
 <EN>legendary &lt;nationality&gt; centre-back</EN>
-<KR>傳奇&amp;lt;國籍&amp;gt;中後衛</KR>
+<KR>傳奇&lt;國籍&gt;中後衛</KR>
 <ES>legendario defensa central de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>伝説の&amp;lt;国籍&amp;gt;センターバック</JP>
 <CN>傳奇&lt;國籍&gt;後衛</CN>
@@ -104795,7 +104795,7 @@
 </HCS>
 <HCS i="15692">
 <EN>world class &lt;nationality&gt; centre-back</EN>
-<KR>世界級&amp;lt;國籍&amp;gt;中後衛</KR>
+<KR>世界級&lt;國籍&gt;中後衛</KR>
 <ES>central de clase mundial &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>ワールドクラス&amp;lt;国籍&amp;gt;センターバック</JP>
 <CN>世界級&lt;國籍&gt;後衛</CN>
@@ -104809,77 +104809,77 @@
 </HCS>
 <HCS i="15694">
 <EN>attacking &lt;nationality&gt; full-back</EN>
-<KR>攻擊 &amp;lt;國籍&amp;gt; 邊後衛</KR>
+<KR>攻擊 &lt;國籍&gt; 邊後衛</KR>
 <ES>lateral ofensivo de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>&amp;lt;国籍&amp;gt;をフルバックで攻撃</JP>
 <CN>具攻擊性的&lt;國籍&gt;邊後衛</CN>
 </HCS>
 <HCS i="15695">
 <EN>young &lt;nationality&gt; full-back</EN>
-<KR>年輕的&amp;lt;國籍&amp;gt; 邊後衛</KR>
+<KR>年輕的&lt;國籍&gt; 邊後衛</KR>
 <ES>lateral joven de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>若い&amp;lt;国籍&amp;gt;フルバック</JP>
 <CN>年輕&lt;國籍&gt;邊後衛</CN>
 </HCS>
 <HCS i="15696">
 <EN>experienced &lt;nationality&gt; full-back</EN>
-<KR>經驗豐富的&amp;lt;國籍&amp;gt;邊後衛</KR>
+<KR>經驗豐富的&lt;國籍&gt;邊後衛</KR>
 <ES>lateral experimentado de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>経験豊富な&amp;lt;国籍&amp;gt;フルバック</JP>
 <CN>經驗老到的&lt;國籍&gt;邊後衛</CN>
 </HCS>
 <HCS i="15697">
 <EN>veteran &lt;nationality&gt; full-back</EN>
-<KR>老將 &amp;lt;國籍&amp;gt; 邊後衛</KR>
+<KR>老將 &lt;國籍&gt; 邊後衛</KR>
 <ES>lateral veterano &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>ベテラン&amp;lt;国籍&amp;gt;フルバック</JP>
 <CN>老將&lt;國籍&gt;邊後衛</CN>
 </HCS>
 <HCS i="15698">
 <EN>enthusiastic &lt;nationality&gt; full-back</EN>
-<KR>熱情的&amp;lt;國籍&amp;gt;邊後衛</KR>
+<KR>熱情的&lt;國籍&gt;邊後衛</KR>
 <ES>lateral entusiasta de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>熱狂的な&amp;lt;国籍&amp;gt;フルバック</JP>
 <CN>熱情的&lt;國籍&gt;邊後衛</CN>
 </HCS>
 <HCS i="15699">
 <EN>promising &lt;nationality&gt; full-back</EN>
-<KR>有前途的&amp;lt;國籍&amp;gt;後衛</KR>
+<KR>有前途的&lt;國籍&gt;後衛</KR>
 <ES>prometedor lateral de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>有望な&amp;lt;国籍&amp;gt;フルバック</JP>
 <CN>前景可期的&lt;國籍&gt;邊後衛</CN>
 </HCS>
 <HCS i="15700">
 <EN>explosive &lt;nationality&gt; full-back</EN>
-<KR>爆發力&amp;lt;國籍&amp;gt;後衛</KR>
+<KR>爆發力&lt;國籍&gt;後衛</KR>
 <ES>lateral explosivo de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>爆発的な&amp;lt;国籍&amp;gt;フルバック</JP>
 <CN>火爆的&lt;國籍&gt;邊後衛</CN>
 </HCS>
 <HCS i="15701">
 <EN>cultured &lt;nationality&gt; full-back</EN>
-<KR>有教養的&amp;lt;國籍&amp;gt;後衛</KR>
+<KR>有教養的&lt;國籍&gt;後衛</KR>
 <ES>lateral culto de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>養殖&amp;lt;国籍&amp;gt;フルバック</JP>
 <CN>有文化修養的&lt;國籍&gt;邊後衛</CN>
 </HCS>
 <HCS i="15702">
 <EN>solid &lt;nationality&gt; full-back</EN>
-<KR>堅實的&amp;lt;國籍&amp;gt;後衛</KR>
+<KR>堅實的&lt;國籍&gt;後衛</KR>
 <ES>sólido lateral de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>堅実な&amp;lt;国籍&amp;gt;フルバック</JP>
 <CN>紮實的&lt;國籍&gt;邊後衛</CN>
 </HCS>
 <HCS i="15703">
 <EN>strong &lt;nationality&gt; full-back</EN>
-<KR>強大的&amp;lt;國籍&amp;gt;後衛</KR>
+<KR>強大的&lt;國籍&gt;後衛</KR>
 <ES>lateral fuerte de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>強い&amp;lt;国籍&amp;gt;フルバック</JP>
 <CN>強壯的&lt;國籍&gt;邊後衛</CN>
 </HCS>
 <HCS i="15704">
 <EN>commanding &lt;nationality&gt; full-back</EN>
-<KR>指揮 &amp;lt;國籍&amp;gt; 邊後衛</KR>
+<KR>指揮 &lt;國籍&gt; 邊後衛</KR>
 <ES>lateral al mando de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>&amp;lt;国籍&amp;gt;フルバックを指揮</JP>
 <CN>威懾的&lt;國籍&gt;邊後衛</CN>
@@ -104902,21 +104902,21 @@
 </HCS>
 <HCS i="15707">
 <EN>decisive &lt;nationality&gt; full-back</EN>
-<KR>決定性的&amp;lt;國籍&amp;gt;後衛</KR>
+<KR>決定性的&lt;國籍&gt;後衛</KR>
 <ES>lateral decisivo de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>決定的な&amp;lt;国籍&amp;gt;フルバック</JP>
 <CN>果斷的&lt;國籍&gt;邊後衛</CN>
 </HCS>
 <HCS i="15708">
 <EN>legendary &lt;nationality&gt; full-back</EN>
-<KR>傳奇&amp;lt;國籍&amp;gt;邊後衛</KR>
+<KR>傳奇&lt;國籍&gt;邊後衛</KR>
 <ES>lateral legendario de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>伝説の&amp;lt;国籍&amp;gt;フルバック</JP>
 <CN>傳奇&lt;國籍&gt;邊後衛</CN>
 </HCS>
 <HCS i="15709">
 <EN>world class &lt;nationality&gt; full-back</EN>
-<KR>世界級&amp;lt;國籍&amp;gt;邊後衛</KR>
+<KR>世界級&lt;國籍&gt;邊後衛</KR>
 <ES>lateral de clase mundial &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>ワールドクラス&amp;lt;国籍&amp;gt;フルバック</JP>
 <CN>世界級&lt;國籍&gt;邊後衛</CN>
@@ -104931,28 +104931,28 @@
 </HCS>
 <HCS i="15711">
 <EN>young &lt;nationality&gt; goalkeeper</EN>
-<KR>年輕的&amp;lt;國籍&amp;gt;守門員</KR>
+<KR>年輕的&lt;國籍&gt;守門員</KR>
 <ES>portero joven de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>若い&amp;lt;国籍&amp;gt;ゴールキーパー</JP>
 <CN>年輕&lt;國籍&gt;守門員</CN>
 </HCS>
 <HCS i="15712">
 <EN>enthusiastic &lt;nationality&gt; goalkeeper</EN>
-<KR>熱情的&amp;lt;國籍&amp;gt;守門員</KR>
+<KR>熱情的&lt;國籍&gt;守門員</KR>
 <ES>portero entusiasta de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>熱狂的な&amp;lt;国籍&amp;gt;ゴールキーパー</JP>
 <CN>熱情的&lt;國籍&gt;守門員</CN>
 </HCS>
 <HCS i="15713">
 <EN>promising &lt;nationality&gt; goalkeeper</EN>
-<KR>有前途的&amp;lt;國籍&amp;gt;守門員</KR>
+<KR>有前途的&lt;國籍&gt;守門員</KR>
 <ES>prometedor portero de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>有望な&amp;lt;国籍&amp;gt;ゴールキーパー</JP>
 <CN>前景可期的&lt;國籍&gt;守門員</CN>
 </HCS>
 <HCS i="15714">
 <EN>experienced &lt;nationality&gt; goalkeeper</EN>
-<KR>經驗豐富的&amp;lt;國籍&amp;gt;守門員</KR>
+<KR>經驗豐富的&lt;國籍&gt;守門員</KR>
 <ES>portero experimentado de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>経験豊富な&amp;lt;国籍&amp;gt;ゴールキーパー</JP>
 <CN>經驗老到的&lt;國籍&gt;守門員</CN>
@@ -104967,42 +104967,42 @@
 </HCS>
 <HCS i="15716">
 <EN>veteran &lt;nationality&gt; goalkeeper</EN>
-<KR>老將 &amp;lt;國籍&amp;gt; 守門員</KR>
+<KR>老將 &lt;國籍&gt; 守門員</KR>
 <ES>portero veterano &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>ベテラン&amp;lt;国籍&amp;gt;ゴールキーパー</JP>
 <CN>老將&lt;國籍&gt;守門員</CN>
 </HCS>
 <HCS i="15717">
 <EN>erratic &lt;nationality&gt; goalkeeper</EN>
-<KR>不穩定的&amp;lt;國籍&amp;gt;守門員</KR>
+<KR>不穩定的&lt;國籍&gt;守門員</KR>
 <ES>portero errático de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>不安定な&amp;lt;国籍&amp;gt;ゴールキーパー</JP>
 <CN>不穩的&lt;國籍&gt;守門員</CN>
 </HCS>
 <HCS i="15718">
 <EN>commanding &lt;nationality&gt; goalkeeper</EN>
-<KR>指揮 &amp;lt;國籍&amp;gt; 守門員</KR>
+<KR>指揮 &lt;國籍&gt; 守門員</KR>
 <ES>portero de &amp;lt;nacionalidad&amp;gt; al mando</ES>
 <JP>&amp;lt;国籍&amp;gt;のゴールキーパーを指揮する</JP>
 <CN>威懾的&lt;國籍&gt;守門員</CN>
 </HCS>
 <HCS i="15719">
 <EN>legendary &lt;nationality&gt; goalkeeper</EN>
-<KR>傳奇&amp;lt;國籍&amp;gt;守門員</KR>
+<KR>傳奇&lt;國籍&gt;守門員</KR>
 <ES>portero legendario de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>伝説の&amp;lt;国籍&amp;gt;ゴールキーパー</JP>
 <CN>傳奇&lt;國籍&gt;守門員</CN>
 </HCS>
 <HCS i="15720">
 <EN>Intentional Losing (&#39;Tanking</EN>
-<KR>故意損失（&amp;#39;坦克</KR>
+<KR>故意損失（&#39;坦克</KR>
 <ES>Pérdida intencional (&amp;#39;Tanking</ES>
 <JP>意図的な損失（ &amp;#39;タンキング</JP>
 <CN>故意輸掉（故意輸球</CN>
 </HCS>
 <HCS i="15721">
 <EN>world class &lt;nationality&gt; goalkeeper</EN>
-<KR>世界級&amp;lt;國籍&amp;gt;守門員</KR>
+<KR>世界級&lt;國籍&gt;守門員</KR>
 <ES>portero de clase mundial &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>ワールドクラスの&amp;lt;国籍&amp;gt;ゴールキーパー</JP>
 <CN>世界級&lt;國籍&gt;守門員</CN>
@@ -107857,14 +107857,14 @@
 </HCS>
 <HCS i="16160">
 <EN>Is Less Than (&lt;</EN>
-<KR>小於 (&amp;lt;</KR>
+<KR>小於 (&lt;</KR>
 <ES>es menor que (&amp;lt;</ES>
 <JP>未満です（&amp;lt;</JP>
 <CN>低於（&lt;</CN>
 </HCS>
 <HCS i="16161">
 <EN>Is Greater Than (&gt;</EN>
-<KR>大於 (&amp;gt;</KR>
+<KR>大於 (&gt;</KR>
 <ES>es mayor que (&amp;gt;</ES>
 <JP>大なり記号（&amp;gt;</JP>
 <CN>大於（&gt;</CN>
@@ -107878,7 +107878,7 @@
 </HCS>
 <HCS i="16163">
 <EN>Successfully created league file &#39;&#37;filename&#39;, file size = &#37;number (&#37;numberbytes bytes</EN>
-<KR>成功建立聯盟檔案 &amp;#39;&#37;filename&amp;#39;，檔案大小 = &#37;number (&#37;numberbytes 個字節</KR>
+<KR>成功建立聯盟檔案 &#39;&#37;filename&#39;，檔案大小 = &#37;number (&#37;numberbytes 個字節</KR>
 <ES>Archivo de liga creado con éxito &amp;#39;&#37;filename&amp;#39;, tamaño de archivo = &#37;number (&#37;numberbytes bytes</ES>
 <JP>リーグファイル &amp;#39;％filename&amp;#39;が正常に作成されました。ファイルサイズ=％number（％numberbytesバイト）</JP>
 <CN>成功建立了聯盟檔案「&#37;filename」，檔案大小=&#37;number（&#37;numberbytes位元</CN>
@@ -116354,14 +116354,14 @@
 </HCS>
 <HCS i="17400">
 <EN>&lt;nationality&gt; player</EN>
-<KR>&amp;lt;國籍&amp;gt;選手</KR>
+<KR>&lt;國籍&gt;選手</KR>
 <ES>jugador de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>&amp;lt;国籍&amp;gt;選手</JP>
 <CN>&lt;nationality&gt;球員</CN>
 </HCS>
 <HCS i="17401">
 <EN>&lt;nationality&gt; striker</EN>
-<KR>&amp;lt;國籍&amp;gt;前鋒</KR>
+<KR>&lt;國籍&gt;前鋒</KR>
 <ES>&amp;lt;nacionalidad&amp;gt; delantero</ES>
 <JP>&amp;lt;国籍&amp;gt;ストライカー</JP>
 <CN>&lt;nationality&gt;先鋒</CN>
@@ -116531,7 +116531,7 @@
 </HCS>
 <HCS i="17425">
 <EN>&lt;nationality&gt; forward</EN>
-<KR>&amp;lt;國籍&amp;gt; 向前</KR>
+<KR>&lt;國籍&gt; 向前</KR>
 <ES>&amp;lt;nacionalidad&amp;gt; adelante</ES>
 <JP>&amp;lt;国籍&amp;gt;フォワード</JP>
 <CN>&lt;nationality&gt;前鋒</CN>
@@ -116587,7 +116587,7 @@
 </HCS>
 <HCS i="17435">
 <EN>&lt;nationality&gt; playmaker</EN>
-<KR>&amp;lt;國籍&amp;gt; 進攻組織者</KR>
+<KR>&lt;國籍&gt; 進攻組織者</KR>
 <ES>&amp;lt;nacionalidad&amp;gt; mediapunta</ES>
 <JP>&amp;lt;国籍&amp;gt;プレイメーカー</JP>
 <CN>&lt;nationality&gt;組織核心</CN>
@@ -116629,7 +116629,7 @@
 </HCS>
 <HCS i="17441">
 <EN>&lt;nationality&gt; winger</EN>
-<KR>&amp;lt;國籍&amp;gt;邊鋒</KR>
+<KR>&lt;國籍&gt;邊鋒</KR>
 <ES>extremo &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>&amp;lt;国籍&amp;gt;ウィンガー</JP>
 <CN>&lt;nationality&gt;邊鋒</CN>
@@ -116686,7 +116686,7 @@
 </HCS>
 <HCS i="17452">
 <EN>&lt;nationality&gt; attacking midfielder</EN>
-<KR>&amp;lt;國籍&amp;gt; 攻擊型中場</KR>
+<KR>&lt;國籍&gt; 攻擊型中場</KR>
 <ES>mediocampista ofensivo de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>&amp;lt;国籍&amp;gt;ミッドフィールダーを攻撃</JP>
 <CN>&lt;nationality&gt;進攻中場</CN>
@@ -116818,21 +116818,21 @@
 </HCS>
 <HCS i="17471">
 <EN>&lt;nationality&gt; midfield general</EN>
-<KR>&amp;lt;國籍&amp;gt;中場大將</KR>
+<KR>&lt;國籍&gt;中場大將</KR>
 <ES>&amp;lt;nacionalidad&amp;gt; centrocampista general</ES>
 <JP>&amp;lt;国籍&amp;gt;ミッドフィールドゼネラル</JP>
 <CN>&lt;nationality&gt;中場將軍</CN>
 </HCS>
 <HCS i="17472">
 <EN>&lt;nationality&gt; midfield playmaker</EN>
-<KR>&amp;lt;國籍&amp;gt; 中場組織者</KR>
+<KR>&lt;國籍&gt; 中場組織者</KR>
 <ES>mediapunta de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>&amp;lt;国籍&amp;gt;ミッドフィールダー</JP>
 <CN>&lt;nationality&gt;中場組織核心</CN>
 </HCS>
 <HCS i="17473">
 <EN>&lt;nationality&gt; midfielder</EN>
-<KR>&amp;lt;國籍&amp;gt;中場</KR>
+<KR>&lt;國籍&gt;中場</KR>
 <ES>centrocampista de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>&amp;lt;国籍&amp;gt;ミッドフィールダー</JP>
 <CN>&lt;nationality&gt;中場</CN>
@@ -116931,7 +116931,7 @@
 </HCS>
 <HCS i="17491">
 <EN>&lt;nationality&gt; centre-back</EN>
-<KR>&amp;lt;國籍&amp;gt; 中後衛</KR>
+<KR>&lt;國籍&gt; 中後衛</KR>
 <ES>&amp;lt;nacionalidad&amp;gt; central</ES>
 <JP>&amp;lt;国籍&amp;gt;センターバック</JP>
 <CN>&lt;nationality&gt;後衛</CN>
@@ -116952,14 +116952,14 @@
 </HCS>
 <HCS i="17500">
 <EN>&lt;nationality&gt; sweeper</EN>
-<KR>&amp;lt;國籍&amp;gt;掃地機</KR>
+<KR>&lt;國籍&gt;掃地機</KR>
 <ES>&amp;lt;nacionalidad&amp;gt; barrendero</ES>
 <JP>&amp;lt;国籍&amp;gt;スイーパー</JP>
 <CN>&lt;nationality&gt;橫掃球員</CN>
 </HCS>
 <HCS i="17502">
 <EN>&lt;nationality&gt; full-back</EN>
-<KR>&amp;lt;國籍&amp;gt; 邊後衛</KR>
+<KR>&lt;國籍&gt; 邊後衛</KR>
 <ES>lateral de &amp;lt;nacionalidad&amp;gt;</ES>
 <JP>&amp;lt;国籍&amp;gt;フルバック</JP>
 <CN>&lt;nationality&gt;邊後衛</CN>
@@ -117066,7 +117066,7 @@
 </HCS>
 <HCS i="17517">
 <EN>&lt;nationality&gt; goalkeeper</EN>
-<KR>&amp;lt;國籍&amp;gt;守門員</KR>
+<KR>&lt;國籍&gt;守門員</KR>
 <ES>&amp;lt;nacionalidad&amp;gt; portero</ES>
 <JP>&amp;lt;国籍&amp;gt;ゴールキーパー</JP>
 <CN>&lt;nationality&gt;守門員</CN>
@@ -117515,7 +117515,7 @@
 </HCS>
 <HCS i="17581">
 <EN>&lt; Previous Page</EN>
-<KR>&amp;lt; 上一頁</KR>
+<KR>&lt; 上一頁</KR>
 <ES>&amp;lt; Página anterior</ES>
 <JP>&amp;lt;前のページ</JP>
 <CN>&lt;上一頁</CN>
@@ -117855,7 +117855,7 @@
 </HCS>
 <HCS i="17630">
 <EN>startup - Facegen disabled: myfacegen-&gt;init() failed</EN>
-<KR>啟動 - Facegen 已禁用：myfacegen-&amp;gt;init() 失敗</KR>
+<KR>啟動 - Facegen 已禁用：myfacegen-&gt;init() 失敗</KR>
 <ES>inicio - Facegen deshabilitado: myfacegen-&amp;gt;init() falló</ES>
 <JP>起動-Facegenが無効になっています：myfacegen-&amp;gt; init（）が失敗しました</JP>
 <CN>啟動——FaceGen已停用：myfacegen-&gt;init()已失敗</CN>
@@ -118938,7 +118938,7 @@
 <HCS i="17780">
 <EN>8th or later &amp; lead</EN>
 <DC>describes an inning &amp; situation</DC>
-<KR>第 8 次或以後 &amp;amp; 領先</KR>
+<KR>第 8 次或以後 &amp; 領先</KR>
 <ES>8 o posterior y líder</ES>
 <JP>8日以降＆リード</JP>
 <CN>第8局或之後，且處領先位置</CN>
@@ -122021,7 +122021,7 @@
 </HCS>
 <HCS i="18230">
 <EN>EV &#37;0.1f km/h</EN>
-<KR>EV &#37;0.1f km/h</KR>
+<KR>EV &#37;0.1f kmh</KR>
 <ES>EV &#37;0,1f km/h</ES>
 <JP>EV％0.1f km / h</JP>
 <CN>EV &#37;0.1f km/h</CN>
@@ -122315,7 +122315,7 @@
 <HCS i="18271">
 <EN>BF&#37;</EN>
 <DC>Batting Fatigue Level</DC>
-<KR>BF&#37;</KR>
+<KR>BF &#37;</KR>
 <ES>BF&#37;</ES>
 <JP>BF％</JP>
 <CN>BF&#37;</CN>
@@ -122714,7 +122714,7 @@
 </HCS>
 <HCS i="18327">
 <EN>&lt;Auto-Select Target&gt;</EN>
-<KR>&amp;lt;自動選擇目標&amp;gt;</KR>
+<KR>&lt;自動選擇目標&gt;</KR>
 <ES>&amp;lt;Seleccionar objetivo automáticamente&amp;gt;</ES>
 <JP>&amp;lt;ターゲットの自動選択&amp;gt;</JP>
 <CN>&lt;自動選擇目標&gt;</CN>
@@ -122899,7 +122899,7 @@
 </HCS>
 <HCS i="18356">
 <EN>&gt;85&#37; COMPLETE COLLECTION MISSIONS</EN>
-<KR>&amp;gt;85&#37; 完成收集任務</KR>
+<KR>&gt;85&#37; 完成收集任務</KR>
 <ES>&amp;gt;85 &#37; COMPLETA LAS MISIONES DE COLECCIÓN</ES>
 <JP>&amp;gt; 85％の完全なコレクションミッション</JP>
 <CN>&gt;85&#37;完成度的收藏任務</CN>
@@ -122984,7 +122984,7 @@
 </HCS>
 <HCS i="18368">
 <EN>leagues (valid) -&gt; teams (deleted</EN>
-<KR>聯盟（有效）-&amp;gt; 球隊（已刪除</KR>
+<KR>聯盟（有效）-&gt; 球隊（已刪除</KR>
 <ES>ligas (valido) -&amp;gt; equipos (eliminado</ES>
 <JP>リーグ（有効）-&amp;gt;チーム（削除済み）</JP>
 <CN>聯盟（有效）-&gt;球隊（已刪除</CN>
@@ -123075,7 +123075,7 @@
 </HCS>
 <HCS i="18382">
 <EN>Forward &gt;</EN>
-<KR>轉發 &amp;gt;</KR>
+<KR>轉發 &gt;</KR>
 <ES>Adelante &amp;gt;</ES>
 <JP>転送&amp;gt;</JP>
 <CN>向前&gt;</CN>
@@ -123450,7 +123450,7 @@
 </HCS>
 <HCS i="18438">
 <EN>leagues (deleted) -&gt; teams (valid) -&gt; logo</EN>
-<KR>聯盟（已刪除）-&amp;gt; 球隊（有效）-&amp;gt; 隊徽</KR>
+<KR>聯盟（已刪除）-&gt; 球隊（有效）-&gt; 隊徽</KR>
 <ES>ligas (eliminado) -&amp;gt; equipos (válido) -&amp;gt; logo</ES>
 <JP>リーグ（削除済み）-&amp;gt;チーム（有効）-&amp;gt;ロゴ</JP>
 <CN>聯盟（已刪除）-&gt;球隊（有效）-&gt;標誌</CN>
@@ -123570,7 +123570,7 @@
 </HCS>
 <HCS i="18457">
 <EN>&lt;&lt; SCROLL LEFT</EN>
-<KR>&amp;lt;&amp;lt; 向左捲動</KR>
+<KR>&lt;&lt; 向左捲動</KR>
 <ES>&amp;lt;&amp;lt; DESPLAZARSE A LA IZQUIERDA</ES>
 <JP>&amp;lt;&amp;lt;左スクロール</JP>
 <CN>&lt;&lt;向左捲動</CN>
@@ -123634,7 +123634,7 @@
 </HCS>
 <HCS i="18466">
 <EN>leagues (deleted) -&gt; logo</EN>
-<KR>聯盟（已刪除）-&amp;gt; 隊徽</KR>
+<KR>聯盟（已刪除）-&gt; 隊徽</KR>
 <ES>ligas (eliminado) -&amp;gt; logo</ES>
 <JP>リーグ（削除済み）-&amp;gt;ロゴ</JP>
 <CN>聯盟（已刪除）-&gt;標誌</CN>
@@ -123662,7 +123662,7 @@
 </HCS>
 <HCS i="18471">
 <EN>leagues (deleted) -&gt; teams (valid</EN>
-<KR>聯盟（已刪除）-&amp;gt; 球隊（有效</KR>
+<KR>聯盟（已刪除）-&gt; 球隊（有效</KR>
 <ES>ligas (eliminado) -&amp;gt; equipos (válido</ES>
 <JP>リーグ（削除済み）-&amp;gt;チーム（有効</JP>
 <CN>聯盟（已刪除）-&gt;球隊（有效</CN>
@@ -123817,7 +123817,7 @@
 </HCS>
 <HCS i="18495">
 <EN>leagues (deleted) -&gt; teams (deleted) -&gt; logo</EN>
-<KR>聯盟（已刪除）-&amp;gt; 球隊（已刪除）-&amp;gt; 隊徽</KR>
+<KR>聯盟（已刪除）-&gt; 球隊（已刪除）-&gt; 隊徽</KR>
 <ES>ligas (eliminado) -&amp;gt; equipos (eliminado) -&amp;gt; logo</ES>
 <JP>リーグ（削除済み）-&amp;gt;チーム（削除済み）-&amp;gt;ロゴ</JP>
 <CN>聯盟（已刪除）-&gt;球隊（已刪除）-&gt;標誌</CN>
@@ -123866,7 +123866,7 @@
 </HCS>
 <HCS i="18502">
 <EN>&lt;move to end&gt;</EN>
-<KR>&amp;lt;移到結尾&amp;gt;</KR>
+<KR>&lt;移到結尾&gt;</KR>
 <ES>&amp;lt;mover al final&amp;gt;</ES>
 <JP>&amp;lt;最後に移動&amp;gt;</JP>
 <CN>&lt;移動至最後&gt;</CN>
@@ -124102,14 +124102,14 @@
 </HCS>
 <HCS i="18535">
 <EN>&lt;b&gt;Squeeze Bunt - play home, runner scores, batter safe!&lt;/b&gt;</EN>
-<KR>&amp;lt;b&amp;gt;強迫取分 - 打回家，跑者得分，打擊安全！&amp;lt;/b&amp;gt;</KR>
+<KR>&lt;b&gt;強迫取分 - 打回家，跑者得分，打擊安全！&lt;/b&gt;</KR>
 <ES>&amp;lt;b&amp;gt;Squeeze Bunt: ¡juega en casa, el corredor anota, el bateador está a salvo!&amp;lt;/b&amp;gt;</ES>
 <JP>&amp;lt;b&amp;gt;スクイズバント-ホームでプレー、ランナースコア、バッターセーフ！&amp;lt;/ b&amp;gt;</JP>
 <CN>&lt;b&gt;強迫取分，本壘攻防，跑者得分，打者安全上壘！&lt;/b&gt;</CN>
 </HCS>
 <HCS i="18536">
 <EN>&lt;b&gt;Squeeze Bunt to &#37;s - play home, runner scores, batter safe!&lt;/b&gt;</EN>
-<KR>&amp;lt;b&amp;gt;將強迫取分 &#37;s - 打回家，跑者得分，打擊安全！&amp;lt;/b&amp;gt;</KR>
+<KR>&lt;b&gt;將強迫取分 &#37;s - 打回家，跑者得分，打擊安全！&lt;/b&gt;</KR>
 <ES>&amp;lt;b&amp;gt;Squeeze Bunt to &#37;s: ¡juega en casa, el corredor anota, el bateador está a salvo!&amp;lt;/b&amp;gt;</ES>
 <JP>&amp;lt;b&amp;gt;バントを％sにスクイズプレイ-ホームでプレー、ランナースコア、バッターセーフ！&amp;lt;/ b&amp;gt;</JP>
 <CN>&lt;b&gt;強迫取分點向&#37;s，本壘攻防，跑者得分，打者安全上壘！&lt;/b&gt;</CN>
@@ -124209,7 +124209,7 @@
 </HCS>
 <HCS i="18550">
 <EN>&lt;cast your ballot:page</EN>
-<KR>&amp;lt;投票：頁面</KR>
+<KR>&lt;投票：頁面</KR>
 <ES>&amp;lt;emitir su voto: página</ES>
 <JP>&amp;lt;投票用紙をキャストする：ページ</JP>
 <CN>&lt;投下一票:page</CN>
@@ -124281,7 +124281,7 @@
 </HCS>
 <HCS i="18560">
 <EN>leagues (deleted) -&gt; teams (deleted</EN>
-<KR>聯盟（已刪除）-&amp;gt; 球隊（已刪除</KR>
+<KR>聯盟（已刪除）-&gt; 球隊（已刪除</KR>
 <ES>ligas (eliminado) -&amp;gt; equipos (eliminado</ES>
 <JP>リーグ（削除済み）-&amp;gt;チーム（削除済み）</JP>
 <CN>聯盟（已刪除）-&gt;球隊（已刪除</CN>
@@ -124642,7 +124642,7 @@
 </HCS>
 <HCS i="18612">
 <EN>KM/H</EN>
-<KR>KM/H</KR>
+<KR>kmh</KR>
 <ES>KM/H</ES>
 <JP>KM / H</JP>
 <CN>KM/H</CN>
@@ -125006,7 +125006,7 @@
 </HCS>
 <HCS i="18670">
 <EN>leagues (valid) -&gt; teams (deleted) -&gt; logo</EN>
-<KR>聯盟（有效）-&amp;gt; 球隊（已刪除）-&amp;gt; 隊徽</KR>
+<KR>聯盟（有效）-&gt; 球隊（已刪除）-&gt; 隊徽</KR>
 <ES>ligas (válido) -&amp;gt; equipos (eliminado) -&amp;gt; logo</ES>
 <JP>リーグ（有効）-&amp;gt;チーム（削除済み）-&amp;gt;ロゴ</JP>
 <CN>聯盟（有效）-&gt;球隊（已刪除）-&gt;標誌</CN>
@@ -126130,7 +126130,7 @@
 </HCS>
 <HCS i="18844">
 <EN>&lt;ballots:page</EN>
-<KR>&amp;lt;選票：頁面</KR>
+<KR>&lt;選票：頁面</KR>
 <ES>&amp;lt;papeletas:página</ES>
 <JP>&amp;lt;ballots：page</JP>
 <CN>&lt;ballots:page</CN>
