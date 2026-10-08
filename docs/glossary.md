@@ -1,0 +1,166 @@
+# 棒球術語表（英文 → 台灣譯法）
+- ERA → 防禦率
+- RBI / RBIs → 打點
+- HR / HRs / homer / homerun → 全壘打
+- Ks / strikeout / punchouts → 三振（K 計數寫「次三振」）
+- walk / bases on balls / BB → 保送（四壞球）
+- hit(s) → 安打
+- single / double / triple → 一壘安打／二壘安打（二壘打）／三壘安打（三壘打）
+- extra-base hit → 長打
+- hitless → 沒有安打／無安打
+- batting average → 打擊率
+- two-hit / no-hit → 只被敲出兩支安打；無安打比賽
+- hit for the cycle → 完全打擊
+- walk-off（win / hit / HR） → 再見（勝／安打／全壘打）
+- shutout → 完封
+- complete game → 完投
+- complete game shutout → 完投完封
+- save → 救援成功（統計）／救援（座）
+- win / loss（投手） → 勝投／敗投
+- extra innings / extras / extra frames → 延長賽（延長局）
+- tie the game → 追平比數
+- series → 系列賽
+- series opener → 系列賽首戰
+- home opener → 主場開幕戰
+- Opening Day → 開幕戰
+- playoff(s) → 季後賽
+- One-Game Playoff → 單場附加賽（待定）
+- Wild Card → 外卡
+- clutch (hit) → 關鍵（安打）
+- shootout → 打擊大戰（得分大戰）
+- starter / starting pitcher → 先發投手
+- reliever → 後援投手
+- hurler → 投手
+- right-hander / left-hander / southpaw → 右投／左投
+- bullpen → 牛棚
+- bullpen session → 牛棚練投
+- closer → 終結者
+- rotation → 先發輪值（輪值）
+- mound → 投手丘
+- windup → 投球預備動作
+- fastball → 速球（直球）
+- offspeed pitch → 變速球種（慢速球種）
+- curve / slider / splitter → 曲球／滑球／指叉球
+- pitch arsenal / repertoire → 球路（球種組合）
+- velocity → 球速
+- control → 控球
+- command → 制球（力）
+- stuff → 球威
+- stamina → 體力
+- endurance → 耐力
+- arm strength → 臂力
+- release point → 出手點（放球點）
+- grip → 握法
+- spin rate → 轉速
+- spin efficiency → 轉速效率
+- pitch tracking → 投球追蹤
+- weighted ball → 加重球
+- pickoff → 牽制
+- wild pitch → 暴投
+- passed ball → 捕逸
+- hit by pitch → 觸身球
+- strike zone → 好球帶
+- swing → 揮棒
+- batting cage → 打擊籠
+- bunt / bunting → 觸擊（短打）
+- sacrifice bunt → 犧牲短打（犧牲觸擊）
+- bunt for a hit → 觸擊上壘（突襲短打）
+- sacrifice fly → 高飛犧牲打
+- double play → 雙殺
+- steal / base-stealing → 盜壘
+- baserunning / basepaths → 跑壘
+- runner → 跑者
+- eye → 選球
+- contact → 擊球
+- gap（drive into the gap） → 外野空檔
+- opposite field → 反方向
+- pop（打者力量，more pop in his bat） → 長打力
+- load → 蓄力
+- stance → 打擊姿勢
+- fielding / defense → 守備
+- range → 守備範圍
+- glove → 手套
+- footwork → 腳步
+- ball transfer → 接球轉傳（換手）
+- fielding mechanics → 守備動作
+- defensive alignment → 守備站位
+- tag → 觸殺
+- catcher → 捕手
+- pop time → Pop Time（傳球至二壘時間）
+- framing → 偷好球（框式接球）
+- blocking → 擋球
+- infield / outfield → 內野／外野
+- left / center / right field → 左／中／右外野
+- prospect → 新秀
+- rookie → 新人
+- minor league → 小聯盟
+- spring training → 春訓
+- scout → 球探
+- veteran → 老將
+- plyometrics → 增強式訓練
+- biomechanics → 生物力學
+- pitching coach → 投手教練
+- base coach → 壘指導教練
+- manager → 總教練
+- general manager → 總管
+- ballpark → 球場
+- waiver → 讓渡
+- DFA → 指定讓渡
+- arbitration → 仲裁
+- Rule 5 → 規則 5（選秀）
+- option → 選擇權
+- platoon → 分組（疑似機翻）
+- service time → 服役年限
+- OPS → 整體攻擊指數
+- WAR → 勝利貢獻值
+- FIP → 投手獨立防禦率
+- WHIP → 每局被上壘率
+- setup man → 佈局投手
+- trade → 交易
+- 代號 → 網址
+- W1 → https://zh.wikipedia.org/wiki/整體攻擊指數
+- W3 → https://zh.wikipedia.org/wiki/防禦率
+- W4 → https://zh.wikipedia.org/wiki/打點
+- W5 → https://zh.wikipedia.org/wiki/每局被上壘率
+- W6 → https://zh.wikipedia.org/wiki/完全打擊
+- W7 → https://zh.wikipedia.org/wiki/無安打比賽
+- W8 → https://zh.wikipedia.org/wiki/觸擊
+- W10 → https://zh.wikipedia.org/wiki/投手丘
+- W11 → https://zh.wikipedia.org/wiki/捕逸
+- W12 → https://zh.wikipedia.org/wiki/暴投
+- W13 → https://zh.wikipedia.org/wiki/好球帶
+- W14 → https://zh.wikipedia.org/wiki/變速球
+- W15 → https://zh.wikipedia.org/wiki/再見安打
+- W16 → https://zh.wikipedia.org/zh-tw/棒球術語列表
+- W17 → https://zh.wikipedia.org/wiki/先發投手
+- W18 → https://zh.wikipedia.org/wiki/全壘打、/三振、/保送、/一壘安打
+- W21 → https://zh.wikipedia.org/wiki/附加賽
+- N1 → https://newtalk.tw/citizen/view/71509
+- N2 → https://www.nownews.com/news/6706259
+- N3 → https://www.nownews.com/news/6714792
+- N4 → https://www.nownews.com/news/6780797
+- N5 → https://www.cna.com.tw/news/aspt/202308240127.aspx
+- N6 → https://udn.com/news/story/7001/9780436
+- N7 → https://www.cna.com.tw/news/aspt/202607220364.aspx
+- N8 → https://www.cna.com.tw/project/20250221-breakingball/
+- N9 → https://sports.ettoday.net/news/1368390
+- N10 → https://udn.com/news/story/7001/9656772
+
+# 裁定（優先於上表）
+- extra innings → 延長賽
+- series opener／home opener → 系列賽首戰／主場開幕戰
+- one-game playoff（tiebreaker） → 單場加賽
+- offspeed pitch → 慢速球路
+- pitch arsenal／repertoire → 球路
+- control／command → 控球／精準控球
+- release point → 出手點
+- sacrifice bunt → 犧牲短打
+- bunt for a hit → 突襲短打
+- eye（batting eye） → 選球
+- gap → 外野空檔
+- load → 蓄力
+- ball transfer → 換手
+- pop time → 傳二壘時間
+- framing → 偷好球
+- prospect／rookie → 新秀／新人
+縮寫一律寫中文：ERA＝防禦率、RBI＝打點、HR＝全壘打、K／Ks＝三振、AVG＝打擊率。
