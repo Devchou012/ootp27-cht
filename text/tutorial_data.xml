@@ -110,7 +110,7 @@
 
 <TI i="14" pid="18" tid="1" nid="0" soid="35" sf="2" pt="0" im="0" ena="1">
 <EN>This is where you'll see your current finances and available money to spend.</EN>
-<KR>This is where you'll see your current finances and available money to spend.</KR>
+<KR>此處可查看您目前的財務狀況與可用資金。</KR>
 <ES>Aquí es donde verá sus finanzas actuales y el dinero disponible para gastar.</ES>
 <JP>これはあなたがあなたの現在の財政と使うために利用可能なお金を見るであろう場所です。</JP>
 <CN>可在這裡查看目前的財務狀況，以及可運用的資金。</CN>
@@ -118,7 +118,7 @@
 
 <TI i="15" pid="3" tid="1" nid="0" soid="0" sf="1" pt="0" im="0" ena="1">
 <EN>Welcome to the team Home Screen. Here you'll see an overview of the team, including the roster, injuries, and more.</EN>
-<KR>Welcome to the team Home Screen. Here you'll see an overview of the team, including the roster, injuries, and more.</KR>
+<KR>歡迎來到球隊主畫面。您可以在這裡查看球隊概況，包含球員名單、傷兵名單等資訊。</KR>
 <ES>Bienvenido a la pantalla de inicio del equipo. Aquí verá una descripción general del equipo, incluida la lista, las lesiones y más.</ES>
 <JP>チームのホーム画面へようこそ。ここでは、名簿、怪我などを含むチームの概要が表示されます。</JP>
 <CN>歡迎來到球隊主畫面。可在這裡看到球隊的總覽，包括：球員名單及傷兵名單等。</CN>
@@ -158,7 +158,7 @@
 
 <TI i="20" pid="3" tid="46" nid="0" soid="0" sf="4" pt="0" im="0" ena="1">
 <EN>The Team Chemistry System can be enabled or disabled in the Game Settings on the Players and Facegen tab.</EN>
-<KR>The Team Chemistry System can be enabled or disabled in the Game Settings on the Players and Facegen tab.</KR>
+<KR>球隊默契系統可在「遊戲設定」的「球員與 Facegen」分頁中啟用或停用。</KR>
 <ES>El sistema de química del equipo se puede habilitar o deshabilitar en la configuración del juego en la pestaña Jugadores y Facegen.</ES>
 <JP>チームケミストリーシステムは、[プレーヤーとFacegen]タブの[ゲーム設定]で有効または無効にできます。</JP>
 <CN>球隊默契系統可以在遊戲設定的球員與Facegen分頁中開啟或關閉。</CN>
@@ -198,7 +198,7 @@
 
 <TI i="25" pid="3" tid="11" nid="0" soid="0" sf="1" pt="0" im="0" ena="1">
 <EN>Welcome to the team pitching screen. If you control a team, here you can view your team's pitchers, set your rotation and define your bullpen roles. Drag and drop players to move them around.</EN>
-<KR>Welcome to the team pitching screen. If you control a team, here you can view your team's pitchers, set your rotation and define your bullpen roles. Drag and drop players to move them around.</KR>
+<KR>歡迎來到球隊投手畫面。若您掌管球隊，可在此查看陣中投手、設定先發輪值並指定牛棚角色。拖放球員即可調整位置。</KR>
 <ES>Bienvenido a la pantalla de lanzamiento del equipo. Si controlas un equipo, aquí puedes ver los lanzadores de tu equipo y establecer tu rotación y bullpen. Arrastra y suelta jugadores para moverlos.</ES>
 <JP>チームピッチング画面へようこそ。チームをコントロールしている場合は、ここでチームのピッチャーを表示し、ローテーションとブルペンを設定できます。プレーヤーをドラッグアンドドロップして移動します。</JP>
 <CN>歡迎來到球隊投手的畫面。若你掌管一支球隊，可在這裡檢視球隊的投手、設定先發輪值及指定牛棚的角色。拖曳球員可將他們重新安排位置。</CN>
@@ -230,7 +230,7 @@
 
 <TI i="29" pid="3" tid="23" nid="0" soid="0" sf="1" pt="0" im="0" ena="1">
 <EN>This screen is where you can set your team's game strategy for all upcoming games.</EN>
-<KR>This screen is where you can set your team's game strategy for all upcoming games.</KR>
+<KR>在此畫面中，您可以為接下來的所有比賽設定球隊比賽策略。</KR>
 <ES>Esta pantalla es donde puede establecer la estrategia de juego de su equipo para todos los próximos juegos.</ES>
 <JP>この画面では、今後のすべてのゲームのチームのゲーム戦略を設定できます。</JP>
 <CN>可在這個畫面制定接下來幾場比賽的球隊比賽策略。</CN>
@@ -414,7 +414,7 @@
 
 <TI i="52" pid="3" tid="1" nid="0" soid="0" sf="1" pt="1" im="0" ena="1">
 <EN>Welcome to the team home screen. Here you'll see an overview of the team, the roster, and more.</EN>
-<KR>Welcome to the team home screen. Here you'll see an overview of the team, the roster, and more.</KR>
+<KR>歡迎來到球隊主畫面。您可以在這裡查看球隊概況、球員名單等資訊。</KR>
 <ES>Bienvenido a la pantalla de inicio del equipo. Aquí verá una descripción general del equipo, incluida la lista, las lesiones y más.</ES>
 <JP>チームのホーム画面へようこそ。ここでは、名簿、怪我などを含むチームの概要が表示されます。</JP>
 <CN>歡迎來到球隊主畫面。可在這裡看到球隊、球員陣容等內容的總覽。</CN>
@@ -462,7 +462,7 @@
 
 <TI i="58" pid="3" tid="23" nid="0" soid="0" sf="1" pt="1" im="0" ena="1">
 <EN>This screen is where you can set your team's game strategy for all upcoming games.</EN>
-<KR>This screen is where you can set your team's game strategy for all upcoming games.</KR>
+<KR>在此畫面中，您可以為接下來的所有比賽設定球隊比賽策略。</KR>
 <ES>Esta pantalla es donde puede establecer la estrategia de juego de su equipo para todos los próximos juegos.</ES>
 <JP>この画面では、今後のすべてのゲームのチームのゲーム戦略を設定できます。</JP>
 <CN>可在這個畫面制定接下來幾場比賽的球隊比賽策略。</CN>
@@ -2364,7 +2364,7 @@
 
 <TI i="244" pid="3" tid="18" nid="245" soid="208" sf="5" pt="0" im="0" ena="1">
 <EN>We can choose whether to use default lineups if the handedness doesn't match. So if changes are made by the AI regarding a starting pitcher on the day of a game our custom lineup can adapt to the changes.</EN>
-<KR>We can choose whether to use default lineups if the handedness doesn't match. So if changes are made by the AI regarding a starting pitcher on the day of a game our custom lineup can adapt to the changes.</KR>
+<KR>若左右投打對決不符，我們可選擇是否使用預設打序。因此若 AI 在比賽當天更換先發投手，自訂打序就能配合變動進行調整。</KR>
 <ES>Podemos elegir si usar alineaciones predeterminadas si la mano no coincide. Entonces, si la IA realiza cambios con respecto a un lanzador titular el día de un juego, nuestra alineación personalizada puede adaptarse a los cambios.</ES>
 <JP>利き手が一致しない場合は、デフォルトのラインナップを使用するかどうかを選択できます。したがって、ゲーム当日のスターティングピッチャーに関してAIによって変更が加えられた場合、カスタムラインナップは変更に適応できます。</JP>
 <CN>若慣用手不相符，可選擇是否要使用預設陣容。所以若AI改變了比賽當天的先發投手，我們的自訂陣容可調整這些變更。</CN>
@@ -2378,7 +2378,7 @@
 
 <TI i="245" pid="3" tid="18" nid="246" soid="208" sf="6" pt="0" im="0" ena="1">
 <EN>For example, if we set a custom lineup for a well-known left-handed pitcher 2 weeks in the future but that pitcher gets injured tomorrow we would want our custom lineup to adjust to the new pitcher scheduled for that game in the future.</EN>
-<KR>For example, if we set a custom lineup for a well-known left-handed pitcher 2 weeks in the future but that pitcher gets injured tomorrow we would want our custom lineup to adjust to the new pitcher scheduled for that game in the future.</KR>
+<KR>例如，若我們針對兩週後要遭遇的知名左投設定了自訂打序，但該投手明天受傷，我們會希望自訂打序能配合該場比賽預定改派的新投手進行調整。</KR>
 <ES>Por ejemplo, si establecemos una alineación personalizada para un conocido lanzador zurdo 2 semanas en el futuro, pero ese lanzador se lesiona mañana, queremos que nuestra alineación personalizada se adapte al nuevo lanzador programado para ese juego en el futuro.</ES>
 <JP>たとえば、将来2週間にわたって有名な左利きのピッチャーのカスタムラインナップを設定したが、そのピッチャーが明日負傷した場合、将来そのゲームに予定されている新しいピッチャーにカスタムラインナップが適応することを望みます。</JP>
 <CN>例如，如果我們為一名知名的左投手在兩週後的比賽設定了自訂陣容，但該投手明天受傷，我們希望自訂陣容能自動調整，適應未來比賽中排定的替補投手。</CN>
@@ -2420,7 +2420,7 @@
 
 <TI i="248" pid="3" tid="18" nid="249" soid="210" sf="9" pt="0" im="0" ena="1">
 <EN>However, if you'd like to force the pitchers you input to start you can keep this setting at No, force start.</EN>
-<KR>However, if you'd like to force the pitchers you input to start you can keep this setting at No, force start.</KR>
+<KR>不過，若您想強制讓排定的投手先發，可以將此設定維持在「否，強制先發」。</KR>
 <ES>Sin embargo, si desea obligar a los lanzadores que ingrese a comenzar, puede mantener esta configuración en el no, Force Start.</ES>
 <JP>ただし、入力するピッチャーを強制したい場合は、この設定をノー、フォーススタートに保つことができます。</JP>
 <CN>不過，如果你希望強制讓所指定的投手登板先發，可以將此設定維持在「否，強制先發」。</CN>
@@ -2434,7 +2434,7 @@
 
 <TI i="249" pid="3" tid="18" nid="250" soid="0" sf="10" pt="0" im="0" ena="1">
 <EN>That completes tutorial #2 regarding pitching staff and lineups/depth charts. Thank you so much for going through this tutorial. If you want a more detailed walkthrough please feel free to watch our youtube video for more info.</EN>
-<KR>That completes tutorial #2 regarding pitching staff and lineups/depth charts. Thank you so much for going through this tutorial. If you want a more detailed walkthrough please feel free to watch our youtube video for more info.</KR>
+<KR>關於投手群與打序／守備深度圖的教學課程 2 到此結束。非常感謝您完成本教學。若想了解更詳細的操作流程，歡迎觀看我們的 YouTube 影片以取得更多資訊。</KR>
 <ES>Eso completa el Tutorial #2 con respecto al personal de lanzadores y las alineaciones/cuadros de profundidad. Muchas gracias por pasar por este tutorial. Si desea un tutorial más detallado, no dude en ver nuestro video de YouTube para obtener más información.</ES>
 <JP>これにより、ピッチングスタッフとラインナップ/深度チャートに関するチュートリアル＃2が記入されています。このチュートリアルを教えてくれてありがとう。より詳細なウォークスルーが必要な場合は、詳細についてはYouTubeビデオをご覧ください。</JP>
 <CN>與投手群及陣容/深度表的教學#2就到此結束了。感謝你完成這個教學。若想了解更詳盡的內容，隨時歡迎觀看我們的YouTube影片以取得更多資訊。</CN>
@@ -2448,7 +2448,7 @@
 
 <TI i="250" pid="3" tid="18" nid="0" soid="0" sf="11" pt="0" im="0" ena="1">
 <EN>You can go back to the main menu if you wish to start your own save or view more tutorials. Otherwise, you can continue this game if you'd like to play as the Scottsdale Salamanders.</EN>
-<KR>You can go back to the main menu if you wish to start your own save or view more tutorials. Otherwise, you can continue this game if you'd like to play as the Scottsdale Salamanders.</KR>
+<KR>若您想開始自己的存檔或觀看更多教學，可返回主選單；若想繼續執教史考茲代爾蠑螈隊，也可以繼續這場遊戲。</KR>
 <ES>Puede volver al menú principal si desea comenzar su propio Guardar o ver más tutoriales. De lo contrario, puedes continuar con este juego si quieres jugar como las salamandras de Scottsdale.</ES>
 <JP>独自の保存を開始したり、より多くのチュートリアルを表示したりする場合は、メインメニューに戻ることができます。それ以外の場合は、スコッツデールのサンショウウオとしてプレイしたい場合は、このゲームを続けることができます。</JP>
 <CN>若想開始自己的儲存檔案或檢視更多教學，可返回主選單。或者若想要，也可繼續扮演史考茲谷火蜥蜴進行遊戲。</CN>
@@ -2462,13 +2462,13 @@
 
 <TI i="251" pid="5" tid="1" nid="252" soid="0" sf="1" pt="0" im="0" ena="1">
 <EN>Welcome to tutorial #3. This tutorial will cover manager options, player strategies, and team strategies. We will run over how to use these systems and what options OOTP gives you to control. As always an accompanying tutorial video can be found by clicking the YouTube link in the bottom right corner.</EN>
-<KR>Welcome to tutorial #3. This tutorial will cover manager options, player strategies, and team strategies. We will run over how to use these systems and what options OOTP gives you to control. As always an accompanying tutorial video can be found by clicking the YouTube link in the bottom right corner.</KR>
+<KR>歡迎來到教學課程 3。本教學將介紹總教練選項、球員策略以及球隊策略。我們將說明如何使用這些系統，以及 OOTP 提供了哪些控制選項。一如既往，點擊右下角的 YouTube 連結即可觀看隨附的教學影片。</KR>
 <ES>Bienvenido al Tutorial #3. Este tutorial cubrirá las opciones del gerente, las estrategias de los jugadores y las estrategias de equipo. Se ejecutaremos sobre cómo usar estos sistemas y qué opciones que OOTP le brinda a controlar. Como siempre, se puede encontrar un video tutorial acompañante haciendo clic en el enlace de YouTube en la esquina inferior derecha.</ES>
 <JP>チュートリアル＃3へようこそ。このチュートリアルでは、マネージャーのオプション、プレーヤー戦略、チーム戦略について説明します。これらのシステムの使用方法と、OOTPが制御するオプションを実行します。いつものように、付随するチュートリアルビデオは、右下隅にあるYouTubeリンクをクリックすることで見つけることができます。</JP>
 <CN>歡迎來到教學#3。在這個教學中，會涵蓋總教練選項、球員策略及球隊策略。我們會討論如何使用這些系統，以及OOTP會給予你那些操控選項。一如往常，點擊右下角的YouTube連結，就能觀看教學影片。</CN>
 <LINK>https://rb.gy/eywsoc</LINK>
 <ENGROUP>Tutorial 3-Manager Options and Strategies</ENGROUP>
-<KRGROUP>Tutorial 3-Manager Options and Strategies</KRGROUP>
+<KRGROUP>教學 3-總教練選項與策略</KRGROUP>
 <ESGROUP>Tutorial de 3-manager opciones y estrategias</ESGROUP>
 <JPGROUP>チュートリアル3マネージャーオプションと戦略</JPGROUP>
 <CNGROUP>教程3-Manager选项和策略</CNGROUP>
@@ -2476,13 +2476,13 @@
 
 <TI i="252" pid="5" tid="1" nid="253" soid="115" sf="2" pt="0" im="0" ena="1">
 <EN>We will begin this walkthrough by heading to the Manager Options screen and explaining how that works. Please select the highlighted Manager Options button on your screen.</EN>
-<KR>We will begin this walkthrough by heading to the Manager Options screen and explaining how that works. Please select the highlighted Manager Options button on your screen.</KR>
+<KR>我們將前往「總教練選項」畫面並說明其運作方式來展開本次導覽。請點選畫面上醒目標示的「總教練選項」按鈕。</KR>
 <ES>Comenzaremos este tutorial dirigiéndonos a la pantalla Opciones del Administrador y explicando cómo funciona. Seleccione el botón de opciones de administrador resaltado en su pantalla.</ES>
 <JP>マネージャーオプション画面に向かい、それがどのように機能するかを説明することにより、このウォークスルーを開始します。画面に強調表示されているマネージャーオプションボタンを選択してください。</JP>
 <CN>現在請前往總教練選項畫面，一起討論這些策略及其運作方式。請選擇畫面中醒目提示的總教練選項按鈕。</CN>
 <LINK>https://rb.gy/eywsoc</LINK>
 <ENGROUP>Tutorial 3-Manager Options and Strategies</ENGROUP>
-<KRGROUP>Tutorial 3-Manager Options and Strategies</KRGROUP>
+<KRGROUP>教學 3-總教練選項與策略</KRGROUP>
 <ESGROUP>Tutorial de 3-manager opciones y estrategias</ESGROUP>
 <JPGROUP>チュートリアル3マネージャーオプションと戦略</JPGROUP>
 <CNGROUP>教程3-Manager选项和策略</CNGROUP>
@@ -2490,13 +2490,13 @@
 
 <TI i="253" pid="5" tid="2" nid="254" soid="204" sf="1" pt="0" im="0" ena="1">
 <EN>The manager's option screen allows you to change settings pertaining to who handles each aspect of your organization. This means you could let the AI handle certain aspects or areas while you control the parts you want to focus on. This is useful if you want the AI to manage minor league promotions, assigning staff roles, and managing minor league depth charts and pitching staffs.</EN>
-<KR>The manager's option screen allows you to change settings pertaining to who handles each aspect of your organization. This means you could let the AI handle certain aspects or areas while you control the parts you want to focus on. This is useful if you want the AI to manage minor league promotions, assigning staff roles, and managing minor league depth charts and pitching staffs.</KR>
+<KR>總教練選項畫面可讓您更改各項球團事務負責人的設定。這代表您可以讓 AI 處理特定項目或領域，同時親自掌管想要專注的部分。若您希望 AI 負責小聯盟升降、指派教練團職責，以及管理小聯盟守備深度圖與投手群，這項功能將非常實用。</KR>
 <ES>La pantalla de opción del gerente le permite cambiar la configuración relacionada con quién maneja cada aspecto de su organización. Esto significa que puede dejar que la IA maneje ciertos aspectos o áreas mientras controla las piezas en las que desea centrarse. Esto es útil si desea que la IA administre promociones de ligas menores, asigne roles de personal y administre gráficos de profundidad de ligas menores y personal de lanzadores.</ES>
 <JP>マネージャーのオプション画面を使用すると、組織の各側面を誰が処理するかに関する設定を変更できます。つまり、AIに、焦点を合わせたい部分を制御しながら、特定の側面または領域を処理させることができます。これは、AIがマイナーリーグのプロモーションを管理し、スタッフの役割を割り当て、マイナーリーグの深度チャートとピッチングスタッフの管理を望む場合に役立ちます。</JP>
 <CN>總教練選項畫面允許你更改與球團各個面向相關的設定。代表你可以讓AI處理某些部分或領域，同時自己掌控想要聚焦的部分。這在你希望AI管理小聯盟升降級、分配員工角色，以及管理小聯盟深度名單與投手群時特別有用。</CN>
 <LINK>https://rb.gy/eywsoc</LINK>
 <ENGROUP>Tutorial 3-Manager Options and Strategies</ENGROUP>
-<KRGROUP>Tutorial 3-Manager Options and Strategies</KRGROUP>
+<KRGROUP>教學 3-總教練選項與策略</KRGROUP>
 <ESGROUP>Tutorial de 3-manager opciones y estrategias</ESGROUP>
 <JPGROUP>チュートリアル3マネージャーオプションと戦略</JPGROUP>
 <CNGROUP>教程3-Manager选项和策略</CNGROUP>
@@ -2504,13 +2504,13 @@
 
 <TI i="254" pid="5" tid="2" nid="255" soid="8" sf="2" pt="0" im="0" ena="1">
 <EN>All of that is located in the team control settings area. These drop downs are how you can designate who controls what. If you act as just the General Manager greyed out lines will indicate that the manager of your team has taken control of that particular area and won't let you handle that. All other dropdowns you may choose to either retain control or give control to the AI.</EN>
-<KR>All of that is located in the team control settings area. These drop downs are how you can designate who controls what. If you act as just the General Manager greyed out lines will indicate that the manager of your team has taken control of that particular area and won't let you handle that. All other dropdowns you may choose to either retain control or give control to the AI.</KR>
+<KR>以上設定都位於「球隊控制設定」區塊。您可透過這些下拉式選單指定由誰掌管各項事務。若您僅擔任總經理，反灰的項目代表球隊總教練已接管該特定領域，不允許您插手。其餘的下拉式選單，您都可以選擇親自掌控或交由 AI 處理。</KR>
 <ES>Todo eso se encuentra en el área de configuración de control del equipo. Estos descendentes son cómo puedes designar quién controla qué. Si actúa solo como el Gerente General Greyed Lines indicará que el gerente de su equipo ha tomado el control de esa área en particular y no le permitirá manejar eso. Todos los demás desplegables pueden elegir retener el control o dar control a la IA.</ES>
 <JP>これらはすべて、チームコントロール設定エリアにあります。これらのドロップダウンは、誰が何を制御するかを指定する方法です。ゼネラルマネージャーのグレーアウトラインだけとして行動する場合、チームのマネージャーがその特定のエリアをコントロールし、それを処理させないことを示します。他のすべてのドロップダウンは、コントロールを保持するか、AIを制御することを選択できます。</JP>
 <CN>這些功能都位於球隊控制設定區塊。透過這些下拉選單，你可以指定誰負責掌控哪個部分。如果你只擔任總經理，灰色的選項線會顯示球隊總教練已經接管該特定領域，並不允許你操作。其他下拉選單則可以讓你選擇保留控制權，或將控制權交給AI。</CN>
 <LINK>https://rb.gy/eywsoc</LINK>
 <ENGROUP>Tutorial 3-Manager Options and Strategies</ENGROUP>
-<KRGROUP>Tutorial 3-Manager Options and Strategies</KRGROUP>
+<KRGROUP>教學 3-總教練選項與策略</KRGROUP>
 <ESGROUP>Tutorial de 3-manager opciones y estrategias</ESGROUP>
 <JPGROUP>チュートリアル3マネージャーオプションと戦略</JPGROUP>
 <CNGROUP>教程3-Manager选项和策略</CNGROUP>
@@ -2896,13 +2896,13 @@
 
 <TI i="282" pid="3" tid="24" nid="283" soid="0" sf="1" pt="0" im="0" ena="1">
 <EN>On this screen you can set up individual strategies for players that can either override or adjust to your team strategies. This can be particularly useful for certain players that counteract your general team strategy.</EN>
-<KR>On this screen you can set up individual strategies for players that can either override or adjust to your team strategies. This can be particularly useful for certain players that counteract your general team strategy.</KR>
+<KR>在此畫面中，您可以為個別球員設定策略，這些設定既可覆寫球隊策略，也能與球隊策略相配合。對於球風與整體球隊策略相左的特定球員來說，這項功能特別實用。</KR>
 <ES>En esta pantalla, puede configurar estrategias individuales para jugadores que puedan anular o adaptarse a las estrategias de su equipo. Esto puede ser particularmente útil para ciertos jugadores que contrarrestan la estrategia de su equipo general.</ES>
 <JP>この画面では、チーム戦略をオーバーライドまたは調整できるプレーヤー向けに個別の戦略を設定できます。これは、一般的なチーム戦略に対抗する特定のプレーヤーにとって特に役立ちます。</JP>
 <CN>在這個畫面中，你可以為個別球員設定專屬策略，這些設定可以覆蓋或微調球隊的整體策略。對於某些不適合套用一般團隊策略的球員特別有用，例如能彌補或修正整體戰術方向的特定球員。</CN>
 <LINK>https://rb.gy/eywsoc</LINK>
 <ENGROUP>Tutorial 3-Manager Options and Strategies</ENGROUP>
-<KRGROUP>Tutorial 3-Manager Options and Strategies</KRGROUP>
+<KRGROUP>教學 3-總教練選項與策略</KRGROUP>
 <ESGROUP>Tutorial de 3-manager opciones y estrategias</ESGROUP>
 <JPGROUP>チュートリアル3マネージャーオプションと戦略</JPGROUP>
 <CNGROUP>教程3-Manager选项和策略</CNGROUP>
@@ -2916,7 +2916,7 @@
 <CN>例如：若球隊的策略為比賽任何階段皆永不盜壘，但你擁有一位聯盟中最厲害的盜壘手，可單獨設定其球員策略，使其可經常盜壘並覆寫球隊策略。</CN>
 <LINK>https://rb.gy/eywsoc</LINK>
 <ENGROUP>Tutorial 3-Manager Options and Strategies</ENGROUP>
-<KRGROUP>Tutorial 3-Manager Options and Strategies</KRGROUP>
+<KRGROUP>教學 3-總教練選項與策略</KRGROUP>
 <ESGROUP>Tutorial de 3-manager opciones y estrategias</ESGROUP>
 <JPGROUP>チュートリアル3マネージャーオプションと戦略</JPGROUP>
 <CNGROUP>教程3-Manager选项和策略</CNGROUP>
@@ -2924,13 +2924,13 @@
 
 <TI i="284" pid="3" tid="24" nid="285" soid="204" sf="3" pt="0" im="0" ena="1">
 <EN>Batters and pitchers have different player strategies you can set. Let us start with batters. Please drag and drop DH Val Houk from the player list, over to the empty area on the right.</EN>
-<KR>Batters and pitchers have different player strategies you can set. Let us start with batters. Please drag and drop DH Val Houk from the player list, over to the empty area on the right.</KR>
+<KR>打者與投手有不同的個別球員策略可供設定。我們先從打者開始。請將指定打擊 Val Houk 從球員名單拖曳至右側的空白區域。</KR>
 <ES>Los bateadores y los lanzadores tienen diferentes estrategias de jugadores que puede establecer. Comencemos con los bateadores. Arrastre y suelte a DH Val Houk desde la lista de jugadores, al área vacía a la derecha.</ES>
 <JP>打者と投手は、設定できるさまざまなプレーヤー戦略を持っています。バッターから始めましょう。プレイヤーリストからDH Val Houkを右側の空の領域にドラッグアンドドロップしてください。</JP>
 <CN>可對打者與投手設定不同的球員策略。我們先從打者開始吧。請將瓦爾·胡克從球員清單拖曳至右方的空白區域。</CN>
 <LINK>https://rb.gy/eywsoc</LINK>
 <ENGROUP>Tutorial 3-Manager Options and Strategies</ENGROUP>
-<KRGROUP>Tutorial 3-Manager Options and Strategies</KRGROUP>
+<KRGROUP>教學 3-總教練選項與策略</KRGROUP>
 <ESGROUP>Tutorial de 3-manager opciones y estrategias</ESGROUP>
 <JPGROUP>チュートリアル3マネージャーオプションと戦略</JPGROUP>
 <CNGROUP>教程3-Manager选项和策略</CNGROUP>
@@ -2938,13 +2938,13 @@
 
 <TI i="285" pid="3" tid="24" nid="286" soid="204" sf="4" pt="0" im="0" ena="1">
 <EN>Now that we have a batter selected, let's go ahead and talk about what options you have to work with. The Mode is the most important setting that we need to explain first. It describes whether you would like the player strategies to override the team strategies, or adjust the team and player strategies by merging them.</EN>
-<KR>Now that we have a batter selected, let's go ahead and talk about what options you have to work with. The Mode is the most important setting that we need to explain first. It describes whether you would like the player strategies to override the team strategies, or adjust the team and player strategies by merging them.</KR>
+<KR>選好打者後，接著就來討論有哪些可供調整的選項。「模式」是我們首先要說明的最重要設定。它決定了您希望球員策略是直接覆寫球隊策略，還是將球隊與球員策略加以融合調整。</KR>
 <ES>Ahora que tenemos una masa seleccionada, sigamos adelante y hablemos sobre con qué opciones tiene que trabajar. El modo es la configuración más importante que debemos explicar primero. Describe si desea que las estrategias de los jugadores anulen las estrategias del equipo o ajusten las estrategias del equipo y los jugadores fusionándolas.</ES>
 <JP>バッターが選択されたので、先に進んで、どのオプションと協力しなければならないかについて話しましょう。このモードは、最初に説明するために必要な最も重要な設定です。プレーヤー戦略にチーム戦略をオーバーライドするか、チームとプレーヤーの戦略を統合して調整するかどうかを説明します。</JP>
 <CN>選擇了打者後，就可以繼續討論要使用哪些選項。模式是我們需要率先解釋、最為重要的設定。說明了是否想要以球員策略來覆寫球隊策略，或兩者相互融合來調整球隊與球員策略。</CN>
 <LINK>https://rb.gy/eywsoc</LINK>
 <ENGROUP>Tutorial 3-Manager Options and Strategies</ENGROUP>
-<KRGROUP>Tutorial 3-Manager Options and Strategies</KRGROUP>
+<KRGROUP>教學 3-總教練選項與策略</KRGROUP>
 <ESGROUP>Tutorial de 3-manager opciones y estrategias</ESGROUP>
 <JPGROUP>チュートリアル3マネージャーオプションと戦略</JPGROUP>
 <CNGROUP>教程3-Manager选项和策略</CNGROUP>
@@ -2952,13 +2952,13 @@
 
 <TI i="286" pid="3" tid="24" nid="287" soid="201" sf="5" pt="0" im="0" ena="1">
 <EN>Overriding is a straight forward system. The player strategies you set below will be used instead of the team strategies. Adjusting will take the two strategies and average them out. So if you have stealing bases set to never for the team strategy and frequently for a player it will result in being neutral for the player.</EN>
-<KR>Overriding is a straight forward system. The player strategies you set below will be used instead of the team strategies. Adjusting will take the two strategies and average them out. So if you have stealing bases set to never for the team strategy and frequently for a player it will result in being neutral for the player.</KR>
+<KR>「覆寫」的機制相當單純，下方設定的球員策略將直接取代球隊策略。「調整」則會將兩種策略取平均值。舉例來說，若球隊策略的盜壘頻率設為「永不」，而該球員設為「頻繁」，最終該球員的表現將會是「普通」。</KR>
 <ES>La prima es un sistema directo. Las estrategias de los jugadores que establece a continuación se utilizarán en lugar de las estrategias del equipo. Ajustar tomará las dos estrategias y las promediará. Entonces, si tiene bases de robo para nunca para la estrategia del equipo y con frecuencia para un jugador, será neutral para el jugador.</ES>
 <JP>オーバーライドは単純なシステムです。以下に設定したプレーヤー戦略は、チーム戦略の代わりに使用されます。調整すると、2つの戦略が奪われ、平均化されます。したがって、チーム戦略のために決してベースを盗み、プレーヤーのために頻繁に設定されている場合、プレーヤーにとって中立になります。</JP>
 <CN>覆寫是一種很直接的機制。將會使用下方制定的球員策略，而非球隊策略。而調整則是將球隊策略與球員策略取平均值。例如：球隊策略將「盜壘」設定為永不，某位球員設定為經常，那麼最終效果會變成該球員的盜壘傾向為中等。</CN>
 <LINK>https://rb.gy/eywsoc</LINK>
 <ENGROUP>Tutorial 3-Manager Options and Strategies</ENGROUP>
-<KRGROUP>Tutorial 3-Manager Options and Strategies</KRGROUP>
+<KRGROUP>教學 3-總教練選項與策略</KRGROUP>
 <ESGROUP>Tutorial de 3-manager opciones y estrategias</ESGROUP>
 <JPGROUP>チュートリアル3マネージャーオプションと戦略</JPGROUP>
 <CNGROUP>教程3-Manager选项和策略</CNGROUP>
@@ -2966,13 +2966,13 @@
 
 <TI i="287" pid="3" tid="24" nid="288" soid="201" sf="6" pt="0" im="0" ena="1">
 <EN>For the other sliders ranging from baserunning to bunting you will want to make sure your set these to match the skills of your player you're adjusting. Good baserunning players should have more aggressive baserunning and players who can bunt can be set to frequently bunt.</EN>
-<KR>For the other sliders ranging from baserunning to bunting you will want to make sure your set these to match the skills of your player you're adjusting. Good baserunning players should have more aggressive baserunning and players who can bunt can be set to frequently bunt.</KR>
+<KR>至於跑壘到觸擊等其他滑桿，您需要確保這些設定符合該球員的能力。跑壘能力出色的球員應該採取更具侵略性的跑壘策略，而擅長觸擊的球員則可設為頻繁觸擊。</KR>
 <ES>Para los otros controles deslizantes que van desde Baserunning hasta Bunting, querrás asegurarte de que estén establecidos para que coincidan con las habilidades de tu jugador que estás ajustando. Los buenos jugadores de Baserunning deberían tener más agresivos y los jugadores que pueden tirar se pueden preparar con frecuencia.</ES>
 <JP>BaserunningからBuntingに至る他のスライダーについては、調整しているプレイヤーのスキルに合わせてこれらをセットするようにする必要があります。優れたベースランニングプレーヤーは、より積極的なベースランニングを行う必要があり、バントができるプレイヤーは頻繁にバントに設定できます。</JP>
 <CN>至於從跑壘到短打等的其他滑桿，必須確保已設為符合你所調整的球員技能。優良的跑壘球員應具備較猛烈的跑壘技能，而擅於短打的球員，則應設為經常短打。</CN>
 <LINK>https://rb.gy/eywsoc</LINK>
 <ENGROUP>Tutorial 3-Manager Options and Strategies</ENGROUP>
-<KRGROUP>Tutorial 3-Manager Options and Strategies</KRGROUP>
+<KRGROUP>教學 3-總教練選項與策略</KRGROUP>
 <ESGROUP>Tutorial de 3-manager opciones y estrategias</ESGROUP>
 <JPGROUP>チュートリアル3マネージャーオプションと戦略</JPGROUP>
 <CNGROUP>教程3-Manager选项和策略</CNGROUP>
@@ -2980,13 +2980,13 @@
 
 <TI i="288" pid="3" tid="24" nid="289" soid="201" sf="7" pt="0" im="0" ena="1">
 <EN>Beneath these sliders are the depth chart settings. These options allow you to define how to play the selected player. You can use these to force start them at a position or have them benched versus a particular handedness pitcher (RHP or LHP.)</EN>
-<KR>Beneath these sliders are the depth chart settings. These options allow you to define how to play the selected player. You can use these to force start them at a position or have them benched versus a particular handedness pitcher (RHP or LHP.)</KR>
+<KR>這些滑桿下方是守備深度圖設定。這些選項可讓您指定該名球員的出賽方式。您可以用來強制讓他在特定守位先發，或是面對特定慣用手投手（右投或左投）時坐板凳。</KR>
 <ES>Debajo de estos controles deslizantes están la configuración de la tabla de profundidad. Estas opciones le permiten definir cómo jugar al jugador seleccionado. Puede usarlos para comenzar a iniciarlos en una posición o hacer que bancaran versus un lanzador de mano particular (RHP o LHP).</ES>
 <JP>これらのスライダーの下には、深度チャート設定があります。これらのオプションを使用すると、選択したプレーヤーをプレイする方法を定義できます。これらを使用して、特定の利き手（RHPまたはLHP）に対して、ポジションで強制的に開始するか、ベンチに入れてもらうことができます。</JP>
 <CN>這些滑桿底下為深度表設定。這些選項能讓你定義如何運用所選的球員。可使用這些設定迫使其在某個位置開局，或將其定位為板凳球員，僅對抗特定慣用手的投手（擔任對右投或對左投）。</CN>
 <LINK>https://rb.gy/eywsoc</LINK>
 <ENGROUP>Tutorial 3-Manager Options and Strategies</ENGROUP>
-<KRGROUP>Tutorial 3-Manager Options and Strategies</KRGROUP>
+<KRGROUP>教學 3-總教練選項與策略</KRGROUP>
 <ESGROUP>Tutorial de 3-manager opciones y estrategias</ESGROUP>
 <JPGROUP>チュートリアル3マネージャーオプションと戦略</JPGROUP>
 <CNGROUP>教程3-Manager选项和策略</CNGROUP>
@@ -2994,13 +2994,13 @@
 
 <TI i="289" pid="3" tid="24" nid="290" soid="201" sf="8" pt="0" im="0" ena="1">
 <EN>One of the ways to utilize this depth chart setting is to do a strategy called platooning. Platooning is when you have a batter who favors either left handed or right handed pitchers. So you bench them against their weaker matchup and force start them against their strong side.</EN>
-<KR>One of the ways to utilize this depth chart setting is to do a strategy called platooning. Platooning is when you have a batter who favors either left handed or right handed pitchers. So you bench them against their weaker matchup and force start them against their strong side.</KR>
+<KR>運用這項深度圖設定的其中一種方式就是採取「左右打搭配（Platoon）」策略。左右打搭配是指當打者對左投或右投特別有優勢時，讓他在面對較弱勢的對決時坐板凳，並在強勢對決時強制先發。</KR>
 <ES>Una de las formas de utilizar esta configuración de la tabla de profundidad es hacer una estrategia llamada pelotón. El pelotón es cuando tienes un bateador que favorece a los jarras zurdos o con las manos derechas. Entonces los banca contra su enfrentamiento más débil y la fuerza inicia contra su lado fuerte.</ES>
 <JP>この深度チャート設定を利用する方法の1つは、Platooningと呼ばれる戦略を実行することです。小隊は、左利きまたは右利きの投手のいずれかを好む打者がいるときです。したがって、あなたは彼らのより弱い対戦に対して彼らをベンチにし、力を強い側に反対させます。</JP>
 <CN>運用這個深度圖設定的一種方式，是採用所謂的「對位替換」策略。對位替換指的是讓一名打者專門面對對自己有利的投手類型。例如，有些打者特別擅長對付左投或右投。因此，你可以：在他面對較弱的對位時讓他坐板凳，並迫使其專剋較擅長應對的投手。</CN>
 <LINK>https://rb.gy/eywsoc</LINK>
 <ENGROUP>Tutorial 3-Manager Options and Strategies</ENGROUP>
-<KRGROUP>Tutorial 3-Manager Options and Strategies</KRGROUP>
+<KRGROUP>教學 3-總教練選項與策略</KRGROUP>
 <ESGROUP>Tutorial de 3-manager opciones y estrategias</ESGROUP>
 <JPGROUP>チュートリアル3マネージャーオプションと戦略</JPGROUP>
 <CNGROUP>教程3-Manager选项和策略</CNGROUP>
@@ -3008,13 +3008,13 @@
 
 <TI i="290" pid="3" tid="24" nid="291" soid="201" sf="9" pt="0" im="0" ena="1">
 <EN>For example you could have two great third basemen but one struggles heavily against left handed pitchers. You could use the Force Lineup spot vs LHP and set it to Bench for that third baseman. This would then allow the AI to platoon the other third baseman against left handed pitchers.</EN>
-<KR>For example you could have two great third basemen but one struggles heavily against left handed pitchers. You could use the Force Lineup spot vs LHP and set it to Bench for that third baseman. This would then allow the AI to platoon the other third baseman against left handed pitchers.</KR>
+<KR>例如，您陣中可能有兩名優秀的三壘手，但其中一位面對左投時表現非常掙扎。您可以將該名三壘手的「對左投強制打序位置」設為「板凳」。如此一來，AI 就能在面對左投時換上另一名三壘手輪流出賽。</KR>
 <ES>Por ejemplo, podrías tener dos grandes terceras bases, pero uno lucha fuertemente contra los lanzadores zurdos. Podrías usar el punto de alineación de Force vs LHP y configurarlo en banca para ese tercera base. Esto permitiría que la IA pelotea al otro tercera base contra los lanzadores zurdos.</ES>
 <JP>たとえば、2人の偉大な3番目のベースマンを持つこともできますが、1人は左利きの投手に対して非常に苦労しています。フォースラインナップスポット対LHPを使用して、その3番目のbase手のベンチに設定できます。これにより、AIは左利きのピッチャーに対して他の3番目のbase手を小隊にすることができます。</JP>
 <CN>舉例來說：你可能有兩位相當厲害的三壘手，但其中一位非常不擅於應對左投手。你就能使用左投手指定打擊的強迫陣容位置，並將那位三壘手設為板凳球員。這樣AI就會知道要將該三壘手替換成擅長應對左投的球員。</CN>
 <LINK>https://rb.gy/eywsoc</LINK>
 <ENGROUP>Tutorial 3-Manager Options and Strategies</ENGROUP>
-<KRGROUP>Tutorial 3-Manager Options and Strategies</KRGROUP>
+<KRGROUP>教學 3-總教練選項與策略</KRGROUP>
 <ESGROUP>Tutorial de 3-manager opciones y estrategias</ESGROUP>
 <JPGROUP>チュートリアル3マネージャーオプションと戦略</JPGROUP>
 <CNGROUP>教程3-Manager选项和策略</CNGROUP>
@@ -3022,13 +3022,13 @@
 
 <TI i="291" pid="3" tid="24" nid="292" soid="201" sf="10" pt="0" im="0" ena="1">
 <EN>Below those 3 settings we can dictate what fatigue percentage the player must reach before being benched for a day. We recommend for most positional players that 70% is a good fatigue level. If you would still like them to still be available as a defensive sub, you can select the check box below that setting. That way even if they are tired and taking a day off they could be subbed in as a defensive sub.</EN>
-<KR>Below those 3 settings we can dictate what fatigue percentage the player must reach before being benched for a day. We recommend for most positional players that 70% is a good fatigue level. If you would still like them to still be available as a defensive sub, you can select the check box below that setting. That way even if they are tired and taking a day off they could be subbed in as a defensive sub.</KR>
+<KR>在這三項設定下方，我們可以指定球員達到多少疲勞百分比時必須休兵一天。對於大多數野手，我們建議將 70% 視為理想的疲勞標準。若您仍希望他在當天能擔任防守替補，可以勾選該設定下方的核取方塊。這樣一來，即使他感到疲憊並輪休一天，依然能在比賽後半段替補上場防守。</KR>
 <ES>Debajo de esas 3 configuraciones podemos dictar qué porcentaje de fatiga debe alcanzar el jugador antes de ser banca por un día. Recomendamos para la mayoría de los jugadores posicionales que el 70% es un buen nivel de fatiga. Si aún desea que todavía estén disponibles como un submarino defensivo, puede seleccionar la casilla de verificación debajo de esa configuración. De esa manera, incluso si están cansados ​​y toman un día libre, podrían ser subtiguados como un submarino defensivo.</ES>
 <JP>これらの3つの設定の下には、1日ベンチになる前に、プレイヤーが到達しなければならない疲労率を決定できます。ほとんどのポジションプレーヤーには、70％が疲労レベルであることをお勧めします。まだ防御サブとして利用できるようにしたい場合は、その設定の下のチェックボックスを選択できます。そうすれば、彼らが疲れていて、休みを取ったとしても、防御的なサブとして下着することができます。</JP>
 <CN>在這三個設定下方，你可以設定球員疲勞到達多少百分比時需要休息一天。我們建議大部分守位球員將疲勞設為70%比較合適。如果你仍希望他們可以作為守位替補上場，請勾選這個設定下方的核取方塊。這樣即使球員疲勞、休息一天，也可以在比賽後段被派上場擔任守位替補。</CN>
 <LINK>https://rb.gy/eywsoc</LINK>
 <ENGROUP>Tutorial 3-Manager Options and Strategies</ENGROUP>
-<KRGROUP>Tutorial 3-Manager Options and Strategies</KRGROUP>
+<KRGROUP>教學 3-總教練選項與策略</KRGROUP>
 <ESGROUP>Tutorial de 3-manager opciones y estrategias</ESGROUP>
 <JPGROUP>チュートリアル3マネージャーオプションと戦略</JPGROUP>
 <CNGROUP>教程3-Manager选项和策略</CNGROUP>
@@ -3036,13 +3036,13 @@
 
 <TI i="292" pid="3" tid="24" nid="293" soid="201" sf="11" pt="0" im="0" ena="1">
 <EN>Below the fatigue options are minimum innings to either remove or insert as a defensive sub. This will help direct when you would like to see this player brought into a game or taken out of a game.</EN>
-<KR>Below the fatigue options are minimum innings to either remove or insert as a defensive sub. This will help direct when you would like to see this player brought into a game or taken out of a game.</KR>
+<KR>疲勞選項下方是替換下場或換上防守替補的最少局數。這有助於規範您希望在何時將該名球員換上場或換下場。</KR>
 <ES>Debajo de las opciones de fatiga hay entradas mínimas para eliminar o insertar como un submarino defensivo. Esto ayudará a dirigir cuando desee ver a este jugador traído a un juego o sacado de un juego.</ES>
 <JP>疲労オプションの下には、防御サブとして削除または挿入するための最小イニングがあります。これは、このプレーヤーがゲームに持ち込まれたり、ゲームから取り出されたりしたいときに直接役立ちます。</JP>
 <CN>在疲勞選項下方，有最少局數設定，可用於決定球員作為防守替補進場或退場的條件。這可幫助你控制荷時將該球員派入比賽或撤出比賽。</CN>
 <LINK>https://rb.gy/eywsoc</LINK>
 <ENGROUP>Tutorial 3-Manager Options and Strategies</ENGROUP>
-<KRGROUP>Tutorial 3-Manager Options and Strategies</KRGROUP>
+<KRGROUP>教學 3-總教練選項與策略</KRGROUP>
 <ESGROUP>Tutorial de 3-manager opciones y estrategias</ESGROUP>
 <JPGROUP>チュートリアル3マネージャーオプションと戦略</JPGROUP>
 <CNGROUP>教程3-Manager选项和策略</CNGROUP>
@@ -3050,13 +3050,13 @@
 
 <TI i="293" pid="3" tid="24" nid="294" soid="201" sf="12" pt="0" im="0" ena="1">
 <EN>In the Pinch Hit settings section you have control of when this player is lifted for, or used as a pinch hitter. You can even make them available if they are tired or have a nagging day to day injury. Just remember that this player should be useful as a pinch hitter so they are not used when they should be a defensive sub or pinch runner.</EN>
-<KR>In the Pinch Hit settings section you have control of when this player is lifted for, or used as a pinch hitter. You can even make them available if they are tired or have a nagging day to day injury. Just remember that this player should be useful as a pinch hitter so they are not used when they should be a defensive sub or pinch runner.</KR>
+<KR>在「代打設定」區塊中，您可以控制何時將該球員換下代打，或是何時派他擔任代打。您甚至可以設定在他們疲勞或帶有輕微傷勢（day-to-day）時依然能代打。請記得，該球員應該具備代打價值，以免在該派防守替補或代跑時誤用了他。</KR>
 <ES>En la sección de configuración de golpe de pellizco, tiene el control de cuándo se levanta este jugador o se usa como un bateador de pellizco. Incluso puede ponerlos a disposición si están cansados ​​o tienen una lesión cotidiana. Solo recuerde que este jugador debería ser útil como un bateador de pellizco para que no se usen cuando deben ser un corredor de subconjuntos defensivos o pellizcos.</ES>
 <JP>ピンチヒット設定セクションでは、このプレーヤーがいつ持ち上げられるか、ピンチヒッターとして使用される時期を制御できます。疲れている場合や日々の怪我をしている場合は、利用できるようにすることもできます。このプレーヤーはピンチヒッターとして役立つはずであるため、防御的なサブランナーまたはピンチランナーである必要がある場合は使用されないことを忘れないでください。</JP>
 <CN>在代打設定區塊中，你可以控制這名球員在什麼情況下會被換下，或被用作代打。甚至可以設定，即使球員疲勞或有必須逐日觀察的傷，仍然可以讓他上場代打。不過請記住，這名球員應該確實適合作為代打人選，避免在更適合擔任守備替補或代跑的情況下被錯誤使用。</CN>
 <LINK>https://rb.gy/eywsoc</LINK>
 <ENGROUP>Tutorial 3-Manager Options and Strategies</ENGROUP>
-<KRGROUP>Tutorial 3-Manager Options and Strategies</KRGROUP>
+<KRGROUP>教學 3-總教練選項與策略</KRGROUP>
 <ESGROUP>Tutorial de 3-manager opciones y estrategias</ESGROUP>
 <JPGROUP>チュートリアル3マネージャーオプションと戦略</JPGROUP>
 <CNGROUP>教程3-Manager选项和策略</CNGROUP>
@@ -4058,7 +4058,7 @@
 
 <TI i="365" pid="27" tid="1" nid="366" soid="187" sf="8" pt="0" im="0" ena="1">
 <EN>So the rehab and prevent ratings you see on the screen will indicate how well your team trainer handles each different prevention or rehab. For example in regards to pitchers you're most likely going to want your team trainer to have good prevent arm and rehab arm injuries.</EN>
-<KR>So the rehab and prevent ratings you see on the screen will indicate how well your team trainer handles each different prevention or rehab. For example in regards to pitchers you're most likely going to want your team trainer to have good prevent arm and rehab arm injuries.</KR>
+<KR>畫面上看到的復健與預防評分，代表防護員在各項預防或復健工作上的處理能力。舉例來說，在投手方面，您通常會希望防護員具備出色的預防手臂受傷與手臂復健能力。</KR>
 <ES>Por lo tanto, la rehabilitación y la prevención de las calificaciones que ve en la pantalla indicará qué tan bien el entrenador de su equipo maneja cada prevención o rehabilitación diferentes. Por ejemplo, en lo que respecta a los lanzadores, es probable que quiera que el entrenador de su equipo tenga buenas lesiones en el brazo y el brazo de rehabilitación.</ES>
 <JP>したがって、画面に表示されるリハビリと防止は、チームトレーナーがそれぞれの異なる予防またはリハビリをどれだけうまく処理しているかを示します。たとえば、ピッチャーに関しては、チームトレーナーに腕の怪我やリハビリの怪我を防ぐことを望んでいるでしょう。</JP>
 <CN>你在畫面上看到的復健及預防評分，將顯示出球隊防護員能如何應對不同的預防或復健狀況。例如：對投手而言，可能會希望球隊防護員可有效預防手臂傷害，以及良好地復健投手的手臂傷勢。</CN>
@@ -4128,7 +4128,7 @@
 
 <TI i="372" pid="3" tid="6" nid="373" soid="66" sf="21" pt="0" im="0" ena="1">
 <EN>For the next step in this tutorial, we will cover the international roster. All we need to do is select the highlighted International button to take us to our international roster screen.</EN>
-<KR>For the next step in this tutorial, we will cover the international roster. All we need to do is select the highlighted International button to take us to our international roster screen.</KR>
+<KR>本教學的下一步將介紹國際球員名單。我們只需點選醒目標示的「國際」按鈕，即可前往國際球員名單畫面。</KR>
 <ES>Para el próximo paso en este tutorial, cubriremos la lista internacional. Todo lo que tenemos que hacer es seleccionar el botón Internacional resaltado para que nos lleve a nuestra pantalla de lista internacional.</ES>
 <JP>このチュートリアルの次のステップでは、国際名簿について説明します。ハイライト表示された国際ボタンを選択して、国際名簿画面に移動するだけです。</JP>
 <CN>在本教學內容的下一步中，我們會提及國際陣容。我們只需要選擇醒目提示的國際按鈕，就能前往國際陣容畫面。</CN>
@@ -5444,7 +5444,7 @@
 
 <TI i="466" pid="3" tid="49" nid="467" soid="204" sf="8" pt="0" im="0" ena="1">
 <EN>Gate Share Lost and Gate Share Gained is a revenue sharing system that is done across the league. Home teams will share a percentage of their gate revenue to the opposing team they are playing. These two lines will show you what you have given away when you’re home and what you have earned when you are away.</EN>
-<KR>Gate Share Lost and Gate Share Gained is a revenue sharing system that is done across the league. Home teams will share a percentage of their gate revenue to the opposing team they are playing. These two lines will show you what you have given away when you’re home and what you have earned when you are away.</KR>
+<KR>「門票分潤損失」與「門票分潤收入」是聯盟推行的收益分享系統。主場球隊會將一定比例的門票收入分給客場對手。這兩行將顯示您在主場時分出去的金額，以及在客場時賺取的金額。</KR>
 <ES>Gate Share Lost and Gate Share ganado es un sistema de participación de ingresos que se realiza en toda la liga. Los equipos locales compartirán un porcentaje de sus ingresos de puerta para el equipo contrario que están jugando. Estas dos líneas le mostrarán lo que ha regalado cuando esté en casa y lo que ha ganado cuando está fuera.</ES>
 <JP>Gate Share LostとGate Shareは、リーグ全体で行われる収益分配システムです。ホームチームは、ゲートの収益の割合を、プレーしている相手チームに共有します。これらの2つのラインは、あなたが家にいるときに与えたものと、あなたが留守時に稼いだものをあなたに示します。</JP>
 <CN>失去的門票分成與獲得的門票分成，為整個聯盟的收益分享系統。主場球隊會與對手球隊分享一定比例的門票收益。這兩條線將顯示出身為主隊時給出的分成，以及身為客隊時賺取的分成。</CN>
@@ -6214,7 +6214,7 @@
 
 <TI i="521" pid="27" tid="1" nid="522" soid="187" sf="6" pt="0" im="0" ena="1">
 <EN>Let's move on to personality. This line will describe the type of personality the coach in question has. These can be Personable, Easygoing, Normal, Temperamental, and lastly Controlling.</EN>
-<KR>Let's move on to personality. This line will describe the type of personality the coach in question has. These can be Personable, Easygoing, Normal, Temperamental, and lastly Controlling.</KR>
+<KR>接下來看個性。這一行代表該教練的個性類型。包括平易近人、隨和、普通、喜怒無常，以及掌控型。</KR>
 <ES>Pasemos a la personalidad. Esta línea describirá el tipo de personalidad que tiene el entrenador en cuestión. Estos pueden ser agradables, tranquilos, normales, temperamentales y, por último, controlar.</ES>
 <JP>性格に移りましょう。このラインでは、問題のコーチが持っている人格のタイプを説明します。これらは、魅力的で、のんきで、普通の、気質で、最後に制御できます。</JP>
 <CN>現在進到性格的部份吧。這條線會描述所論及教練的性格，可能會是：討人喜歡、相當隨和、普通、喜怒無常，最後還有控制狂。</CN>
@@ -6284,7 +6284,7 @@
 
 <TI i="526" pid="27" tid="1" nid="527" soid="187" sf="11" pt="0" im="0" ena="1">
 <EN>The manager style also impacts your ability to potentially sign players. Some players will be hesitant or flat-out decline to sign with your team if your manager has a clashing personality with them.</EN>
-<KR>The manager style also impacts your ability to potentially sign players. Some players will be hesitant or flat-out decline to sign with your team if your manager has a clashing personality with them.</KR>
+<KR>總教練的執教風格也會影響您簽約球員的成功率。若總教練與球員個性不合，部分球員可能會猶豫不決，甚至斷然拒絕與您的球隊簽約。</KR>
 <ES>El estilo del gerente también afecta su capacidad de firmar a los jugadores. Algunos jugadores dudarán o decidirán firmes para firmar con su equipo si su gerente tiene una personalidad en conflicto con ellos.</ES>
 <JP>マネージャースタイルは、プレーヤーに潜在的に署名する能力にも影響を与えます。一部のプレイヤーは、マネージャーが衝突する性格を持っている場合、チームとの署名をためらったり、断念したりします。</JP>
 <CN>總教練的風格，也可能會影響你簽下球員的能力。若總教練的性格與某些球員相抵觸，則他們簽約時可能會遲疑，或直接拒絕簽約。</CN>
@@ -6298,7 +6298,7 @@
 
 <TI i="527" pid="27" tid="1" nid="528" soid="187" sf="12" pt="0" im="0" ena="1">
 <EN>Now let's talk about Pitching and Hitting coach focuses. These are categories your hitting and pitching coaches will be focusing their attention on more than others.</EN>
-<KR>Now let's talk about Pitching and Hitting coach focuses. These are categories your hitting and pitching coaches will be focusing their attention on more than others.</KR>
+<KR>現在來談談投手教練與打擊教練的專注領域。這些是打擊與投手教練會特別著重投入心力的項目。</KR>
 <ES>Ahora hablemos sobre los enfoques del entrenador de lanzamiento y bateo. Estas son categorías que sus entrenadores de bateo y pitcheo centrarán su atención en más que en otros.</ES>
 <JP>それでは、ピッチングとヒットコーチの焦点について話しましょう。これらは、あなたの打撃とピッチングのコーチが他の人よりも注意を集中させるカテゴリです。</JP>
 <CN>接下來，我們來說明投手教練與打擊教練著重的領域。這些設定代表你的打擊和投手教練會將更多精力放在特定的項目上，相較於其他領域，他們對這些重點的影響會更大。</CN>
@@ -6340,7 +6340,7 @@
 
 <TI i="530" pid="27" tid="1" nid="531" soid="187" sf="15" pt="0" im="0" ena="1">
 <EN>Now let's talk about the ratings below the focuses. You will notice that they are colored text, and will range from poor to LEGENDARY.</EN>
-<KR>Now let's talk about the ratings below the focuses. You will notice that they are colored text, and will range from poor to LEGENDARY.</KR>
+<KR>接著來談談專注領域下方的評分。您會注意到這些是有顏色的文字，評級範圍從極差到傳奇。</KR>
 <ES>Ahora hablemos sobre las clasificaciones debajo de los enfoques. Notarás que son de color de color y van desde pobres hasta legendarios.</ES>
 <JP>それでは、焦点の下の評価について話しましょう。あなたはそれらが色付きのテキストであることに気付くでしょう、そして、貧弱なものから伝説的なものまであります。</JP>
 <CN>現在我們來討論各著重點底下的評分。你會注意到這些敘述皆以顏色標註，評分範圍從不佳排到傳奇。</CN>
@@ -6354,7 +6354,7 @@
 
 <TI i="531" pid="27" tid="1" nid="532" soid="187" sf="16" pt="0" im="0" ena="1">
 <EN>First let's talk about handles development. This rating shows how well the coach will assist with the development of the players they are coaching or managing. This rating will be important for your managers and bench coaches.</EN>
-<KR>First let's talk about handles development. This rating shows how well the coach will assist with the development of the players they are coaching or managing. This rating will be important for your managers and bench coaches.</KR>
+<KR>首先是「培養能力」。此評分顯示教練在協助旗下指導或執教的球員成長方面的成效。這項評分對總教練與板凳教練相當重要。</KR>
 <ES>Primero hablemos sobre el desarrollo de las manijas. Esta calificación muestra qué tan bien el entrenador ayudará con el desarrollo de los jugadores que están entrenando o administrando. Esta calificación será importante para sus gerentes y entrenadores de banco.</ES>
 <JP>まず、ハンドルの開発について話しましょう。この評価は、コーチがコーチングまたは管理しているプレーヤーの開発をどれだけうまく支援するかを示しています。この評価は、マネージャーとベンチコーチにとって重要です。</JP>
 <CN>首先，我們來討論如何管理發展。此評分會顯示出教練能如何協助其所訓練或管理之球員的培育。此評分對總教練及板凳教練都相當重要。</CN>
@@ -6368,7 +6368,7 @@
 
 <TI i="532" pid="27" tid="1" nid="533" soid="187" sf="17" pt="0" im="0" ena="1">
 <EN>This is just normal development of the player to fulfill what your scout believes is their potential, not new potential to be generated. So don't get that confused.</EN>
-<KR>This is just normal development of the player to fulfill what your scout believes is their potential, not new potential to be generated. So don't get that confused.</KR>
+<KR>這僅代表引導球員正常成長以兌現球探所認定的潛力，並非產生全新的潛力，請勿混淆。</KR>
 <ES>Este es el desarrollo normal del jugador para cumplir con lo que su explorador cree que es su potencial, no un potencial nuevo para generar. Así que no te confundas.</ES>
 <JP>これは、スカウトが生成される新しい可能性ではなく、彼らの可能性があると信じているものを満たすためのプレーヤーの通常の開発です。だから混乱しないでください。</JP>
 <CN>這只是一般的球員培育，可滿足球探認為的潛能，而非所產生的新潛能。所以可別搞混了。</CN>
@@ -6382,7 +6382,7 @@
 
 <TI i="533" pid="27" tid="1" nid="534" soid="187" sf="18" pt="0" im="0" ena="1">
 <EN>Influence mechanics is much like handles development in that your bench coach and manager will need to prioritize this rating while your other coaching staff members, while still having some impact, will not have as big of a need for it.</EN>
-<KR>Influence mechanics is much like handles development in that your bench coach and manager will need to prioritize this rating while your other coaching staff members, while still having some impact, will not have as big of a need for it.</KR>
+<KR>「調整動作能力」與培養能力類似，總教練與板凳教練必須優先注重這項評分；其他教練團成員雖然也有影響，但需求程度沒那麼高。</KR>
 <ES>La mecánica de influencia es muy similar al desarrollo de las manijas, ya que su entrenador y gerente de banco deberá priorizar esta calificación, mientras que sus otros miembros del cuerpo técnico, aunque aún tienen algún impacto, no tendrá una gran necesidad de ello.</ES>
 <JP>影響力のメカニクスは、ベンチコーチとマネージャーがこの評価に優先順位を付ける必要がありますが、他のコーチングスタッフメンバーは、ある程度の影響を与えますが、それほど大きなニーズはありません。</JP>
 <CN>影響機制如板凳教練與總教練在此評分需要優先考量的發展，而你的其他教練群成員儘管有些影響力，但並不會非常需要。</CN>
@@ -6410,7 +6410,7 @@
 
 <TI i="535" pid="27" tid="1" nid="536" soid="187" sf="20" pt="0" im="0" ena="1">
 <EN>So, influence mechanics is a way to give your team the best chance at having positive TCR changes and development for your players. Again, prioritize that with your manager and bench coaches, as it won't be as impactful for other coaches.</EN>
-<KR>So, influence mechanics is a way to give your team the best chance at having positive TCR changes and development for your players. Again, prioritize that with your manager and bench coaches, as it won't be as impactful for other coaches.</KR>
+<KR>因此，「調整動作能力」是讓球隊最有機會使球員迎來正向 TCR 變化與成長的方式。同樣地，請優先讓總教練與板凳教練具備此能力，因為對其他教練的影響沒那麼顯著。</KR>
 <ES>Por lo tanto, la mecánica de influencia es una forma de darle a su equipo la mejor oportunidad de tener cambios positivos en TCR y desarrollo para sus jugadores. Una vez más, priorice eso con su gerente y entrenadores de banca, ya que no será tan impactante para otros entrenadores.</ES>
 <JP>したがって、影響力のメカニックは、チームにプレーヤーにプラスのTCR変更と開発を行う最高のチャンスを提供する方法です。繰り返しますが、他のコーチにはそれほど影響を与えないため、マネージャーやベンチのコーチにそれを優先してください。</JP>
 <CN>因此，影響機制能給予球隊最佳的機會，讓球員有正面的天賦變化隨機度，及影響球員的培育。不過呢，這部分應優先設定給你的總教練與板凳教練，因為對其他教練的影響不會那麼顯著。</CN>
@@ -6438,7 +6438,7 @@
 
 <TI i="537" pid="27" tid="1" nid="538" soid="187" sf="22" pt="0" im="0" ena="1">
 <EN>Teach hitting is a rating all for your hitting coach. This is the most important rating a hitting coach should have.</EN>
-<KR>Teach hitting is a rating all for your hitting coach. This is the most important rating a hitting coach should have.</KR>
+<KR>「打擊指導」是專屬於打擊教練的評分。這是打擊教練最不可或缺的關鍵評分。</KR>
 <ES>Enseñar golpear es una calificación para su entrenador de bateo. Esta es la calificación más importante que debe tener un entrenador de bateo.</ES>
 <JP>Teach Hittingは、あなたの打撃コーチにとってすべての評価です。これは、ヒットコーチが持つべき最も重要な評価です。</JP>
 <CN>指導打擊特質是衡量打擊教練整體指導能力的評分。這是打擊教練最重要的能力指標。</CN>
@@ -6466,7 +6466,7 @@
 
 <TI i="539" pid="27" tid="1" nid="540" soid="187" sf="24" pt="0" im="0" ena="1">
 <EN>Now let's talk about the ratings you'll want for your 1B and 3B coaches. These are the In-Game running, Teach catching defense, teach infield defense, teach outfield defense, and lastly reach running.</EN>
-<KR>Now let's talk about the ratings you'll want for your 1B and 3B coaches. These are the In-Game running, Teach catching defense, teach infield defense, teach outfield defense, and lastly reach running.</KR>
+<KR>現在來看看一壘與三壘指導教練所需的評分。包括比賽跑壘指揮、指導捕手守備、指導內野守備、指導外野守備，最後是跑壘指導。</KR>
 <ES>Ahora hablemos sobre las calificaciones que deseará para sus entrenadores 1B y 3B. Estos son la carrera en el juego, enseñan defensa de captura, enseñan defensa en el cuadro, enseñan defensa del jardín y, por último, alcanza la carrera.</ES>
 <JP>それでは、1Bと3Bのコーチに必要な評価について話しましょう。これらはゲーム内でのランニングであり、キャッチングディフェンスを教え、内野の防衛を教え、外野の防衛を教え、最後にランニングを行います。</JP>
 <CN>現在來探討你會想要的一壘手與三壘手評分。這些評分為比賽內跑壘、指導捕手防禦、指導內野防守、指導外野防守，最後還有安全上壘。</CN>
@@ -6564,7 +6564,7 @@
 
 <TI i="546" pid="27" tid="1" nid="547" soid="188" sf="31" pt="0" im="0" ena="1">
 <EN>In addition to those manager overall roster strategies, there are also scout strategies or player valuations. These won't be much of an impact for in-game coaches and are reserved mostly just for scouts and Assistant GM's.</EN>
-<KR>In addition to those manager overall roster strategies, there are also scout strategies or player valuations. These won't be much of an impact for in-game coaches and are reserved mostly just for scouts and Assistant GM's.</KR>
+<KR>除了這些總教練的整體陣容策略之外，還有球探策略或球員價值評估。這些對場上教練影響不大，主要是給球探與助理總經理參考的。</KR>
 <ES>Además de esas estrategias de lista generales del gerente, también hay estrategias de exploración o valoraciones de jugadores. Estos no serán un gran impacto para los entrenadores en el juego y están reservados principalmente solo para exploradores y gerentes general asistentes.</ES>
 <JP>これらのマネージャー全体の名簿戦略に加えて、スカウト戦略やプレーヤーの評価もあります。これらはゲーム内のコーチにとって大きな影響ではなく、主にスカウトとアシスタントGM専用です。</JP>
 <CN>除了總教練的整體陣容策略外，還有球探策略或球員評價。這些對比賽中的教練影響不大，主要是留給球探和總經理助理使用。</CN>
@@ -6578,7 +6578,7 @@
 
 <TI i="547" pid="27" tid="1" nid="548" soid="188" sf="32" pt="0" im="0" ena="1">
 <EN>The scout value will indicate if the coach in question values the scout's ratings and evaluations, or if they go off of OSA or stats more heavily.</EN>
-<KR>The scout value will indicate if the coach in question values the scout's ratings and evaluations, or if they go off of OSA or stats more heavily.</KR>
+<KR>球探評價指標顯示該教練是重視陣中球探的評分與評估，還是更偏重 OSA 或數據統計。</KR>
 <ES>El valor del explorador indicará si el entrenador en cuestión valora las calificaciones y evaluaciones del explorador, o si se apagan de OSA o estadísticas más.</ES>
 <JP>スカウトの価値は、問題のコーチがスカウトの評価と評価を重視しているかどうか、またはそれらがOSAまたは統計情報をより重く評価するかどうかを示します。</JP>
 <CN>球探評價表示該教練在決策時對球探評分與評估的重視程度。</CN>
@@ -6592,7 +6592,7 @@
 
 <TI i="548" pid="27" tid="1" nid="549" soid="188" sf="33" pt="0" im="0" ena="1">
 <EN>In addition to the scout value there are current year stats, last year stats, and 2 years ago stats allowing you to see what set of stats the coach in general would prioritize instead of a scout's value.</EN>
-<KR>In addition to the scout value there are current year stats, last year stats, and 2 years ago stats allowing you to see what set of stats the coach in general would prioritize instead of a scout's value.</KR>
+<KR>除了球探評價之外，還有今年數據、去年數據以及兩年前數據，讓您能看出該教練普遍更看重哪一時期的數據，而非單純依賴球探評價。</KR>
 <ES>Además del valor del explorador, hay estadísticas del año en curso, estadísticas del año pasado y estadísticas de hace 2 años que le permiten ver qué conjunto de estadísticas el entrenador en general priorizaría en lugar del valor de un explorador.</ES>
 <JP>スカウトの価値に加えて、昨年の統計、昨年の統計、2年前には、コーチが一般的にどの統計のセットがスカウトの価値ではなく優先順位を付けるかを確認できる統計があります。</JP>
 <CN>除了球探評價外，也有當年的數據、前一年的數據及2年前的數據，讓你能了解到一般來說除了球探評價外，教練還會優先考量哪些數據。</CN>
@@ -6620,7 +6620,7 @@
 
 <TI i="550" pid="27" tid="1" nid="551" soid="105" sf="35" pt="0" im="0" ena="1">
 <EN>So now that we have covered most of the coach ratings let's talk briefly about the Relationships tab. Click the highlighted Relationships button.</EN>
-<KR>So now that we have covered most of the coach ratings let's talk briefly about the Relationships tab. Click the highlighted Relationships button.</KR>
+<KR>介紹完大部分的教練評分後，我們簡短說明一下「人際關係」分頁。請點選醒目標示的「人際關係」按鈕。</KR>
 <ES>Entonces, ahora que hemos cubierto la mayoría de las clasificaciones de entrenadores, hablemos brevemente sobre la pestaña Relaciones. Haga clic en el botón Relaciones resaltadas.</ES>
 <JP>コーチの評価のほとんどをカバーしたので、タブについて簡単に説明しましょう。 [強調表示された関係]ボタンをクリックします。</JP>
 <CN>既然我們已涵蓋了大部份的教練評分，那麼我們現在簡短討論「關係」分頁吧。請點擊醒目提示的「關係」按鈕。</CN>
@@ -6648,7 +6648,7 @@
 
 <TI i="552" pid="27" tid="8" nid="553" soid="207" sf="2" pt="0" im="0" ena="1">
 <EN>While a coach won't be negated from influencing a player if they have a poor relationship, they can see vastly diminished results versus a player who has an excellent relationship with said coach.</EN>
-<KR>While a coach won't be negated from influencing a player if they have a poor relationship, they can see vastly diminished results versus a player who has an excellent relationship with said coach.</KR>
+<KR>雖然教練與球員關係不佳並不會完全失去對其的影響力，但相較於與教練關係極佳的球員，其效果可能大幅降低。</KR>
 <ES>Si bien un entrenador no se negó a influir en un jugador si tiene una relación pobre, puede ver resultados muy disminuidos frente a un jugador que tiene una excelente relación con dicho entrenador.</ES>
 <JP>コーチは、貧弱な関係を持っている場合、プレーヤーに影響を与えることから否定されることはありませんが、そのコーチと優れた関係を持つプレーヤーと比較して、大幅に減少した結果を見ることができます。</JP>
 <CN>儘管教練與球員間的關係不融洽，並不會使教練無法對球員造成影響，但仍可注意到該教練與關係良好的球員，能有更佳的結果。</CN>
@@ -6676,7 +6676,7 @@
 
 <TI i="554" pid="27" tid="8" nid="555" soid="0" sf="4" pt="0" im="0" ena="1">
 <EN>Thank you so much for going through this tutorial. If you want a more detailed walkthrough please feel free to watch our YouTube video for more info.</EN>
-<KR>Thank you so much for going through this tutorial. If you want a more detailed walkthrough please feel free to watch our YouTube video for more info.</KR>
+<KR>非常感謝您完成本教學。若想了解更詳細的操作流程，歡迎觀看我們的 YouTube 影片以取得更多資訊。</KR>
 <ES>Muchas gracias por pasar por este tutorial. Si desea un tutorial más detallado, no dude en ver nuestro video de YouTube para obtener más información.</ES>
 <JP>このチュートリアルを教えてくれてありがとう。より詳細なウォークスルーが必要な場合は、詳細についてはYouTubeビデオをご覧ください。</JP>
 <CN>感謝你完成這個教學。若想了解更詳盡的內容，隨時歡迎觀看我們的YouTube影片以取得更多資訊。</CN>
@@ -6690,7 +6690,7 @@
 
 <TI i="555" pid="27" tid="8" nid="0" soid="0" sf="5" pt="0" im="0" ena="1">
 <EN>You can go back to the main menu if you wish to start your own save or view more tutorials. Otherwise, you can continue this game if you'd like to play as the Scottsdale Salamanders.</EN>
-<KR>You can go back to the main menu if you wish to start your own save or view more tutorials. Otherwise, you can continue this game if you'd like to play as the Scottsdale Salamanders.</KR>
+<KR>若您想開始自己的存檔或觀看更多教學，可返回主選單；若想繼續執教史考茲代爾蠑螈隊，也可以繼續這場遊戲。</KR>
 <ES>Puede volver al menú principal si desea comenzar su propio Guardar o ver más tutoriales. De lo contrario, puedes continuar con este juego si quieres jugar como las salamandras de Scottsdale.</ES>
 <JP>独自の保存を開始したり、より多くのチュートリアルを表示したりする場合は、メインメニューに戻ることができます。それ以外の場合は、スコッツデールのサンショウウオとしてプレイしたい場合は、このゲームを続けることができます。</JP>
 <CN>若想開始自己的儲存檔案或檢視更多教學，可返回主選單。或者若想要，也可繼續扮演史考茲谷火蜥蜴進行遊戲。</CN>
@@ -6704,7 +6704,7 @@
 
 <TI i="556" pid="5" tid="1" nid="557" soid="0" sf="1" pt="0" im="0" ena="1">
 <EN>Welcome to Tutorial 9. In this tutorial we will cover player development and scouting screens. What control you have as a GM and some tips and pointers to help you navigate.</EN>
-<KR>Welcome to Tutorial 9. In this tutorial we will cover player development and scouting screens. What control you have as a GM and some tips and pointers to help you navigate.</KR>
+<KR>歡迎來到教學 9。本教學將介紹球員養成與球探畫面。包含您身為總經理所擁有的掌控權，以及協助您操作的提示與指引。</KR>
 <ES>Bienvenido al Tutorial 9. En este tutorial cubriremos el desarrollo de jugadores y las pantallas de exploración. ¿Qué control tienes como GM y algunos consejos y consejos para ayudarte a navegar?</ES>
 <JP>チュートリアル9へようこそ。このチュートリアルでは、プレーヤーの開発とスカウト画面について説明します。 GMとしてどのようなコントロールがあり、ナビゲートするのに役立ついくつかのヒントとポインター。</JP>
 <CN>歡迎來到教學9。在這個教學中，我們會涵蓋球員培育及球探畫面。你可以多了解自己身為總經理可操控的內容，以及能協助你多加指揮的提示與建議。</CN>
@@ -6718,7 +6718,7 @@
 
 <TI i="557" pid="5" tid="1" nid="558" soid="23" sf="2" pt="0" im="0" ena="1">
 <EN>This tutorial will take us back to the front office screen which means we need to get to the Salamanders Home Screen. Select the highlighted Salamanders drop-down menu and Select the Team Home Screen button to continue.</EN>
-<KR>This tutorial will take us back to the front office screen which means we need to get to the Salamanders Home Screen. Select the highlighted Salamanders drop-down menu and Select the Team Home Screen button to continue.</KR>
+<KR>本教學將帶我們回到球團辦公室畫面，這代表我們需要前往蠑螈隊主畫面。請點選醒目標示的蠑螈隊下拉式選單，並選擇「球隊主畫面」按鈕以繼續。</KR>
 <ES>Este tutorial nos llevará de regreso a la pantalla de la oficina principal, lo que significa que necesitamos llegar a la pantalla de inicio de Salamanders. Seleccione el menú desplegable de Salamanders resaltado y seleccione el botón de pantalla de inicio del equipo para continuar.</ES>
 <JP>このチュートリアルでは、フロントオフィスの画面に戻ります。つまり、サンショウウオのホーム画面にアクセスする必要があります。強調表示されているサンショウウオのドロップダウンメニューを選択し、続行するチームホーム画面ボタンを選択します。</JP>
 <CN>這個教學會帶我們回到管理高層畫面，亦即我們需要前往火蜥蜴主畫面。請選擇醒目提示的火蜥蜴下拉式選單，並選擇球隊主畫面按鈕以繼續。</CN>
@@ -6732,7 +6732,7 @@
 
 <TI i="558" pid="3" tid="1" nid="559" soid="81" sf="1" pt="0" im="0" ena="1">
 <EN>Let's head over to the front office page by selecting the highlighted front office button.</EN>
-<KR>Let's head over to the front office page by selecting the highlighted front office button.</KR>
+<KR>請點選醒目標示的「球團辦公室」按鈕以進入球團辦公室頁面。</KR>
 <ES>Vamos a dirigirnos a la página de la oficina principal seleccionando el botón de oficina principal resaltado.</ES>
 <JP>強調表示されたフロントオフィスボタンを選択して、フロントオフィスページにアクセスしましょう。</JP>
 <CN>請選擇醒目提示的管理高層按鈕，前往管理高層頁面。</CN>
@@ -6746,7 +6746,7 @@
 
 <TI i="559" pid="3" tid="25" nid="560" soid="86" sf="1" pt="0" im="0" ena="1">
 <EN>While there are details about some scouting and player development on the front office screen our main page will be the Player Development screen. Please select the highlighted Player Development button.</EN>
-<KR>While there are details about some scouting and player development on the front office screen our main page will be the Player Development screen. Please select the highlighted Player Development button.</KR>
+<KR>雖然球團辦公室畫面有部分球探與球員養成的詳細資訊，但主要頁面依然是「球員養成」畫面。請點選醒目標示的「球員養成」按鈕。</KR>
 <ES>Si bien hay detalles sobre algunos exploración y desarrollo de jugadores en la pantalla de la oficina principal, nuestra página principal será la pantalla de desarrollo del jugador. Seleccione el botón de desarrollo del jugador resaltado.</ES>
 <JP>フロントオフィス画面にスカウトとプレーヤー開発の詳細がありますが、メインページはプレーヤー開発画面になります。強調表示されているプレーヤー開発ボタンを選択してください。</JP>
 <CN>儘管在管理高層畫面中，有許多與球探及球員培育的詳情，我們的主頁面將為球員培育畫面。請選擇醒目提示的球員培育按鈕。</CN>
@@ -6760,7 +6760,7 @@
 
 <TI i="560" pid="3" tid="39" nid="561" soid="0" sf="1" pt="0" im="0" ena="1">
 <EN>Welcome to the Player Development screen. This will be one of the most important screens as a GM with which to familiarize yourself with. It will help you balance the development of your players with your budgets. It will also let you view your organization's rising talent in its system or minor leagues.</EN>
-<KR>Welcome to the Player Development screen. This will be one of the most important screens as a GM with which to familiarize yourself with. It will help you balance the development of your players with your budgets. It will also let you view your organization's rising talent in its system or minor leagues.</KR>
+<KR>歡迎來到球員養成畫面。身為總經理，這是必須熟悉的最重要畫面之一。它能協助您在球員養成與球隊預算之間取得平衡，還能讓您檢視球團體系或小聯盟中嶄露頭角的新秀。</KR>
 <ES>Bienvenido a la pantalla de desarrollo del jugador. Esta será una de las pantallas más importantes como GM con la que se familiarizará. Le ayudará a equilibrar el desarrollo de sus jugadores con sus presupuestos. También le permitirá ver el creciente talento de su organización en su sistema o ligas menores.</ES>
 <JP>プレーヤー開発画面へようこそ。これは、自分自身を慣れるためのGMとして最も重要な画面の1つになります。プレイヤーの開発と予算のバランスを取るのに役立ちます。また、システムまたはマイナーリーグであなたの組織の才能の高まりを見ることができます。</JP>
 <CN>歡迎來到球員培育畫面。這將會是擔任總經理時，其中一個最為重要的畫面，也必須好好熟識。將能協助你找出球員的培育與預算間的平衡。也能讓你在系統或小聯盟中，檢視球團的明日新秀。</CN>
@@ -7222,7 +7222,7 @@
 
 <TI i="593" pid="3" tid="27" nid="594" soid="42" sf="14" pt="0" im="0" ena="1">
 <EN>So make the best educated guess on what you need with your sliders and what you want to put funds into. If you don't have all 4 sliders equal 100% any remaining funds will show up in your unallocated funds section beneath those.</EN>
-<KR>So make the best educated guess on what you need with your sliders and what you want to put funds into. If you don't have all 4 sliders equal 100% any remaining funds will show up in your unallocated funds section beneath those.</KR>
+<KR>因此，請根據自身需求與資金分配，在各項滑桿上做出最明智的推估。若 4 個滑桿合計未達 100%，剩餘資金將顯示在下方的未分配資金區塊。</KR>
 <ES>Así que haz la mejor adivina sobre lo que necesitas con tus controles deslizantes y en qué quieres poner fondos. Si no tiene los 4 controles deslizantes igual al 100%, los fondos restantes aparecerán en su sección de fondos no asignados debajo de ellos.</ES>
 <JP>だから、あなたがあなたのスライダーで必要なものとあなたが資金を入れたいものについて最高の教育を受けた推測をしてください。すべての4つのスライダーが100％等しいすべてのスライダーがない場合、残りの資金は、それらの下の未割り当てのファンドセクションに表示されます。</JP>
 <CN>因此，你需要根據實際需求和策略，對各個滑桿做出最合理的分配，並決定資金投入的優先順序。如果4個滑桿的總和未達100%，剩餘的資金將會顯示在這些滑桿下方的未分配資金區域。</CN>
@@ -7348,7 +7348,7 @@
 
 <TI i="602" pid="3" tid="27" nid="603" soid="91" sf="23" pt="0" im="0" ena="1">
 <EN>Let's finish this tutorial by going to the highlighted Scouting Task List Tab.</EN>
-<KR>Let's finish this tutorial by going to the highlighted Scouting Task List Tab.</KR>
+<KR>最後，請前往醒目標示的「球探任務清單」分頁來完成本次教學。</KR>
 <ES>Terminemos este tutorial yendo a la pestaña de la lista de tareas de exploración resaltada.</ES>
 <JP>このチュートリアルにアクセスして、ハイライトされたスカウティングタスクリストタブに移動しましょう。</JP>
 <CN>現在前往醒目提示的球探任務清單分頁完成這個教學吧。</CN>
@@ -7362,7 +7362,7 @@
 
 <TI i="603" pid="3" tid="56" nid="604" soid="204" sf="1" pt="0" im="0" ena="1">
 <EN>Your scout will routinely scout players on your team, other organizations, and draft pool lists as they're published. IAFA players will be scouted during the IAFA signing period on the International tab, when the team runs international private training practices each month (not covered in this tutorial). How much budget you have put into your scouting will dictate how quickly and accurately your scout will work.</EN>
-<KR>Your scout will routinely scout players on your team, other organizations, and draft pool lists as they're published. IAFA players will be scouted during the IAFA signing period on the International tab, when the team runs international private training practices each month (not covered in this tutorial). How much budget you have put into your scouting will dictate how quickly and accurately your scout will work.</KR>
+<KR>球探會定期對自家球隊、其他球團以及剛公布的選秀名單球員進行調查。國際業餘自由球員（IAFA）會在「國際」分頁的簽約期內接受考察，也就是球隊每月進行國際自主培訓時（本教學不包含此部分）。您投入球探的預算多寡，將決定球探工作的速度與精準度。</KR>
 <ES>Su explorador rutinariamente explorará a los jugadores en su equipo, otras organizaciones y listas de piscinas de borrador y jugadores de IAFA mientras se publican. La cantidad de presupuesto que ha puesto en su exploración dictará cuán rápido y precisión funcionará su explorador.</ES>
 <JP>あなたのスカウトは、あなたのチーム、他の組織、ドラフトプールリストとIAFAプレーヤーが公開されているように、日常的にスカウトプレイヤーをスカウトします。スカウトにどれだけの予算を入れたかは、スカウトがどれほど迅速かつ正確に機能するかを決定します。</JP>
 <CN>你的球探會定期評估你的球隊上、其他球團以及選秀人才庫所列的球員。每個月球隊進行國際私訓練習（此教學未包含這個部份）時，在國際分頁簽下國際業餘自由球員期間，會評估國際業餘自由球員。投入於球探的預算金額，將會決定球探評估的速度及精準度。</CN>
@@ -7446,7 +7446,7 @@
 
 <TI i="609" pid="3" tid="56" nid="610" soid="0" sf="7" pt="0" im="0" ena="1">
 <EN>Thank you so much for going through this tutorial. If you want a more detailed walkthrough, please feel free to watch our YouTube video for more info.</EN>
-<KR>Thank you so much for going through this tutorial. If you want a more detailed walkthrough, please feel free to watch our YouTube video for more info.</KR>
+<KR>非常感謝您完成本教學。若想了解更詳細的流程，歡迎觀看我們的 YouTube 影片以取得更多資訊。</KR>
 <ES>Muchas gracias por pasar por este tutorial. Si desea un tutorial más detallado, no dude en ver nuestro video de YouTube para obtener más información.</ES>
 <JP>このチュートリアルを教えてくれてありがとう。より詳細なウォークスルーが必要な場合は、詳細についてはYouTubeビデオをご覧ください。</JP>
 <CN>感謝你完成這個教學。若想了解更詳盡的內容，隨時歡迎觀看我們的YouTube影片以取得更多資訊。</CN>
@@ -7880,7 +7880,7 @@
 
 <TI i="640" pid="34" tid="1" nid="641" soid="48" sf="22" pt="0" im="0" ena="1">
 <EN>Now there is another type of player opt out or option that can be done in the middle of a contract. That is what we call a player opt-out. That is listed in our additional clauses section so let us talk about those.</EN>
-<KR>Now there is another type of player opt out or option that can be done in the middle of a contract. That is what we call a player opt-out. That is listed in our additional clauses section so let us talk about those.</KR>
+<KR>合約中途還可以執行另一種球員提前解約或選擇權，也就是所謂的球員選擇退出條款。這列在我們的附加條款區塊，接著就來討論這些內容。</KR>
 <ES>Ahora hay otro tipo de jugador optando u opción que se puede hacer en medio de un contrato. Eso es lo que llamamos un jugador de exclusión. Eso se enumera en nuestra sección de cláusulas adicionales, así que hablemos de ellas.</ES>
 <JP>これで、契約の途中で実行できる別のタイプのプレイヤーオプションまたはオプションがあります。それが私たちがプレイヤーのオプトアウトと呼ぶものです。それは追加の条項セクションにリストされているので、それらについて話しましょう。</JP>
 <CN>現在有另一種可選擇退出的球員，且可選擇在合約履行至中段時執行。這就是所謂的球員跳脫權。會列在我們的其他條款區塊，因此我們來討論一下吧。</CN>
@@ -7950,7 +7950,7 @@
 
 <TI i="645" pid="34" tid="1" nid="646" soid="48" sf="27" pt="0" im="0" ena="1">
 <EN>Now the incentives section. There are slightly different incentives for batters and pitchers when offering contracts. Let's start with batters.</EN>
-<KR>Now the incentives section. There are slightly different incentives for batters and pitchers when offering contracts. Let's start with batters.</KR>
+<KR>現在來看激勵獎金區塊。提供合約時，打者與投手的激勵獎金項目略有不同。我們先從打者開始。</KR>
 <ES>Ahora la sección de incentivos. Hay incentivos ligeramente diferentes para los bateadores y lanzadores al ofrecer contratos. Comencemos con los bateadores.</ES>
 <JP>インセンティブセクション。契約を提供するとき、打者や投手にはわずかに異なるインセンティブがあります。バッターから始めましょう。</JP>
 <CN>現在來討論激勵機制區塊。對打者及投手而言，提出合約時激勵機制會有些微的不同。我們先從打者開始。</CN>
@@ -8076,7 +8076,7 @@
 
 <TI i="654" pid="34" tid="1" nid="655" soid="0" sf="36" pt="0" im="0" ena="1">
 <EN>Thank you so much for going through this tutorial. If you want a more detailed walkthrough please feel free to watch our YouTube video for more info.</EN>
-<KR>Thank you so much for going through this tutorial. If you want a more detailed walkthrough please feel free to watch our YouTube video for more info.</KR>
+<KR>非常感謝您完成本教學。若想了解更詳細的操作流程，歡迎觀看我們的 YouTube 影片以取得更多資訊。</KR>
 <ES>Muchas gracias por pasar por este tutorial. Si desea un tutorial más detallado, no dude en ver nuestro video de YouTube para obtener más información.</ES>
 <JP>このチュートリアルを教えてくれてありがとう。より詳細なウォークスルーが必要な場合は、詳細についてはYouTubeビデオをご覧ください。</JP>
 <CN>感謝你完成這個教學。若想了解更詳盡的內容，隨時歡迎觀看我們的YouTube影片以取得更多資訊。</CN>
@@ -8136,7 +8136,7 @@
 
 <TI i="660" pid="3" tid="59" nid="0" soid="233" sf="8" pt="0" im="0" ena="1">
 <EN>You may also ask the AI to fill your complex for you with this button.</EN>
-<KR>You may also ask the AI to fill your complex for you with this button.</KR>
+<KR>您也可以使用此按鈕讓 AI 替您將培訓基地補滿球員。</KR>
 <ES>También puedes pedirle a la IA que llene tu complejo con este botón.</ES>
 <JP>このボタンを使用して、AI にあなたのコンプレックスを埋めるよう依頼することもできます。</JP>
 <CN>也可以按下這個按鈕，讓AI幫你自動填滿培育基地。</CN>
@@ -8144,7 +8144,7 @@
 
 <TI i="661" pid="3" tid="59" nid="0" soid="230" sf="5" pt="0" im="0" ena="1">
 <EN>Once they have been given a program they will show up here in your complex.</EN>
-<KR>Once they have been given a program they will show up here in your complex.</KR>
+<KR>球員被指派訓練計畫後，就會顯示在此處的培訓基地中。</KR>
 <ES>Una vez que se les haya proporcionado un programa, aparecerán aquí en su complejo.</ES>
 <JP>彼らにプログラムが与えられると、彼らはあなたの複合施設に現れるでしょう。</JP>
 <CN>一旦球員被分配了計畫，他們就會顯示在你的培育基地。</CN>

@@ -1612,7 +1612,7 @@
 </HCS>
 <HCS i="237">
 <EN>Generate WPA Graphs for</EN>
-<KR>Generate WPA Graphs for</KR>
+<KR>產生 WPA 圖表物件</KR>
 <ES>Generar gráficos WPA para</ES>
 <JP>のWPAグラフを生成する</JP>
 <CN>為以下項目產生WPA圖表</CN>
@@ -6755,7 +6755,7 @@
 </HCS>
 <HCS i="997">
 <EN>HoF Induction</EN>
-<KR>HoF Induction</KR>
+<KR>入選名人堂</KR>
 <ES>Inducción HoF</ES>
 <JP>HoF誘導</JP>
 <CN>入選名人堂</CN>
@@ -7700,7 +7700,7 @@
 </HCS>
 <HCS i="1136">
 <EN>Black Ink</EN>
-<KR>Black Ink</KR>
+<KR>黑墨指數</KR>
 <ES>De tinta negro</ES>
 <JP>黒インク</JP>
 <CN>黑墨</CN>
@@ -7714,7 +7714,7 @@
 </HCS>
 <HCS i="1138">
 <EN>Gray Ink</EN>
-<KR>Gray Ink</KR>
+<KR>灰墨指數</KR>
 <ES>tinta gris</ES>
 <JP>灰色のインク</JP>
 <CN>灰墨</CN>
@@ -15600,7 +15600,7 @@
 <HCS i="2318">
 <EN>PT Train CF</EN>
 <DC>Can Train in CF</DC>
-<KR>PT Train CF</KR>
+<KR>PT 訓練 CF</KR>
 <ES>PT Tren CF</ES>
 <JP>PTトレインCF</JP>
 <CN>PT可練中外野手</CN>
@@ -16169,14 +16169,14 @@
 </HCS>
 <HCS i="2401">
 <EN>Pre AS</EN>
-<KR>Pre AS</KR>
+<KR>明星賽前</KR>
 <ES>Antes de AS</ES>
 <JP>AS以前</JP>
 <CN>明星賽前</CN>
 </HCS>
 <HCS i="2402">
 <EN>Post AS</EN>
-<KR>Post AS</KR>
+<KR>明星賽後</KR>
 <ES>Postear como</ES>
 <JP>ASに投稿</JP>
 <CN>明星賽後</CN>
@@ -16395,7 +16395,7 @@
 </HCS>
 <HCS i="2433">
 <EN>Hot &amp; Cold</EN>
-<KR>Hot &amp; Cold</KR>
+<KR>近況手感</KR>
 <ES>caliente y frio</ES>
 <JP>ホット＆コールド</JP>
 <CN>狀態火熱與不佳</CN>
@@ -16458,7 +16458,7 @@
 </HCS>
 <HCS i="2442">
 <EN>WinProb. Added</EN>
-<KR>WinProb. Added</KR>
+<KR>勝利機率增加值</KR>
 <ES>WinProb. Adicional</ES>
 <JP>WinProb。追加した</JP>
 <CN>勝率提升指數</CN>
@@ -16528,7 +16528,7 @@
 </HCS>
 <HCS i="2452">
 <EN>&#37;a K</EN>
-<KR>&#37;a K</KR>
+<KR>%a 次三振</KR>
 <ES>&#37;a K</ES>
 <JP>％a K</JP>
 <CN>&#37;a K</CN>
@@ -16605,14 +16605,14 @@
 </HCS>
 <HCS i="2463">
 <EN>&#37;a HA</EN>
-<KR>&#37;a HA</KR>
+<KR>%a 被安打</KR>
 <ES>&#37;a HA</ES>
 <JP>％a HA</JP>
 <CN>&#37;a HA</CN>
 </HCS>
 <HCS i="2464">
 <EN>&#37;a IP</EN>
-<KR>&#37;a IP</KR>
+<KR>%a 投球局數</KR>
 <ES>&#37;a IP</ES>
 <JP>％a IP</JP>
 <CN>&#37;a IP</CN>
@@ -16626,21 +16626,21 @@
 </HCS>
 <HCS i="2466">
 <EN>&#37;a SV</EN>
-<KR>&#37;a SV</KR>
+<KR>%a 救援成功</KR>
 <ES>&#37;a SV</ES>
 <JP>％a SV</JP>
 <CN>&#37;a SV</CN>
 </HCS>
 <HCS i="2467">
 <EN>&#37;a GS</EN>
-<KR>&#37;a GS</KR>
+<KR>%a 先發</KR>
 <ES>&#37;a SG</ES>
 <JP>％a GS</JP>
 <CN>&#37;a GS</CN>
 </HCS>
 <HCS i="2468">
 <EN>Proj. Room</EN>
-<KR>Proj. Room</KR>
+<KR>預估空間</KR>
 <ES>proy. Habitación</ES>
 <JP>プロジェクト部屋</JP>
 <CN>預估空間</CN>
@@ -16654,21 +16654,21 @@
 </HCS>
 <HCS i="2470">
 <EN>&#37;a AVG</EN>
-<KR>&#37;a AVG</KR>
+<KR>%a 打擊率</KR>
 <ES>&#37;a PROMEDIO</ES>
 <JP>％a AVG</JP>
 <CN>&#37;a AVG</CN>
 </HCS>
 <HCS i="2471">
 <EN>&#37;a OBP</EN>
-<KR>&#37;a OBP</KR>
+<KR>%a 上壘率</KR>
 <ES>&#37;a OBP</ES>
 <JP>％a OBP</JP>
 <CN>&#37;a OBP</CN>
 </HCS>
 <HCS i="2472">
 <EN>&#37;a SLG</EN>
-<KR>&#37;a SLG</KR>
+<KR>%a 長打率</KR>
 <ES>&#37;a SLG</ES>
 <JP>％a SLG</JP>
 <CN>&#37;a SLG</CN>
@@ -16682,35 +16682,35 @@
 </HCS>
 <HCS i="2474">
 <EN>&#37;a HR</EN>
-<KR>&#37;a HR</KR>
+<KR>%a 全壘打</KR>
 <ES>&#37;a recursos humanos</ES>
 <JP>％a HR</JP>
 <CN>&#37;a HR</CN>
 </HCS>
 <HCS i="2475">
 <EN>&#37;a RBI</EN>
-<KR>&#37;a RBI</KR>
+<KR>%a 打點</KR>
 <ES>&#37;a carrera impulsada</ES>
 <JP>％a RBI</JP>
 <CN>&#37;a打點</CN>
 </HCS>
 <HCS i="2476">
 <EN>&#37;a Runs</EN>
-<KR>&#37;a Runs</KR>
+<KR>%a 得分</KR>
 <ES>&#37;a carreras</ES>
 <JP>％a実行</JP>
 <CN>&#37;a得分</CN>
 </HCS>
 <HCS i="2477">
 <EN>&#37;a SB</EN>
-<KR>&#37;a SB</KR>
+<KR>%a 盜壘</KR>
 <ES>&#37;a SB</ES>
 <JP>％a SB</JP>
 <CN>&#37;a SB</CN>
 </HCS>
 <HCS i="2478">
 <EN>&#37;a ERA</EN>
-<KR>&#37;a ERA</KR>
+<KR>%a 防禦率</KR>
 <ES>&#37;a efectividad</ES>
 <JP>％a ERA</JP>
 <CN>&#37;a ERA</CN>
@@ -24572,7 +24572,7 @@
 </HCS>
 <HCS i="3650">
 <EN>ERA Crown</EN>
-<KR>ERA Crown</KR>
+<KR>防禦率王</KR>
 <ES>Corona de la era</ES>
 <JP>ERAクラウン</JP>
 <CN>防禦率王</CN>
@@ -25612,7 +25612,7 @@
 </HCS>
 <HCS i="3802">
 <EN>Contact Inning</EN>
-<KR>Contact Inning</KR>
+<KR>擊球局</KR>
 <ES>Entrar en contacto con</ES>
 <JP>イニングにお問い合わせください</JP>
 <CN>巧打之局</CN>
@@ -26793,7 +26793,7 @@
 </HCS>
 <HCS i="3978">
 <EN>Turning Two</EN>
-<KR>Turning Two</KR>
+<KR>完成雙殺</KR>
 <ES>Cumpliendo dos</ES>
 <JP>2歳になる</JP>
 <CN>雙雙出局</CN>
@@ -27150,7 +27150,7 @@
 </HCS>
 <HCS i="4029">
 <EN>Walk it off</EN>
-<KR>Walk it off</KR>
+<KR>再見勝</KR>
 <ES>caminar fuera</ES>
 <JP>歩き去る</JP>
 <CN>再見安打</CN>
@@ -30133,7 +30133,7 @@
 </HCS>
 <HCS i="4553">
 <EN>Select Era</EN>
-<KR>Select Era</KR>
+<KR>選擇年代</KR>
 <ES>Seleccione Era</ES>
 <JP>時代を選択</JP>
 <CN>選取時代</CN>
@@ -32691,7 +32691,7 @@
 </HCS>
 <HCS i="4941">
 <EN>Pythag. record</EN>
-<KR>Pythag. record</KR>
+<KR>畢氏戰績</KR>
 <ES>Pitago. registro</ES>
 <JP>ピタゴラス。記録</JP>
 <CN>畢氏勝率紀錄</CN>
@@ -32873,7 +32873,7 @@
 </HCS>
 <HCS i="4967">
 <EN>Int. FA</EN>
-<KR>Int. FA</KR>
+<KR>國際自由球員</KR>
 <ES>En t. FA</ES>
 <JP>Int。 FA</JP>
 <CN>國際自由球員</CN>
@@ -35507,7 +35507,7 @@
 <HCS i="5341">
 <EN>&#37;pi Pi</EN>
 <DC>18 Pitches</DC>
-<KR>&#37;pi Pi</KR>
+<KR>%pi 圓周率</KR>
 <ES>&#37; pi Pi</ES>
 <JP>％pi Pi</JP>
 <CN>&#37;pi球</CN>
@@ -37258,7 +37258,7 @@
 </HCS>
 <HCS i="5588">
 <EN>Defense Sub</EN>
-<KR>Defense Sub</KR>
+<KR>守備替換</KR>
 <ES>Sub de defensa</ES>
 <JP>防衛サブ</JP>
 <CN>防守替換</CN>
@@ -51147,7 +51147,7 @@
 </HCS>
 <HCS i="7821">
 <EN>C Arm</EN>
-<KR>C Arm</KR>
+<KR>捕手臂力</KR>
 <ES>Brazo en C</ES>
 <JP>Cアーム</JP>
 <CN>捕手傳球能力</CN>
@@ -51225,7 +51225,7 @@
 </HCS>
 <HCS i="7832">
 <EN>CON vsR</EN>
-<KR>CON vsR</KR>
+<KR>對右投擊球</KR>
 <ES>CON vsR</ES>
 <JP>CON vsR</JP>
 <CN>對右投擊球</CN>
@@ -51375,14 +51375,14 @@
 </HCS>
 <HCS i="7854">
 <EN>Eye vsL</EN>
-<KR>Eye vsL</KR>
+<KR>對左投選球</KR>
 <ES>Ojo contra L</ES>
 <JP>目vsL</JP>
 <CN>對左投選球</CN>
 </HCS>
 <HCS i="7855">
 <EN>Eye vsR</EN>
-<KR>Eye vsR</KR>
+<KR>對右投選球</KR>
 <ES>Ojo vsR</ES>
 <JP>目vsR</JP>
 <CN>對右投選球</CN>
@@ -52523,21 +52523,21 @@
 </HCS>
 <HCS i="8021">
 <EN>HS/Coll Class</EN>
-<KR>HS/Coll Class</KR>
+<KR>高中/大學年級</KR>
 <ES>Clase HS/Coll</ES>
 <JP>HS /コールクラス</JP>
 <CN>高中/大學梯次</CN>
 </HCS>
 <HCS i="8022">
 <EN>POW vsL</EN>
-<KR>POW vsL</KR>
+<KR>對左投力量</KR>
 <ES>prisionero de guerra contra L</ES>
 <JP>捕虜vsL</JP>
 <CN>對左投力量</CN>
 </HCS>
 <HCS i="8023">
 <EN>POW vsR</EN>
-<KR>POW vsR</KR>
+<KR>對右投力量</KR>
 <ES>prisionero de guerra contra R</ES>
 <JP>捕虜vsR</JP>
 <CN>對右投力量</CN>
@@ -52905,7 +52905,7 @@
 </HCS>
 <HCS i="8075">
 <EN>SL Usage</EN>
-<KR>SL Usage</KR>
+<KR>滑球使用率</KR>
 <ES>Uso de SL</ES>
 <JP>SLの使用法</JP>
 <CN>使用故事線</CN>
@@ -54830,7 +54830,7 @@
 </HCS>
 <HCS i="8349">
 <EN>IF Arm</EN>
-<KR>IF Arm</KR>
+<KR>內野臂力</KR>
 <ES>Armar SI</ES>
 <JP>IFアーム</JP>
 <CN>內野傳球能力</CN>
@@ -55365,7 +55365,7 @@
 <HCS i="8424">
 <EN>MOV vR</EN>
 <DC>Pitcher&#39;s Movement Rating vs. right-handed Batters</DC>
-<KR>MOV vR</KR>
+<KR>對右打球威</KR>
 <ES>MOV vR</ES>
 <JP>MOV vR</JP>
 <CN>對右位移</CN>
@@ -55402,7 +55402,7 @@
 <HCS i="8429">
 <EN>STU vR</EN>
 <DC>Pitcher&#39;s Stuff Rating vs. right-handed Batters</DC>
-<KR>STU vR</KR>
+<KR>對右打球威</KR>
 <ES>STU vR</ES>
 <JP>STU vR</JP>
 <CN>對右球威</CN>
@@ -55810,7 +55810,7 @@
 </HCS>
 <HCS i="8489">
 <EN>Twitter Handle</EN>
-<KR>Twitter Handle</KR>
+<KR>Twitter 帳號</KR>
 <ES>Identificador de Twitter</ES>
 <JP>Twitterハンドル</JP>
 <CN>Twitter使用者名稱</CN>
@@ -57545,7 +57545,7 @@
 <HCS i="8738">
 <EN>STU vL</EN>
 <DC>Pitcher&#39;s Stuff Rating vs. left-handed Batters</DC>
-<KR>STU vL</KR>
+<KR>對左打球威</KR>
 <ES>STU vL</ES>
 <JP>STU vL</JP>
 <CN>對左球威</CN>
@@ -59261,7 +59261,7 @@
 <HCS i="8981">
 <EN>EYE vR</EN>
 <DC>Batting Eye/Plate Discipline vs. right-handed Pitchers</DC>
-<KR>EYE vR</KR>
+<KR>對右投選球</KR>
 <ES>OJO vR</ES>
 <JP>EYE vR</JP>
 <CN>對右選球</CN>
@@ -59284,7 +59284,7 @@
 <HCS i="8984">
 <EN>POW vR</EN>
 <DC>Home Run Power vs. right-handed Pitchers</DC>
-<KR>POW vR</KR>
+<KR>對右投力量</KR>
 <ES>prisionero de guerra vr</ES>
 <JP>POW vR</JP>
 <CN>對右力量</CN>
@@ -59323,7 +59323,7 @@
 <HCS i="8989">
 <EN>GAP vR</EN>
 <DC>Batting Gap Power Rating vs. right-handed Pitchers</DC>
-<KR>GAP vR</KR>
+<KR>對右投空檔</KR>
 <ES>GAP vR</ES>
 <JP>GAP vR</JP>
 <CN>對右空檔長打</CN>
@@ -59419,7 +59419,7 @@
 <HCS i="9002">
 <EN>Ex. Hard</EN>
 <DC>abbreviation for extremely difficult / hard</DC>
-<KR>Ex. Hard</KR>
+<KR>極強勁</KR>
 <ES>Ex. Duro</ES>
 <JP>元。難しい</JP>
 <CN>極難</CN>
@@ -59493,7 +59493,7 @@
 <HCS i="9013">
 <EN>K vL</EN>
 <DC>Batting Avoid Strikeouts Rating vs. left-handed Pitchers</DC>
-<KR>K vL</KR>
+<KR>對左打三振</KR>
 <ES>KvL</ES>
 <JP>K vL</JP>
 <CN>對左避三振</CN>
@@ -59585,7 +59585,7 @@
 </HCS>
 <HCS i="9026">
 <EN>relief appearances</EN>
-<KR>relief appearances</KR>
+<KR>後援出賽</KR>
 <ES>apariciones en relieve</ES>
 <JP>浮き彫りの外観</JP>
 <CN>中繼</CN>
@@ -60081,7 +60081,7 @@
 <HCS i="9094">
 <EN>EYE vL</EN>
 <DC>Batting Eye/Plate Discipline vs. left-handed Pitchers</DC>
-<KR>EYE vL</KR>
+<KR>對左投選球</KR>
 <ES>OJO vL</ES>
 <JP>EYE vL</JP>
 <CN>對左選球</CN>
@@ -60112,7 +60112,7 @@
 <HCS i="9098">
 <EN>POW vL</EN>
 <DC>Batting Home Run Power vs. left-handed Pitchers</DC>
-<KR>POW vL</KR>
+<KR>對左投力量</KR>
 <ES>prisionero de guerra vl</ES>
 <JP>POW vL</JP>
 <CN>對左力量</CN>
@@ -60149,7 +60149,7 @@
 <HCS i="9103">
 <EN>GAP vL</EN>
 <DC>Batting Gap Power Rating vs. left-handed Pitchers</DC>
-<KR>GAP vL</KR>
+<KR>對左投空檔</KR>
 <ES>GAP vL</ES>
 <JP>GAP vL</JP>
 <CN>對左空檔長打</CN>
@@ -61918,21 +61918,21 @@
 </HCS>
 <HCS i="9365">
 <EN>Triple A</EN>
-<KR>Triple A</KR>
+<KR>3A</KR>
 <ES>Triple A</ES>
 <JP>トリプルA</JP>
 <CN>3A</CN>
 </HCS>
 <HCS i="9366">
 <EN>Double A</EN>
-<KR>Double A</KR>
+<KR>2A</KR>
 <ES>Doble a</ES>
 <JP>ダブルA</JP>
 <CN>2A</CN>
 </HCS>
 <HCS i="9367">
 <EN>Class A</EN>
-<KR>Class A</KR>
+<KR>1A</KR>
 <ES>Clase A</ES>
 <JP>クラスA</JP>
 <CN>1A</CN>
@@ -62068,7 +62068,7 @@
 <HCS i="9386">
 <EN>Ex. Pull</EN>
 <DC>used to describe hitter type of a player who extremely often pulls the ball</DC>
-<KR>Ex. Pull</KR>
+<KR>極度拉打</KR>
 <ES>Ex. Jalar</ES>
 <JP>元。引く</JP>
 <CN>極常拉打</CN>
@@ -62076,14 +62076,14 @@
 <HCS i="9387">
 <EN>Extreme Pull</EN>
 <DC>used to describe hitter type of a player who extremely often pulls the ball</DC>
-<KR>Extreme Pull</KR>
+<KR>極度拉打</KR>
 <ES>tirón extremo</ES>
 <JP>エクストリームプル</JP>
 <CN>極常拉打</CN>
 </HCS>
 <HCS i="9388">
 <EN>&#37;league Total: &#37;record</EN>
-<KR>&#37;league Total: &#37;record</KR>
+<KR>%league 總計：%record</KR>
 <ES>&#37;liga Total: &#37;récord</ES>
 <JP>％league合計：％record</JP>
 <CN>&#37;league總和：&#37;record</CN>
@@ -62342,7 +62342,7 @@
 <HCS i="9429">
 <EN>PT Train RF</EN>
 <DC>Can Train in RF</DC>
-<KR>PT Train RF</KR>
+<KR>PT 訓練 RF</KR>
 <ES>RF de tren PT</ES>
 <JP>PTトレインRF</JP>
 <CN>PT可練右外野</CN>
@@ -65323,7 +65323,7 @@
 </HCS>
 <HCS i="9853">
 <EN>GB Type</EN>
-<KR>GB Type</KR>
+<KR>滾地球類型</KR>
 <ES>Tipo GB</ES>
 <JP>GBタイプ</JP>
 <CN>滾地球型</CN>
@@ -66206,7 +66206,7 @@
 </HCS>
 <HCS i="9979">
 <EN>Minor Lg</EN>
-<KR>Minor Lg</KR>
+<KR>小聯盟</KR>
 <ES>LG menor</ES>
 <JP>マイナーLg</JP>
 <CN>小聯盟</CN>
@@ -67279,14 +67279,14 @@
 </HCS>
 <HCS i="10134">
 <EN>Works Well With</EN>
-<KR>Works Well With</KR>
+<KR>擅長搭檔</KR>
 <ES>funciona bien con</ES>
 <JP>うまく機能する</JP>
 <CN>合得來的性格</CN>
 </HCS>
 <HCS i="10135">
 <EN>Struggles With</EN>
-<KR>Struggles With</KR>
+<KR>不擅搭檔</KR>
 <ES>Tiene dificultad con</ES>
 <JP>との闘い</JP>
 <CN>合不來的性格</CN>
@@ -73841,7 +73841,7 @@
 </HCS>
 <HCS i="11132">
 <EN>Twitch Drop</EN>
-<KR>Twitch Drop</KR>
+<KR>Twitch 掉寶</KR>
 <ES>caída de contracción</ES>
 <JP>トゥイッチドロップ</JP>
 <CN>Twitch掉寶活動</CN>
@@ -76754,7 +76754,7 @@
 </HCS>
 <HCS i="11578">
 <EN>Sea</EN>
-<KR>Sea</KR>
+<KR>水手</KR>
 <ES>Mar</ES>
 <JP>海</JP>
 <CN>海</CN>
@@ -78084,7 +78084,7 @@
 </HCS>
 <HCS i="11775">
 <EN>&#37;hr HR</EN>
-<KR>&#37;hr HR</KR>
+<KR>%hr 支全壘打</KR>
 <ES>&#37;h FC</ES>
 <JP>％hr HR</JP>
 <CN>&#37;hr轟</CN>
@@ -79070,7 +79070,7 @@
 </HCS>
 <HCS i="11917">
 <EN>Inn</EN>
-<KR>Inn</KR>
+<KR>局</KR>
 <ES>Posada</ES>
 <JP>宿</JP>
 <CN>局</CN>
@@ -79182,7 +79182,7 @@
 </HCS>
 <HCS i="11933">
 <EN>away</EN>
-<KR>away</KR>
+<KR>客場</KR>
 <ES>Lejos</ES>
 <JP>あちらへ</JP>
 <CN>客</CN>
@@ -80970,7 +80970,7 @@
 <HCS i="12195">
 <EN>POS</EN>
 <DC>Abbreviation for Position, mostly referring to player position like Shortstop for example</DC>
-<KR>POS</KR>
+<KR>守位</KR>
 <ES>TPV</ES>
 <JP>POS</JP>
 <CN>POS</CN>
@@ -82630,28 +82630,28 @@
 </HCS>
 <HCS i="12446">
 <EN>RD</EN>
-<KR>RD</KR>
+<KR>研發</KR>
 <ES>RD</ES>
 <JP>RD</JP>
 <CN>RD</CN>
 </HCS>
 <HCS i="12447">
 <EN>Art</EN>
-<KR>Art</KR>
+<KR>美術</KR>
 <ES>Arte</ES>
 <JP>美術</JP>
 <CN>阿特</CN>
 </HCS>
 <HCS i="12448">
 <EN>Inj</EN>
-<KR>Inj</KR>
+<KR>受傷</KR>
 <ES>inj</ES>
 <JP>注射</JP>
 <CN>受傷</CN>
 </HCS>
 <HCS i="12449">
 <EN>Cei</EN>
-<KR>Cei</KR>
+<KR>生涯終結傷</KR>
 <ES>Cei</ES>
 <JP>セイ</JP>
 <CN>生涯結束</CN>
@@ -82672,7 +82672,7 @@
 </HCS>
 <HCS i="12452">
 <EN>Debug</EN>
-<KR>Debug</KR>
+<KR>除錯</KR>
 <ES>Depurar</ES>
 <JP>デバッグ</JP>
 <CN>偵錯</CN>
@@ -84199,7 +84199,7 @@
 </HCS>
 <HCS i="12677">
 <EN>OUT</EN>
-<KR>OUT</KR>
+<KR>出局</KR>
 <ES>FUERA</ES>
 <JP>アウト</JP>
 <CN>OUT</CN>
@@ -84305,7 +84305,7 @@
 <HCS i="12694">
 <EN>&#37;case1 and &#37;case2</EN>
 <DC>EX: 1st in wins and 3rd in ERA</DC>
-<KR>&#37;case1 and &#37;case2</KR>
+<KR>%case1 與 %case2</KR>
 <ES>&#37;caso1 y &#37;caso2</ES>
 <JP>％case1および％case2</JP>
 <CN>&#37;case1，&#37;case2</CN>
@@ -84313,7 +84313,7 @@
 <HCS i="12695">
 <EN>&#37;case1, &#37;case2, and &#37;case3</EN>
 <DC>EX: 1st in wins, 4th in strikeouts, and 3rd in ERA</DC>
-<KR>&#37;case1, &#37;case2, and &#37;case3</KR>
+<KR>%case1、%case2 與 %case3</KR>
 <ES>&#37;caso1, &#37;caso2 y &#37;caso3</ES>
 <JP>％case1、％case2、および％case3</JP>
 <CN>&#37;case1，&#37;case2，&#37;case3</CN>
@@ -84391,7 +84391,7 @@
 <HCS i="12706">
 <EN>Bot</EN>
 <DC>EX: Bot 2: HS Batter 5</DC>
-<KR>Bot</KR>
+<KR>局下</KR>
 <ES>Bot</ES>
 <JP>ボット</JP>
 <CN>機器人</CN>
@@ -85094,7 +85094,7 @@
 </HCS>
 <HCS i="12806">
 <EN>LOGOS</EN>
-<KR>LOGOS</KR>
+<KR>標誌</KR>
 <ES>logotipos</ES>
 <JP>ロゴ</JP>
 <CN>標誌</CN>
@@ -85276,14 +85276,14 @@
 </HCS>
 <HCS i="12837">
 <EN>DoD</EN>
-<KR>DoD</KR>
+<KR>逝世日</KR>
 <ES>Departamento de Defensa</ES>
 <JP>DoD</JP>
 <CN>1戰制</CN>
 </HCS>
 <HCS i="12838">
 <EN>DblEl</EN>
-<KR>DblEl</KR>
+<KR>雙敗淘汰</KR>
 <ES>DblEl</ES>
 <JP>DblEl</JP>
 <CN>雙敗淘汰</CN>
@@ -85879,14 +85879,14 @@
 </HCS>
 <HCS i="12937">
 <EN>Rel</EN>
-<KR>Rel</KR>
+<KR>後援</KR>
 <ES>real</ES>
 <JP>レル</JP>
 <CN>降</CN>
 </HCS>
 <HCS i="12938">
 <EN>Pro</EN>
-<KR>Pro</KR>
+<KR>職業</KR>
 <ES>Pro</ES>
 <JP>プロ</JP>
 <CN>普羅</CN>
@@ -86306,7 +86306,7 @@
 </HCS>
 <HCS i="12998">
 <EN>Drives</EN>
-<KR>Drives</KR>
+<KR>擊球</KR>
 <ES>Unidades</ES>
 <JP>ドライブ</JP>
 <CN>硬碟</CN>
@@ -86467,7 +86467,7 @@
 </HCS>
 <HCS i="13026">
 <EN>Diff</EN>
-<KR>Diff</KR>
+<KR>差距</KR>
 <ES>diferencia</ES>
 <JP>差分</JP>
 <CN>差異</CN>
@@ -86621,7 +86621,7 @@
 </HCS>
 <HCS i="13048">
 <EN>HasCEI</EN>
-<KR>HasCEI</KR>
+<KR>有生涯終結傷</KR>
 <ES>HasCEI</ES>
 <JP>HasCEI</JP>
 <CN>有生涯結束傷</CN>
@@ -86761,7 +86761,7 @@
 </HCS>
 <HCS i="13068">
 <EN>Nat</EN>
-<KR>Nat</KR>
+<KR>國籍</KR>
 <ES>natural</ES>
 <JP>ナット</JP>
 <CN>納特</CN>
@@ -87104,7 +87104,7 @@
 </HCS>
 <HCS i="13117">
 <EN>Rec</EN>
-<KR>Rec</KR>
+<KR>戰績</KR>
 <ES>grabación</ES>
 <JP>Rec</JP>
 <CN>雷克</CN>
@@ -87118,7 +87118,7 @@
 </HCS>
 <HCS i="13119">
 <EN>Result</EN>
-<KR>Result</KR>
+<KR>結果</KR>
 <ES>Resultado</ES>
 <JP>結果</JP>
 <CN>結果</CN>
@@ -87454,7 +87454,7 @@
 </HCS>
 <HCS i="13167">
 <EN>XInn</EN>
-<KR>XInn</KR>
+<KR>延長賽</KR>
 <ES>Posada X</ES>
 <JP>XInn</JP>
 <CN>X局</CN>
@@ -87604,7 +87604,7 @@
 </HCS>
 <HCS i="13188">
 <EN>Win. &#37;</EN>
-<KR>Win. &#37;</KR>
+<KR>勝率</KR>
 <ES>Victoria. &#37;</ES>
 <JP>勝つ。 ％</JP>
 <CN>勝率</CN>
@@ -87758,7 +87758,7 @@
 </HCS>
 <HCS i="13210">
 <EN>Last 10</EN>
-<KR>Last 10</KR>
+<KR>近 10 場</KR>
 <ES>últimos 10</ES>
 <JP>最後の10</JP>
 <CN>近10</CN>
@@ -87919,7 +87919,7 @@
 </HCS>
 <HCS i="13233">
 <EN>center</EN>
-<KR>center</KR>
+<KR>置中</KR>
 <ES>centrar</ES>
 <JP>中心</JP>
 <CN>中</CN>
@@ -88122,7 +88122,7 @@
 <HCS i="13262">
 <EN>Snap</EN>
 <DC>Used for player card type Snapshot</DC>
-<KR>Snap</KR>
+<KR>快照</KR>
 <ES>Quebrar</ES>
 <JP>スナップ</JP>
 <CN>斯納普</CN>
@@ -88360,7 +88360,7 @@
 <HCS i="13292">
 <EN>Smallball</EN>
 <DC>used to describe manager strategic approach</DC>
-<KR>Smallball</KR>
+<KR>小球戰術</KR>
 <ES>bola pequeña</ES>
 <JP>スモールボール</JP>
 <CN>小球</CN>
@@ -88624,7 +88624,7 @@
 <HCS i="13328">
 <EN>Avg</EN>
 <DC>Abbreviation for Average</DC>
-<KR>Avg</KR>
+<KR>平均</KR>
 <ES>Promedio</ES>
 <JP>平均</JP>
 <CN>一般</CN>
@@ -89920,7 +89920,7 @@
 <HCS i="13500">
 <EN>Inn</EN>
 <DC>abbreviation for fielding statistic Innings</DC>
-<KR>Inn</KR>
+<KR>局</KR>
 <ES>Posada</ES>
 <JP>宿</JP>
 <CN>局</CN>
@@ -89952,7 +89952,7 @@
 <HCS i="13504">
 <EN>Inn</EN>
 <DC>Innings</DC>
-<KR>Inn</KR>
+<KR>局</KR>
 <ES>Posada</ES>
 <JP>宿</JP>
 <CN>局</CN>
@@ -90698,7 +90698,7 @@
 </HCS>
 <HCS i="13609">
 <EN>Zoom</EN>
-<KR>Zoom</KR>
+<KR>縮放</KR>
 <ES>Zoom</ES>
 <JP>ズーム</JP>
 <CN>縮放</CN>
@@ -92694,7 +92694,7 @@
 <HCS i="13911">
 <EN>Opp</EN>
 <DC>Abbreviation for Opponent</DC>
-<KR>Opp</KR>
+<KR>對手</KR>
 <ES>oportunidad</ES>
 <JP>オップ</JP>
 <CN>奧普</CN>
@@ -93052,7 +93052,7 @@
 </HCS>
 <HCS i="13962">
 <EN>CON T</EN>
-<KR>CON T</KR>
+<KR>擊球天賦</KR>
 <ES>CON T</ES>
 <JP>CON T</JP>
 <CN>接觸</CN>
@@ -93073,35 +93073,35 @@
 </HCS>
 <HCS i="13965">
 <EN>STUFF T</EN>
-<KR>STUFF T</KR>
+<KR>球威天賦</KR>
 <ES>COSAS T</ES>
 <JP>STUFF T</JP>
 <CN>球威</CN>
 </HCS>
 <HCS i="13966">
 <EN>MOVE T</EN>
-<KR>MOVE T</KR>
+<KR>位移天賦</KR>
 <ES>MOVER T</ES>
 <JP>Tを移動</JP>
 <CN>位移</CN>
 </HCS>
 <HCS i="13967">
 <EN>CONT T</EN>
-<KR>CONT T</KR>
+<KR>控球天賦</KR>
 <ES>CONT T</ES>
 <JP>CONT T</JP>
 <CN>接觸</CN>
 </HCS>
 <HCS i="13968">
 <EN>STUFF SP</EN>
-<KR>STUFF SP</KR>
+<KR>先發球威</KR>
 <ES>COSAS SP</ES>
 <JP>STUFF SP</JP>
 <CN>球威SP</CN>
 </HCS>
 <HCS i="13969">
 <EN>STUFF RP</EN>
-<KR>STUFF RP</KR>
+<KR>後援球威</KR>
 <ES>COSAS RP</ES>
 <JP>STUFF RP</JP>
 <CN>球威RP</CN>
@@ -93550,7 +93550,7 @@
 </HCS>
 <HCS i="14037">
 <EN>Strk</EN>
-<KR>Strk</KR>
+<KR>連勝敗</KR>
 <ES>Strk</ES>
 <JP>Strk</JP>
 <CN>連勝場數</CN>
@@ -93846,21 +93846,21 @@
 </HCS>
 <HCS i="14080">
 <EN>Pyt</EN>
-<KR>Pyt</KR>
+<KR>畢氏</KR>
 <ES>Pyt</ES>
 <JP>Pyt</JP>
 <CN>畢氏勝率</CN>
 </HCS>
 <HCS i="14081">
 <EN>RDiff</EN>
-<KR>RDiff</KR>
+<KR>得失分差</KR>
 <ES>RDiff</ES>
 <JP>RDiff</JP>
 <CN>得失分差</CN>
 </HCS>
 <HCS i="14082">
 <EN>X-Inn</EN>
-<KR>X-Inn</KR>
+<KR>延長賽</KR>
 <ES>Posada X</ES>
 <JP>X-Inn</JP>
 <CN>延長賽場數</CN>
@@ -93974,14 +93974,14 @@
 </HCS>
 <HCS i="14098">
 <EN>SAC HITS</EN>
-<KR>SAC HITS</KR>
+<KR>犧牲短打</KR>
 <ES>GOLPE SAC</ES>
 <JP>SACヒット</JP>
 <CN>被安打</CN>
 </HCS>
 <HCS i="14099">
 <EN>OPS PLUS</EN>
-<KR>OPS PLUS</KR>
+<KR>OPS+</KR>
 <ES>OPS PLUS</ES>
 <JP>OPS PLUS</JP>
 <CN>OPS+</CN>
@@ -94060,7 +94060,7 @@
 </HCS>
 <HCS i="14110">
 <EN>HR / 9 IP</EN>
-<KR>HR / 9 IP</KR>
+<KR>每九局被全壘打</KR>
 <ES>RRHH / 9 PI</ES>
 <JP>HR / 9 IP</JP>
 <CN>每九局全壘打</CN>
@@ -94328,7 +94328,7 @@
 </HCS>
 <HCS i="14150">
 <EN>Lev</EN>
-<KR>Lev</KR>
+<KR>層級</KR>
 <ES>lev</ES>
 <JP>レブ</JP>
 <CN>萊夫</CN>
@@ -95166,14 +95166,14 @@
 </HCS>
 <HCS i="14272">
 <EN>HR LHB</EN>
-<KR>HR LHB</KR>
+<KR>對左打全壘打</KR>
 <ES>HR LHB</ES>
 <JP>HRLHB</JP>
 <CN>左打者全壘打係數</CN>
 </HCS>
 <HCS i="14273">
 <EN>HR RHB</EN>
-<KR>HR RHB</KR>
+<KR>對右打全壘打</KR>
 <ES>RR.HH. RHB</ES>
 <JP>HR RHB</JP>
 <CN>右打者全壘打係數</CN>
@@ -95635,14 +95635,14 @@
 </HCS>
 <HCS i="14343">
 <EN>Curr/Pot</EN>
-<KR>Curr/Pot</KR>
+<KR>現有/潛力</KR>
 <ES>corriente/bote</ES>
 <JP>Curr / Pot</JP>
 <CN>目前評分/潛力評分</CN>
 </HCS>
 <HCS i="14344">
 <EN>Curr</EN>
-<KR>Curr</KR>
+<KR>目前能力</KR>
 <ES>actual</ES>
 <JP>Curr</JP>
 <CN>卡爾</CN>
@@ -95733,7 +95733,7 @@
 </HCS>
 <HCS i="14358">
 <EN>ACC</EN>
-<KR>ACC</KR>
+<KR>控球</KR>
 <ES>CAC</ES>
 <JP>ACC</JP>
 <CN>ACC</CN>
@@ -95754,7 +95754,7 @@
 </HCS>
 <HCS i="14361">
 <EN>Rows</EN>
-<KR>Rows</KR>
+<KR>列</KR>
 <ES>Filas</ES>
 <JP>行</JP>
 <CN>行</CN>
@@ -97559,14 +97559,14 @@
 </HCS>
 <HCS i="14648">
 <EN>VS. RHP + DH</EN>
-<KR>VS. RHP + DH</KR>
+<KR>對右投 + DH</KR>
 <ES>VS. RHP + DH</ES>
 <JP>VS. RHP + DH</JP>
 <CN>對右投打擊+指定打擊</CN>
 </HCS>
 <HCS i="14649">
 <EN>VS. LHP + DH</EN>
-<KR>VS. LHP + DH</KR>
+<KR>對左投 + DH</KR>
 <ES>VS. IZD + DH</ES>
 <JP>VS. LHP + DH</JP>
 <CN>對左投手打擊+指定打擊</CN>
@@ -97580,14 +97580,14 @@
 </HCS>
 <HCS i="14651">
 <EN>POW VS.R</EN>
-<KR>POW VS.R</KR>
+<KR>對右投力量</KR>
 <ES>POW VS.R</ES>
 <JP>POW VS.R</JP>
 <CN>對右投力量</CN>
 </HCS>
 <HCS i="14652">
 <EN>EYE VS.R</EN>
-<KR>EYE VS.R</KR>
+<KR>對右投選球</KR>
 <ES>OJO VS.R</ES>
 <JP>EYE VS.R</JP>
 <CN>對右投選球</CN>
@@ -97608,14 +97608,14 @@
 </HCS>
 <HCS i="14655">
 <EN>EYE VS.L</EN>
-<KR>EYE VS.L</KR>
+<KR>對左投選球</KR>
 <ES>OJO VS.L</ES>
 <JP>EYE VS.L</JP>
 <CN>對左投選球</CN>
 </HCS>
 <HCS i="14656">
 <EN>PITCHER SPOT</EN>
-<KR>PITCHER SPOT</KR>
+<KR>投手棒次</KR>
 <ES>PUNTO DE LANZADOR</ES>
 <JP>ピッチャースポット</JP>
 <CN>投手位置</CN>
@@ -98067,7 +98067,7 @@
 <HCS i="14729">
 <EN>Lev</EN>
 <DC>League Level</DC>
-<KR>Lev</KR>
+<KR>層級</KR>
 <ES>lev</ES>
 <JP>レブ</JP>
 <CN>萊夫</CN>
@@ -98091,7 +98091,7 @@
 <HCS i="14732">
 <EN>Rel</EN>
 <DC>Relationships</DC>
-<KR>Rel</KR>
+<KR>釋出</KR>
 <ES>real</ES>
 <JP>レル</JP>
 <CN>降</CN>
@@ -98099,7 +98099,7 @@
 <HCS i="14733">
 <EN>Dem</EN>
 <DC>Contract Demand</DC>
-<KR>Dem</KR>
+<KR>降級</KR>
 <ES>Dem</ES>
 <JP>デム</JP>
 <CN>要求</CN>
@@ -98123,7 +98123,7 @@
 <HCS i="14736">
 <EN>ExtYrs</EN>
 <DC>Extension Years</DC>
-<KR>ExtYrs</KR>
+<KR>延長合約年限</KR>
 <ES>ExtYrs</ES>
 <JP>ExtYrs</JP>
 <CN>延長合約年份</CN>
@@ -98211,7 +98211,7 @@
 <HCS i="14748">
 <EN>Train</EN>
 <DC>Scout Training Focus</DC>
-<KR>Train</KR>
+<KR>訓練</KR>
 <ES>Tren</ES>
 <JP>列車</JP>
 <CN>特雷恩</CN>
@@ -98274,14 +98274,14 @@
 </HCS>
 <HCS i="14757">
 <EN>Vets-Prospects</EN>
-<KR>Vets-Prospects</KR>
+<KR>老將-新秀</KR>
 <ES>Veterinarios-Prospectos</ES>
 <JP>獣医-見込み客</JP>
 <CN>老將-新秀</CN>
 </HCS>
 <HCS i="14758">
 <EN>Vet-Prosp</EN>
-<KR>Vet-Prosp</KR>
+<KR>老將-新秀</KR>
 <ES>Vet-Prosp</ES>
 <JP>Vet-Prosp</JP>
 <CN>老將-新秀</CN>
@@ -98347,7 +98347,7 @@
 <HCS i="14767">
 <EN>Lev</EN>
 <DC>League Level Abbreviation</DC>
-<KR>Lev</KR>
+<KR>層級</KR>
 <ES>lev</ES>
 <JP>レブ</JP>
 <CN>萊夫</CN>
@@ -98633,7 +98633,7 @@
 <HCS i="14804">
 <EN>St</EN>
 <DC>Perfect Team Card Status</DC>
-<KR>St</KR>
+<KR>狀態</KR>
 <ES>S t</ES>
 <JP>St</JP>
 <CN>狀態</CN>
@@ -98681,7 +98681,7 @@
 <HCS i="14811">
 <EN>POW P</EN>
 <DC>Home Run Power Potential</DC>
-<KR>POW P</KR>
+<KR>力量潛力</KR>
 <ES>prisionero de guerra</ES>
 <JP>POW P</JP>
 <CN>力量潛力</CN>
@@ -98689,7 +98689,7 @@
 <HCS i="14812">
 <EN>EYE P</EN>
 <DC>Eye/Plate Discipline Potential</DC>
-<KR>EYE P</KR>
+<KR>選球潛力</KR>
 <ES>OJO P</ES>
 <JP>EYE P</JP>
 <CN>選球潛力</CN>
@@ -98737,7 +98737,7 @@
 <HCS i="14818">
 <EN>MOV P</EN>
 <DC>Pitcher&#39;s Movement Rating Potential</DC>
-<KR>MOV P</KR>
+<KR>位移潛力</KR>
 <ES>MOV P</ES>
 <JP>MOV P</JP>
 <CN>球路變化潛力</CN>
@@ -98809,7 +98809,7 @@
 <HCS i="14828">
 <EN>C ARM</EN>
 <DC>Catcher Arm Strength and Throwing Accuracy</DC>
-<KR>C ARM</KR>
+<KR>捕手臂力</KR>
 <ES>BRAZO DE COCHE</ES>
 <JP>C ARM</JP>
 <CN>捕手傳球能力</CN>
@@ -98817,7 +98817,7 @@
 <HCS i="14829">
 <EN>IF RNG</EN>
 <DC>Infield Defensive Range</DC>
-<KR>IF RNG</KR>
+<KR>內野範圍</KR>
 <ES>SI RNG</ES>
 <JP>RNGの場合</JP>
 <CN>內野守備範圍</CN>
@@ -98841,7 +98841,7 @@
 <HCS i="14832">
 <EN>OF RNG</EN>
 <DC>Outfield Defensive Range</DC>
-<KR>OF RNG</KR>
+<KR>外野範圍</KR>
 <ES>DE RNG</ES>
 <JP>RNGの</JP>
 <CN>外野守備範圍</CN>
@@ -99160,7 +99160,7 @@
 <HCS i="14874">
 <EN>POW/MOV P</EN>
 <DC>Power/Movement Potential</DC>
-<KR>POW/MOV P</KR>
+<KR>力量/位移潛力</KR>
 <ES>POW/MOV P</ES>
 <JP>POW / MOV P</JP>
 <CN>力量/球路變化潛力</CN>
@@ -99168,7 +99168,7 @@
 <HCS i="14875">
 <EN>EYE/CON P</EN>
 <DC>Eye/Control Potential</DC>
-<KR>EYE/CON P</KR>
+<KR>選球/擊球潛力</KR>
 <ES>OJO/CON P</ES>
 <JP>EYE / CON P</JP>
 <CN>選球/接觸潛力</CN>
@@ -99502,14 +99502,14 @@
 <HCS i="14918">
 <EN>Clinch</EN>
 <DC>Clinch Status</DC>
-<KR>Clinch</KR>
+<KR>確定晉級</KR>
 <ES>Clinch</ES>
 <JP>クリンチ</JP>
 <CN>克林奇</CN>
 </HCS>
 <HCS i="14919">
 <EN>Seasons</EN>
-<KR>Seasons</KR>
+<KR>球季</KR>
 <ES>Estaciones</ES>
 <JP>季節</JP>
 <CN>賽季</CN>
@@ -99525,7 +99525,7 @@
 <HCS i="14921">
 <EN>PF AVG</EN>
 <DC>Park Factor Average</DC>
-<KR>PF AVG</KR>
+<KR>球場打擊率係數</KR>
 <ES>FP PROMEDIO</ES>
 <JP>PF AVG</JP>
 <CN>球場平均得分因素</CN>
@@ -99533,7 +99533,7 @@
 <HCS i="14922">
 <EN>AVG L</EN>
 <DC>Park Factor Average Left</DC>
-<KR>AVG L</KR>
+<KR>左打打擊率</KR>
 <ES>PROMEDIO L</ES>
 <JP>AVG L</JP>
 <CN>左打者打擊率</CN>
@@ -99549,7 +99549,7 @@
 <HCS i="14924">
 <EN>PF HR</EN>
 <DC>Park Factor Home Runs</DC>
-<KR>PF HR</KR>
+<KR>球場全壘打係數</KR>
 <ES>FC FC</ES>
 <JP>PF HR</JP>
 <CN>球場因素：全壘打</CN>
@@ -99588,7 +99588,7 @@
 </HCS>
 <HCS i="14929">
 <EN>Count</EN>
-<KR>Count</KR>
+<KR>球數</KR>
 <ES>Contar</ES>
 <JP>カウント</JP>
 <CN>康特</CN>
@@ -99774,7 +99774,7 @@
 <HCS i="14957">
 <EN>L</EN>
 <DC>abbreviation for pitcher handedness, left</DC>
-<KR>L</KR>
+<KR>左</KR>
 <ES>L</ES>
 <JP>L</JP>
 <CN>左</CN>
@@ -99782,7 +99782,7 @@
 <HCS i="14958">
 <EN>R</EN>
 <DC>abbreviation for pitcher handedness, right</DC>
-<KR>R</KR>
+<KR>右</KR>
 <ES>R</ES>
 <JP>R</JP>
 <CN>R</CN>
@@ -99805,7 +99805,7 @@
 <HCS i="14961">
 <EN>L</EN>
 <DC>abbreviation for hitter handedness, left</DC>
-<KR>L</KR>
+<KR>左</KR>
 <ES>L</ES>
 <JP>L</JP>
 <CN>左</CN>
@@ -99813,7 +99813,7 @@
 <HCS i="14962">
 <EN>R</EN>
 <DC>abbreviation for hitter handedness, right</DC>
-<KR>R</KR>
+<KR>右</KR>
 <ES>R</ES>
 <JP>R</JP>
 <CN>R</CN>
@@ -99853,7 +99853,7 @@
 <HCS i="14967">
 <EN>LHP</EN>
 <DC>Abbreviation for left-handed pitcher</DC>
-<KR>LHP</KR>
+<KR>左投</KR>
 <ES>LHP</ES>
 <JP>LHP</JP>
 <CN>左投</CN>
@@ -101240,7 +101240,7 @@
 </HCS>
 <HCS i="15168">
 <EN>B/T</EN>
-<KR>B/T</KR>
+<KR>打/投</KR>
 <ES>B/T</ES>
 <JP>B / T</JP>
 <CN>B/T</CN>
@@ -101248,7 +101248,7 @@
 <HCS i="15169">
 <EN>DEF</EN>
 <DC>Fielding Rating at the Primary Position of the Player</DC>
-<KR>DEF</KR>
+<KR>守備</KR>
 <ES>DEF</ES>
 <JP>DEF</JP>
 <CN>DEF</CN>
@@ -101319,7 +101319,7 @@
 </HCS>
 <HCS i="15180">
 <EN>LHP</EN>
-<KR>LHP</KR>
+<KR>左投</KR>
 <ES>LHP</ES>
 <JP>LHP</JP>
 <CN>左投</CN>
@@ -101551,14 +101551,14 @@
 </HCS>
 <HCS i="15213">
 <EN>vs. L</EN>
-<KR>vs. L</KR>
+<KR>對左</KR>
 <ES>contra L</ES>
 <JP>対L</JP>
 <CN>對左投手</CN>
 </HCS>
 <HCS i="15214">
 <EN>vs. R</EN>
-<KR>vs. R</KR>
+<KR>對右</KR>
 <ES>contra R</ES>
 <JP>対R</JP>
 <CN>對右投手</CN>
@@ -101623,7 +101623,7 @@
 </HCS>
 <HCS i="15226">
 <EN>GB/FB</EN>
-<KR>GB/FB</KR>
+<KR>滾飛比</KR>
 <ES>GB/FB</ES>
 <JP>GB / FB</JP>
 <CN>滾地/飛球</CN>
@@ -101644,14 +101644,14 @@
 </HCS>
 <HCS i="15229">
 <EN>H (&#37;d</EN>
-<KR>H (&#37;d</KR>
+<KR>安打 (%d</KR>
 <ES>H (&#37;d</ES>
 <JP>H（％d</JP>
 <CN>H（&#37;d</CN>
 </HCS>
 <HCS i="15230">
 <EN>SV (&#37;d</EN>
-<KR>SV (&#37;d</KR>
+<KR>救援成功 (%d</KR>
 <ES>VS (&#37;d</ES>
 <JP>SV（％d</JP>
 <CN>SV（&#37;d</CN>
@@ -101681,7 +101681,7 @@
 </HCS>
 <HCS i="15234">
 <EN>GIDP</EN>
-<KR>GIDP</KR>
+<KR>雙殺打</KR>
 <ES>PIB</ES>
 <JP>GIDP</JP>
 <CN>GIDP</CN>
@@ -101704,7 +101704,7 @@
 </HCS>
 <HCS i="15237">
 <EN>CGP</EN>
-<KR>CGP</KR>
+<KR>完投率</KR>
 <ES>CGP</ES>
 <JP>CGP</JP>
 <CN>CGP</CN>
@@ -101719,7 +101719,7 @@
 </HCS>
 <HCS i="15239">
 <EN>QSP</EN>
-<KR>QSP</KR>
+<KR>優質先發率</KR>
 <ES>QSP</ES>
 <JP>QSP</JP>
 <CN>QSP</CN>
@@ -101801,7 +101801,7 @@
 </HCS>
 <HCS i="15251">
 <EN>by OSA</EN>
-<KR>by OSA</KR>
+<KR>由 OSA</KR>
 <ES>por OSA</ES>
 <JP>OSAによる</JP>
 <CN>以OSA篩選</CN>
@@ -101899,7 +101899,7 @@
 <HCS i="15264">
 <EN>EBH</EN>
 <DC>Abbreviation for statistic Extra-Base Hits</DC>
-<KR>EBH</KR>
+<KR>長打</KR>
 <ES>EBH</ES>
 <JP>EBH</JP>
 <CN>EBH</CN>
@@ -101914,7 +101914,7 @@
 </HCS>
 <HCS i="15266">
 <EN>PEAK</EN>
-<KR>PEAK</KR>
+<KR>巔峰</KR>
 <ES>CIMA</ES>
 <JP>ピーク</JP>
 <CN>生涯巔峰</CN>
@@ -101973,7 +101973,7 @@
 </HCS>
 <HCS i="15274">
 <EN>HLD (&#37;d</EN>
-<KR>HLD (&#37;d</KR>
+<KR>中繼成功 (%d</KR>
 <ES>DAN (&#37;d</ES>
 <JP>HLD（％d</JP>
 <CN>牽制（&#37;s</CN>
@@ -102004,7 +102004,7 @@
 <HCS i="15278">
 <EN>HP</EN>
 <DC>camera name</DC>
-<KR>HP</KR>
+<KR>觸身球</KR>
 <ES>HP</ES>
 <JP>HP</JP>
 <CN>觸身球</CN>
@@ -102032,21 +102032,21 @@
 </HCS>
 <HCS i="15282">
 <EN>W</EN>
-<KR>W</KR>
+<KR>勝</KR>
 <ES>W</ES>
 <JP>W</JP>
 <CN>W</CN>
 </HCS>
 <HCS i="15283">
 <EN>vs. RHB</EN>
-<KR>vs. RHB</KR>
+<KR>對右打</KR>
 <ES>contra RHB</ES>
 <JP>対RHB</JP>
 <CN>對右打者</CN>
 </HCS>
 <HCS i="15284">
 <EN>vs. LHB</EN>
-<KR>vs. LHB</KR>
+<KR>對左打</KR>
 <ES>contra LHB</ES>
 <JP>対LHB</JP>
 <CN>對左打者</CN>
@@ -102221,7 +102221,7 @@
 </HCS>
 <HCS i="15309">
 <EN>RNG</EN>
-<KR>RNG</KR>
+<KR>範圍</KR>
 <ES>RNG</ES>
 <JP>RNG</JP>
 <CN>守備範圍</CN>
@@ -102284,7 +102284,7 @@
 </HCS>
 <HCS i="15318">
 <EN>R/G</EN>
-<KR>R/G</KR>
+<KR>每場得分</KR>
 <ES>R/G</ES>
 <JP>R / G</JP>
 <CN>R/G</CN>
@@ -102305,7 +102305,7 @@
 </HCS>
 <HCS i="15321">
 <EN>POW</EN>
-<KR>POW</KR>
+<KR>力量</KR>
 <ES>prisionero de guerra</ES>
 <JP>捕虜</JP>
 <CN>POW</CN>
@@ -102439,7 +102439,7 @@
 </HCS>
 <HCS i="15340">
 <EN>IW</EN>
-<KR>IW</KR>
+<KR>故意四壞</KR>
 <ES>IW</ES>
 <JP>IW</JP>
 <CN>敬遠保送</CN>
@@ -102509,7 +102509,7 @@
 </HCS>
 <HCS i="15350">
 <EN>GDP</EN>
-<KR>GDP</KR>
+<KR>雙殺打</KR>
 <ES>PIB</ES>
 <JP>GDP</JP>
 <CN>GDP</CN>
@@ -102545,7 +102545,7 @@
 </HCS>
 <HCS i="15357">
 <EN>EBH</EN>
-<KR>EBH</KR>
+<KR>長打</KR>
 <ES>EBH</ES>
 <JP>EBH</JP>
 <CN>EBH</CN>
@@ -102587,7 +102587,7 @@
 </HCS>
 <HCS i="15363">
 <EN>DEF</EN>
-<KR>DEF</KR>
+<KR>守備</KR>
 <ES>DEF</ES>
 <JP>DEF</JP>
 <CN>DEF</CN>
@@ -102693,7 +102693,7 @@
 </HCS>
 <HCS i="15379">
 <EN>BK</EN>
-<KR>BK</KR>
+<KR>投手犯規</KR>
 <ES>BK</ES>
 <JP>BK</JP>
 <CN>BK</CN>
@@ -102707,7 +102707,7 @@
 </HCS>
 <HCS i="15381">
 <EN>BI</EN>
-<KR>BI</KR>
+<KR>球場影響</KR>
 <ES>BI</ES>
 <JP>BI</JP>
 <CN>BI</CN>
@@ -102961,7 +102961,7 @@
 <HCS i="15426">
 <EN>SPE</EN>
 <DC>Running Speed</DC>
-<KR>SPE</KR>
+<KR>速度</KR>
 <ES>SPE</ES>
 <JP>SPE</JP>
 <CN>SPE</CN>
@@ -102977,7 +102977,7 @@
 <HCS i="15428">
 <EN>STE</EN>
 <DC>Ability to successfully steal Bases</DC>
-<KR>STE</KR>
+<KR>盜壘能力</KR>
 <ES>STE</ES>
 <JP>STE</JP>
 <CN>STE</CN>
@@ -103127,7 +103127,7 @@
 </HCS>
 <HCS i="15449">
 <EN>W &gt; .500</EN>
-<KR>W &gt; .500</KR>
+<KR>勝率過半</KR>
 <ES>W &amp;gt; .500</ES>
 <JP>W&amp;gt; .500</JP>
 <CN>勝率&gt;五成</CN>
@@ -103165,7 +103165,7 @@
 <HCS i="15454">
 <EN>GIDP</EN>
 <DC>Abbreviation for statistic Grounded into Double-Plays</DC>
-<KR>GIDP</KR>
+<KR>雙殺打</KR>
 <ES>PIB</ES>
 <JP>GIDP</JP>
 <CN>GIDP</CN>
@@ -103234,14 +103234,14 @@
 </HCS>
 <HCS i="15463">
 <EN>OOPS</EN>
-<KR>OOPS</KR>
+<KR>對手 OPS</KR>
 <ES>UPS</ES>
 <JP>おっとっと</JP>
 <CN>上壘加長打率</CN>
 </HCS>
 <HCS i="15464">
 <EN>OSLG</EN>
-<KR>OSLG</KR>
+<KR>對手長打率</KR>
 <ES>OSLG</ES>
 <JP>OSLG</JP>
 <CN>長打率</CN>
@@ -103255,7 +103255,7 @@
 </HCS>
 <HCS i="15466">
 <EN>OAVG</EN>
-<KR>OAVG</KR>
+<KR>對手打擊率</KR>
 <ES>OAVG</ES>
 <JP>OAVG</JP>
 <CN>打擊率</CN>
@@ -103458,7 +103458,7 @@
 </HCS>
 <HCS i="15492">
 <EN>ATT</EN>
-<KR>ATT</KR>
+<KR>嘗試次數</KR>
 <ES>ATT</ES>
 <JP>ATT</JP>
 <CN>ATT</CN>
@@ -104353,7 +104353,7 @@
 </HCS>
 <HCS i="15626">
 <EN>FREE</EN>
-<KR>FREE</KR>
+<KR>完全自由</KR>
 <ES>GRATIS</ES>
 <JP>自由</JP>
 <CN>FREE</CN>
@@ -104540,7 +104540,7 @@
 <HCS i="15656">
 <EN>IP</EN>
 <DC>Abbreviation for statistic Inning played</DC>
-<KR>IP</KR>
+<KR>局數</KR>
 <ES>IP</ES>
 <JP>IP</JP>
 <CN>守備局數</CN>
@@ -105285,7 +105285,7 @@
 </HCS>
 <HCS i="15773">
 <EN>STARTERS</EN>
-<KR>STARTERS</KR>
+<KR>先發</KR>
 <ES>ENTRANTE</ES>
 <JP>スターター</JP>
 <CN>先發投手</CN>
@@ -106131,14 +106131,14 @@
 </HCS>
 <HCS i="15898">
 <EN>vs. RHP+DH</EN>
-<KR>vs. RHP+DH</KR>
+<KR>對右投+DH</KR>
 <ES>frente a RHP+DH</ES>
 <JP>対RHP + DH</JP>
 <CN>對右投+指定打擊陣容</CN>
 </HCS>
 <HCS i="15899">
 <EN>vs. LHP+DH</EN>
-<KR>vs. LHP+DH</KR>
+<KR>對左投+DH</KR>
 <ES>frente a LHP+DH</ES>
 <JP>対LHP + DH</JP>
 <CN>對左投+指定打擊陣容</CN>
@@ -106512,7 +106512,7 @@
 </HCS>
 <HCS i="15951">
 <EN>back</EN>
-<KR>back</KR>
+<KR>返回</KR>
 <ES>espalda</ES>
 <JP>戻る</JP>
 <CN>返回</CN>
@@ -106549,7 +106549,7 @@
 <HCS i="15956">
 <EN>DP</EN>
 <DC>Abbreviation for statistic Double Plays induced</DC>
-<KR>DP</KR>
+<KR>雙殺</KR>
 <ES>DP</ES>
 <JP>DP</JP>
 <CN>DP</CN>
@@ -107164,7 +107164,7 @@
 </HCS>
 <HCS i="16051">
 <EN>NULL</EN>
-<KR>NULL</KR>
+<KR>無</KR>
 <ES>NULO</ES>
 <JP>ヌル</JP>
 <CN>NULL</CN>
@@ -107172,7 +107172,7 @@
 <HCS i="16052">
 <EN>RETY</EN>
 <DC>Retired Year</DC>
-<KR>RETY</KR>
+<KR>退休年份</KR>
 <ES>RETY</ES>
 <JP>RETY</JP>
 <CN>退役年份</CN>
@@ -107180,7 +107180,7 @@
 <HCS i="16053">
 <EN>ROOK</EN>
 <DC>Rookie</DC>
-<KR>ROOK</KR>
+<KR>新人</KR>
 <ES>TORRE</ES>
 <JP>ルーク</JP>
 <CN>新秀</CN>
@@ -107719,7 +107719,7 @@
 <HCS i="16140">
 <EN>POW/MOV</EN>
 <DC>Power/Movement</DC>
-<KR>POW/MOV</KR>
+<KR>力量/位移</KR>
 <ES>POW/MOV</ES>
 <JP>POW / MOV</JP>
 <CN>力量/球路變化</CN>
@@ -107734,7 +107734,7 @@
 <HCS i="16142">
 <EN>EYE/CON</EN>
 <DC>Eye/Control</DC>
-<KR>EYE/CON</KR>
+<KR>選球/擊球</KR>
 <ES>OJO/CON</ES>
 <JP>EYE / CON</JP>
 <CN>選球/接觸</CN>
@@ -107771,7 +107771,7 @@
 <HCS i="16148">
 <EN>LP</EN>
 <DC>Losing Pitcher</DC>
-<KR>LP</KR>
+<KR>敗投</KR>
 <ES>LP</ES>
 <JP>LP</JP>
 <CN>LP</CN>
@@ -108238,7 +108238,7 @@
 <HCS i="16214">
 <EN>IP</EN>
 <DC>Abbreviation for statistic Innings Pitched</DC>
-<KR>IP</KR>
+<KR>局數</KR>
 <ES>IP</ES>
 <JP>IP</JP>
 <CN>守備局數</CN>
@@ -108394,7 +108394,7 @@
 <HCS i="16236">
 <EN>L</EN>
 <DC>For a losing streak</DC>
-<KR>L</KR>
+<KR>敗</KR>
 <ES>L</ES>
 <JP>L</JP>
 <CN>左</CN>
@@ -108402,7 +108402,7 @@
 <HCS i="16237">
 <EN>W</EN>
 <DC>For a winning streak</DC>
-<KR>W</KR>
+<KR>勝</KR>
 <ES>W</ES>
 <JP>W</JP>
 <CN>W</CN>
@@ -108477,7 +108477,7 @@
 <HCS i="16247">
 <EN>L</EN>
 <DC>Abbreviation for statistic Losses</DC>
-<KR>L</KR>
+<KR>敗</KR>
 <ES>L</ES>
 <JP>L</JP>
 <CN>左</CN>
@@ -108485,7 +108485,7 @@
 <HCS i="16248">
 <EN>W</EN>
 <DC>Abbreviation for statistic Wins</DC>
-<KR>W</KR>
+<KR>勝</KR>
 <ES>W</ES>
 <JP>W</JP>
 <CN>W</CN>
@@ -109042,7 +109042,7 @@
 <HCS i="16327">
 <EN>EXP</EN>
 <DC>Experience</DC>
-<KR>EXP</KR>
+<KR>經驗</KR>
 <ES>Exp</ES>
 <JP>EXP</JP>
 <CN>EXP</CN>
@@ -109096,7 +109096,7 @@
 <HCS i="16334">
 <EN>YRS</EN>
 <DC>Contract Years</DC>
-<KR>YRS</KR>
+<KR>年資</KR>
 <ES>año</ES>
 <JP>YRS</JP>
 <CN>年</CN>
@@ -109139,7 +109139,7 @@
 <HCS i="16340">
 <EN>POS</EN>
 <DC>Positive Relations</DC>
-<KR>POS</KR>
+<KR>正向</KR>
 <ES>TPV</ES>
 <JP>POS</JP>
 <CN>POS</CN>
@@ -109147,7 +109147,7 @@
 <HCS i="16341">
 <EN>NEG</EN>
 <DC>Negative Relations</DC>
-<KR>NEG</KR>
+<KR>負向</KR>
 <ES>NEG</ES>
 <JP>NEG</JP>
 <CN>NEG</CN>
@@ -109168,7 +109168,7 @@
 </HCS>
 <HCS i="16344">
 <EN>T-RUN</EN>
-<KR>T-RUN</KR>
+<KR>團隊得分</KR>
 <ES>T-EJECUTAR</ES>
 <JP>T-RUN</JP>
 <CN>全隊得分</CN>
@@ -109182,7 +109182,7 @@
 </HCS>
 <HCS i="16346">
 <EN>MECH</EN>
-<KR>MECH</KR>
+<KR>機制</KR>
 <ES>MECÁNICO</ES>
 <JP>メカ</JP>
 <CN>投球動作</CN>
@@ -109329,7 +109329,7 @@
 <HCS i="16367">
 <EN>T</EN>
 <DC>Ties</DC>
-<KR>T</KR>
+<KR>和局</KR>
 <ES>T</ES>
 <JP>T</JP>
 <CN>T</CN>
@@ -109435,7 +109435,7 @@
 <HCS i="16384">
 <EN>ORG</EN>
 <DC>Organization</DC>
-<KR>ORG</KR>
+<KR>球團</KR>
 <ES>ORG.</ES>
 <JP>ORG</JP>
 <CN>ORG</CN>
@@ -109639,7 +109639,7 @@
 <HCS i="16414">
 <EN>INJ</EN>
 <DC>Is Injured</DC>
-<KR>INJ</KR>
+<KR>傷兵</KR>
 <ES>INJ</ES>
 <JP>INJ</JP>
 <CN>INJ</CN>
@@ -109647,7 +109647,7 @@
 <HCS i="16415">
 <EN>INJ</EN>
 <DC>Current Injury</DC>
-<KR>INJ</KR>
+<KR>傷兵</KR>
 <ES>INJ</ES>
 <JP>INJ</JP>
 <CN>INJ</CN>
@@ -109779,7 +109779,7 @@
 <HCS i="16433">
 <EN>POS</EN>
 <DC>Team Position</DC>
-<KR>POS</KR>
+<KR>正面</KR>
 <ES>TPV</ES>
 <JP>POS</JP>
 <CN>POS</CN>
@@ -109801,7 +109801,7 @@
 <HCS i="16436">
 <EN>RNG</EN>
 <DC>Abbreviation for statistic Fielding Range Factor</DC>
-<KR>RNG</KR>
+<KR>守備範圍</KR>
 <ES>RNG</ES>
 <JP>RNG</JP>
 <CN>守備範圍</CN>
@@ -109809,7 +109809,7 @@
 <HCS i="16437">
 <EN>DP</EN>
 <DC>Abbreviation for statistic Double Plays</DC>
-<KR>DP</KR>
+<KR>雙殺</KR>
 <ES>DP</ES>
 <JP>DP</JP>
 <CN>DP</CN>
@@ -109817,14 +109817,14 @@
 <HCS i="16438">
 <EN>BK</EN>
 <DC>Abbreviation for statistic Balks</DC>
-<KR>BK</KR>
+<KR>投手犯規</KR>
 <ES>BK</ES>
 <JP>BK</JP>
 <CN>BK</CN>
 </HCS>
 <HCS i="16439">
 <EN>ON-BASE &#37;</EN>
-<KR>ON-BASE &#37;</KR>
+<KR>上壘率</KR>
 <ES>EN BASE &#37;</ES>
 <JP>オンベース％</JP>
 <CN>上壘率&#37;</CN>
@@ -109853,7 +109853,7 @@
 </HCS>
 <HCS i="16443">
 <EN>INTL</EN>
-<KR>INTL</KR>
+<KR>國際</KR>
 <ES>INTERNACIONAL</ES>
 <JP>INTL</JP>
 <CN>INTL</CN>
@@ -109905,7 +109905,7 @@
 <HCS i="16450">
 <EN>CON</EN>
 <DC>Contact Rating</DC>
-<KR>CON</KR>
+<KR>擊球</KR>
 <ES>ESTAFA</ES>
 <JP>CON</JP>
 <CN>CON</CN>
@@ -109919,7 +109919,7 @@
 </HCS>
 <HCS i="16452">
 <EN>SB/1B</EN>
-<KR>SB/1B</KR>
+<KR>一壘盜壘率</KR>
 <ES>SB/1B</ES>
 <JP>SB / 1B</JP>
 <CN>SB/1B</CN>
@@ -109927,28 +109927,28 @@
 <HCS i="16453">
 <EN>GAP</EN>
 <DC>Gap Power Rating</DC>
-<KR>GAP</KR>
+<KR>空檔</KR>
 <ES>BRECHA</ES>
 <JP>ギャップ</JP>
 <CN>GAP</CN>
 </HCS>
 <HCS i="16454">
 <EN>K/AB</EN>
-<KR>K/AB</KR>
+<KR>每打數三振率</KR>
 <ES>K/AB</ES>
 <JP>K / AB</JP>
 <CN>K/AB</CN>
 </HCS>
 <HCS i="16455">
 <EN>WINP</EN>
-<KR>WINP</KR>
+<KR>勝率</KR>
 <ES>GANAR</ES>
 <JP>WINP</JP>
 <CN>WINP</CN>
 </HCS>
 <HCS i="16456">
 <EN>SVP</EN>
-<KR>SVP</KR>
+<KR>救援成功率</KR>
 <ES>Vicepresidente sénior</ES>
 <JP>SVP</JP>
 <CN>SVP</CN>
@@ -109969,7 +109969,7 @@
 </HCS>
 <HCS i="16459">
 <EN>BB/PA</EN>
-<KR>BB/PA</KR>
+<KR>每打席保送率</KR>
 <ES>BB/PA</ES>
 <JP>BB / PA</JP>
 <CN>BB/PA</CN>
@@ -109983,7 +109983,7 @@
 </HCS>
 <HCS i="16461">
 <EN>HR/AB</EN>
-<KR>HR/AB</KR>
+<KR>每打數全壘打率</KR>
 <ES>FC/AB</ES>
 <JP>HR / AB</JP>
 <CN>全壘打/打席</CN>
@@ -109991,7 +109991,7 @@
 <HCS i="16462">
 <EN>POW</EN>
 <DC>Home Run Power Rating</DC>
-<KR>POW</KR>
+<KR>力量</KR>
 <ES>prisionero de guerra</ES>
 <JP>捕虜</JP>
 <CN>POW</CN>
@@ -110005,7 +110005,7 @@
 </HCS>
 <HCS i="16464">
 <EN>RS/G</EN>
-<KR>RS/G</KR>
+<KR>每場得分支援</KR>
 <ES>RS/G</ES>
 <JP>RS / G</JP>
 <CN>RS/G</CN>
@@ -110117,7 +110117,7 @@
 </HCS>
 <HCS i="16479">
 <EN>Playoff&#37;</EN>
-<KR>Playoff&#37;</KR>
+<KR>季後賽機率</KR>
 <ES>Eliminatoria&#37;</ES>
 <JP>プレーオフ％</JP>
 <CN>季後賽&#37;</CN>
@@ -110161,7 +110161,7 @@
 </HCS>
 <HCS i="16486">
 <EN>P.O.T.G</EN>
-<KR>P.O.T.G</KR>
+<KR>本場最佳球員</KR>
 <ES>POTG</ES>
 <JP>POTG</JP>
 <CN>P.O.T.G</CN>
@@ -110175,7 +110175,7 @@
 </HCS>
 <HCS i="16488">
 <EN>FA&#39;S</EN>
-<KR>FA&#39;S</KR>
+<KR>自由球員</KR>
 <ES>FA&amp;#39;S</ES>
 <JP>FA&amp;#39;S</JP>
 <CN>FA&#39;S</CN>
@@ -110326,7 +110326,7 @@
 </HCS>
 <HCS i="16509">
 <EN>H/W</EN>
-<KR>H/W</KR>
+<KR>身高/體重</KR>
 <ES>H/W</ES>
 <JP>H / W</JP>
 <CN>H/W</CN>
@@ -110391,14 +110391,14 @@
 </HCS>
 <HCS i="16518">
 <EN>POW/MOV</EN>
-<KR>POW/MOV</KR>
+<KR>力量/位移</KR>
 <ES>POW/MOV</ES>
 <JP>POW / MOV</JP>
 <CN>力量/球路變化</CN>
 </HCS>
 <HCS i="16519">
 <EN>EYE/CON</EN>
-<KR>EYE/CON</KR>
+<KR>選球/擊球</KR>
 <ES>OJO/CON</ES>
 <JP>EYE / CON</JP>
 <CN>選球/接觸</CN>
@@ -110610,7 +110610,7 @@
 </HCS>
 <HCS i="16550">
 <EN>ERR</EN>
-<KR>ERR</KR>
+<KR>失誤</KR>
 <ES>ERRAR</ES>
 <JP>ERR</JP>
 <CN>ERR</CN>
@@ -110687,7 +110687,7 @@
 </HCS>
 <HCS i="16562">
 <EN>vs. RHP</EN>
-<KR>vs. RHP</KR>
+<KR>對右投</KR>
 <ES>contra RHP</ES>
 <JP>対RHP</JP>
 <CN>對右投</CN>
@@ -110724,7 +110724,7 @@
 </HCS>
 <HCS i="16567">
 <EN>WARN</EN>
-<KR>WARN</KR>
+<KR>警告</KR>
 <ES>ADVERTIR</ES>
 <JP>暖かい</JP>
 <CN>WARN</CN>
@@ -110764,7 +110764,7 @@
 <HCS i="16572">
 <EN>RBI</EN>
 <DC>Abbreviation for statistic Runs Batted In</DC>
-<KR>RBI</KR>
+<KR>打點</KR>
 <ES>carreras impulsadas</ES>
 <JP>RBI</JP>
 <CN>打點</CN>
@@ -110807,7 +110807,7 @@
 </HCS>
 <HCS i="16578">
 <EN>PITCH-BY-PITCH</EN>
-<KR>PITCH-BY-PITCH</KR>
+<KR>逐球紀錄</KR>
 <ES>CAMPO A CAMPO</ES>
 <JP>ピッチバイピッチ</JP>
 <CN>逐球分析</CN>
@@ -111582,7 +111582,7 @@
 <HCS i="16691">
 <EN>POS</EN>
 <DC>Abbreviation for Position, mostly referring to manager position like Manager or General Manager</DC>
-<KR>POS</KR>
+<KR>守位</KR>
 <ES>TPV</ES>
 <JP>POS</JP>
 <CN>POS</CN>
@@ -112073,7 +112073,7 @@
 </HCS>
 <HCS i="16767">
 <EN>HS</EN>
-<KR>HS</KR>
+<KR>高中</KR>
 <ES>SA</ES>
 <JP>HS</JP>
 <CN>HS</CN>
@@ -112277,7 +112277,7 @@
 <HCS i="16796">
 <EN>POS</EN>
 <DC>Abbreviation for Position</DC>
-<KR>POS</KR>
+<KR>守位</KR>
 <ES>TPV</ES>
 <JP>POS</JP>
 <CN>POS</CN>
@@ -112393,7 +112393,7 @@
 <HCS i="16812">
 <EN>POW</EN>
 <DC>Power</DC>
-<KR>POW</KR>
+<KR>力量</KR>
 <ES>prisionero de guerra</ES>
 <JP>捕虜</JP>
 <CN>POW</CN>
@@ -112409,7 +112409,7 @@
 <HCS i="16815">
 <EN>SPE</EN>
 <DC>Speed</DC>
-<KR>SPE</KR>
+<KR>速度</KR>
 <ES>SPE</ES>
 <JP>SPE</JP>
 <CN>SPE</CN>
@@ -112417,21 +112417,21 @@
 <HCS i="16816">
 <EN>F</EN>
 <DC>Final</DC>
-<KR>F</KR>
+<KR>快</KR>
 <ES>F</ES>
 <JP>F</JP>
 <CN>F</CN>
 </HCS>
 <HCS i="16817">
 <EN>STE</EN>
-<KR>STE</KR>
+<KR>盜壘</KR>
 <ES>STE</ES>
 <JP>STE</JP>
 <CN>STE</CN>
 </HCS>
 <HCS i="16818">
 <EN>SPE</EN>
-<KR>SPE</KR>
+<KR>速度</KR>
 <ES>SPE</ES>
 <JP>SPE</JP>
 <CN>SPE</CN>
@@ -112530,7 +112530,7 @@
 </HCS>
 <HCS i="16833">
 <EN>LP</EN>
-<KR>LP</KR>
+<KR>敗投</KR>
 <ES>LP</ES>
 <JP>LP</JP>
 <CN>LP</CN>
@@ -112587,7 +112587,7 @@
 </HCS>
 <HCS i="16841">
 <EN>MI</EN>
-<KR>MI</KR>
+<KR>二游</KR>
 <ES>MI</ES>
 <JP>MI</JP>
 <CN>MI</CN>
@@ -112751,7 +112751,7 @@
 <HCS i="16862">
 <EN>DP</EN>
 <DC>abbreviation for fielding statistic Double Plays</DC>
-<KR>DP</KR>
+<KR>雙殺</KR>
 <ES>DP</ES>
 <JP>DP</JP>
 <CN>DP</CN>
@@ -112805,7 +112805,7 @@
 </HCS>
 <HCS i="16869">
 <EN>out &#37;s</EN>
-<KR>out &#37;s</KR>
+<KR>出局數 %s</KR>
 <ES>fuera &#37;s</ES>
 <JP>％sから</JP>
 <CN>出局&#37;s</CN>
@@ -112912,7 +112912,7 @@
 <HCS i="16883">
 <EN>IP</EN>
 <DC>abbreviation for pitching statistic Innings Pitched</DC>
-<KR>IP</KR>
+<KR>局數</KR>
 <ES>IP</ES>
 <JP>IP</JP>
 <CN>守備局數</CN>
@@ -113150,7 +113150,7 @@
 <HCS i="16913">
 <EN>FB</EN>
 <DC>abbreviation, used to describe strong pitcher flyball tendency</DC>
-<KR>FB</KR>
+<KR>飛球型</KR>
 <ES>pensión completa</ES>
 <JP>FB</JP>
 <CN>飛球</CN>
@@ -113158,7 +113158,7 @@
 <HCS i="16914">
 <EN>NEU</EN>
 <DC>abbreviation, used to describe neutral pitcher groundball tendency</DC>
-<KR>NEU</KR>
+<KR>中性型</KR>
 <ES>NUE</ES>
 <JP>NEU</JP>
 <CN>NEU</CN>
@@ -113166,7 +113166,7 @@
 <HCS i="16915">
 <EN>GB</EN>
 <DC>abbreviation, used to describe strong pitcher groundball tendency</DC>
-<KR>GB</KR>
+<KR>滾地球型</KR>
 <ES>ES</ES>
 <JP>GB</JP>
 <CN>GB</CN>
@@ -113247,7 +113247,7 @@
 </HCS>
 <HCS i="16935">
 <EN>torn ucl</EN>
-<KR>torn ucl</KR>
+<KR>韌帶撕裂</KR>
 <ES>ucl rasgado</ES>
 <JP>引き裂かれたucl</JP>
 <CN>尺骨附屬韌帶撕裂</CN>
@@ -113263,7 +113263,7 @@
 <HCS i="16937">
 <EN>HS</EN>
 <DC>abbreviation for high school</DC>
-<KR>HS</KR>
+<KR>高中</KR>
 <ES>SA</ES>
 <JP>HS</JP>
 <CN>HS</CN>
@@ -113271,7 +113271,7 @@
 <HCS i="16938">
 <EN>COL</EN>
 <DC>abbreviation for college</DC>
-<KR>COL</KR>
+<KR>大學</KR>
 <ES>COLUMNA</ES>
 <JP>COL</JP>
 <CN>COL</CN>
@@ -113374,7 +113374,7 @@
 <HCS i="16951">
 <EN>TRN</EN>
 <DC>abbreviation for Tournament</DC>
-<KR>TRN</KR>
+<KR>訓練</KR>
 <ES>TRN</ES>
 <JP>TRN</JP>
 <CN>TRN</CN>
@@ -114660,7 +114660,7 @@
 </HCS>
 <HCS i="17146">
 <EN>B9</EN>
-<KR>B9</KR>
+<KR>每九局保送</KR>
 <ES>B9</ES>
 <JP>B9</JP>
 <CN>B9</CN>
@@ -114744,7 +114744,7 @@
 </HCS>
 <HCS i="17158">
 <EN>H9</EN>
-<KR>H9</KR>
+<KR>每九局被安打</KR>
 <ES>H9</ES>
 <JP>H9</JP>
 <CN>H9</CN>
@@ -117044,7 +117044,7 @@
 </HCS>
 <HCS i="17514">
 <EN>Min</EN>
-<KR>Min</KR>
+<KR>分鐘</KR>
 <ES>mínimo</ES>
 <JP>最小</JP>
 <CN>敏</CN>
@@ -117094,7 +117094,7 @@
 </HCS>
 <HCS i="17522">
 <EN>CS&#37;</EN>
-<KR>CS&#37;</KR>
+<KR>阻殺率</KR>
 <ES>CS&#37;</ES>
 <JP>CS％</JP>
 <CN>CS&#37;</CN>
@@ -117592,7 +117592,7 @@
 </HCS>
 <HCS i="17593">
 <EN>pod</EN>
-<KR>pod</KR>
+<KR>分組</KR>
 <ES>vaina</ES>
 <JP>ポッド</JP>
 <CN>延賽</CN>
@@ -117833,7 +117833,7 @@
 </HCS>
 <HCS i="17627">
 <EN>Demo</EN>
-<KR>Demo</KR>
+<KR>示範</KR>
 <ES>Manifestación</ES>
 <JP>デモ</JP>
 <CN>德莫</CN>
@@ -117965,7 +117965,7 @@
 </HCS>
 <HCS i="17645">
 <EN>Jr</EN>
-<KR>Jr</KR>
+<KR>二世</KR>
 <ES>jr</ES>
 <JP>ジュニア</JP>
 <CN>Jr</CN>
@@ -118262,7 +118262,7 @@
 <HCS i="17685">
 <EN>lyL</EN>
 <DC>Last Year Losses</DC>
-<KR>lyL</KR>
+<KR>去年對左</KR>
 <ES>lyL</ES>
 <JP>lyL</JP>
 <CN>lyL</CN>
@@ -118688,7 +118688,7 @@
 </HCS>
 <HCS i="17746">
 <EN>sub_title</EN>
-<KR>sub_title</KR>
+<KR>副標題</KR>
 <ES>subtitular</ES>
 <JP>字幕</JP>
 <CN>sub_title</CN>
@@ -118803,7 +118803,7 @@
 </HCS>
 <HCS i="17762">
 <EN>1993-2004 Era</EN>
-<KR>1993-2004 Era</KR>
+<KR>1993-2004 年代</KR>
 <ES>Época 1993-2004</ES>
 <JP>1993-2004時代</JP>
 <CN>1993-2004時代</CN>
@@ -118849,7 +118849,7 @@
 </HCS>
 <HCS i="17768">
 <EN>1980-1992 Era</EN>
-<KR>1980-1992 Era</KR>
+<KR>1980-1992 年代</KR>
 <ES>Época 1980-1992</ES>
 <JP>1980- 1992年</JP>
 <CN>1980-1992時代</CN>
@@ -119551,7 +119551,7 @@
 </HCS>
 <HCS i="17867">
 <EN>1961-1979 Era</EN>
-<KR>1961-1979 Era</KR>
+<KR>1961-1979 年代</KR>
 <ES>Época 1961-1979</ES>
 <JP>1961- 1979年</JP>
 <CN>1961-1979時代</CN>
@@ -119788,7 +119788,7 @@
 </HCS>
 <HCS i="17902">
 <EN>1946-1960 Era</EN>
-<KR>1946-1960 Era</KR>
+<KR>1946-1960 年代</KR>
 <ES>Época 1946-1960</ES>
 <JP>1946- 1960年</JP>
 <CN>1946-1960時代</CN>
@@ -119809,7 +119809,7 @@
 </HCS>
 <HCS i="17905">
 <EN>1921-1945 Era</EN>
-<KR>1921-1945 Era</KR>
+<KR>1921-1945 年代</KR>
 <ES>Época 1921-1945</ES>
 <JP>1921-1945時代</JP>
 <CN>1921-1945時代</CN>
@@ -120145,7 +120145,7 @@
 <HCS i="17952">
 <EN>lyPOS</EN>
 <DC>Last Year Team Position</DC>
-<KR>lyPOS</KR>
+<KR>去年守位</KR>
 <ES>lyPOS</ES>
 <JP>lyPOS</JP>
 <CN>lyPOS</CN>
@@ -120264,7 +120264,7 @@
 </HCS>
 <HCS i="17969">
 <EN>&#37;r RBI</EN>
-<KR>&#37;r RBI</KR>
+<KR>%r 打點</KR>
 <ES>&#37;r carrera impulsada</ES>
 <JP>％r打点</JP>
 <CN>&#37;r打點</CN>
@@ -120307,7 +120307,7 @@
 </HCS>
 <HCS i="17975">
 <EN>&#37;h HR</EN>
-<KR>&#37;h HR</KR>
+<KR>%h 支全壘打</KR>
 <ES>&#37;h recursos humanos</ES>
 <JP>％h HR</JP>
 <CN>&#37;hHR</CN>
@@ -120554,7 +120554,7 @@
 </HCS>
 <HCS i="18010">
 <EN>1 pitch seen</EN>
-<KR>1 pitch seen</KR>
+<KR>看過 1 球</KR>
 <ES>1 lanzamiento visto</ES>
 <JP>1ピッチ見た</JP>
 <CN>1次面對球數</CN>
@@ -120696,7 +120696,7 @@
 </HCS>
 <HCS i="18033">
 <EN>foot</EN>
-<KR>foot</KR>
+<KR>呎</KR>
 <ES>pie</ES>
 <JP>足</JP>
 <CN>足部</CN>
@@ -121635,7 +121635,7 @@
 <HCS i="18166">
 <EN>SB&#37;</EN>
 <DC>Abbreviation for statistic Stolen Base Percentage</DC>
-<KR>SB&#37;</KR>
+<KR>盜壘成功率</KR>
 <ES>BS&#37;</ES>
 <JP>SB％</JP>
 <CN>SB&#37;</CN>
@@ -121877,7 +121877,7 @@
 </HCS>
 <HCS i="18204">
 <EN>GB&#37;</EN>
-<KR>GB&#37;</KR>
+<KR>滾地球率</KR>
 <ES>GB&#37;</ES>
 <JP>GB％</JP>
 <CN>GB&#37;</CN>
@@ -122279,7 +122279,7 @@
 </HCS>
 <HCS i="18266">
 <EN>SB&#37;</EN>
-<KR>SB&#37;</KR>
+<KR>盜壘成功率</KR>
 <ES>BS&#37;</ES>
 <JP>SB％</JP>
 <CN>SB&#37;</CN>
@@ -122942,7 +122942,7 @@
 <HCS i="18362">
 <EN>F</EN>
 <DC>Fahrenheit</DC>
-<KR>F</KR>
+<KR>快</KR>
 <ES>F</ES>
 <JP>F</JP>
 <CN>F</CN>
@@ -123514,7 +123514,7 @@
 <HCS i="18447">
 <EN>C</EN>
 <DC>Celsius</DC>
-<KR>C</KR>
+<KR>捕手</KR>
 <ES>C</ES>
 <JP>C</JP>
 <CN>C</CN>
@@ -123592,7 +123592,7 @@
 <HCS i="18460">
 <EN>HS</EN>
 <DC>EX: AAA HS &lt;- &#39;HS&#39; is High School</DC>
-<KR>HS</KR>
+<KR>高中</KR>
 <ES>SA</ES>
 <JP>HS</JP>
 <CN>HS</CN>
@@ -123909,7 +123909,7 @@
 <HCS i="18508">
 <EN>t</EN>
 <DC>tied-3rd</DC>
-<KR>t</KR>
+<KR>次</KR>
 <ES>t</ES>
 <JP>t</JP>
 <CN>t</CN>
@@ -124073,7 +124073,7 @@
 <HCS i="18531">
 <EN>t</EN>
 <DC>tied</DC>
-<KR>t</KR>
+<KR>次</KR>
 <ES>t</ES>
 <JP>t</JP>
 <CN>t</CN>
@@ -124095,7 +124095,7 @@
 </HCS>
 <HCS i="18534">
 <EN>F</EN>
-<KR>F</KR>
+<KR>快</KR>
 <ES>F</ES>
 <JP>F</JP>
 <CN>F</CN>
@@ -124480,7 +124480,7 @@
 </HCS>
 <HCS i="18588">
 <EN>Ovr. Pick</EN>
-<KR>Ovr. Pick</KR>
+<KR>總順位</KR>
 <ES>Sobre Elegir</ES>
 <JP>Ovr。選ぶ</JP>
 <CN>總順位</CN>
@@ -124571,7 +124571,7 @@
 </HCS>
 <HCS i="18601">
 <EN>Build</EN>
-<KR>Build</KR>
+<KR>版本</KR>
 <ES>Construir</ES>
 <JP>建てる</JP>
 <CN>建造</CN>
@@ -124607,7 +124607,7 @@
 <HCS i="18607">
 <EN>t</EN>
 <DC>tied-</DC>
-<KR>t</KR>
+<KR>次</KR>
 <ES>t</ES>
 <JP>t</JP>
 <CN>t</CN>
@@ -124906,7 +124906,7 @@
 <HCS i="18654">
 <EN>Ovr Pk</EN>
 <DC>draft_overall_pick</DC>
-<KR>Ovr Pk</KR>
+<KR>總順位</KR>
 <ES>Sobre paquete</ES>
 <JP>Ovr Pk</JP>
 <CN>總順位</CN>
@@ -124978,7 +124978,7 @@
 </HCS>
 <HCS i="18665">
 <EN>162 AVG</EN>
-<KR>162 AVG</KR>
+<KR>162 場平均</KR>
 <ES>162 PROMEDIO</ES>
 <JP>162 AVG</JP>
 <CN>162 AVG</CN>
@@ -125365,7 +125365,7 @@
 </HCS>
 <HCS i="18726">
 <EN>&#37;cvalue / &#37;pvalue PTS</EN>
-<KR>&#37;cvalue / &#37;pvalue PTS</KR>
+<KR>%cvalue / %pvalue 點</KR>
 <ES>&#37;cvalor / &#37;pvalor PTS</ES>
 <JP>％cvalue /％pvalue PTS</JP>
 <CN>&#37;cvalue / &#37;pvalue PTS</CN>
@@ -125425,7 +125425,7 @@
 <HCS i="18734">
 <EN>auto</EN>
 <DC>automatic</DC>
-<KR>auto</KR>
+<KR>自動</KR>
 <ES>auto</ES>
 <JP>自動</JP>
 <CN>自動</CN>
@@ -125446,7 +125446,7 @@
 </HCS>
 <HCS i="18737">
 <EN>OA</EN>
-<KR>OA</KR>
+<KR>整體評價</KR>
 <ES>OA</ES>
 <JP>OA</JP>
 <CN>整體</CN>
@@ -125807,14 +125807,14 @@
 <HCS i="18790">
 <EN>4+ SB</EN>
 <DC>4 or more stolen bases in a game</DC>
-<KR>4+ SB</KR>
+<KR>4+ 盜壘</KR>
 <ES>4+ SB</ES>
 <JP>4+ SB</JP>
 <CN>4+SB</CN>
 </HCS>
 <HCS i="18791">
 <EN>EV</EN>
-<KR>EV</KR>
+<KR>擊球初速</KR>
 <ES>VE</ES>
 <JP>EV</JP>
 <CN>EV</CN>
@@ -125934,7 +125934,7 @@
 </HCS>
 <HCS i="18815">
 <EN>Min. &#37;n PP</EN>
-<KR>Min. &#37;n PP</KR>
+<KR>至少 %n PP</KR>
 <ES>mín. &#37;n PP</ES>
 <JP>最小％n PP</JP>
 <CN>最低&#37;n點完美點數</CN>
@@ -126023,7 +126023,7 @@
 </HCS>
 <HCS i="18828">
 <EN>CS &#37;</EN>
-<KR>CS &#37;</KR>
+<KR>阻殺率</KR>
 <ES>CS &#37;</ES>
 <JP>CS％</JP>
 <CN>CS &#37;</CN>
@@ -126123,7 +126123,7 @@
 </HCS>
 <HCS i="18843">
 <EN>nl)(nl)I am</EN>
-<KR>nl)(nl)I am</KR>
+<KR>nl)(nl)我是</KR>
 <ES>nl (nl) soy</ES>
 <JP>nl）（nl）私は</JP>
 <CN>nl)(nl)我是</CN>
@@ -126259,7 +126259,7 @@
 </HCS>
 <HCS i="18862">
 <EN>poss. arb</EN>
-<KR>poss. arb</KR>
+<KR>可能仲裁</KR>
 <ES>pos. árbitro</ES>
 <JP>poss。 arb</JP>
 <CN>poss. arb</CN>
@@ -126443,7 +126443,7 @@
 <HCS i="18887">
 <EN>Type A</EN>
 <DC>Type-A Free Agent</DC>
-<KR>Type A</KR>
+<KR>A 型</KR>
 <ES>Escribe un</ES>
 <JP>タイプA</JP>
 <CN>A級</CN>
@@ -126493,7 +126493,7 @@
 <HCS i="18894">
 <EN>Type B</EN>
 <DC>Type-B Free Agent</DC>
-<KR>Type B</KR>
+<KR>B 型</KR>
 <ES>Tipo B</ES>
 <JP>タイプB</JP>
 <CN>B級</CN>
@@ -126598,7 +126598,7 @@
 </HCS>
 <HCS i="18911">
 <EN>Cap</EN>
-<KR>Cap</KR>
+<KR>薪資上限</KR>
 <ES>Gorra</ES>
 <JP>キャップ</JP>
 <CN>卡普</CN>
@@ -126672,7 +126672,7 @@
 <HCS i="18921">
 <EN>ML</EN>
 <DC>Where ML refers to MajorLeague</DC>
-<KR>ML</KR>
+<KR>大聯盟</KR>
 <ES>ML</ES>
 <JP>ML</JP>
 <CN>ML</CN>
@@ -126798,7 +126798,7 @@
 </HCS>
 <HCS i="19564">
 <EN>&#37;month &#37;date</EN>
-<KR>&#37;month &#37;date</KR>
+<KR>%month %date</KR>
 <ES>&#37;mes &#37;fecha</ES>
 <JP>％month％date</JP>
 <CN>&#37;month&#37;date</CN>
@@ -127710,7 +127710,7 @@
 </HCS>
 <HCS i="19726">
 <EN>HOLD 1B</EN>
-<KR>HOLD 1B</KR>
+<KR>牽制一壘</KR>
 <ES>MANTENER 1B</ES>
 <JP>1Bを保持</JP>
 <CN>牽制一壘</CN>
@@ -128125,7 +128125,7 @@
 <HCS i="19805">
 <EN>ARM</EN>
 <DC>Abbreviation for statistic Arm Runs</DC>
-<KR>ARM</KR>
+<KR>臂力</KR>
 <ES>BRAZO</ES>
 <JP>腕</JP>
 <CN>ARM</CN>
@@ -128249,7 +128249,7 @@
 <HCS i="19824">
 <EN>ARM</EN>
 <DC>Abbreviation for statistic Arm</DC>
-<KR>ARM</KR>
+<KR>臂力</KR>
 <ES>BRAZO</ES>
 <JP>腕</JP>
 <CN>ARM</CN>
@@ -128278,7 +128278,7 @@
 <HCS i="19831">
 <EN>LOB&#37;</EN>
 <DC>Abbreviation for statistic Left on Base Percentage</DC>
-<KR>LOB&#37;</KR>
+<KR>殘壘率</KR>
 <ES>LOB&#37;</ES>
 <JP>LOB％</JP>
 <CN>LOB&#37;</CN>
@@ -128315,7 +128315,7 @@
 </HCS>
 <HCS i="19837">
 <EN>secondary</EN>
-<KR>secondary</KR>
+<KR>次要</KR>
 <ES>secundario</ES>
 <JP>二次</JP>
 <CN>次要</CN>
@@ -128329,7 +128329,7 @@
 </HCS>
 <HCS i="19840">
 <EN>stripes</EN>
-<KR>stripes</KR>
+<KR>條紋</KR>
 <ES>rayas</ES>
 <JP>ストライプ</JP>
 <CN>條紋</CN>
@@ -128394,70 +128394,70 @@
 </HCS>
 <HCS i="19858">
 <EN>&lt;1945 Era</EN>
-<KR>&lt;1945 Era</KR>
+<KR>&lt;1945 年代</KR>
 <ES>&amp;lt;Era de 1945</ES>
 <JP>&amp;lt;1945年</JP>
 <CN>&lt;1945時代</CN>
 </HCS>
 <HCS i="19859">
 <EN>&lt;1960 Era</EN>
-<KR>&lt;1960 Era</KR>
+<KR>&lt;1960 年代</KR>
 <ES>&amp;lt;Era de 1960</ES>
 <JP>&amp;lt;1960年</JP>
 <CN>&lt;1960時代</CN>
 </HCS>
 <HCS i="19860">
 <EN>&lt;1979 Era</EN>
-<KR>&lt;1979 Era</KR>
+<KR>&lt;1979 年代</KR>
 <ES>&amp;lt;Era de 1979</ES>
 <JP>&amp;lt;1979年</JP>
 <CN>&lt;1979時代</CN>
 </HCS>
 <HCS i="19861">
 <EN>&lt;1992 Era</EN>
-<KR>&lt;1992 Era</KR>
+<KR>&lt;1992 年代</KR>
 <ES>&amp;lt;Era de 1992</ES>
 <JP>&amp;lt;1992年</JP>
 <CN>&lt;1992時代</CN>
 </HCS>
 <HCS i="19862">
 <EN>&lt;2004 Era</EN>
-<KR>&lt;2004 Era</KR>
+<KR>&lt;2004 年代</KR>
 <ES>&amp;lt;Era 2004</ES>
 <JP>&amp;lt;2004年</JP>
 <CN>&lt;2004時代</CN>
 </HCS>
 <HCS i="19863">
 <EN>&gt;1921 Era</EN>
-<KR>&gt;1921 Era</KR>
+<KR>&gt;1921 年代</KR>
 <ES>&amp;gt;Época 1921</ES>
 <JP>&amp;gt; 1921年</JP>
 <CN>&gt;1921時代</CN>
 </HCS>
 <HCS i="19864">
 <EN>&gt;1946 Era</EN>
-<KR>&gt;1946 Era</KR>
+<KR>&gt;1946 年代</KR>
 <ES>&amp;gt;Época 1946</ES>
 <JP>&amp;gt; 1946年</JP>
 <CN>&gt;1946時代</CN>
 </HCS>
 <HCS i="19865">
 <EN>&gt;1961 Era</EN>
-<KR>&gt;1961 Era</KR>
+<KR>&gt;1961 年代</KR>
 <ES>&amp;gt;Época 1961</ES>
 <JP>&amp;gt; 1961年</JP>
 <CN>&gt;1961時代</CN>
 </HCS>
 <HCS i="19866">
 <EN>&gt;1980 Era</EN>
-<KR>&gt;1980 Era</KR>
+<KR>&gt;1980 年代</KR>
 <ES>&amp;gt;Época 1980</ES>
 <JP>&amp;gt; 1980年</JP>
 <CN>&gt;1980時代</CN>
 </HCS>
 <HCS i="19867">
 <EN>&gt;1993 Era</EN>
-<KR>&gt;1993 Era</KR>
+<KR>&gt;1993 年代</KR>
 <ES>&amp;gt;Época 1993</ES>
 <JP>&amp;gt; 1993年</JP>
 <CN>&gt;1993時代</CN>
@@ -130193,14 +130193,14 @@
 </HCS>
 <HCS i="23214">
 <EN>Lead</EN>
-<KR>Lead</KR>
+<KR>領先</KR>
 <ES>Plomo</ES>
 <JP>リード</JP>
 <CN>利德</CN>
 </HCS>
 <HCS i="23215">
 <EN>Trail</EN>
-<KR>Trail</KR>
+<KR>落後</KR>
 <ES>Camino</ES>
 <JP>トレイル</JP>
 <CN>特雷爾</CN>
@@ -130497,7 +130497,7 @@
 <HCS i="23258">
 <EN>BUY</EN>
 <DC>Perfect Team Max Buy Price</DC>
-<KR>BUY</KR>
+<KR>購買</KR>
 <ES>COMPRAR</ES>
 <JP>買う</JP>
 <CN>BUY</CN>
@@ -130611,7 +130611,7 @@
 </HCS>
 <HCS i="23279">
 <EN>SIERA (Skill-Interactive ERA</EN>
-<KR>SIERA (Skill-Interactive ERA</KR>
+<KR>SIERA (技能互動防禦率</KR>
 <ES>SIERA (ERA interactiva de habilidades)</ES>
 <JP>SIERA（スキルインタラクティブERA</JP>
 <CN>SIERA（技術互動ERA）</CN>
@@ -131672,7 +131672,7 @@
 </HCS>
 <HCS i="23460">
 <EN>The &#37;year &#37;tournament_name has announced the list of teams that will challenge for the &#37;championship_name this year. The teams competing this year will be:(nl)(nl</EN>
-<KR>The &#37;year &#37;tournament_name has announced the list of teams that will challenge for the &#37;championship_name this year. The teams competing this year will be:(nl)(nl</KR>
+<KR>%year 年的 %tournament_name 已公布今年將爭奪 %championship_name 的球隊名單。本屆參賽球隊如下：(nl)(nl</KR>
 <ES>El &#37;year &#37;tournament_name ha anunciado la lista de equipos que competirán por el &#37;championship_name este año. Los equipos que competirán este año serán:(nl)(nl</ES>
 <JP>％year％tournament_nameは、今年％championship_nameに挑戦するチームのリストを発表しました。今年のチームは次のようになります：（nl）（nl</JP>
 <CN>&#37;year&#37;tournament_name已公布今年將爭奪&#37;championship_name的球隊名單。今年參賽的球隊為：(nl)(nl</CN>
@@ -134214,7 +134214,7 @@
 <HCS i="23877">
 <EN>PBABIP P</EN>
 <DC>Pitcher&#39;s BABIP Rating Potential</DC>
-<KR>PBABIP P</KR>
+<KR>投球 BABIP 潛力</KR>
 <ES>PBABIP P</ES>
 <JP>PBABIP P</JP>
 <CN>PBABIP P</CN>
@@ -134222,7 +134222,7 @@
 <HCS i="23878">
 <EN>HRR P</EN>
 <DC>Pitcher&#39;s HR Rating Potential</DC>
-<KR>HRR P</KR>
+<KR>被全壘打率潛力</KR>
 <ES>HRR P</ES>
 <JP>HRR P</JP>
 <CN>HRR P</CN>
@@ -135186,14 +135186,14 @@
 </HCS>
 <HCS i="24039">
 <EN>nl)(nl)Based on our current financial position, I have decided to make the following adjustments to your budgets</EN>
-<KR>nl)(nl)Based on our current financial position, I have decided to make the following adjustments to your budgets</KR>
+<KR>nl)(nl)根據我們目前的財務狀況，我決定對您的預算進行以下調整</KR>
 <ES>nl)(nl)De acuerdo con nuestra posición financiera actual, he decidido hacer los siguientes ajustes a sus presupuestos</ES>
 <JP>nl)(nl)現在の財務状況に基づいて、予算を次のように調整することにしました</JP>
 <CN>nl)(nl)依據我們目前的財務狀況，我決定對預算進行以下調整</CN>
 </HCS>
 <HCS i="24040">
 <EN>nl)(nl)Based on our current financial position, I have decided to make the following adjustment to your budgets</EN>
-<KR>nl)(nl)Based on our current financial position, I have decided to make the following adjustment to your budgets</KR>
+<KR>nl)(nl)根據我們目前的財務狀況，我決定對您的預算進行以下調整</KR>
 <ES>nl)(nl)De acuerdo con nuestra posición financiera actual, he decidido hacer el siguiente ajuste a sus presupuestos</ES>
 <JP>nl)(nl)現在の財務状況に基づいて、あなたの予算を次のように調整することにしました</JP>
 <CN>nl)(nl)依據我們目前的財務狀況，我決定對預算進行以下調整</CN>
@@ -136657,7 +136657,7 @@
 <HCS i="24296">
 <EN>SUB</EN>
 <DC>pitcher throwing arm slot</DC>
-<KR>SUB</KR>
+<KR>替換</KR>
 <ES>SUB</ES>
 <JP>サブ</JP>
 <CN>SUB</CN>
@@ -138120,7 +138120,7 @@
 </HCS>
 <HCS i="24563">
 <EN>AVG &#37;avgl / &#37;avgr, HR &#37;hrl / &#37;hrr, 2B &#37;2b, 3B &#37;3b</EN>
-<KR>AVG &#37;avgl / &#37;avgr, HR &#37;hrl / &#37;hrr, 2B &#37;2b, 3B &#37;3b</KR>
+<KR>打擊率 %avgl / %avgr，全壘打 %hrl / %hrr，二壘安打 %2b，三壘安打 %3b</KR>
 <ES>AVG &#37;avgl / &#37;avgr, FC &#37;hrl / &#37;hrr, 2B &#37;2b, 3B &#37;3b</ES>
 <JP>平均 &#37;avgl / &#37;avgr、心拍数 &#37;hrl / &#37;hrr、2B &#37;2b、3B &#37;3b</JP>
 <CN>AVG&#37;avgl / &#37;avgr、HR&#37;hrl /&#37;hrr、2B&#37;2b、3B&#37;3b</CN>
@@ -139140,7 +139140,7 @@
 <HCS i="24732">
 <EN>T-&#37;d</EN>
 <DC>Tied-12</DC>
-<KR>T-&#37;d</KR>
+<KR>並列第 %d</KR>
 <ES>T-&#37;d</ES>
 <JP>T-&#37;d</JP>
 <CN>T-&#37;d</CN>
@@ -144500,7 +144500,7 @@
 </HCS>
 <HCS i="25699">
 <EN>YR/DH</EN>
-<KR>YR/DH</KR>
+<KR>年/DH</KR>
 <ES>AÑO/DH</ES>
 <JP>年/DH</JP>
 <CN>YR/DH</CN>
@@ -148185,7 +148185,7 @@
 </HCS>
 <HCS i="26312">
 <EN>At &#37;bp (AVG &#37;avgl/&#37;avgr, HR &#37;hrl/&#37;hrr, 2B &#37;2b, 3B &#37;3b</EN>
-<KR>At &#37;bp (AVG &#37;avgl/&#37;avgr, HR &#37;hrl/&#37;hrr, 2B &#37;2b, 3B &#37;3b</KR>
+<KR>在 %bp (打擊率 %avgl/%avgr，全壘打 %hrl/%hrr，二壘安打 %2b，三壘安打 %3b</KR>
 <ES>En &#37;bp (AVG &#37;avgl/&#37;avgr, HR &#37;hrl/&#37;hrr, 2B &#37;2b, 3B &#37;3b</ES>
 <JP>&#37;bp (平均 &#37;avgl/&#37;avgr、心拍数 &#37;hrl/&#37;hrr、2B &#37;2b、3B &#37;3b</JP>
 <CN>&#37;bp（AVG &#37;avgl/&#37;avgr、HR &#37;hrl/&#37;hrr、2B &#37;2b、3B &#37;3b</CN>
@@ -151573,14 +151573,14 @@
 </HCS>
 <HCS i="26834">
 <EN>The matchups are in!(nl)(nl</EN>
-<KR>The matchups are in!(nl)(nl</KR>
+<KR>對戰組合已出爐！(nl)(nl</KR>
 <ES>¡Los enfrentamientos ya están disponibles!(nl)(nl</ES>
 <JP>対戦が決まりました！(nl)(nl</JP>
 <CN>對戰組合已出爐！(nl)（nl</CN>
 </HCS>
 <HCS i="26835">
 <EN>The stage is set!(nl)(nl</EN>
-<KR>The stage is set!(nl)(nl</KR>
+<KR>舞台已準備就緒！(nl)(nl</KR>
 <ES>¡El escenario está listo!(nl)(nl</ES>
 <JP>舞台は整いました！(nl)(nl</JP>
 <CN>舞台已準備就緒！(nl)（nl</CN>
@@ -151650,14 +151650,14 @@
 </HCS>
 <HCS i="26845">
 <EN>nl)(nl)The teams competing will be : (nl)(nl</EN>
-<KR>nl)(nl)The teams competing will be : (nl)(nl</KR>
+<KR>nl)(nl)參賽隊伍如下：(nl)(nl</KR>
 <ES>nl)(nl)Los equipos que competirán serán: (nl)(nl</ES>
 <JP>nl)(nl)競技に参加するチームは次のとおりです: (nl)(nl</JP>
 <CN>nl）(nl)參賽球隊如下：(nl)（nl</CN>
 </HCS>
 <HCS i="26846">
 <EN>nl)(nl)The teams competing this year will be : (nl)(nl</EN>
-<KR>nl)(nl)The teams competing this year will be : (nl)(nl</KR>
+<KR>nl)(nl)本屆參賽隊伍如下：(nl)(nl</KR>
 <ES>nl)(nl)Los equipos que competirán este año serán: (nl)(nl</ES>
 <JP>nl)(nl)今年の出場チームは以下の通りです: (nl)(nl</JP>
 <CN>nl）(nl)今年參賽球隊如下：(nl)（nl</CN>
@@ -152352,7 +152352,7 @@
 </HCS>
 <HCS i="26949">
 <EN>With the success in the qualifier rounds of the &#37;tournament_name, you are in charge of &#37;nation for the next round of the championship. You may set the roster and make changes to the roster until the deadline&#37;deadline.(nl)(nl)Good Luck</EN>
-<KR>With the success in the qualifier rounds of the &#37;tournament_name, you are in charge of &#37;nation for the next round of the championship. You may set the roster and make changes to the roster until the deadline&#37;deadline.(nl)(nl)Good Luck</KR>
+<KR>憑藉在 %tournament_name 資格賽中的出色表現，您將在下一輪錦標賽中執掌 %nation。您可以在截止期限 %deadline 之前設定並調整名單。(nl)(nl)祝好運</KR>
 <ES>Tras el éxito en las rondas clasificatorias de &#37;tournament_name, estarás a cargo de &#37;nation para la siguiente ronda del campeonato. Puedes configurar la plantilla y realizar cambios hasta la fecha límite.(nl)(nl) ¡Buena suerte!</ES>
 <JP>&#37;tournament_name の予選ラウンドで成功を収めたあなたは、チャンピオンシップの次のラウンドで &#37;nation を担当します。締め切り &#37;deadline まで、名簿の設定や変更を行うことができます。(nl)(nl)幸運を祈ります</JP>
 <CN>在&#37;tournament_name資格賽成功後，你將負責&#37;nation進入冠軍賽下一輪。你可在截止日&#37;deadline前設定並調整球員名單。(nl)(nl)祝你好運</CN>
@@ -154127,7 +154127,7 @@
 <HCS i="27203">
 <EN>Avg EV</EN>
 <DC>Average Exit Velocity</DC>
-<KR>Avg EV</KR>
+<KR>平均擊球初速</KR>
 <ES>EV promedio</ES>
 <JP>平均EV</JP>
 <CN>Avg EV</CN>
@@ -154142,7 +154142,7 @@
 <HCS i="27205">
 <EN>Max EV</EN>
 <DC>Maximum Exit Velocity</DC>
-<KR>Max EV</KR>
+<KR>最高擊球初速</KR>
 <ES>EV máximo</ES>
 <JP>最大EV</JP>
 <CN>Max EV</CN>
@@ -154157,7 +154157,7 @@
 <HCS i="27207">
 <EN>Avg LA</EN>
 <DC>Average Launch Angle</DC>
-<KR>Avg LA</KR>
+<KR>平均仰角</KR>
 <ES>Promedio LA</ES>
 <JP>平均LA</JP>
 <CN>Avg LA</CN>
@@ -154299,7 +154299,7 @@
 </HCS>
 <HCS i="27227">
 <EN>AVG EV</EN>
-<KR>AVG EV</KR>
+<KR>平均擊球初速</KR>
 <ES>EV promedio</ES>
 <JP>平均EV</JP>
 <CN>AVG EV</CN>
@@ -154313,7 +154313,7 @@
 </HCS>
 <HCS i="27229">
 <EN>AVG LA</EN>
-<KR>AVG LA</KR>
+<KR>平均仰角</KR>
 <ES>AVG LA</ES>
 <JP>平均LA</JP>
 <CN>AVG LA</CN>
@@ -155225,7 +155225,7 @@
 </HCS>
 <HCS i="27355">
 <EN>FB Velo</EN>
-<KR>FB Velo</KR>
+<KR>速球球速</KR>
 <ES>FB Velo</ES>
 <JP>FBベロ</JP>
 <CN>FB Velo</CN>
@@ -155684,7 +155684,7 @@
 </HCS>
 <HCS i="27420">
 <EN>Sac Bunt to &#37;s - play at third, runner safe</EN>
-<KR>Sac Bunt to &#37;s - play at third, runner safe</KR>
+<KR>向 %s 犧牲短打 - 傳三壘，跑者安全上壘</KR>
 <ES>Sac Bunt a &#37;s - jugada en tercera, corredor a salvo</ES>
 <JP>&#37;s への犠牲バント - 三塁でプレイ、ランナーセーフ</JP>
 <CN>犧牲觸擊上壘 - 三壘有人，跑壘員安全上壘</CN>
@@ -156150,7 +156150,7 @@
 </HCS>
 <HCS i="27486">
 <EN>&#37;year Pitch Usage</EN>
-<KR>&#37;year Pitch Usage</KR>
+<KR>%year 球種使用率</KR>
 <ES>&#37;año de uso del tono</ES>
 <JP>&#37;yearピッチ使用量</JP>
 <CN>年度音調使用率</CN>
@@ -156339,7 +156339,7 @@
 </HCS>
 <HCS i="27513">
 <EN>&#37;team substitutions</EN>
-<KR>&#37;team substitutions</KR>
+<KR>%team 球員替換</KR>
 <ES>&#37; sustituciones de equipo</ES>
 <JP>チーム交代率</JP>
 <CN>球隊換人百分比</CN>
@@ -156535,7 +156535,7 @@
 </HCS>
 <HCS i="27541">
 <EN>Only Analytics (2015-&#37;d) era cards may be used</EN>
-<KR>Only Analytics (2015-&#37;d) era cards may be used</KR>
+<KR>僅限使用資料分析 (2015-%d) 年代球員卡</KR>
 <ES>Solo se pueden utilizar tarjetas de la era Analytics (2015-&#37;d)</ES>
 <JP>Analytics（2015-&#37;d）時代のカードのみ使用できます</JP>
 <CN>僅可使用 Analytics（2015 年至今）時代的卡片。</CN>
@@ -156598,7 +156598,7 @@
 </HCS>
 <HCS i="27550">
 <EN>Only Analytics (2015-&#37;d) era</EN>
-<KR>Only Analytics (2015-&#37;d) era</KR>
+<KR>僅限資料分析 (2015-%d) 年代</KR>
 <ES>Solo era de Analytics (2015-&#37;d)</ES>
 <JP>アナリティクス（2015-&#37;d）時代のみ</JP>
 <CN>僅限分析時代（2015 年至今）</CN>
@@ -156991,7 +156991,7 @@
 <HCS i="27606">
 <EN>AvK</EN>
 <DC>Avoid Strikeouts</DC>
-<KR>AvK</KR>
+<KR>避免三振</KR>
 <ES>AvK</ES>
 <JP>AvK</JP>
 <CN>AvK</CN>
@@ -157563,7 +157563,7 @@
 </HCS>
 <HCS i="27685">
 <EN>O-Swing&#37;</EN>
-<KR>O-Swing&#37;</KR>
+<KR>壞球揮棒率</KR>
 <ES>&#37; de oscilación O</ES>
 <JP>O-スイング&#37;</JP>
 <CN>O-Swing&#37;</CN>

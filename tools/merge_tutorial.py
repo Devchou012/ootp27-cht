@@ -63,6 +63,16 @@ def load_translations(path):
     return out, by_en
 
 
+# 補翻（2026-10-08 起）：i<TAB>KR|KRGROUP<TAB>中文，⏎ 代表換行（檔內是 CRLF）
+FIXES = {}
+_fx = os.path.join(os.path.dirname(os.path.abspath(__file__)), "tutorial_fixes.tsv")
+if os.path.exists(_fx):
+    for _l in open(_fx, encoding="utf-8"):
+        _p = _l.rstrip("\n").split("\t")
+        if len(_p) == 3:
+            FIXES[(_p[0], _p[1])] = html.escape(_p[2], quote=False).replace("⏎", "\r\n")
+
+
 def merge(base, old, out_path):
     translations, by_en = load_translations(old)
     stats = {"kept": 0, "by_english": 0, "from_english": 0, "untouched": 0, "no_source": 0}
@@ -77,7 +87,10 @@ def merge(base, old, out_path):
                 continue
 
             key = (i, kor)
-            if key in translations:
+            if key in FIXES:
+                new_val = FIXES[key]
+                stats["kept"] += 1
+            elif key in translations:
                 new_val = translations[key]
                 stats["kept"] += 1
             elif HANGUL_RE.search(html.unescape(cur)):
