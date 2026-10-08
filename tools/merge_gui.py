@@ -425,6 +425,15 @@ OVERRIDES.update(OVERRIDES_LEAGUE)
 OVERRIDES.update(OVERRIDES_HCS)
 OVERRIDES.update(OVERRIDES_PH)
 
+# 審稿修正（2026-10-08 起）：i<TAB>中文，⏎ 代表換行。量大不適合寫在程式裡。
+_FIXES = os.path.join(os.path.dirname(os.path.abspath(__file__)), "gui_fixes.tsv")
+if os.path.exists(_FIXES):
+    with open(_FIXES, encoding="utf-8") as _f:
+        for _line in _f:
+            _i, _, _zh = _line.rstrip("\n").partition("\t")
+            if _zh:
+                OVERRIDES[_i] = _zh.replace("⏎", "\n")
+
 
 # ---------------------------------------------------------------------------
 # 球隊名稱（TEAM_NAMES / TEAM_NICKNAMES）

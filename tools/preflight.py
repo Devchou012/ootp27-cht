@@ -23,7 +23,9 @@ FILES = [
     "database/names.xml", "database/schools.xml", "database/world_default.xml",
     "database/injuries_korean.txt", "database/off_field_injuries_korean.txt",
     "misc/hints_korean.txt", "misc/historical_recaps_korean.txt",
-]
+    "storylines/default/storylines_korean.xml", "database/team_nick_names.xml",
+    "license_korean.txt",
+] + ["strategy_profiles/" + f for f in sorted(os.listdir(os.path.join(ROOT, "strategy_profiles")))]
 BARE_AMP = re.compile(rb"&(?!#\d+;|#x[0-9a-fA-F]+;|[A-Za-z]+;)")
 DOUBLE = re.compile(rb"[^\s\"<>]*&amp;(?:#\d+|[A-Za-z]+);[^\s\"<>]*")
 
@@ -59,7 +61,7 @@ def main(argv):
             if extra:
                 bad.append(f"{rel}: 雙重跳脫 {len(extra)} 種原檔沒有的寫法，例 "
                            + b" ".join(sorted(extra)[:3]).decode("utf-8", "replace"))
-        elif gb.count(b"\n") != ob.count(b"\n"):
+        elif rel != "license_korean.txt" and gb.count(b"\n") != ob.count(b"\n"):  # 授權條款整份換英文版
             n_g, n_o = gb.count(b"\n"), ob.count(b"\n")
             bad.append(f"{rel}: 行數 原={n_g} 成品={n_o}")
         print(f"  檢查完 {rel}")

@@ -26,12 +26,13 @@ from apply_zh import check  # noqa: E402  佔位符、引號、< > &、殘留英
 
 BASE_KR = "temp/storylines_korean.xml"
 BASE_EN = "temp/storylines_english.xml"
-OUT = "storylines/storylines_korean.xml"
+OUT = "storylines/default/storylines_korean.xml"
 
 ART_RE = re.compile(r'(<ARTICLE id="(\d+)"[^>]*>\s*<SUBJECT>)(.*?)(</SUBJECT>\s*<TEXT>)(.*?)(</TEXT>)', re.S)
 HANGUL_RE = re.compile(r"[가-힣ᄀ-ᇿ㄰-㆏]")
 CJK_RE = re.compile(r"[一-鿿]")
 CHOICE_RE = re.compile(r"\[(?!%)[^\]]*\]")
+INJ_RE = re.compile(r"<INJURY_DESCRIPTION>(.*?)</INJURY_DESCRIPTION>")
 
 
 def read(p):
@@ -103,7 +104,16 @@ def apply(paths):
             parts.append(val)
         return m.group(1) + parts[0] + m.group(4) + parts[1] + m.group(6)
 
-    write(OUT, ART_RE.sub(sub, cur))
+    out = ART_RE.sub(sub, cur)
+
+    # 傷兵名單上的缺陣原因：照順序對英文檔，查 storyline_injuries.tsv，查不到用英文
+    inj_tsv = os.path.join(os.path.dirname(os.path.abspath(__file__)), "storyline_injuries.tsv")
+    table = dict(l.rstrip("\n").split("\t", 1) for l in open(inj_tsv, encoding="utf-8") if "\t" in l)
+    en_inj = iter(INJ_RE.findall(read(BASE_EN)))
+    out = INJ_RE.sub(lambda m: f"<INJURY_DESCRIPTION>{table.get((e := next(en_inj)), e)}</INJURY_DESCRIPTION>", out)
+    if "\r\n" not in read(BASE_KR):  # 27 版韓文檔是 LF，英文檔是 CRLF，照韓文檔
+        out = out.replace("\r\n", "\n")
+    write(OUT, out)
     print(f"套用 {len(rows)} 筆 -> {OUT}")
     return verify()
 
@@ -117,16 +127,16 @@ def verify():
     except ET.ParseError as e:
         print(f"  XML 解析失敗        : {e}")
         ok = False
-    shape = lambda s: ART_RE.sub(lambda m: m.group(1) + m.group(4) + m.group(6), s)
+    shape = lambda s: INJ_RE.sub("", ART_RE.sub(lambda m: m.group(1) + m.group(4) + m.group(6), s))
     drift = shape(out) != shape(base)
     print(f"  標題內文以外偏離基底: {'有' if drift else '0'}")
     arts = list(ART_RE.finditer(out))
-    han = sum(bool(HANGUL_RE.search(m.group(3) + m.group(5))) for m in arts)
+    han = len(HANGUL_RE.findall(out))  # 整份檔，含傷病描述
     bad_ph = [m.group(2) for m in arts
               if sorted(re.findall(r"\[%[^\]]*\]", html.unescape(m.group(3) + m.group(5))))
               != sorted(re.findall(r"\[%[^\]]*\]", html.unescape("".join(en[m.group(2)]))))]
     zh = sum(bool(CJK_RE.search(m.group(5))) for m in arts)
-    print(f"  殘留韓文篇數        : {han}")
+    print(f"  殘留韓文字數        : {han}")
     print(f"  佔位符與英文對不上  : {len(bad_ph)}", bad_ph[:5] if bad_ph else "")
     print(f"  中文化進度          : {zh} / {len(arts)}")
     ok = ok and not drift and not han and not bad_ph
