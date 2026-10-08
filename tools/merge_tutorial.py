@@ -46,20 +46,26 @@ def tag_value(body, tag):
 
 
 def load_translations(path):
-    """撈出舊檔所有含中日文的 <KR>/<KRGROUP>，key 為 (i, tag)。"""
-    out = {}
+    """撈出舊檔所有含中日文的 <KR>/<KRGROUP>。
+
+    回傳 (以 (i, tag) 為 key, 以英文原文為 key)；後者給改版後編號變了的條目用。
+    """
+    out, by_en = {}, {}
     for m in TI_RE.finditer(read(path)):
         i = re.search(r'i="(\d+)"', m.group("attrs")).group(1)
         for kor in KOR_TO_ENG:
             v = tag_value(m.group("body"), kor)
             if v is not None and CJK_RE.search(html.unescape(v)):
                 out[(i, kor)] = v
-    return out
+                en = tag_value(m.group("body"), KOR_TO_ENG[kor])
+                if en:
+                    by_en.setdefault(en, v)
+    return out, by_en
 
 
 def merge(base, old, out_path):
-    translations = load_translations(old)
-    stats = {"kept": 0, "from_english": 0, "untouched": 0, "no_source": 0}
+    translations, by_en = load_translations(old)
+    stats = {"kept": 0, "by_english": 0, "from_english": 0, "untouched": 0, "no_source": 0}
 
     def fix_ti(m):
         i = re.search(r'i="(\d+)"', m.group("attrs")).group(1)
@@ -79,7 +85,11 @@ def merge(base, old, out_path):
                 if new_val is None:
                     stats["no_source"] += 1
                     continue
-                stats["from_english"] += 1
+                if new_val in by_en:
+                    new_val = by_en[new_val]
+                    stats["by_english"] += 1
+                else:
+                    stats["from_english"] += 1
             else:
                 stats["untouched"] += 1
                 continue
@@ -100,6 +110,7 @@ def merge(base, old, out_path):
     print(f"基底 {base} + 翻譯 {old} -> {out_path}")
     print(f"  舊檔可用的中文翻譯 : {len(translations)}")
     print(f"  保留中文翻譯       : {stats['kept']}")
+    print(f"  英文原文比對補回   : {stats['by_english']}")
     print(f"  韓文改填英文       : {stats['from_english']}")
     print(f"  原樣保留(非韓文)   : {stats['untouched']}")
     if stats["no_source"]:
@@ -154,12 +165,12 @@ def verify(out_path, base, old):
     print(f"  其他標籤偏離基底      : {drift}", examples if examples else "")
     ok = ok and drift == 0
 
-    # 舊檔的中文翻譯必須全數保留
+    # 舊檔的中文翻譯必須全數保留（基底已刪掉的條目或標籤不算）
     lost = []
     for i, (_, fields) in D.items():
         for kor in KOR_TO_ENG:
             v = fields[kor]
-            if v is not None and CJK_RE.search(u(v)):
+            if i in B and B[i][1][kor] is not None and v is not None and CJK_RE.search(u(v)):
                 if i not in O or O[i][1][kor] != v:
                     lost.append((i, kor))
     print(f"  遺失的中文翻譯        : {len(lost)}", lost[:5] if lost else "")

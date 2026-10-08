@@ -976,6 +976,21 @@ def placeholders_match(en, kr):
     return not rest
 
 
+def fix_cn_placeholders(kr, en):
+    """修 <CN> 機翻常見的佔位符毛病；修不好回傳 None。
+
+    - {nl} 被寫成 (nl)
+    - 佔位符後面直接黏英文字（%roundMVP），遊戲會當成另一個變數名
+    """
+    kr = kr.replace("(nl)", "{nl}")
+    for token in set(PLACEHOLDER_RE.findall(en)):
+        if token.startswith("%"):
+            # 原始檔的 % 可能寫成 &#37;
+            kr = re.sub(r"(?:%|&#37;)" + re.escape(token[1:]) + r"(?=[A-Za-z])",
+                        lambda m: m.group(0) + " ", kr)
+    return kr if placeholders_match(en, html.unescape(kr)) else None
+
+
 def read(path):
     with open(path, encoding="utf-8", newline="") as f:
         return f.read()
@@ -1027,8 +1042,15 @@ def merge(base, old, out_path):
                 new = old_entries[i][1]["KR"]
                 stats["kept"] += 1
             elif section in CN_FILL_SECTIONS and CJK_RE.search(html.unescape(cn)):
-                new = DOUBLE_ESCAPED_RE.sub(r"&\1;", convert(cn))
-                stats["from_cn"] += 1
+                new = fix_cn_placeholders(
+                    DOUBLE_ESCAPED_RE.sub(r"&\1;", convert(cn)),
+                    html.unescape(tag_value(body, "EN") or ""))
+                if new is None:
+                    # 佔位符修不回來，遊戲會印錯字，寧可顯示英文
+                    new = tag_value(body, "EN")
+                    stats["from_en"] += 1
+                else:
+                    stats["from_cn"] += 1
             elif (section in CN_FILL_SECTIONS
                   and HANGUL_RE.search(html.unescape(cur))):
                 new = tag_value(body, "EN")
@@ -1093,11 +1115,12 @@ def verify(out_path, base, old):
     print(f"  其他標籤偏離基底      : {len(drift)}", drift[:3] if drift else "")
     ok = ok and not drift
 
-    # 舊檔既有的中文翻譯不能掉（OVERRIDES 是刻意改的，排除）
+    # 舊檔既有的中文翻譯不能掉（OVERRIDES 是刻意改的、基底已刪的條目，排除）
     lost = []
     for i, (_, f) in D.items():
         kr = f["KR"]
-        if (i in OVERRIDES or D[i][0] in TEAM_SECTIONS or kr is None or kr == f["CN"]
+        if (i in OVERRIDES or i not in B or D[i][0] in TEAM_SECTIONS or kr is None
+                or kr == f["CN"]
                 or not CJK_RE.search(html.unescape(kr))):
             continue
         expect = apply_terms(D[i][0], html.unescape(f["EN"] or ""), kr)

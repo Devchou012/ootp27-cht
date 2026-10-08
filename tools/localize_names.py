@@ -79,7 +79,8 @@ def verify(path, src=None):
         if en is None or kr is None or en.group(1) != kr.group(1):
             mismatched += 1
 
-    hangul = len(HANGUL_RE.findall(out))
+    # 只看 <KR>：27 版官方 <CN>/<ES> 本身就混了 44 個韓文字，不歸我們管
+    hangul = len(HANGUL_RE.findall("".join(KR_RE.findall(out))))
 
     print(f"檢查 {path}")
     print(f"  記錄數        : {len(records)}")
