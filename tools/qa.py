@@ -123,8 +123,11 @@ def find_term_issues(
     findings = []
     seen = set()
 
+    abbr_file = Path(__file__).with_name("stat_abbr.txt")
+    abbr = ({w.strip() for w in abbr_file.open(encoding="utf-8") if w.strip() and not w.startswith("#")}
+            if abbr_file.exists() else set())
     for term, required in terms:
-        if not is_short_term(term):
+        if not is_short_term(term) or term in abbr:  # 數據縮寫保留原文（10-10），不要求中文
             continue
         # 全大寫縮寫（ERA、PCT）大小寫要相符，免得撞到 Era、Pct
         flags = 0 if term.isupper() else re.IGNORECASE
@@ -157,7 +160,9 @@ def find_banned_words(
                 continue
             if word == "總管" and "總管理" in kr:
                 continue
-            if word == "賽季" and "賽季" not in kr.replace("休賽季", ""):  # 休賽季是台灣用法
+            if word == "賽季" and "賽季" not in kr.replace("休賽季", "").replace("錦標賽季", ""):  # 休賽季、錦標賽＋季前賽
+                continue
+            if word == "總管" and "遊戲總管" in kr:  # Windows 遊戲總管是微軟官方譯名
                 continue
             findings.append((index, word, kr))
 

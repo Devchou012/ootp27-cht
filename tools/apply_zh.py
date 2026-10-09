@@ -13,17 +13,23 @@ id<TAB>中文 餵回來就好（多欄的話取第一欄當 id、最後一欄當
 """
 
 import html
+import os
 import re
 import sys
 
 TARGET = "text/korean.xml"
+ENGLISH = "temp/english.xml"  # 27 版英文原檔，佔位符以它為準
 
 PLACEHOLDER_RE = re.compile(r"\[%[^\]]*\]")
 BRACE_RE = re.compile(r"\{[^}]*\}")
 ASCII_WORD_RE = re.compile(r"[A-Za-z]{2,}")
 
 # gui_translations.xml 裡照原樣留著的專有名詞，殘留英文檢查要放行
-KEEP_EN = {"BNN"}
+KEEP_EN = {"BNN", "DJ", "OK", "CrossFit"}  # 通用外來語與品牌名
+# 數據縮寫保留原文（董事長 10-10）
+_ABBR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "stat_abbr.txt")
+if os.path.exists(_ABBR):
+    KEEP_EN |= {w.strip() for w in open(_ABBR, encoding="utf-8") if w.strip() and not w.startswith("#")}
 
 
 def strip_markup(s):
@@ -51,8 +57,10 @@ def check(oid, en, zh):
     zh_arity = {b.count("|") for b in BRACE_RE.findall(zh)}
     if zh_arity - en_arity:
         bad.append(f"{{a|b}} 分支數不符 {sorted(en_arity)} -> {sorted(zh_arity)}")
+    # 人名與數據縮寫照英文保留是對的（董事長 10-10），只擋英文原文裡沒有的字
+    en_words = set(ASCII_WORD_RE.findall(en))
     left = [w for w in ASCII_WORD_RE.findall(strip_markup(zh))
-            if w not in KEEP_EN]
+            if w not in KEEP_EN and w not in en_words]
     if left:
         bad.append(f"殘留英文單字 {left}")
     return [f"{oid}: {m}" for m in bad]
@@ -80,6 +88,15 @@ def main(argv):
         sys.exit(__doc__)
     rows = load(argv[0])
 
+    # 佔位符要對英文原文比，不是對目前的中文（目前中文可能本來就漏了佔位符）
+    english = {}
+    if os.path.exists(ENGLISH):
+        etext = re.sub(r"<!--.*?-->", "", open(ENGLISH, encoding="utf-8").read(), flags=re.S)
+        for b in re.findall(r"<OBJ [^>]*?(?:/>|>.*?</OBJ>)", etext, re.S):
+            m = re.search(r'text="([^"]*)"', b) or re.search(r"<TXT>(.*?)</TXT>", b, re.S)
+            if m:
+                english[re.match(r'<OBJ id="(\d+)"', b).group(1)] = html.unescape(m.group(1))
+
     with open(TARGET, encoding="utf-8", newline="") as f:
         text = f.read()
 
@@ -96,7 +113,7 @@ def main(argv):
                           (r"<TXT>(.*?)</TXT>", "<TXT>%s</TXT>")):
             hit = re.search(pat, block, re.S)
             if hit:
-                problems.extend(check(oid, html.unescape(hit.group(1)), zh))
+                problems.extend(check(oid, english.get(oid, html.unescape(hit.group(1))), zh))
                 hits[oid] = hits.get(oid, 0) + 1
                 return block.replace(hit.group(0), wrap % zh, 1)
         return block

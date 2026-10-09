@@ -56,8 +56,8 @@ def load_translations(path):
         for kor in KOR_TO_ENG:
             v = tag_value(m.group("body"), kor)
             if v is not None and CJK_RE.search(html.unescape(v)):
-                out[(i, kor)] = v
                 en = tag_value(m.group("body"), KOR_TO_ENG[kor])
+                out[(i, kor)] = (v, en)  # 連同當時的英文，換版後英文不同就不能照編號沿用
                 if en:
                     by_en.setdefault(en, v)
     return out, by_en
@@ -90,9 +90,13 @@ def merge(base, old, out_path):
             if key in FIXES:
                 new_val = FIXES[key]
                 stats["kept"] += 1
-            elif key in translations:
-                new_val = translations[key]
+            elif key in translations and translations[key][1] == tag_value(body, eng):
+                new_val = translations[key][0]
                 stats["kept"] += 1
+            elif tag_value(body, eng) in by_en:
+                # 27 版同編號換了內容（10-10 審稿發現教學大量錯位）：只認英文完全相同的舊翻譯
+                new_val = by_en[tag_value(body, eng)]
+                stats["by_english"] += 1
             elif HANGUL_RE.search(html.unescape(cur)):
                 new_val = tag_value(body, eng)
                 if new_val is None:
@@ -178,12 +182,14 @@ def verify(out_path, base, old):
     print(f"  其他標籤偏離基底      : {drift}", examples if examples else "")
     ok = ok and drift == 0
 
-    # 舊檔的中文翻譯必須全數保留（基底已刪掉的條目或標籤不算）
+    # 舊檔的中文翻譯必須全數保留（基底已刪掉的條目或標籤、英文已換內容的、補翻表改過的不算）
     lost = []
     for i, (_, fields) in D.items():
         for kor in KOR_TO_ENG:
             v = fields[kor]
-            if i in B and B[i][1][kor] is not None and v is not None and CJK_RE.search(u(v)):
+            eng = KOR_TO_ENG[kor]
+            if (i in B and B[i][1][kor] is not None and v is not None and CJK_RE.search(u(v))
+                    and fields[eng] == B[i][1][eng] and (i, kor) not in FIXES):
                 if i not in O or O[i][1][kor] != v:
                     lost.append((i, kor))
     print(f"  遺失的中文翻譯        : {len(lost)}", lost[:5] if lost else "")

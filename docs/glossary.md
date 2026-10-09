@@ -102,12 +102,12 @@
 - pitching coach → 投手教練
 - base coach → 壘指導教練
 - manager → 總教練
-- general manager → 總管
+- general manager → 總經理
 - ballpark → 球場
 - waiver → 讓渡
 - DFA → 指定讓渡
 - arbitration → 仲裁
-- Rule 5 → 規則 5（選秀）
+- Rule 5 → 規則五（選秀）
 - option → 選擇權
 - platoon → 分組（疑似機翻）
 - service time → 服役年限
