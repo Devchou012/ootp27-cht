@@ -63,9 +63,9 @@
 - swing → 揮棒
 - batting cage → 打擊籠
 - bunt / bunting → 觸擊（短打）
-- sacrifice bunt → 犧牲短打（犧牲觸擊）
+- sacrifice bunt → 犧牲短打（犧牲短打）
 - bunt for a hit → 觸擊上壘（突襲短打）
-- sacrifice fly → 高飛犧牲打
+- sacrifice fly → 犧牲飛球
 - double play → 雙殺
 - steal / base-stealing → 盜壘
 - baserunning / basepaths → 跑壘
@@ -100,7 +100,7 @@
 - plyometrics → 增強式訓練
 - biomechanics → 生物力學
 - pitching coach → 投手教練
-- base coach → 壘指導教練
+- base coach → 壘指導員
 - manager → 總教練
 - general manager → 總經理
 - ballpark → 球場

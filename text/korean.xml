@@ -187458,7 +187458,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 </CAT>
 
 <CAT id="960">
-<OBJ id="60137" text="[%personname l] 完成本季第 [%batting sh] 次犧牲觸擊。"/><!--
+<OBJ id="60137" text="[%personname l] 完成本季第 [%batting sh] 次犧牲短打。"/><!--
 <OBJ id="60138" text="That's a sac hit for [%personname l], number [%batting sh] this year."/>
 <OBJ id="60139" text="It's scored a sacrifice hit."/>
 <OBJ id="60140" text="A successful sacrifice bunt."/>
@@ -193970,19 +193970,19 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 </CAT>
 
 <CAT id="1128">
-<OBJ id="67071" text="球員將與球團的壘指導教練密切合作，提升跑壘能力。這項計畫包含各種場上訓練、判讀球路與影像課程。">
+<OBJ id="67071" text="球員將與球團的壘指導員密切合作，提升跑壘能力。這項計畫包含各種場上訓練、判讀球路與影像課程。">
 <COND id="142" value="1985"/>
 </OBJ>
-<OBJ id="67101" text="球員將與球團的壘指導教練密切合作，提升跑壘能力。這項計畫包含各種場上訓練、判讀球路，以及改善滑壘與腳步。">
+<OBJ id="67101" text="球員將與球團的壘指導員密切合作，提升跑壘能力。這項計畫包含各種場上訓練、判讀球路，以及改善滑壘與腳步。">
 <COND id="143" value="1984"/>
 </OBJ>
 </CAT>
 
 <CAT id="1130">
-<OBJ id="67099" text="球員將與球團的壘指導教練密切合作，提升盜壘能力。這項計畫包含各種場上訓練、判讀投手動作與影像課程。">
+<OBJ id="67099" text="球員將與球團的壘指導員密切合作，提升盜壘能力。這項計畫包含各種場上訓練、判讀投手動作與影像課程。">
 <COND id="142" value="1985"/>
 </OBJ>
-<OBJ id="67114" text="球員將與球團的壘指導教練密切合作，提升盜壘能力。這項計畫包含各種場上訓練、判讀投手動作、腳步與滑壘。">
+<OBJ id="67114" text="球員將與球團的壘指導員密切合作，提升盜壘能力。這項計畫包含各種場上訓練、判讀投手動作、腳步與滑壘。">
 <COND id="143" value="1984"/>
 </OBJ>
 </CAT>

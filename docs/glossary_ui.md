@@ -60,7 +60,7 @@ K	三振
 SB	盜壘
 CS	盜壘失敗
 HBP	觸身球
-SF	高飛犧牲打
+SF	犧牲飛球
 SH	犧牲短打
 GIDP	雙殺打
 TB	壘打數
@@ -241,7 +241,7 @@ Elimination Number	淘汰指數
 # SB → 盜壘 ｜repo（相關條目5筆）：盜壘1、英文保留4 ｜依據：CPBL官網 https://www.cpbl.com.tw/standings/season、/stats/recordall、/stats/toplist（2026-10-09 擷取）
 # CS → 盜壘失敗 ｜repo（相關條目6筆）：英文保留6 ｜依據：維基百科「棒球統計」 https://zh.wikipedia.org/wiki/棒球統計（版本 2026-08-03）
 # HBP → 觸身球 ｜repo（相關條目2筆）：英文保留2 ｜依據：維基百科「棒球統計」 https://zh.wikipedia.org/wiki/棒球統計（版本 2026-08-03）；docs/glossary.md（本專案比賽播報術語表）
-# SF → 高飛犧牲打 ｜repo（相關條目8筆）：英文保留8 ｜依據：維基百科「棒球統計」 https://zh.wikipedia.org/wiki/棒球統計（版本 2026-08-03）；docs/glossary.md（本專案比賽播報術語表）
+# SF → 犧牲飛球 ｜repo（相關條目8筆）：英文保留8 ｜依據：維基百科「棒球統計」 https://zh.wikipedia.org/wiki/棒球統計（版本 2026-08-03）；docs/glossary.md（本專案比賽播報術語表）
 # SH → 犧牲短打 ｜repo（相關條目4筆）：英文保留4 ｜依據：docs/glossary.md（本專案比賽播報術語表）；維基百科「棒球統計」 https://zh.wikipedia.org/wiki/棒球統計（版本 2026-08-03）
 # GIDP → 雙殺打 ｜repo（相關條目2筆）：雙殺打2 ｜依據：CPBL官網 https://www.cpbl.com.tw/standings/season、/stats/recordall、/stats/toplist（2026-10-09 擷取）
 # TB → 壘打數 ｜repo（相關條目4筆）：英文保留4 ｜依據：CPBL官網 https://www.cpbl.com.tw/standings/season、/stats/recordall、/stats/toplist（2026-10-09 擷取）；維基百科「棒球統計」 https://zh.wikipedia.org/wiki/棒球統計（版本 2026-08-03）
@@ -385,7 +385,7 @@ Elimination Number	淘汰指數
 # [爭議] K：同 SO
 # [爭議] CS：CPBL 欄位「盜壘刺」，維基「盜壘失敗」
 # [爭議] HBP：glossary「觸身球」，CPBL 欄位「死球」
-# [爭議] SH：glossary 主「犧牲短打」，維基「犧牲觸擊」，CPBL「犧短」
+# [爭議] SH：glossary 主「犧牲短打」，維基「犧牲短打」，CPBL「犧短」
 # [爭議] BF：CPBL「面對打席」，維基「投球人次」
 # [爭議] RF：維基未譯；repo 僅 Range Factor → 守備範圍指數
 # [爭議] Range Factor：同 RF；ZR 在 repo 譯「守備範圍」，兩者易混

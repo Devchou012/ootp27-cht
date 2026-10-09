@@ -4910,7 +4910,7 @@
 </HCS>
 <HCS i="723">
 <EN>Sac Flies</EN>
-<KR>高飛犧牲打</KR>
+<KR>犧牲飛球</KR>
 <ES>Moscas del saco</ES>
 <JP>犠牲フライ</JP>
 <CN>高飛犧牲打</CN>
@@ -8458,14 +8458,14 @@
 </HCS>
 <HCS i="1254">
 <EN>Include Base Coaches</EN>
-<KR>包含壘指導教練</KR>
+<KR>包含壘指導員</KR>
 <ES>Incluir Entrenadores Base</ES>
 <JP>ベースコーチを含める</JP>
 <CN>包含跑壘教練</CN>
 </HCS>
 <HCS i="1255">
 <EN>Generate Base Coaches</EN>
-<KR>產生壘指導教練</KR>
+<KR>產生壘指導員</KR>
 <ES>Generar Entrenadores Base</ES>
 <JP>ベースコーチを生成する</JP>
 <CN>產生跑壘教練</CN>
@@ -12165,7 +12165,7 @@
 </HCS>
 <HCS i="1817">
 <EN>Base Coaches Created</EN>
-<KR>已建立壘指導教練</KR>
+<KR>已建立壘指導員</KR>
 <ES>Entrenadores base creados</ES>
 <JP>作成されたベースコーチ</JP>
 <CN>已建立跑壘教練</CN>
@@ -16132,7 +16132,7 @@
 </HCS>
 <HCS i="2395">
 <EN>Catcher&#39;s ERA</EN>
-<KR>捕手防禦率</KR>
+<KR>捕手 ERA</KR>
 <ES>ERA del receptor</ES>
 <JP>捕手防御率</JP>
 <CN>捕手防禦率</CN>
@@ -16500,7 +16500,7 @@
 </HCS>
 <HCS i="2448">
 <EN>HR against</EN>
-<KR>被全壘打</KR>
+<KR>被 HR</KR>
 <ES>recursos humanos contra</ES>
 <JP>に対するHR</JP>
 <CN>被全壘打數</CN>
@@ -21495,7 +21495,7 @@
 </HCS>
 <HCS i="3187">
 <EN>Relief Pitching Fatigue Level</EN>
-<KR>救援投手疲勞度</KR>
+<KR>後援投手疲勞度</KR>
 <ES>Nivel de fatiga de lanzamiento de relevo</ES>
 <JP>リリーフピッチング倦怠感レベル</JP>
 <CN>後援投球疲勞程度</CN>
@@ -32831,7 +32831,7 @@
 </HCS>
 <HCS i="4961">
 <EN>&#37;b AB, &#37;a</EN>
-<KR>&#37;b 打數，&#37;a</KR>
+<KR>%b AB，%a</KR>
 <ES>&#37;b AB, &#37;a</ES>
 <JP>％b AB、％a</JP>
 <CN>&#37;b 打數，&#37;a</CN>
@@ -34508,7 +34508,7 @@
 </HCS>
 <HCS i="5199">
 <EN>&#37;b hits a sacrifice fly</EN>
-<KR>%b 擊出高飛犧牲打</KR>
+<KR>%b 擊出犧牲飛球</KR>
 <ES>&#37;b golpea una mosca de sacrificio</ES>
 <JP>％bが犠牲フライに当たる</JP>
 <CN>&#37;b擊出高飛犧牲打</CN>
@@ -39416,7 +39416,7 @@
 </HCS>
 <HCS i="5916">
 <EN>Sacrifice Flies against</EN>
-<KR>被高飛犧牲打</KR>
+<KR>被犧牲飛球</KR>
 <ES>Sacrificar moscas contra</ES>
 <JP>犠牲フライに対して</JP>
 <CN>被高飛犧牲打數</CN>
@@ -41539,7 +41539,7 @@
 </HCS>
 <HCS i="6241">
 <EN>SB Runs Value</EN>
-<KR>盜壘得分貢獻</KR>
+<KR>SB 得分貢獻</KR>
 <ES>Valor de ejecución de SB</ES>
 <JP>SBランバリュー</JP>
 <CN>盜壘得分貢獻值</CN>
@@ -48551,14 +48551,14 @@
 </HCS>
 <HCS i="7359">
 <EN>HR Seasons</EN>
-<KR>全壘打球季</KR>
+<KR>HR 球季</KR>
 <ES>Temporadas de recursos humanos</ES>
 <JP>HRシーズン</JP>
 <CN>全壘打賽季</CN>
 </HCS>
 <HCS i="7360">
 <EN>RBI Seasons</EN>
-<KR>打點球季</KR>
+<KR>RBI 球季</KR>
 <ES>Temporadas impulsadas</ES>
 <JP>RBIシーズン</JP>
 <CN>打點賽季</CN>
@@ -51126,7 +51126,7 @@
 <HCS i="7818">
 <EN>Last GB</EN>
 <DC>Games Back</DC>
-<KR>最後勝差</KR>
+<KR>去年 GB</KR>
 <ES>últimos GB</ES>
 <JP>最後のGB</JP>
 <CN>最近一次滾地球</CN>
@@ -51694,7 +51694,7 @@
 </HCS>
 <HCS i="7900">
 <EN>HR Allowed</EN>
-<KR>被全壘打數</KR>
+<KR>被 HR</KR>
 <ES>Recursos humanos permitidos</ES>
 <JP>HR許可</JP>
 <CN>被全壘打</CN>
@@ -52786,7 +52786,7 @@
 </HCS>
 <HCS i="8058">
 <EN>SB Att</EN>
-<KR>盜壘嘗試</KR>
+<KR>SB 嘗試</KR>
 <ES>Asistente de SB</ES>
 <JP>SBAtt</JP>
 <CN>盜壘嘗試</CN>
@@ -53375,7 +53375,7 @@
 <HCS i="8142">
 <EN>Last PCT</EN>
 <DC>Abbreviation for statistic Percentage</DC>
-<KR>去年勝率</KR>
+<KR>去年 PCT</KR>
 <ES>Último PCT</ES>
 <JP>最後のPCT</JP>
 <CN>去年百分比</CN>
@@ -54358,7 +54358,7 @@
 </HCS>
 <HCS i="8282">
 <EN>Sac Fly</EN>
-<KR>高飛犧牲打</KR>
+<KR>犧牲飛球</KR>
 <ES>mosca del saco</ES>
 <JP>犠牲フライ</JP>
 <CN>高飛犧牲打</CN>
@@ -56759,7 +56759,7 @@
 </HCS>
 <HCS i="8626">
 <EN>&#37;d RBI</EN>
-<KR>&#37;d 分打點</KR>
+<KR>%d RBI</KR>
 <ES>&#37;d carrera impulsada</ES>
 <JP>％d RBI</JP>
 <CN>&#37;d打點</CN>
@@ -56822,7 +56822,7 @@
 </HCS>
 <HCS i="8635">
 <EN>&#37;d sac flies</EN>
-<KR>%d 支高飛犧牲打</KR>
+<KR>%d 支犧牲飛球</KR>
 <ES>&#37;d moscas del saco</ES>
 <JP>％d犠牲フライ</JP>
 <CN>&#37;d高飛犧牲打</CN>
@@ -57925,14 +57925,14 @@
 </HCS>
 <HCS i="8794">
 <EN>HR Overall</EN>
-<KR>整體全壘打</KR>
+<KR>整體 HR</KR>
 <ES>Recursos humanos en general</ES>
 <JP>HR全体</JP>
 <CN>整體全壘打</CN>
 </HCS>
 <HCS i="8795">
 <EN>AVG Overall</EN>
-<KR>整體打擊率</KR>
+<KR>整體 AVG</KR>
 <ES>Promedio general</ES>
 <JP>AVG全体</JP>
 <CN>整體打擊率</CN>
@@ -58531,7 +58531,7 @@
 </HCS>
 <HCS i="8880">
 <EN>Base Coach</EN>
-<KR>壘上教練</KR>
+<KR>壘指導員</KR>
 <ES>Entrenador base</ES>
 <JP>ベースコーチ</JP>
 <CN>跑壘教練</CN>
@@ -60059,7 +60059,7 @@
 </HCS>
 <HCS i="9091">
 <EN>sacrifice flies</EN>
-<KR>高飛犧牲打</KR>
+<KR>犧牲飛球</KR>
 <ES>sacrificar moscas</ES>
 <JP>犠牲フライ</JP>
 <CN>高飛犧牲打</CN>
@@ -67398,7 +67398,7 @@
 </HCS>
 <HCS i="10151">
 <EN>Hire Base Coaches + Set Staff Roles</EN>
-<KR>聘請壘上教練＋設定教練團職務</KR>
+<KR>聘請壘指導員＋設定教練團職務</KR>
 <ES>Contratar entrenadores de base + Establecer roles de personal</ES>
 <JP>ベースコーチを雇う+スタッフの役割を設定する</JP>
 <CN>僱用跑壘教練+設定人員角色</CN>
@@ -72483,7 +72483,7 @@
 </HCS>
 <HCS i="10918">
 <EN>Sign / Fire Bench and Base Coaches</EN>
-<KR>簽約/解僱板凳與壘上教練</KR>
+<KR>簽約/解僱板凳與壘指導員</KR>
 <ES>Señalización/banco de bomberos y vagones de base</ES>
 <JP>サイン/ファイヤーベンチとベースコーチ</JP>
 <CN>簽下/開除板凳與跑壘教練</CN>
@@ -78070,21 +78070,21 @@
 </HCS>
 <HCS i="11773">
 <EN>&#37;d 2B</EN>
-<KR>&#37;d二壘安打</KR>
+<KR>%d 2B</KR>
 <ES>&#37;d 2B</ES>
 <JP>％d 2B</JP>
 <CN>&#37;d二壘安打</CN>
 </HCS>
 <HCS i="11774">
 <EN>&#37;t 3B</EN>
-<KR>&#37;t三壘安打</KR>
+<KR>%t 3B</KR>
 <ES>&#37;t 3B</ES>
 <JP>％t 3B</JP>
 <CN>&#37;t三壘安打</CN>
 </HCS>
 <HCS i="11775">
 <EN>&#37;hr HR</EN>
-<KR>%hr 支全壘打</KR>
+<KR>%hr HR</KR>
 <ES>&#37;h FC</ES>
 <JP>％hr HR</JP>
 <CN>&#37;hr轟</CN>
@@ -94024,7 +94024,7 @@
 </HCS>
 <HCS i="14105">
 <EN>SB RUNS</EN>
-<KR>盜壘得分貢獻</KR>
+<KR>SB 得分貢獻</KR>
 <ES>CARRERAS SB</ES>
 <JP>SBラン</JP>
 <CN>盜壘得分</CN>
@@ -100239,14 +100239,14 @@
 </HCS>
 <HCS i="15022">
 <EN>has &#37;d RBI</EN>
-<KR>有 %d 個打點</KR>
+<KR>有 %d RBI</KR>
 <ES>tiene &#37;d carreras impulsadas</ES>
 <JP>％d RBI</JP>
 <CN>有&#37;d打點</CN>
 </HCS>
 <HCS i="15024">
 <EN>gets &#37;d RBI</EN>
-<KR>獲得 %d 打點</KR>
+<KR>拿下 %d RBI</KR>
 <ES>obtiene &#37;d carrera impulsada</ES>
 <JP>％dRBIを取得</JP>
 <CN>獲得&#37;d打點</CN>
@@ -100331,7 +100331,7 @@
 </HCS>
 <HCS i="15038">
 <EN>hit a sacrifice fly</EN>
-<KR>擊出高飛犧牲打</KR>
+<KR>擊出犧牲飛球</KR>
 <ES>golpear una mosca de sacrificio</ES>
 <JP>犠牲フライを打つ</JP>
 <CN>擊出了高飛犧牲打</CN>
@@ -100753,7 +100753,7 @@
 </HCS>
 <HCS i="15097">
 <EN>no sacrifice flies</EN>
-<KR>沒有高飛犧牲打</KR>
+<KR>沒有犧牲飛球</KR>
 <ES>ningún sacrificio vuela</ES>
 <JP>犠牲フライはありません</JP>
 <CN>無高飛犧牲打</CN>
@@ -100930,7 +100930,7 @@
 </HCS>
 <HCS i="15122">
 <EN>sacrifice fly</EN>
-<KR>高飛犧牲打</KR>
+<KR>犧牲飛球</KR>
 <ES>mosca de sacrificio</ES>
 <JP>犠牲フライ</JP>
 <CN>高飛犧牲打</CN>
@@ -105622,7 +105622,7 @@
 <HCS i="15828">
 <EN>hit a sacrifice fly</EN>
 <DC>EX: Jone hit a sacrifice fly</DC>
-<KR>擊出高飛犧牲打</KR>
+<KR>擊出犧牲飛球</KR>
 <ES>golpear una mosca de sacrificio</ES>
 <JP>犠牲フライを打つ</JP>
 <CN>擊出了高飛犧牲打</CN>
@@ -108682,7 +108682,7 @@
 </HCS>
 <HCS i="16276">
 <EN>RPOY</EN>
-<KR>年度最佳救援投手</KR>
+<KR>年度最佳後援投手</KR>
 <ES>RPOY</ES>
 <JP>RPOY</JP>
 <CN>年度最佳救援投手</CN>
@@ -110554,7 +110554,7 @@
 </HCS>
 <HCS i="16541">
 <EN>opponents batting AVG</EN>
-<KR>對手打擊率</KR>
+<KR>對手 AVG</KR>
 <ES>oponentes bateando AVG</ES>
 <JP>AVGをバッティングする対戦相手</JP>
 <CN>對手打擊率</CN>
@@ -112573,7 +112573,7 @@
 </HCS>
 <HCS i="16839">
 <EN>hit a sac fly</EN>
-<KR>擊出高飛犧牲打</KR>
+<KR>擊出犧牲飛球</KR>
 <ES>golpear una mosca de saco</ES>
 <JP>犠牲フライを打つ</JP>
 <CN>擊出了高飛犧牲打</CN>
@@ -114484,7 +114484,7 @@
 </HCS>
 <HCS i="17121">
 <EN>15+ Ks</EN>
-<KR>15+三振</KR>
+<KR>15+ K</KR>
 <ES>15+ K</ES>
 <JP>15+ Ks</JP>
 <CN>15+三振</CN>
@@ -120264,7 +120264,7 @@
 </HCS>
 <HCS i="17969">
 <EN>&#37;r RBI</EN>
-<KR>%r 打點</KR>
+<KR>%r RBI</KR>
 <ES>&#37;r carrera impulsada</ES>
 <JP>％r打点</JP>
 <CN>&#37;r打點</CN>
@@ -120307,7 +120307,7 @@
 </HCS>
 <HCS i="17975">
 <EN>&#37;h HR</EN>
-<KR>%h 支全壘打</KR>
+<KR>%h HR</KR>
 <ES>&#37;h recursos humanos</ES>
 <JP>％h HR</JP>
 <CN>&#37;hHR</CN>
@@ -120484,7 +120484,7 @@
 </HCS>
 <HCS i="18000">
 <EN>1 sac fly</EN>
-<KR>1 次高飛犧牲打</KR>
+<KR>1 次犧牲飛球</KR>
 <ES>1 mosca de saco</ES>
 <JP>1犠牲フライ</JP>
 <CN>1顆高飛犧牲打</CN>
@@ -121847,7 +121847,7 @@
 </HCS>
 <HCS i="18200">
 <EN>2-out RBI</EN>
-<KR>兩出局打點</KR>
+<KR>兩出局 RBI</KR>
 <ES>2 carreras impulsadas</ES>
 <JP>2アウトRBI</JP>
 <CN>2出局打點</CN>
@@ -123492,7 +123492,7 @@
 </HCS>
 <HCS i="18444">
 <EN>1 RBI</EN>
-<KR>1 打點</KR>
+<KR>1 RBI</KR>
 <ES>1 carrera impulsada</ES>
 <JP>1打点</JP>
 <CN>1個打點</CN>
@@ -125807,7 +125807,7 @@
 <HCS i="18790">
 <EN>4+ SB</EN>
 <DC>4 or more stolen bases in a game</DC>
-<KR>4+ 盜壘</KR>
+<KR>4+ SB</KR>
 <ES>4+ SB</ES>
 <JP>4+ SB</JP>
 <CN>4+SB</CN>
@@ -125849,7 +125849,7 @@
 </HCS>
 <HCS i="18797">
 <EN>6+ RBI</EN>
-<KR>6+ 打點</KR>
+<KR>6+ RBI</KR>
 <ES>6+ carreras impulsadas</ES>
 <JP>6+ RBI</JP>
 <CN>6+RBI</CN>
@@ -140357,7 +140357,7 @@
 </HCS>
 <HCS i="24973">
 <EN>Modifies the rate of sac flies when runners can tag from 3B</EN>
-<KR>調整跑者可自三壘進壘時發生高飛犧牲打的機率</KR>
+<KR>調整跑者可自三壘進壘時發生犧牲飛球的機率</KR>
 <ES>Modifica la tasa de lanzamientos de sacrificio cuando los corredores pueden marcar desde 3B</ES>
 <JP>ランナーが3Bからタッグできる場合のサックフライ率を変更します</JP>
 <CN>調整跑者可自三壘起跑時發生高飛犧牲打的機率</CN>
@@ -154213,7 +154213,7 @@
 </HCS>
 <HCS i="27215">
 <EN>Expected wOBA on Contact</EN>
-<KR>預期擊球加權上壘率</KR>
+<KR>擊球預期 wOBA</KR>
 <ES>wOBA esperado en el contacto</ES>
 <JP>接触時の予想wOBA</JP>
 <CN>預期擊球上壘率</CN>
@@ -154234,7 +154234,7 @@
 </HCS>
 <HCS i="27218">
 <EN>Expected wOBA</EN>
-<KR>預期加權上壘率</KR>
+<KR>預期 wOBA</KR>
 <ES>wOBA esperado</ES>
 <JP>予想wOBA</JP>
 <CN>預期加權上壘率</CN>
