@@ -1,0 +1,20 @@
+虛構總經理
+整體名單策略設定
+
+總經理　　　　　　　　　　　　　　設定
+Bill Tobin - 總經理       16/14/12/15/10
+Peter Verleft - 總經理     10/2/3/5/17
+Josiah Van Horn - 總經理     15/14/10/2/3
+Porter Carmichael - 總經理      3/3/5/1/10
+Steven Jones - 總經理      5/13/10/13/7
+Roderick Palmer - 總經理     10/15/14/0/10
+Michael Weserfield - 總經理    20/13/10/14/12
+Louis Bascombe - 總經理    10/15/13/20/7
+Jim Allison - 總經理      17/10/15/1/4
+Milton Sanchez - 總經理     5/13/15/20/12
+Walt Elmhurst - 總經理    11/10/10/10/12
+Rafael Perez - 總經理     7/13/8/11/5
+Leon Williams - 總經理      7/12/10/13/14
+Lane Feldman - 總經理     10/0/0/5/8
+Mel Winston - 總經理      16/13/10/15/5
+ 

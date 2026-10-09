@@ -1129,7 +1129,8 @@ def verify(out_path, base, old):
         if i not in B:
             continue
         for t in ALL_TAGS:
-            if t != "KR" and O[i][1][t] != B[i][1][t]:
+            # CN 由 build_chinese.py 同步成 KR（中文語言欄位），不算偏離
+            if t not in ("KR", "CN") and O[i][1][t] != B[i][1][t]:
                 drift.append((i, t))
     print(f"  其他標籤偏離基底      : {len(drift)}", drift[:3] if drift else "")
     ok = ok and not drift

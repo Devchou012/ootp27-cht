@@ -1,7 +1,14 @@
 # ootp27-cht
 Out of the Park Baseball 27 繁體中文化（台灣用語）
 
-fork 自 [bojinhong/ootp23-cht](https://github.com/bojinhong/ootp23-cht)，以 OOTP 27（27.5.81）原檔為基底重做。遊戲本身沒有開放繁中選項，所以沿用原作者的做法：把中文放進遊戲的「韓文」語言欄位，遊戲選韓文就顯示中文。不改執行檔，只換 `data/` 底下的文字與字型。
+fork 自 [bojinhong/ootp23-cht](https://github.com/bojinhong/ootp23-cht)，以 OOTP 27（27.5.81）原檔為基底重做。翻譯同時放在兩個語言欄位，內容相同：
+
+| 遊戲語言 | 怎麼開 | 說明 |
+|---|---|---|
+| **Chinese (traditional)**（建議） | Steam 遊戲「內容」→「啟動選項」填 `-enable_all_languages`，遊戲設定語言選 Chinese (traditional) | 日期、名次是中文格式 |
+| 韓文（Korean） | 遊戲設定直接選韓文 | 名次後面會出現「위」、日期出現「일」（程式內建，改不到） |
+
+不改執行檔，只換 `data/` 底下的文字與字型。中文模式另外換了字型（官方中文字型缺 554 個字）。
 
 ## 翻譯原則
 
@@ -28,7 +35,9 @@ fork 自 [bojinhong/ootp23-cht](https://github.com/bojinhong/ootp23-cht)，以 O
 | 球隊暱稱、國家城市、學校、傷病 | `database/` | 完成 |
 | 授權條款 | `license_korean.txt` | 用官方英文版（法律文字不機翻） |
 
-**已知限制**：韓文模式下，名次後面的「위」（例：13위＝第 13 名）和日期裡的「일」（例：14일＝14 日）是遊戲程式自己加上的，不在任何文字檔裡，改不到。
+**已知限制**：韓文模式下，名次後面的「위」與日期裡的「일」是程式內建，改不到；用 Chinese (traditional) 模式就沒有這個問題。
+
+**既有存檔**：遊戲切換語言時會把聯盟檔裡的人名轉成該語言，舊存檔可能還留著官方中文版音譯的人名。新開聯盟就會是英文人名。
 
 ## 安裝
 
@@ -43,7 +52,7 @@ Copy-Item -Recurse -Force "$env:USERPROFILE\ootp27-中文化備份\data\*" "K:\S
 ### 方法二：從 repo
 1. 關掉遊戲，先備份遊戲 `data/` 裡會被覆蓋的檔案。
 2. 把本 repo 的下列資料夾與檔案，照同樣路徑複製到遊戲的 `data/`：`text/`、`database/`、`misc/`、`storylines/`、`strategy_profiles/`、`license_korean.txt`。
-3. 字型：`fonts/font20/*.ttf` 複製到遊戲的 `data/fonts/font20/`，另外把 `bold.ttf` 複製一份命名為 `bb_bold.ttf`。
+3. 字型：`fonts/font20/*.ttf` 複製到遊戲的 `data/fonts/font20/` 與 `data/fonts/font30/`（中文模式用），另外把 `bold.ttf` 複製一份命名為 `bb_bold.ttf`。
 4. 裝前檢查（只讀）：
    ```
    python tools/preflight.py "<原始 data 資料夾備份>" "<要裝的 data>"
@@ -51,7 +60,10 @@ Copy-Item -Recurse -Force "$env:USERPROFILE\ootp27-中文化備份\data\*" "K:\S
    要出現「全部通過」。
 
 ### 切換語言
-遊戲設定 → 語言選「韓文（Korean）」→ 依提示關閉遊戲 → 重新開啟。
+1. Steam 遊戲庫 → OOTP 27 右鍵 →「內容」→「一般」→「啟動選項」填 `-enable_all_languages`。
+2. 遊戲設定 → 語言選「Chinese (traditional)」→ 依提示關閉遊戲 → 重新開啟。
+
+（不加啟動選項時只能選韓文，翻譯內容一樣。）
 
 ## 測試清單
 
@@ -96,6 +108,7 @@ Steam 更新或「驗證遊戲檔案」會把檔案還原成官方原檔。步�
 | `tools/merge_extras.py` | 教練背景、球隊暱稱、授權條款 |
 | `tools/merge_world.py`、`merge_schools.py`、`localize_names.py` | 國家城市、學校、人名資料 |
 | `tools/qa.py` | 內部檢核：同一英文多種譯法、違反術語表、中國用語 |
+| `tools/build_chinese.py` | 所有 merge 跑完後執行：把韓文欄位的翻譯同步到中文欄位與中文檔、人名中文欄改英文 |
 | `tools/preflight.py` | 裝前檢查：編碼、換行、XML、跳脫字元、行數、字型 |
 
 工具都要放 27 版原檔到 `temp/`（見 PORTING-27.md）。歷史進度見 [PROGRESS.md](PROGRESS.md)。

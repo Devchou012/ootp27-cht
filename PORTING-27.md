@@ -75,3 +75,9 @@ python tools/check_ootp27.py "<OOTP 27 安裝資料夾>"
 3. 動到的：新版原檔放進 temp/ 與原檔備份（舊版改名保留），重跑對應 merge 工具；`merge_korean.py --todo` 補翻新增句。
 4. preflight 全過、更新備份包雜湊，再複製進遊戲。
 這次只動到 world_default.xml 與 english.xml（新增 5 句播報），其餘直接沿用。
+
+## 中文（繁體）語言欄位（2026-10-10）
+
+啟動參數 `-enable_all_languages` 可以打開 Chinese (traditional)。所有 merge 工具跑完後，執行
+`python tools/build_chinese.py "<27 版 data>"` 把韓文欄位的翻譯同步到中文欄位（gui／tutorial 的 <CN>、schools 的 *_CHINESE、world 的 *_chinese、names 的 <CN>＝英文）與中文檔（chinese.xml、storylines_chinese.xml、hints／recaps／injuries／strategy 的 *_chinese.txt）。
+官方中文字型 font30 缺 554 字，安裝時把 font20 複製到 font30。上面「已知限制」的 위／일 在中文模式不會出現。

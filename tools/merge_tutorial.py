@@ -173,7 +173,7 @@ def verify(out_path, base, old):
         if O[i][0] != B[i][0]:
             drift += 1
         for t in ALL_TAGS:
-            if t in KOR_TO_ENG:
+            if t in KOR_TO_ENG or t in ("CN", "CNGROUP"):  # CN 由 build_chinese.py 同步
                 continue
             if O[i][1][t] != B[i][1][t]:
                 drift += 1

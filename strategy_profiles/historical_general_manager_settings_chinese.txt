@@ -1,0 +1,40 @@
+總經理整體策略設定
+球員名單策略設定
+
+總經理　　　　　　　　　　　　　設定
+Harry Wright - 總經理        10/5/3/15/5
+Chris von der Ahe - 總經理   10/0/0/0/5
+Albert Spalding - 總經理      15/16/15/20/15
+Harry Von der Horst - 總經理   4/14/13/3/12
+Arthur Soden - 總經理        4/2/1/3/10
+John McGraw - 總經理       12/10/10/5/13
+Charles Murphy - 總經理       5/10/3/3/5
+Barney Dreyfuss - 總經理      5/10/6/8/6
+Connie Mack - 總經理        14/10/13/15/14
+Warren Giles - 總經理       7/3/1/4/5
+Ed Barrow - 總經理        10/13/11/17/15(與 Joe McCarthy 搭配)
+Branch Rickey - 總經理       3/12/10/15/14
+Dan Topping - 總經理         8/10/7/14/7
+Buzzy Bavasi - 總經理       14/3/3/3/10
+Bob Howsam - 總經理       11/10/12/15/14
+Fred Claire - 總經理      14/8/17/10/14
+Harry Dalton - 總經理       4/10/10/20/15
+Ewing Kauffman - 總經理       17/7/4/1/20
+John Quinn - 總經理        8/14/8/4/16
+Sandy Alderson - 總經理      3/10/8/10/12
+John Schuerholz - 總經理      12/5/3/17/13
+Clark Griffith - 總經理     0/10/10/2/4(與 Bucky Harris 搭配)
+Pat Gillick - 總經理       5/4/7/15/2
+Charlie Finley - 總經理        20/10/8/11/8
+Hank Greenberg - 總經理      0/8/5/7/17
+Gabe Paul - 總經理        2/7/10/14/10
+Bob Quinn - 總經理        10/10/10/13/5
+Clark Griffith - 總經理     10/7/10/4/10(與 Clark Griffith 搭配)
+Charlie Ebbetts - 總經理       0/7/13/4/2
+Rube Foster - 總經理       5/7/8/4/7
+Ed Barrow - 總經理        11/10/14/17/10(與 Miller Huggins 搭配)
+Brian Cashman - 總經理      3/10/10/13/17
+Brian Sabean - 總經理       6/11/10/4/12
+William Walsingham - 總經理      15/10/8/7/6
+Garry Herrmann - 總經理       1/5/3/5/14
+ 
