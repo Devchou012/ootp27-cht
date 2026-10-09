@@ -1,148 +1,105 @@
-# ootp23-cht
-OOTP 23 繁體中文化
+# ootp27-cht
+Out of the Park Baseball 27 繁體中文化（台灣用語）
 
-> **這是移植到 OOTP 27 的 fork**：先跑 `python tools/check_ootp27.py "<OOTP 27 安裝資料夾>"`，步驟見 [PORTING-27.md](PORTING-27.md)。
+fork 自 [bojinhong/ootp23-cht](https://github.com/bojinhong/ootp23-cht)，以 OOTP 27（27.5.81）原檔為基底重做。遊戲本身沒有開放繁中選項，所以沿用原作者的做法：把中文放進遊戲的「韓文」語言欄位，遊戲選韓文就顯示中文。不改執行檔，只換 `data/` 底下的文字與字型。
 
-## 原因
-OOTP 有韓國版之後讓中文化有了可能性，再加上網路上搜尋到日本網友製作日文版的流程 (https://reurl.cc/l9eyNv) ，所以評估決定可行
+## 翻譯原則
 
-## Demo畫面
-![遊戲頁面](https://bojin-pdfserver.s3.ap-northeast-1.amazonaws.com/demo1.png)
-![遊戲頁面](https://bojin-pdfserver.s3.ap-northeast-1.amazonaws.com/demo2.png)
-![遊戲頁面](https://bojin-pdfserver.s3.ap-northeast-1.amazonaws.com/demo3.png)
-![遊戲頁面](https://bojin-pdfserver.s3.ap-northeast-1.amazonaws.com/demo4.png)
-![遊戲頁面](https://bojin-pdfserver.s3.ap-northeast-1.amazonaws.com/demo5.png)
-![遊戲頁面](https://bojin-pdfserver.s3.ap-northeast-1.amazonaws.com/demo6.png)
+| 項目 | 怎麼處理 |
+|---|---|
+| 人名（球員、教練、總經理、老闆、職員、名人） | 保留英文原文 |
+| 隊名、聯盟名 | 翻成中文 |
+| 數據欄位 | 保留英文縮寫：AVG、OBP、SLG、OPS、ERA、WHIP、WAR、HR、RBI、SO、BB、SB… |
+| 棒球術語 | 依中華民國棒球協會《棒球規則》（113 年版）、國家教育研究院樂詞網、中華職棒用法，例：犧牲飛球、壘指導員、盜壘、救援成功 |
+| 用語 | 台灣用語，不用中國大陸用語（螢幕、設定、球季、總經理、聯盟主席…） |
 
-## 使用方式
-- Step 1: 下載本專案的所有檔案
-- Step 2: 找到你的 OOTP 23 的應用程式資料夾，將本專案的所有檔案依照對應的位置放入並覆蓋原先的檔案（建議先將原檔案備份，如中文化檔案導致遊戲損毀可用備份檔還原即可）
-- Step 3: 執行 OOTP 23 在設定的地方將語言改成韓文，再次重新執行 OOTP 23 你就可以看到中文版了
+術語表：[docs/glossary_ui.md](docs/glossary_ui.md)（介面與數據）、[docs/glossary.md](docs/glossary.md)（播報）。
 
-## 現況
-**目前進度與下一步請看 [PROGRESS.md](PROGRESS.md)**，那裡有各檔案翻到哪裡、還剩什麼、術語表與已知的坑。
+## 翻譯範圍
 
-- 其實遊戲裡面已經有日文、簡體中文的翻譯片段，本中文化就是借用簡體中文的翻譯再轉成繁體中文
-- 裡面還有大量的翻譯錯誤需要修改，也還有一部分都是韓文的，也需要再想辦法翻譯
+| 內容 | 檔案 | 狀態 |
+|---|---|---|
+| 介面（按鈕、欄位、說明、對話視窗） | `text/gui_translations.xml` | 完成，Claude 逐行審稿 |
+| 比賽播報、新聞稿、球探評語 | `text/korean.xml` | 4,729／4,729，Claude 逐行審稿 |
+| 教學 | `text/tutorial_data.xml` | 完成，Claude 逐行審稿 |
+| 收件匣新聞與劇情 | `storylines/default/storylines_korean.xml` | 671／682（其餘 11 篇英文原檔是空白） |
+| 載入提示、名人語錄、歷史回顧 | `misc/hints_korean.txt`、`misc/historical_recaps_korean.txt` | 完成 |
+| 教練與總經理背景 | `strategy_profiles/*_korean.txt` | 完成 |
+| 球隊暱稱、國家城市、學校、傷病 | `database/` | 完成 |
+| 授權條款 | `license_korean.txt` | 用官方英文版（法律文字不機翻） |
 
-### 主要需要翻譯的檔案有兩個：
-1. gui_translations.xml (這個檔案主要是遊戲介面的文字部分，大部分都有翻譯了，但有非常多的翻譯錯誤需要修改，請記得改KR韓文標籤裡面的文字，改成正確的中文翻譯)
+**已知限制**：韓文模式下，名次後面的「위」（例：13위＝第 13 名）和日期裡的「일」（例：14일＝14 日）是遊戲程式自己加上的，不在任何文字檔裡，改不到。
 
-目前五個段落都已經沒有韓文和簡體字，用詞也統一過一輪（見下面的「用詞統一」）。改完請跑 `python3 tools/merge_gui.py --verify` 確認，進度與待辦見 [PROGRESS.md](PROGRESS.md)。
+## 安裝
 
-範例：其中我們需要改的部分就是KR標籤 (```<KR>XXXX</KR>```) 裡面的字，如果有遇到%d這類的特殊符號請不要去改動它，只要改文字的部分就好。
-```
-<HCS i="18722">
-   <EN>%d other players</EN>
-   <DC></DC>
-   <KR>%d 其他球員</KR>
-   <ES>%d otros jugadores</ES>
-   <JP>％d他のプレイヤー</JP>
-   <CN>%d 其他球員</CN>
-  </HCS>
- ```
+### 方法一：用打包好的備份（本機）
+`~/ootp27-中文化備份/data` 是照遊戲資料夾結構放好的成品，附 `SHA256SUMS.txt`。
 
-2. korean.xml (這個檔案主要是比賽中的播報對話，還有遊戲介面裡面比較長的文字部分，都是英文的需要英翻中)
-
-### 播報文字 korean.xml
-遊戲的逐球播報現在有視覺化呈現，同一個情境不需要幾十種講法，所以 `tools/merge_korean.py` 每個 `<CAT>` 只留一筆 `<OBJ>` 上線，其餘一律**註解掉而不是刪掉**，之後想換講法或補翻譯，把註解拆開就能用。上線的敘述從 42,887 筆降到 4,345 筆，要翻的量少了九成。
-
-保留規則：
-
-1. 該分類有不帶 `<COND>` 的 OBJ → 只留一筆
-2. 整個分類的 OBJ 都帶 `<COND>` → **每一種條件組合各留一筆**
-
-第 2 條不能省。那 81 個分類的條件是帶語意的（季後賽領先／落後／平手、守備等級 1~20、教練風格…），collapse 成一句會變成講錯話。留下來的那筆會把 `usage_chance_for_game` / `only_once_per_x1` / `only_once_per_x2` 拿掉，否則整個分類只剩一句還限制一場只能用一次，會沒台詞可播。
-
-中文以 OBJ id 對應搬過來，**連被註解掉的 OBJ 也會填中文**，所以既有翻譯不會因為某次精簡而消失。
-
-```
-python3 tools/merge_korean.py               # temp/english.xml + text -> text
-python3 tools/merge_korean.py --verify      # 只檢查不寫檔
-python3 tools/merge_korean.py --todo        # 列出還沒翻的（id + 英文）
+```powershell
+# 遊戲先關掉
+Copy-Item -Recurse -Force "$env:USERPROFILE\ootp27-中文化備份\data\*" "K:\SteamLibrary\steamapps\common\Out of the Park Baseball 27\data\"
 ```
 
-XML 的註解不能出現連續兩個 `-`，而內文的破折號正是寫成 `--`，所以被註解起來的 OBJ 會在連續的 `-` 之間補一個空白。這只影響註解內容，上線的那筆不會被動到。
+### 方法二：從 repo
+1. 關掉遊戲，先備份遊戲 `data/` 裡會被覆蓋的檔案。
+2. 把本 repo 的下列資料夾與檔案，照同樣路徑複製到遊戲的 `data/`：`text/`、`database/`、`misc/`、`storylines/`、`strategy_profiles/`、`license_korean.txt`。
+3. 字型：`fonts/font20/*.ttf` 複製到遊戲的 `data/fonts/font20/`，另外把 `bold.ttf` 複製一份命名為 `bb_bold.ttf`。
+4. 裝前檢查（只讀）：
+   ```
+   python tools/preflight.py "<原始 data 資料夾備份>" "<要裝的 data>"
+   ```
+   要出現「全部通過」。
 
-翻譯進度、剩下哪些沒翻、建議的處理順序，都記在 [PROGRESS.md](PROGRESS.md)。
+### 切換語言
+遊戲設定 → 語言選「韓文（Korean）」→ 依提示關閉遊戲 → 重新開啟。
 
-`--todo` 會列出還沒翻的（`分類 id` + `OBJ id` + 英文），可以照分類分批處理。
+## 測試清單
 
-### 介面文字 gui_translations.xml
-`text/gui_translations.xml` 的 `<KR>` 由 `tools/merge_gui.py` 產生，規則依序是：
+開遊戲後依序看這幾個地方，看到怪的就截圖：
 
-0. `TEAM_NAMES` / `TEAM_NICKNAMES` → 由「城市 + 綽號」兩張表組出中文（見下）
-1. 程式裡的 `OVERRIDES` 有這個 `i` → 用人工翻譯（`<CN>` 是機翻、救不回來時走這條）
-2. 舊檔的 `<KR>` 不是韓文、且不等於 `<CN>` → 保留舊檔的值（既有翻譯，或刻意留著的英文縮寫如 `%a OBP`、`AL`、`TFBL`）
-3. `<CN>` 有中文 → 用 `<CN>` 轉繁體填入
-4. 是韓文但 `<CN>` 沒中文可用 → 退回填 `<EN>`（如 `TOPPS`、`iPhone 13`）
+1. **主畫面與選單**：按鈕、分頁名稱是否通順，有沒有殘留英文或韓文。
+2. **球隊數據與排名頁**：數據欄位要是英文縮寫（AVG、ERA、WAR…）；名次後面的「위」是已知限制。
+3. **比賽中逐球播報**：主客、好壞球、出局數有沒有翻反，人名要是英文。
+4. **賽後戰報與新聞**：句子是否自然，術語是否正確（犧牲飛球、壘指導員、救援成功）。
+5. **收件匣**：劇情新聞、信件、傷兵通知（傷病描述要是中文）。
+6. **教學**：從新手教學開始走一遍，畫面說明要對得上目前這一步。
+7. **載入畫面提示**：名人語錄的人名要是英文。
+8. **球員個人頁**：守位、能力名稱、合約用語（續約、跳脫條款、下放權）。
+9. **教練與總經理資料**：背景介紹的人名要是英文。
 
-規則 3、4 只套用在 `HARD_CODED_STRINGS` 與 `LEAGUE_NAMES`。
+回報方式：截圖加上畫面名稱，說明哪裡不對（意思錯、看不懂、該英文的變中文等）。修正會寫進 `tools/gui_fixes.tsv`、`tools/tutorial_fixes.tsv` 等修正表，重跑工具也不會被洗掉。
 
-#### 球隊名稱怎麼組
-`TEAM_NAMES` / `TEAM_NICKNAMES` 的 `<CN>` 是不能用的機翻（`Reading Fightin Phils` → 「閱讀格鬥菲爾斯」），所以不從 `<CN>` 來，改用 `TEAM_CITY`（城市）與 `TEAM_NICK`（綽號）兩張表去組：
+## Steam 更新後中文不見
 
-```
-TEAM_NAMES      = 城市中文 + 綽號中文     托萊多 + 泥母雞 -> 托萊多泥母雞
-TEAM_NICKNAMES  = 綽號中文                              -> 泥母雞
-```
+Steam 更新或「驗證遊戲檔案」會把檔案還原成官方原檔。步驟見 [PORTING-27.md](PORTING-27.md)「改版後重裝」：
 
-綽號用「由右往左找最長的、在 `TEAM_NICK` 裡的字尾」來切，所以 `Round Rock Express` 會切成 `Round Rock` | `Express` 而不是 `Round` | `Rock Express`。農場隊 `Chicago N (AZL) Cubs Blue` 之類的另外處理成「芝加哥小熊藍 (AZL)」，NPB 的 `(Ni-Gun)` 則接成「二軍」。中職與明尼蘇達雙城不照這個規則，寫在 `TEAM_BY_I` 直接指定。
+1. 逐檔比對新版原檔和 `~/ootp27-backup-original`，找出改版動到的檔。
+2. 沒動到的直接把備份複製回去。
+3. 動到的檔，用新版原檔重跑對應的 `tools/merge_*.py`，`merge_korean.py --todo` 補翻新增句。
+4. `preflight.py` 全部通過後再複製進遊戲。
 
-**組不出來就退回 `<EN>` 英文原名。** 歐洲各國聯盟那 69 支（`Sénart Templiers`、`Cardion Hrosi Brno Baseball`、`CBS Antorcha Valencia Beisbol`…）沒有通用中文譯名，硬翻只會變成自創名字，跟 `names.xml`、`schools.xml` 的處理原則一致。這也讓改版新增的球隊自動落在英文，不會生出亂翻的中文。`TEAM_ABBR` 是三碼英文縮寫，整段不動。
+## 還原成原版
 
-需要 opencc：
-```
-pip install opencc-python-reimplemented
-python3 tools/merge_gui.py               # 基底 + text -> text
-python3 tools/merge_gui.py --verify      # 只檢查不寫檔
-```
-遊戲改版時把新的原始檔放到 `temp/gui_translations.xml` 再執行同一行指令；沒有那個檔的話會拿 `text/gui_translations.xml` 自己當基底，等於就地把還沒中文化的部分補起來。其他標籤（`EN`/`DC`/`ES`/`JP`/`CN`）一律沿用基底，不做任何改動。
+- Steam：遊戲右鍵 →「內容」→「已安裝檔案」→「驗證遊戲檔案的完整性」。
+- 或把 `~/ootp27-backup-original` 複製回遊戲 `data/`。
 
-轉繁體用的是 opencc 的 `s2tw`（只換字不換詞）。
+## 維護工具
 
-#### 用詞統一
-`<CN>` 是中國大陸的機翻，s2tw 只換字不換詞，所以「設置／文件／激活／聯賽」這些詞會原封不動留著。程式裡的 `TERM_FIXES` 會在最後掃一遍，把整份檔案的用語拉到同一套；棒球術語一律跟 `text/korean.xml` 對齊（league = 聯盟、trade = 交易、manager = 總教練、tie = 平手、waiver = 讓渡）。
+| 工具 | 用途 |
+|---|---|
+| `tools/check_ootp27.py` | 檢查新版原檔能不能直接套用合併工具 |
+| `tools/merge_gui.py` | 產生介面 `<KR>`（修正表 `gui_fixes.tsv`） |
+| `tools/merge_korean.py` | 播報文字；`--todo` 列未翻、`--verify` 檢查 |
+| `tools/apply_zh.py` | 把「id<TAB>中文」套進播報，佔位符對英文原檔檢查 |
+| `tools/merge_tutorial.py` | 教學（修正表 `tutorial_fixes.tsv`；英文相同才沿用舊翻譯） |
+| `tools/merge_storylines.py` | 收件匣劇情與傷病描述 |
+| `tools/merge_extras.py` | 教練背景、球隊暱稱、授權條款 |
+| `tools/merge_world.py`、`merge_schools.py`、`localize_names.py` | 國家城市、學校、人名資料 |
+| `tools/qa.py` | 內部檢核：同一英文多種譯法、違反術語表、中國用語 |
+| `tools/preflight.py` | 裝前檢查：編碼、換行、XML、跳脫字元、行數、字型 |
 
-有些詞要看英文才知道怎麼翻：機翻把 message 和 news 都寫成「消息」（現在 news 才是「消息」，message 是「訊息」）、data 在成績欄位要留「數據」但在別處是「資料」、waiver 是「讓渡」而 release 是「釋出」。這幾條放在 `EN_TERM_FIXES`，會去讀那一筆的 `<EN>` 再決定。這裡沒用 `s2twp`，因為它會把不該換的地方一起換掉。
+工具都要放 27 版原檔到 `temp/`（見 PORTING-27.md）。歷史進度見 [PROGRESS.md](PROGRESS.md)。
 
-另外 `--verify` 會檢查 `<KR>` 的佔位符跟 `<EN>` 對不對得上。機翻常把 `%player` 翻成「%球員」、把 `%position` 拆成「% 職位」，或整個吃掉 `{nl}`，遊戲會直接把錯字印在畫面上；這類的 89 筆已經照英文補回去了。
+## 授權
 
-### 人名字庫 names.xml
-`database/names.xml` 不做中文翻譯，而是把 `<KR>` 直接換成 `<EN>` 的英文原名，因為遊戲內建的 `<CN>` 人名是機翻結果不堪使用（例：`A.C.` → `交流電`、`Aad` → `廣告`）。
-
-遊戲改版拿到新的原始檔時，把它放到 `temp/names.xml`，再執行以下指令即可重新產生：
-```
-python3 tools/localize_names.py          # temp/names.xml -> database/names.xml
-python3 tools/localize_names.py --verify # 只檢查不寫檔
-```
-
-### 學校資料 schools.xml
-`database/schools.xml` 的四個 `*_KOREAN` 欄位有兩種來源：台灣、日本的學校是人工中文翻譯，其餘則退回英文原名。
-
-遊戲改版時把新的原始檔放到 `temp/schools.xml`，執行以下指令會以新版原始檔為基底、把既有的中文翻譯合併回去：
-```
-python3 tools/merge_schools.py           # temp + database -> database/schools.xml
-```
-英文欄位（`CITY`/`NAME`/`NICK`/`ASSO`/`CONF` 等）一律沿用官方新版，不做任何改動。
-
-### 世界地理資料 world_default.xml
-`database/world_default.xml` 的 `name_korean` / `abbr_korean` / `dem_korean` / `short_korean` 四個屬性，處理原則與 schools.xml 相同：有人工中文翻譯的（國家、洲、族裔、台灣與日本的城市）保留中文，其餘退回英文原名。
-
-遊戲改版時把新的原始檔放到 `temp/world_default.xml`，執行：
-```
-python3 tools/merge_world.py             # temp + database -> database/world_default.xml
-```
-英文屬性（`name`/`abbr`/`dem`/`short`）與經緯度、人口等資料一律沿用官方新版。本來就是拉丁字母、但刻意與英文不同的官方縮寫（例：`abbr="GUN" abbr_korean="GUM"`）會原樣保留，不會被覆蓋。
-
-### 教學資料 tutorial_data.xml
-`text/tutorial_data.xml` 的 `<KR>` 與 `<KRGROUP>` 已全部是中文，來源是 `<CN>`／`<CNGROUP>`（後者原為簡體，已轉繁體）加上少數人工改寫。
-
-遊戲改版時把新的原始檔放到 `temp/tutorial_data.xml`，執行：
-```
-python3 tools/merge_tutorial.py          # temp + text -> text/tutorial_data.xml
-```
-其餘標籤（`EN`/`ES`/`JP`/`CN` 及各自的 GROUP）一律沿用官方新版。注意這個檔案有 6 筆標籤的值跨行、且值裡藏有 CRLF，處理時不能逐行取代。
-
-## 希望
-大家如果對棒球有興趣，或是熟悉OOTP的遊戲內容，也煩請的大家一起來貢獻，想辦法弄出一個大家期盼已久的中文版 OOTP
+上游專案沒有附授權條款，本 fork 僅供個人使用，請勿另外散布翻譯檔。遊戲內容版權屬 Out of the Park Developments。
