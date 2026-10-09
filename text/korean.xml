@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<TEXT_FILE fileversion="OOTP Developments 2026-04-21 13:29:46">
+<TEXT_FILE fileversion="OOTP Developments 2026-10-05 12:01:02">
 
 <CAT id="13">
 <!--<OBJ id="28" text="[%personname L] 攻佔二壘...">
@@ -44419,7 +44419,7 @@ The [%personage]-year-old has been fired as the club's general manager, with own
 <OBJ id="48331" usage_chance_for_game="3" only_once_per_x2="1" text="but he'll hold onto it.(nl)No chance to throw out the speedy [%game batter].">
 <COND id="107" value="160"/>
 </OBJ>
-<OBJ id="48332" usage_chance_for_game="3" only_once_per_x2="1" text="but he'll make no throw.(nl)He stood no chance getting the speedy [%game batter].">
+<OBJ id="48332" usage_chance_for_game="3" only_once_per_x2="1" text="but he'll make no throw.(nl)He stood no chance of getting the speedy [%game batter].">
 <COND id="107" value="140"/>
 </OBJ>
 <OBJ id="50530" only_once_per_x2="1" text="but he'll eat it - -(nl)no use risking a throw."/>
@@ -45288,7 +45288,8 @@ The [%personage]-year-old has been fired as the club's general manager, with own
 </OBJ>
 <OBJ id="68997" usage_chance_for_game="4" only_once_per_x2="1" text="ticketed..."/>
 <OBJ id="68998" usage_chance_for_game="1" only_once_per_x2="1" text="tattooed..."/>
-<OBJ id="69005" usage_chance_for_game="2" only_once_per_x2="1" text="propelled..."/>-->
+<OBJ id="69005" usage_chance_for_game="2" only_once_per_x2="1" text="propelled..."/>
+<OBJ id="69028" text="rapped..."/>-->
 </CAT>
 
 <CAT id="226">
@@ -59830,7 +59831,18 @@ The [%personage]-year-old has been fired as the club's general manager, with own
 <OBJ id="66816" usage_chance_for_game="4" only_once_per_x2="1" text="this one's outta here!(nl)Home run!(nl)[%game pitcher] threw him a cookie...(nl)and [%game batter] was all over it.">
 <COND id="43" value="3"/>
 <COND id="70" value="2"/>
-</OBJ>-->
+</OBJ>
+<OBJ id="69027" usage_chance_for_game="2" only_once_per_x2="1" text="but this one is gone!(nl)Got a pitch right in the honey hole...(nl)and took it deep.">
+<COND id="70" value="1"/>
+<COND id="437" value="1"/>
+</OBJ>
+<OBJ id="69034" usage_chance_for_game="0.5" only_once_per_x2="1" text="but he won't catch this one!(nl)Touch 'em all!(nl)That pitch had fat dripping off it.">
+<COND id="344" value="3"/>
+<COND id="70" value="2"/>
+<COND id="437" value="2"/>
+</OBJ>
+<OBJ id="69036" text="but up and out of here it goes!"/>
+<OBJ id="69037" text="but up and out of here it sails!"/>-->
 </CAT>
 
 <CAT id="278">
@@ -60079,7 +60091,8 @@ The [%personage]-year-old has been fired as the club's general manager, with own
 <OBJ id="63225" only_once_per_x2="1" text="hit high in the air...(nl)and far to [%game ball direction]...(nl)and it ain't comin' back!"/>
 <OBJ id="67733" text="BOOM goes the dynamite!(nl)[%game batter] hits it way out of here!"/>
 <OBJ id="68186" text="blasted [%game flyball location]!(nl)That ball's not coming back.(nl)HOME RUN!"/>
-<OBJ id="69020" only_once_per_x2="1" text="hit hard to [%game ball direction]...(nl)and rising OUT of here!(nl)[%game batter] nuked that one!"/>-->
+<OBJ id="69020" only_once_per_x2="1" text="hit hard to [%game ball direction]...(nl)and rising OUT of here!(nl)[%game batter] nuked that one!"/>
+<OBJ id="69035" text="there it goes deep [%game flyball location]!(nl)[%game batter] got his pitch...(nl)and hit it to Rio Bravo!"/>-->
 </CAT>
 
 <CAT id="279">
@@ -71010,6 +71023,34 @@ The [%personage]-year-old has been fired as the club's general manager, with own
 <OBJ id="65750" usage_chance_for_game="4" only_once_per_x1="1" text="The outfield is deep.">
 <COND id="82" value="1"/>
 <COND id="367" value="3"/>
+</OBJ>
+<OBJ id="69022" usage_chance_for_game="6" only_once_per_x2="1" text="[%game teamab] down to their last out.">
+<COND id="54" value="1"/>
+<COND id="81" value="9"/>
+<COND id="83" value="-1"/>
+<COND id="69" value="2"/>
+</OBJ>
+<OBJ id="69023" usage_chance_for_game="6" only_once_per_x2="1" text="[%game teamab] down to their final out.">
+<COND id="81" value="9"/>
+<COND id="54" value="1"/>
+<COND id="83" value="-1"/>
+<COND id="69" value="2"/>
+</OBJ>
+<OBJ id="69024" usage_chance_for_game="6" only_once_per_x2="1" text="The [%game teamab nick] are down to their last out.">
+<COND id="81" value="9"/>
+<COND id="54" value="1"/>
+<COND id="83" value="-1"/>
+<COND id="69" value="2"/>
+<COND id="328" value="1"/>
+<COND id="327" value="1"/>
+</OBJ>
+<OBJ id="69025" usage_chance_for_game="6" only_once_per_x2="1" text="The [%game teamab nick] down to their last out.">
+<COND id="81" value="9"/>
+<COND id="54" value="1"/>
+<COND id="83" value="-1"/>
+<COND id="69" value="2"/>
+<COND id="328" value="1"/>
+<COND id="327" value="1"/>
 </OBJ>-->
 </CAT>
 
@@ -77332,7 +77373,9 @@ The [%personage]-year-old has been fired as the club's general manager, with own
 <OBJ id="68274" text="[%game pitch] taken for strike [%game strikes+1 long]."/>
 <OBJ id="68275" only_once_per_x2="1" text="[%game pitch] [%game pitch location]."/>
 <OBJ id="68276" only_once_per_x2="1" text="[%game pitch] [%game pitch location]."/>
-<OBJ id="68277" only_once_per_x2="1" text="[%game pitch] [%game pitch location]."/>-->
+<OBJ id="68277" only_once_per_x2="1" text="[%game pitch] [%game pitch location]."/>
+<OBJ id="69029" only_once_per_x2="1" text="the [%game pitch] lands for strike [%game strikes+1 long]."/>
+<OBJ id="69030" only_once_per_x2="1" text="the [%game pitch] lands - - strike [%game strikes+1 long]."/>-->
 </CAT>
 
 <CAT id="337">
@@ -85061,7 +85104,11 @@ The [%personage]-year-old has been fired as the club's general manager, with own
 <OBJ id="65190" usage_chance_for_game="2" only_once_per_x2="1" text="struck him out swinging!(nl)[%game pitcher] dialing up a fastball at [%game pitch speed]."/>
 <OBJ id="65191" usage_chance_for_game="2" only_once_per_x2="1" text="struck him out!(nl)[%game batter] swung through a fastball at [%game pitch speed]."/>
 <OBJ id="65192" usage_chance_for_game="1" only_once_per_x2="1" text="struck him out swinging!(nl)[%game pitch speed] the speed on that fastball."/>
-<OBJ id="69021" usage_chance_for_game="2" only_once_per_x2="1" text="swing and a miss!(nl)[%game pitcher] with some fuel."/>-->
+<OBJ id="69021" usage_chance_for_game="2" only_once_per_x2="1" text="swing and a miss!(nl)[%game pitcher] with some fuel."/>
+<OBJ id="69026" usage_chance_for_game="1" only_once_per_x2="1" text="swing and a miss - -(nl)and [%game batter] is toast!"/>
+<OBJ id="69031" usage_chance_for_game="1" only_once_per_x2="1" text="there's the cheddar for strike three!"/>
+<OBJ id="69032" usage_chance_for_game="1" only_once_per_x2="1" text="strike three swinging with the cheddar!"/>
+<OBJ id="69033" usage_chance_for_game="1" only_once_per_x2="1" text="struck him out with a fastball at the top rail!"/>-->
 </CAT>
 
 <CAT id="343">
@@ -86829,7 +86876,10 @@ The [%personage]-year-old has been fired as the club's general manager, with own
 <COND id="61" value="0"/>
 </OBJ>
 <OBJ id="68903" text="[%game batter] doesn't like it - -(nl)but he'll have to live with that call."/>
-<OBJ id="68904" usage_chance_for_game="1" only_once_per_x2="1" text="[%game batter] doesn't like the call - -(nl)judging from the stink-eye directed at the ump."/>-->
+<OBJ id="68904" usage_chance_for_game="1" only_once_per_x2="1" text="[%game batter] doesn't like the call - -(nl)judging from the stink-eye directed at the ump."/>
+<OBJ id="69044" usage_chance_for_game="5" only_once_per_x2="1" text="Didn't have to be called a strike.">
+<COND id="61" value="1"/>
+</OBJ>-->
 </CAT>
 
 <CAT id="348">
@@ -88087,6 +88137,16 @@ The [%personage]-year-old has been fired as the club's general manager, with own
 <OBJ id="68114" usage_chance_for_game="1" only_once_per_x2="1" text="strike three called!(nl)Say goodbye to [%game batter full name].">
 <COND id="73" value="1"/>
 <COND id="54" value="1"/>
+</OBJ>
+<OBJ id="69041" usage_chance_for_game="0.33" only_once_per_x2="1" text="strike three called!(nl)Can I help you, sir?(nl)No, I'm just looking.">
+<COND id="54" value="1"/>
+<COND id="69" value="0"/>
+<COND id="82" value="1"/>
+</OBJ>
+<OBJ id="69042" usage_chance_for_game="0.33" only_once_per_x2="1" text="strike three called!(nl)[%game batter] with the walk of shame...(nl)back to the dugout.">
+<COND id="54" value="1"/>
+<COND id="69" value="0"/>
+<COND id="82" value="1"/>
 </OBJ>-->
 </CAT>
 
@@ -95706,6 +95766,12 @@ The [%personage]-year-old has been fired as the club's general manager, with own
 <COND id="545" value="1"/>
 <COND id="548" value="0"/>
 <COND id="509" value="1"/>
+</OBJ>
+<OBJ id="69038" text="Scout Evaluates [%teamname] Before [%string#1]-Game Series">
+<COND id="545" value="1"/>
+</OBJ>
+<OBJ id="69039" text="Scout Evaluates [%teamname nickname] Before [%string#1]-Game Series">
+<COND id="327" value="1"/>
 </OBJ>-->
 </CAT>
 
@@ -107213,7 +107279,7 @@ The team will likely place [%personname L] on the injured list today.</TXT>
 <OBJ id="32206" text="[%personname L] Establishes New Record for Ks"/>
 <OBJ id="32207" text="Oh-K! [personname L] Sets Record"/>
 <OBJ id="32208" text="[personname L] O-K with New Record"/>
-<OBJ id="32209" text="[personname L] Leaps [%personname#2 L] in Record Book"/>
+<OBJ id="32209" text="[%personname L] Leaps [%personname#2 L] in Record Book"/>
 <OBJ id="32210" text="K-Mark Special for [personname L]"/>
 <OBJ id="32527" text="[%personname L] Breaks [%personname#2 L]'s Career Strikeout Record"/>
 <OBJ id="32543" text="Strikeout Number [%string] by [%personname L] Breaks Record "/>-->
@@ -127635,6 +127701,12 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 </OBJ>
 <OBJ id="68970" usage_chance_for_game="2" text="&quot;Sometimes,&quot; said [%personname L], &quot;it takes just one pitch to win or lose a ballgame.&quot;">
 <COND id="92" value="1"/>
+</OBJ>
+<OBJ id="69043" text="&quot;It's always nice when you reap the rewards of your work,&quot; said [%team#1name] manager [%team managerlink]. &quot;[%personname f] is a pro. He's a team-first guy and we love when the game rewards those guys.&quot;  ">
+<COND id="72" value="11"/>
+<COND id="147" value="1"/>
+<COND id="203" value="1"/>
+<COND id="187" value="6"/>
 </OBJ>-->
 </CAT>
 
@@ -151007,6 +151079,96 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="233" value="1"/>
 <COND id="236" value="2"/>
 <COND id="235" value="0"/>
+</OBJ>
+<OBJ id="69045" text="End in Sight: [%team#1name] Close to Clinching [%league currentseries abbr] After [%game score] Win">
+<COND id="231" value="2"/>
+<COND id="236" value="1"/>
+<COND id="239" value="4"/>
+<COND id="232" value="2"/>
+<COND id="233" value="3"/>
+<COND id="234" value="3"/>
+<COND id="235" value="0"/>
+</OBJ>
+<OBJ id="69046" text="[%team#1name] Close to Clinching [%league currentseries abbr] Following [%game score] Triumph">
+<COND id="231" value="2"/>
+<COND id="236" value="1"/>
+<COND id="239" value="4"/>
+<COND id="232" value="2"/>
+<COND id="233" value="3"/>
+<COND id="234" value="3"/>
+<COND id="235" value="0"/>
+</OBJ>
+<OBJ id="69047" text="[%team#1name] One Win Away from Capturing [%league currentseries abbr] Following [%game score] Win">
+<COND id="231" value="2"/>
+<COND id="236" value="1"/>
+<COND id="239" value="4"/>
+<COND id="232" value="2"/>
+<COND id="233" value="3"/>
+<COND id="234" value="3"/>
+<COND id="235" value="0"/>
+</OBJ>
+<OBJ id="69048" text="With [%game score] Win, [%team#1name] Close to Capturing [%league currentseries abbr]">
+<COND id="231" value="2"/>
+<COND id="236" value="1"/>
+<COND id="239" value="4"/>
+<COND id="232" value="2"/>
+<COND id="233" value="3"/>
+<COND id="234" value="3"/>
+<COND id="235" value="0"/>
+</OBJ>
+<OBJ id="69049" text="Following [%game score] Win, [%team#1name] Has [%league currentseries abbr] Title in Sight">
+<COND id="231" value="2"/>
+<COND id="236" value="1"/>
+<COND id="239" value="4"/>
+<COND id="232" value="2"/>
+<COND id="233" value="3"/>
+<COND id="234" value="3"/>
+<COND id="235" value="0"/>
+</OBJ>
+<OBJ id="69050" text="[%game score] Win Puts [%team#1name] One Game from [%league currentseries abbr] Title">
+<COND id="231" value="2"/>
+<COND id="236" value="1"/>
+<COND id="239" value="4"/>
+<COND id="232" value="2"/>
+<COND id="233" value="3"/>
+<COND id="234" value="3"/>
+<COND id="235" value="0"/>
+</OBJ>
+<OBJ id="69051" text="[%game score] Victory Puts [%team#1name] in Position to Clinch [%league currentseries abbr] Title">
+<COND id="231" value="2"/>
+<COND id="236" value="1"/>
+<COND id="239" value="4"/>
+<COND id="232" value="2"/>
+<COND id="233" value="3"/>
+<COND id="234" value="3"/>
+<COND id="235" value="0"/>
+</OBJ>
+<OBJ id="69052" text="With [%game score] Win, [%team#1name] in Position to Clinch [%league currentseries abbr] Title">
+<COND id="231" value="2"/>
+<COND id="236" value="1"/>
+<COND id="239" value="4"/>
+<COND id="232" value="2"/>
+<COND id="233" value="3"/>
+<COND id="234" value="3"/>
+<COND id="235" value="0"/>
+</OBJ>
+<OBJ id="69053" text="With [%game score] Win, [%team#1name] a Step Closer to [%league currentseries abbr] Title">
+<COND id="231" value="2"/>
+<COND id="236" value="1"/>
+<COND id="239" value="4"/>
+<COND id="232" value="2"/>
+<COND id="233" value="3"/>
+<COND id="234" value="3"/>
+<COND id="235" value="0"/>
+</OBJ>
+<OBJ id="69054" text="[%team#1name] Close to Securing [%league currentseries abbr] Following [%game score] Win">
+<COND id="231" value="2"/>
+<COND id="236" value="1"/>
+<COND id="239" value="4"/>
+<COND id="232" value="2"/>
+<COND id="233" value="3"/>
+<COND id="234" value="3"/>
+<COND id="235" value="0"/>
 </OBJ>-->
 </CAT>
 
@@ -171319,7 +171481,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="338" value="1"/>
 <COND id="353" value="180"/>
 </OBJ><!--
-<OBJ id="53984" text="[%personname F L] is a long, lean athletic [%playerposition scout] who was born in [%personhometown].">
+<OBJ id="53984" text="[%personname F L] is a long, lean, athletic [%playerposition scout] who was born in [%personhometown].">
 <COND id="351" value="4"/>
 <COND id="338" value="1"/>
 <COND id="353" value="200"/>
@@ -171350,7 +171512,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="74" value="2"/>
 <COND id="352" value="220"/>
 </OBJ><!--
-<OBJ id="54672" text="[%personname F L] is a big switch-hitting [%playerposition scout] with a muscular build who was [%player acquired].">
+<OBJ id="54672" text="[%personname F L] is a big, switch-hitting [%playerposition scout] with a muscular build who was [%player acquired].">
 <COND id="351" value="4"/>
 <COND id="74" value="2"/>
 <COND id="352" value="220"/>
@@ -171564,6 +171726,38 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="372" value="1"/>
 <COND id="267" value="2"/>
 </OBJ>
+<OBJ id="69055" text="[%personname F L]是一名身材壯碩的[%playerposition scout]，身高[%person height long]、體重[%person weight long]，來自[%personhometown]。">
+<COND id="351" value="4"/>
+<COND id="352" value="240"/>
+</OBJ>
+<OBJ id="69056" text="[%personname F L]是一名體型圓潤的[%playerposition scout]，身高[%person height long]、體重[%person weight long]，來自[%personhometown]。">
+<COND id="351" value="1"/>
+<COND id="352" value="230"/>
+</OBJ>
+<OBJ id="69057" text="[%personname F L]是一名體格厚實的[%playerposition scout]，身高[%person height long]、體重[%person weight long]，來自[%personhometown]。">
+<COND id="351" value="2"/>
+<COND id="352" value="230"/>
+</OBJ>
+<OBJ id="69058" text="[%personname F L]是一名身形修長精瘦的[%playerposition scout]，身高[%person height long]、體重[%person weight long]，出身[%personhometown]。">
+<COND id="351" value="4"/>
+<COND id="353" value="160"/>
+</OBJ><!--
+<OBJ id="69059" text="[%personname F L] is a long and lean [%person height long], [%person weight long] [%playerposition scout] from [%personhometown].">
+<COND id="351" value="4"/>
+<COND id="353" value="160"/>
+</OBJ>
+<OBJ id="69060" text="[%personhometown]-born [%personname F L] is a crafty right-handed pitcher.">
+<COND id="338" value="1"/>
+<COND id="267" value="1"/>
+<COND id="382" value="0"/>
+<COND id="75" value="0"/>
+</OBJ>
+<OBJ id="69061" text="[%personhometown]-born [%personname F L] is a right-handed pitcher with guile.">
+<COND id="338" value="1"/>
+<COND id="267" value="1"/>
+<COND id="382" value="0"/>
+<COND id="75" value="0"/>
+</OBJ>-->
 </CAT>
 
 <CAT id="909">
@@ -172084,7 +172278,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <OBJ id="67289" text="He starts hitters off with the [%player best pitch], and if he gets ahead he may throw [%player second pitch descr] or [%player third pitch descr].">
 <COND id="341" value="3"/>
 </OBJ>
-<OBJ id="67511" text="[%personname L] now mixes in his [%player second pitch] and [%player third pitch] when he is setting up hitters. He will use [%player best pitch descr] for strikeouts.">
+<OBJ id="67511" text="[%personname L] mixes in his [%player second pitch] and [%player third pitch] when he is setting up hitters. He will use [%player best pitch descr] for strikeouts.">
 <COND id="341" value="3"/>
 </OBJ>
 <OBJ id="67525">
@@ -172733,6 +172927,12 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <OBJ id="67542" text="a fastball that hums">
 <COND id="344" value="1"/>
 <COND id="18" value="12"/>
+</OBJ>
+<OBJ id="69064" text="a pedestrian [%pitch name]">
+<COND id="343" value="2"/>
+</OBJ>
+<OBJ id="69065" text="an underwhelming [%pitch name]">
+<COND id="343" value="2"/>
 </OBJ>-->
 </CAT>
 
@@ -174879,7 +175079,12 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="93" value="6"/>
 <COND id="358" value="2"/>
 <COND id="72" value="19"/>
-</OBJ>
+</OBJ><!--
+<OBJ id="69062" text="He hits his spots to compensate for marginal stuff.">
+<COND id="354" value="4"/>
+<COND id="95" value="5"/>
+<COND id="97" value="5"/>
+</OBJ>-->
 </CAT>
 
 <CAT id="916">
@@ -175402,7 +175607,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="98" value="5"/>
 <COND id="355" value="4"/>
 </OBJ>
-<OBJ id="53757" text="He has fringy stuff but makes up for it with pinpoint control.">
+<OBJ id="53757" text="He has marginal stuff but makes up for it with pinpoint control.">
 <COND id="96" value="5"/>
 <COND id="98" value="5"/>
 <COND id="355" value="4"/>
@@ -175529,7 +175734,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="357" value="5"/>
 <COND id="18" value="17"/>
 </OBJ><!--
-<OBJ id="54122" text="He struggles with commanding his pitches and is projected to walk an above number of batters.">
+<OBJ id="54122" text="He struggles with commanding his pitches and is projected to walk an above average number of batters.">
 <COND id="96" value="1"/>
 <COND id="98" value="3"/>
 <COND id="355" value="5"/>
@@ -175569,7 +175774,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="94" value="3"/>
 <COND id="357" value="5"/>
 </OBJ>
-<OBJ id="54127" text="As he develops command problems are expected to continue to plague him, with walks a problem.">
+<OBJ id="54127" text="As he develops, command problems are expected to continue to plague him, with walks a problem.">
 <COND id="96" value="1"/>
 <COND id="98" value="3"/>
 <COND id="355" value="5"/>
@@ -176049,6 +176254,11 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <COND id="359" value="5"/>
 <COND id="94" value="3"/>
 <COND id="357" value="3"/>
+</OBJ>
+<OBJ id="69063" text="He hits his spots to compensate for pedestrian stuff.">
+<COND id="96" value="5"/>
+<COND id="98" value="5"/>
+<COND id="355" value="4"/>
 </OBJ>-->
 </CAT>
 
@@ -181751,7 +181961,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <OBJ id="52024" text="His elite speed will benefit him on the basepaths.">
 <COND id="105" value="7"/>
 </OBJ>
-<OBJ id="52025" text="He can impact the game with his wheels on the base.">
+<OBJ id="52025" text="He can impact the game with his wheels on the bases.">
 <COND id="105" value="7"/>
 </OBJ>
 <OBJ id="52026" text="Few major-leaguers can match his speed, creating potential havoc every time he is on base.">
@@ -185121,7 +185331,7 @@ He told the [%team localpaper], &quot;Every game is it's own challenge. That's w
 <OBJ id="68813" text="[%personname L] is one of the league's most talented figures.">
 <COND id="336" value="7"/>
 </OBJ>
-<OBJ id="68814" text="[%personname L] is one of the league's premiere players.">
+<OBJ id="68814" text="[%personname L] is one of the league's premier players.">
 <COND id="336" value="7"/>
 </OBJ>
 <OBJ id="68815" text="[%personname L] is a phenomenal talent.">
@@ -197264,7 +197474,7 @@ As the new season approaches, [%personname] feels stronger and more confident th
 </CAT>
 
 <CAT id="1203">
-<OBJ id="68677" text="教練將利用影片分析與實戰跑者來協助投手看管跑者。投手守備練習的重點將放在盯緊跑者、加快投球出手至本壘的時間、牽制、壘包補位以及更多一般守備技巧。">
+<!--<OBJ id="68677" text="教練將利用影片分析與實戰跑者來協助投手看管跑者。投手守備練習的重點將放在盯緊跑者、加快投球出手至本壘的時間、牽制、壘包補位以及更多一般守備技巧。">
 <COND id="530" value="1"/>
 <COND id="142" value="1985"/>
 </OBJ>
@@ -197275,7 +197485,8 @@ As the new season approaches, [%personname] feels stronger and more confident th
 <OBJ id="68679">
 <TXT>球員將與教練合作以提升防守的各個環節。他們將鞏固快速換手、腳步、守備動作等各項基本功。最終他們將增進臂力、擴大守備範圍、提升策動雙殺的能力，並全面強化內野守備。</TXT>
 <COND id="530" value="17"/>
-</OBJ>
+</OBJ>-->
+<OBJ id="69040" text="球員將與教練合作，全面提升守備能力，鞏固快速換手、腳步、接球動作等基本功。"/>
 </CAT>
 
 <CAT id="1204">

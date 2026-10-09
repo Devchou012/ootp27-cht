@@ -67,3 +67,11 @@ python tools/check_ootp27.py "<OOTP 27 安裝資料夾>"
 韓文模式下，名次後面的「위」與日期裡的「일」是遊戲程式依語言自動加上的，不在任何文字檔裡，改不到。
 27 版雖然附了整套繁中檔（chinese.xml 等），程式也有 Chinese (traditional) 選項，但正式版選單只開放英文與韓文；
 啟動參數 `-enable_all_languages` 與 app.cfg 加 `enable_all_languages` 都試過，無效。
+
+## 改版後重裝（2026-10-10，27.4.76 → 27.5.81 實例）
+
+1. 逐檔比對新版原檔與 ~/ootp27-backup-original（sha256），找出改版動到的檔。
+2. 沒動到的：直接把 ~/ootp27-中文化備份/data 複製回去。
+3. 動到的：新版原檔放進 temp/ 與原檔備份（舊版改名保留），重跑對應 merge 工具；`merge_korean.py --todo` 補翻新增句。
+4. preflight 全過、更新備份包雜湊，再複製進遊戲。
+這次只動到 world_default.xml 與 english.xml（新增 5 句播報），其餘直接沿用。
