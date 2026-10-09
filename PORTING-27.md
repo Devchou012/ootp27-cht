@@ -61,3 +61,9 @@ python tools/check_ootp27.py "<OOTP 27 安裝資料夾>"
 ## 術語表
 
 27 版補翻用的台灣棒球術語在 `docs/glossary.md`（來源與裁定理由在案件 #2026-10-08-02）。裝進遊戲前跑 `python tools/preflight.py "<27 版 data 資料夾>"`，要「全部通過」。
+
+## 已知限制（2026-10-09）
+
+韓文模式下，名次後面的「위」與日期裡的「일」是遊戲程式依語言自動加上的，不在任何文字檔裡，改不到。
+27 版雖然附了整套繁中檔（chinese.xml 等），程式也有 Chinese (traditional) 選項，但正式版選單只開放英文與韓文；
+啟動參數 `-enable_all_languages` 與 app.cfg 加 `enable_all_languages` 都試過，無效。
