@@ -181,7 +181,7 @@
 </HCS>
 <HCS i="25">
 <EN>Good morning, &#37;n,{nl}I&#39;d like to inform you that the following members of your personnel have a contract which will expire at the end of the season</EN>
-<KR>早上好，&#37;n，{nl}我想通知您，您的以下人員的合約將在賽季結束時到期</KR>
+<KR>早上好，%n，{nl}我想通知您，您的以下人員的合約將在球季結束時到期</KR>
 <ES>Buenos días, &#37;n,{nl}me gustaría informarle que los siguientes miembros de su personal tienen un contrato que vencerá al final de la temporada</ES>
 <JP>おはようございます、％n、{nl}次の担当者がシーズンの終わりに期限切れになる契約を結んでいることをお知らせします</JP>
 <CN>&#37;n，早安：(nl)在此提醒你，以下人員的合約將於賽季結束時到期</CN>
@@ -1507,7 +1507,7 @@
 </HCS>
 <HCS i="222">
 <EN>Commissioner Office</EN>
-<KR>主席辦公室</KR>
+<KR>聯盟主席辦公室</KR>
 <ES>Oficina del Comisionado</ES>
 <JP>コミッショナーオフィス</JP>
 <CN>主席辦公室</CN>
@@ -1535,7 +1535,7 @@
 </HCS>
 <HCS i="226">
 <EN>Lineup Selection</EN>
-<KR>先發陣容選擇</KR>
+<KR>打線選擇</KR>
 <ES>Selección de alineación</ES>
 <JP>ラインナップ選定</JP>
 <CN>陣容選擇</CN>
@@ -2131,7 +2131,7 @@
 </HCS>
 <HCS i="311">
 <EN>Minor League Option Years</EN>
-<KR>小聯盟球員選擇權年限</KR>
+<KR>小聯盟下放權年限</KR>
 <ES>Años de opción de ligas menores</ES>
 <JP>マイナーリーグオプション年</JP>
 <CN>小聯盟選擇權年份</CN>
@@ -2180,14 +2180,14 @@
 </HCS>
 <HCS i="319">
 <EN>Rule 5 Draft Settings</EN>
-<KR>規則 5 選秀設定</KR>
+<KR>規則五選秀設定</KR>
 <ES>Regla 5 Configuración de draft</ES>
 <JP>ルール5ドラフト設定</JP>
 <CN>規則五選秀設定</CN>
 </HCS>
 <HCS i="320">
 <EN>Enable Rule 5 Draft</EN>
-<KR>啟用規則 5 選秀</KR>
+<KR>啟用規則五選秀</KR>
 <ES>Habilitar borrador de la regla 5</ES>
 <JP>ルール5ドラフトを有効にする</JP>
 <CN>啟用規則五選秀</CN>
@@ -2502,7 +2502,7 @@
 </HCS>
 <HCS i="366">
 <EN>Average Player Payroll</EN>
-<KR>平均球員薪資</KR>
+<KR>平均球員薪資總額</KR>
 <ES>Nómina promedio del jugador</ES>
 <JP>平均的なプレーヤーの給与</JP>
 <CN>球員平均薪資</CN>
@@ -3118,7 +3118,7 @@
 </HCS>
 <HCS i="459">
 <EN>Team Player Payroll</EN>
-<KR>球隊球員薪資</KR>
+<KR>球隊球員薪資總額</KR>
 <ES>Nómina de jugadores de equipo</ES>
 <JP>チームプレーヤーの給与</JP>
 <CN>球隊球員薪資</CN>
@@ -3160,7 +3160,7 @@
 </HCS>
 <HCS i="465">
 <EN>Historical Transactions / Lineups</EN>
-<KR>歷史交易／先發陣容</KR>
+<KR>歷史異動／先發打線</KR>
 <ES>Transacciones históricas / Alineaciones</ES>
 <JP>過去の取引/ラインナップ</JP>
 <CN>歷史球員異動/陣容</CN>
@@ -3608,7 +3608,7 @@
 </HCS>
 <HCS i="532">
 <EN>Wants no-trade clause</EN>
-<KR>想要禁止交易條款</KR>
+<KR>想要不可交易條款</KR>
 <ES>Quiere cláusula de no comercio</ES>
 <JP>取引禁止条項が必要</JP>
 <CN>想要不可交易條款</CN>
@@ -4140,7 +4140,7 @@
 </HCS>
 <HCS i="608">
 <EN>Milestone Single Season Home Runs</EN>
-<KR>單賽季全壘打數里程碑</KR>
+<KR>單球季全壘打數里程碑</KR>
 <ES>Home Runs de una sola temporada</ES>
 <JP>マイルストーンシングルシーズンホームラン</JP>
 <CN>里程碑：單一賽季全壘打數</CN>
@@ -5176,7 +5176,7 @@
 </HCS>
 <HCS i="764">
 <EN>Set Lineup</EN>
-<KR>設定先發陣容</KR>
+<KR>設定打線</KR>
 <ES>Establecer alineación</ES>
 <JP>ラインナップを設定</JP>
 <CN>設定陣容</CN>
@@ -5267,7 +5267,7 @@
 </HCS>
 <HCS i="778">
 <EN>Short-Season A</EN>
-<KR>短賽季A</KR>
+<KR>短球季A</KR>
 <ES>Temporada corta A</ES>
 <JP>ショートシーズンA</JP>
 <CN>短期1A</CN>
@@ -5890,7 +5890,7 @@
 </HCS>
 <HCS i="871">
 <EN>Comparison: By Lineup</EN>
-<KR>比較：按陣容</KR>
+<KR>比較：按打線</KR>
 <ES>Comparación: por alineación</ES>
 <JP>比較：ラインナップ別</JP>
 <CN>比較：依陣容</CN>
@@ -5990,7 +5990,7 @@
 </HCS>
 <HCS i="885">
 <EN>Last 10 games</EN>
-<KR>最近10場比賽</KR>
+<KR>近十場戰績</KR>
 <ES>últimos 10 juegos</ES>
 <JP>過去10試合</JP>
 <CN>最近10場比賽</CN>
@@ -6124,7 +6124,7 @@
 </HCS>
 <HCS i="904">
 <EN>Starting Lineup</EN>
-<KR>先發陣容</KR>
+<KR>先發打線</KR>
 <ES>ALINEACIÓN INICIAL</ES>
 <JP>スタメン</JP>
 <CN>先發陣容</CN>
@@ -6166,7 +6166,7 @@
 </HCS>
 <HCS i="910">
 <EN>Win now</EN>
-<KR>贏在當下</KR>
+<KR>立即爭冠</KR>
 <ES>gana ahora</ES>
 <JP>今すぐ勝つ</JP>
 <CN>全力求勝</CN>
@@ -6229,7 +6229,7 @@
 </HCS>
 <HCS i="920">
 <EN>Save This Lineup as Custom Lineup</EN>
-<KR>將此陣容儲存為自訂陣容</KR>
+<KR>將此打線儲存為自訂打線</KR>
 <ES>Guardar esta alineación como alineación personalizada</ES>
 <JP>このラインナップをカスタムラインナップとして保存</JP>
 <CN>將此陣容儲存為自訂陣容</CN>
@@ -6348,7 +6348,7 @@
 </HCS>
 <HCS i="938">
 <EN>This screen allows you to define specific team needs. These needs are evaluated by computer-controlled teams while looking for interesting trade opportunities. The more needs you define, the more trade offers you will likely get during the season.{nl}{nl}For example, if you would like to trade for a good starting pitching prospect, click on &#39;Add new need&#39;, then set the age maximum to 23, select starting pitcher as position and set the player quality to good and potential ability</EN>
-<KR>此畫面允許您定義特定的球隊需求。這些需求由電腦控制的球隊評估，同時尋找有趣的交易機會。您定義的需求越多，您在賽季中可能獲得的交易報價就越多。{nl}{nl}例如，如果您想交易一個良好的先發投手新秀，請點擊“新增新需求”，然後設定年齡上限為23歲，選擇先發投手作為位置，並將球員素質設定為良好和潛在能力</KR>
+<KR>此畫面允許您定義特定的球隊需求。這些需求由電腦控制的球隊評估，同時尋找有趣的交易機會。您定義的需求越多，您在球季中可能獲得的交易報價就越多。{nl}{nl}例如，如果您想交易一個良好的先發投手新秀，請點擊“新增新需求”，然後設定年齡上限為23歲，選擇先發投手作為位置，並將球員素質設定為良好和潛在能力</KR>
 <ES>Esta pantalla le permite definir las necesidades específicas del equipo. Estas necesidades son evaluadas por equipos controlados por computadora mientras buscan oportunidades comerciales interesantes. Cuantas más necesidades defina, más ofertas comerciales recibirá durante la temporada.{nl}{nl}Por ejemplo, si desea realizar un intercambio por un buen prospecto de lanzador titular, haga clic en &quot;Agregar nueva necesidad&quot; y luego configure la edad máxima a 23 años, seleccione el lanzador abridor como posición y establezca la calidad del jugador en una habilidad buena y potencial</ES>
 <JP>この画面では、特定のチームのニーズを定義できます。これらのニーズは、興味深い貿易の機会を探しながら、コンピューター制御のチームによって評価されます。定義するニーズが多ければ多いほど、シーズン中に得られる可能性のあるトレードオファーが増えます。{nl} {nl}たとえば、先発投手に適した見込み客とトレードしたい場合は、[新しいニーズを追加]をクリックしてから設定します。最大年齢は23歳で、先発投手をポジションとして選択し、プレーヤーの質を優れた潜在的な能力に設定します</JP>
 <CN>你可以在這個畫面中定義特定球隊需求。電腦控管的球隊在尋找有意思的交易機會時，會評估這些需求。定義的需求越多，就可能會在賽季期間得到越多交易提案。(nl)(nl)比方說，如果你想透過交易換得優秀的先發投手潛力新秀，請點選「新增需求」，然後將年齡上限設為23，在守位部分選取先發投手，並將球員素質設為「優異」和「潛在能力」</CN>
@@ -6713,7 +6713,7 @@
 </HCS>
 <HCS i="991">
 <EN>Bench player</EN>
-<KR>替補球員</KR>
+<KR>板凳球員</KR>
 <ES>jugador de banco</ES>
 <JP>ベンチプレーヤー</JP>
 <CN>板凳球員</CN>
@@ -6930,14 +6930,14 @@
 </HCS>
 <HCS i="1022">
 <EN>Type B</EN>
-<KR>B級</KR>
+<KR>B 型</KR>
 <ES>Tipo B</ES>
 <JP>タイプB</JP>
 <CN>B級</CN>
 </HCS>
 <HCS i="1023">
 <EN>Type A</EN>
-<KR>A級</KR>
+<KR>A 型</KR>
 <ES>Escribe un</ES>
 <JP>タイプA</JP>
 <CN>A級</CN>
@@ -7189,7 +7189,7 @@
 </HCS>
 <HCS i="1059">
 <EN>Rule 5 Draft Eligibility</EN>
-<KR>規則 5 選秀資格</KR>
+<KR>規則五選秀資格</KR>
 <ES>Regla 5 Selección de elegibilidad</ES>
 <JP>ルール5ドラフト適格性</JP>
 <CN>是否符合規則五選秀資格</CN>
@@ -7273,7 +7273,7 @@
 </HCS>
 <HCS i="1071">
 <EN>Minor League Options</EN>
-<KR>小聯盟選擇權</KR>
+<KR>小聯盟下放權</KR>
 <ES>Opciones de ligas menores</ES>
 <JP>マイナーリーグオプション</JP>
 <CN>小聯盟選擇權</CN>
@@ -7294,7 +7294,7 @@
 </HCS>
 <HCS i="1075">
 <EN>Arbitration Estimate</EN>
-<KR>仲裁估價</KR>
+<KR>薪資仲裁估價</KR>
 <ES>Estimación de arbitraje</ES>
 <JP>仲裁の見積もり</JP>
 <CN>仲裁預估值</CN>
@@ -8395,7 +8395,7 @@
 <HCS i="1245">
 <EN>No, cut off</EN>
 <DC>No, cut off [player ratings &gt; maximum]</DC>
-<KR>不，切斷</KR>
+<KR>否，截斷</KR>
 <ES>No, cortar</ES>
 <JP>いいえ、切り取ります</JP>
 <CN>否，截斷</CN>
@@ -9130,14 +9130,14 @@
 </HCS>
 <HCS i="1362">
 <EN>Save coaches HTML folder of each season</EN>
-<KR>儲存每個賽季的教練 HTML 資料夾</KR>
+<KR>儲存每個球季的教練 HTML 資料夾</KR>
 <ES>Guarda la carpeta HTML de los entrenadores de cada temporada</ES>
 <JP>各シーズンのコーチのHTMLフォルダを保存します</JP>
 <CN>儲存每個賽季的教練HTML資料夾</CN>
 </HCS>
 <HCS i="1363">
 <EN>Save game logs HTML folder of each season</EN>
-<KR>儲存每個賽季的比賽記錄 HTML 資料夾</KR>
+<KR>儲存每個球季的比賽記錄 HTML 資料夾</KR>
 <ES>Guarde la carpeta HTML de registros de juego de cada temporada</ES>
 <JP>毎シーズンのゲームログHTMLフォルダを保存</JP>
 <CN>儲存每個賽季的比賽紀錄HTML資料夾</CN>
@@ -9158,14 +9158,14 @@
 </HCS>
 <HCS i="1366">
 <EN>Save leagues HTML folder of each season</EN>
-<KR>儲存每個賽季的聯盟 HTML 資料夾</KR>
+<KR>儲存每個球季的聯盟 HTML 資料夾</KR>
 <ES>Guarda la carpeta HTML de las ligas de cada temporada</ES>
 <JP>各シーズンのリーグHTMLフォルダを保存します</JP>
 <CN>儲存每個賽季的聯盟HTML資料夾</CN>
 </HCS>
 <HCS i="1367">
 <EN>Save players HTML folder of each season</EN>
-<KR>儲存每個賽季的球員 HTML 資料夾</KR>
+<KR>儲存每個球季的球員 HTML 資料夾</KR>
 <ES>Guarda la carpeta HTML de los jugadores de cada temporada</ES>
 <JP>各シーズンのプレーヤーのHTMLフォルダを保存します</JP>
 <CN>儲存每個賽季的球員HTML資料夾</CN>
@@ -9179,7 +9179,7 @@
 </HCS>
 <HCS i="1369">
 <EN>Save teams HTML folder of each season</EN>
-<KR>儲存每個賽季的球隊 HTML 資料夾</KR>
+<KR>儲存每個球季的球隊 HTML 資料夾</KR>
 <ES>Guarda la carpeta HTML de los equipos de cada temporada</ES>
 <JP>各シーズンのチームのHTMLフォルダを保存します</JP>
 <CN>儲存每個賽季的球隊HTML資料夾</CN>
@@ -9845,7 +9845,7 @@
 </HCS>
 <HCS i="1472">
 <EN>Upon the start of the tournament pre-season, the top &#37;d nations in terms of talent will be selected for the tournament</EN>
-<KR>在錦標賽季前賽開始時，將選出天賦排名前 &#37;d 的國家參加錦標賽</KR>
+<KR>在錦標球季前賽開始時，將選出天賦排名前 %d 的國家參加錦標賽</KR>
 <ES>Al comienzo de la pretemporada del torneo, se seleccionarán para el torneo las mejores &#37;d naciones en términos de talento.</ES>
 <JP>トーナメントのプレシーズンが始まると、才能の面で上位％dの国がトーナメントに選ばれます</JP>
 <CN>季前錦標賽開始時，在人才方面排名前&#37;d名的國家將選入錦標賽</CN>
@@ -9916,7 +9916,7 @@
 <HCS i="1482">
 <EN>Roster AI with incomplete minors</EN>
 <DC>As a setting value for how the AI builds teams</DC>
-<KR>不完整小聯盟的名單 AI</KR>
+<KR>小聯盟不完整時的名單 AI</KR>
 <ES>Roster AI con menores incompletos</ES>
 <JP>未成年者が不完全なAIを登録する</JP>
 <CN>小聯盟名單不完整時的球員名單AI</CN>
@@ -9951,7 +9951,7 @@
 </HCS>
 <HCS i="1487">
 <EN>Average Salary</EN>
-<KR>平均工資</KR>
+<KR>平均薪資</KR>
 <ES>Salario promedio</ES>
 <JP>平均給与</JP>
 <CN>平均薪資</CN>
@@ -10588,7 +10588,7 @@
 </HCS>
 <HCS i="1586">
 <EN>Qualifying Offer Value</EN>
-<KR>資格報價金額</KR>
+<KR>合格報價金額</KR>
 <ES>Valor de oferta elegible</ES>
 <JP>対象となるオファー値</JP>
 <CN>合格提案價值</CN>
@@ -11458,7 +11458,7 @@
 </HCS>
 <HCS i="1716">
 <EN>Returned Rule 5 Pick</EN>
-<KR>歸還規則 5 選秀指名球員</KR>
+<KR>歸還規則五選秀指名球員</KR>
 <ES>Selección de la regla 5 devuelta</ES>
 <JP>返されたルール5ピック</JP>
 <CN>已送回規則五選秀對象</CN>
@@ -13503,7 +13503,7 @@
 </HCS>
 <HCS i="2014">
 <EN>Reliever Award Name</EN>
-<KR>救援投手獎名稱</KR>
+<KR>後援投手獎名稱</KR>
 <ES>Nombre del premio de relevista</ES>
 <JP>リリーフ賞名</JP>
 <CN>後援投手獎項名稱</CN>
@@ -13552,7 +13552,7 @@
 </HCS>
 <HCS i="2021">
 <EN>Reliever may win</EN>
-<KR>救援投手可能會獲勝</KR>
+<KR>後援投手可能會獲勝</KR>
 <ES>El relevista puede ganar</ES>
 <JP>リリーフが勝つ可能性があります</JP>
 <CN>後援投手可得獎</CN>
@@ -16332,7 +16332,7 @@
 </HCS>
 <HCS i="2424">
 <EN>Too few starters in the rotation</EN>
-<KR>輪值陣容中的先發太少</KR>
+<KR>先發輪值中的先發太少</KR>
 <ES>Muy pocos titulares en la rotación</ES>
 <JP>ローテーションのスターターが少なすぎる</JP>
 <CN>輪值的先發投手過少</CN>
@@ -16346,7 +16346,7 @@
 </HCS>
 <HCS i="2426">
 <EN>Missing players in lineup vs L</EN>
-<KR>陣容中缺少球員 vs L</KR>
+<KR>打線中缺少球員 vs L</KR>
 <ES>Jugadores faltantes en la alineación vs L</ES>
 <JP>ラインナップvsLで行方不明の選手</JP>
 <CN>對左投陣容缺少球員</CN>
@@ -16367,7 +16367,7 @@
 </HCS>
 <HCS i="2429">
 <EN>Missing players in lineup vs R</EN>
-<KR>陣容中缺少球員 vs R</KR>
+<KR>打線中缺少球員 vs R</KR>
 <ES>Jugadores faltantes en la alineación vs R</ES>
 <JP>ラインナップvsRで行方不明の選手</JP>
 <CN>對右投陣容缺少球員</CN>
@@ -16598,7 +16598,7 @@
 </HCS>
 <HCS i="2462">
 <EN>Versus &#37;s</EN>
-<KR>與 &#37;s</KR>
+<KR>對戰 %s</KR>
 <ES>contra &#37;s</ES>
 <JP>対％s</JP>
 <CN>對&#37;s</CN>
@@ -16903,7 +16903,7 @@
 </HCS>
 <HCS i="2507">
 <EN>Exercised his contract opt-out</EN>
-<KR>行使了他的合約逃脫條款</KR>
+<KR>行使了他的合約跳脫條款</KR>
 <ES>Ejerció su opción de exclusión del contrato</ES>
 <JP>契約のオプトアウトを行使した</JP>
 <CN>已選擇跳脫合約</CN>
@@ -18772,7 +18772,7 @@
 </HCS>
 <HCS i="2778">
 <EN>Importing league transactions: &#37;d lines read</EN>
-<KR>匯入聯盟交易：已讀取 &#37;d 行</KR>
+<KR>匯入聯盟異動：已讀取 %d 行</KR>
 <ES>Importando transacciones de liga: &#37;d líneas leídas</ES>
 <JP>リーグトランザクションのインポート：％d行の読み取り</JP>
 <CN>正在匯入聯盟異動紀錄：已讀取&#37;d行</CN>
@@ -19164,7 +19164,7 @@
 </HCS>
 <HCS i="2834">
 <EN>Deleting league transactions text files</EN>
-<KR>刪除聯盟交易文字檔</KR>
+<KR>刪除聯盟異動文字檔</KR>
 <ES>Eliminación de archivos de texto de transacciones de liga</ES>
 <JP>リーグトランザクションテキストファイルの削除</JP>
 <CN>正在刪除聯盟異動文字檔案</CN>
@@ -20908,7 +20908,7 @@
 <HCS i="3094">
 <EN>Signed &#37;jobname &#37;name to a &#37;number-year contract extension</EN>
 <DC>EX: Signed batting coach to a 1-year contract extension.</DC>
-<KR>已與 %jobname %name 簽訂 %number-year 續約合約</KR>
+<KR>已與 %jobname %name 簽下 %number 年續約合約</KR>
 <ES>Firmó &#37;jobname &#37;name con una extensión de contrato de &#37;número de años</ES>
 <JP>％jobname％nameを％number-year契約延長に署名しました</JP>
 <CN>已與&#37;jobname&#37;name簽下&#37;number年延長合約</CN>
@@ -20923,7 +20923,7 @@
 </HCS>
 <HCS i="3096">
 <EN>Salary History</EN>
-<KR>工資歷史</KR>
+<KR>薪資歷史</KR>
 <ES>Historial de salarios</ES>
 <JP>給与履歴</JP>
 <CN>薪資紀錄</CN>
@@ -21170,7 +21170,7 @@
 <HCS i="3141">
 <EN>Transaction Type</EN>
 <DC>Player Transaction Type</DC>
-<KR>交易類型</KR>
+<KR>異動類型</KR>
 <ES>tipo de transacción</ES>
 <JP>トランザクションタイプ</JP>
 <CN>異動類型</CN>
@@ -21269,14 +21269,14 @@
 </HCS>
 <HCS i="3155">
 <EN>Invalid Player in Lineup</EN>
-<KR>先發陣容中有無效球員</KR>
+<KR>打線中有無效球員</KR>
 <ES>Jugador inválido en la alineación</ES>
 <JP>ラインナップに無効なプレーヤー</JP>
 <CN>陣容中的球員無效</CN>
 </HCS>
 <HCS i="3156">
 <EN>Missing Lineup Position</EN>
-<KR>缺少陣容位置</KR>
+<KR>缺少打線位置</KR>
 <ES>Posición faltante en la alineación</ES>
 <JP>ラインナップポジションがありません</JP>
 <CN>缺少陣容守位</CN>
@@ -22247,7 +22247,7 @@
 </HCS>
 <HCS i="3299">
 <EN>Secret Commissioner Key</EN>
-<KR>祕密專員金鑰</KR>
+<KR>祕密聯盟主席金鑰</KR>
 <ES>Clave secreta del comisionado</ES>
 <JP>シークレットコミッショナーキー</JP>
 <CN>主席私密金鑰</CN>
@@ -23493,7 +23493,7 @@
 </HCS>
 <HCS i="3487">
 <EN>Keep selected season&#39;s statistics in player career stats</EN>
-<KR>在球員生涯數據中保留選定賽季的數據</KR>
+<KR>在球員生涯數據中保留選定球季的數據</KR>
 <ES>Mantenga las estadísticas de la temporada seleccionada en las estadísticas de carrera del jugador</ES>
 <JP>選択したシーズンの統計をプレーヤーのキャリア統計に保持する</JP>
 <CN>在球員生涯數據中保留所選賽季的數據</CN>
@@ -24334,7 +24334,7 @@
 </HCS>
 <HCS i="3616">
 <EN>Rookie of the Month</EN>
-<KR>單月最佳新秀</KR>
+<KR>單月最佳新人</KR>
 <ES>Novato del Mes</ES>
 <JP>今月の新人</JP>
 <CN>單月最佳新秀</CN>
@@ -24362,7 +24362,7 @@
 </HCS>
 <HCS i="3620">
 <EN>GM request rejected</EN>
-<KR>GM請求被拒絕</KR>
+<KR>總經理請求被拒絕</KR>
 <ES>Solicitud de GM rechazada</ES>
 <JP>GMリクエストが拒否されました</JP>
 <CN>已拒絕總經理請求</CN>
@@ -24425,7 +24425,7 @@
 </HCS>
 <HCS i="3629">
 <EN>Rookie of the Year</EN>
-<KR>年度最佳新秀</KR>
+<KR>年度最佳新人</KR>
 <ES>Novato del Año</ES>
 <JP>新人王</JP>
 <CN>年度最佳新秀</CN>
@@ -24754,14 +24754,14 @@
 </HCS>
 <HCS i="3676">
 <EN>Default GM First Name</EN>
-<KR>預設 GM 名字</KR>
+<KR>預設總經理名字</KR>
 <ES>Nombre de GM predeterminado</ES>
 <JP>デフォルトのGM名</JP>
 <CN>預設總經理名字</CN>
 </HCS>
 <HCS i="3677">
 <EN>Default GM Last Name</EN>
-<KR>預設 GM 姓氏</KR>
+<KR>預設總經理姓氏</KR>
 <ES>Apellido de GM predeterminado</ES>
 <JP>デフォルトのGMの姓</JP>
 <CN>預設總經理姓氏</CN>
@@ -25563,7 +25563,7 @@
 </HCS>
 <HCS i="3794">
 <EN>Setting Alternate Lineup</EN>
-<KR>設定替補陣容</KR>
+<KR>設定替補打線</KR>
 <ES>Configuración de alineación alternativa</ES>
 <JP>代替ラインナップの設定</JP>
 <CN>正在設定替代陣容</CN>
@@ -26233,7 +26233,7 @@
 </HCS>
 <HCS i="3894">
 <EN>Lineup Choice</EN>
-<KR>陣容選擇</KR>
+<KR>打線選擇</KR>
 <ES>Elección de alineación</ES>
 <JP>ラインナップの選択</JP>
 <CN>陣容選擇</CN>
@@ -26485,7 +26485,7 @@
 </HCS>
 <HCS i="3933">
 <EN>Lineup versus LHP + DH</EN>
-<KR>面對左投+指定打擊的打序</KR>
+<KR>面對左投+指定打擊的打線</KR>
 <ES>Alineación versus LHP + DH</ES>
 <JP>ラインナップ対LHP + DH</JP>
 <CN>對左投+指定打擊陣容</CN>
@@ -26576,7 +26576,7 @@
 </HCS>
 <HCS i="3946">
 <EN>Lineup versus RHP + DH</EN>
-<KR>面對右投+指定打擊的打序</KR>
+<KR>面對右投+指定打擊的打線</KR>
 <ES>Alineación versus RHP + DH</ES>
 <JP>ラインナップ対RHP + DH</JP>
 <CN>對右投+指定打擊陣容</CN>
@@ -26751,7 +26751,7 @@
 </HCS>
 <HCS i="3972">
 <EN>Reliever of the Year</EN>
-<KR>年度最佳救援投手</KR>
+<KR>年度最佳後援投手</KR>
 <ES>Relevista del año</ES>
 <JP>年間最優秀救援者</JP>
 <CN>年度最佳後援投手</CN>
@@ -27473,7 +27473,7 @@
 </HCS>
 <HCS i="4077">
 <EN>Vesting Options</EN>
-<KR>條件生效選擇權</KR>
+<KR>自動生效選擇權</KR>
 <ES>Opciones de adquisición de derechos</ES>
 <JP>権利確定オプション</JP>
 <CN>自動續約選擇權</CN>
@@ -27572,14 +27572,14 @@
 <HCS i="4091">
 <EN>FA Type</EN>
 <DC>Free Agent Compensation Type</DC>
-<KR>自由球員類型</KR>
+<KR>FA類型</KR>
 <ES>Tipo FA</ES>
 <JP>FAタイプ</JP>
 <CN>自由球員類型</CN>
 </HCS>
 <HCS i="4092">
 <EN>Rule 5 Status</EN>
-<KR>規則 5 狀態</KR>
+<KR>規則五狀態</KR>
 <ES>Regla 5 Estado</ES>
 <JP>ルール5ステータス</JP>
 <CN>規則五狀態</CN>
@@ -27904,7 +27904,7 @@
 </HCS>
 <HCS i="4144">
 <EN>Options Years used</EN>
-<KR>已用選擇權年限</KR>
+<KR>已用下放權年限</KR>
 <ES>Opciones Años de uso</ES>
 <JP>オプション使用年数</JP>
 <CN>已使用選擇權年份</CN>
@@ -27932,7 +27932,7 @@
 </HCS>
 <HCS i="4148">
 <EN>League Average Payroll</EN>
-<KR>聯盟平均薪資</KR>
+<KR>聯盟平均薪資總額</KR>
 <ES>Nómina promedio de la liga</ES>
 <JP>リーグ平均給与</JP>
 <CN>聯盟平均總薪資</CN>
@@ -27988,7 +27988,7 @@
 </HCS>
 <HCS i="4158">
 <EN>Reliever of the Year Award</EN>
-<KR>年度最佳救援投手獎</KR>
+<KR>年度最佳後援投手獎</KR>
 <ES>Premio al relevista del año</ES>
 <JP>リリーバーオブザイヤーアワード</JP>
 <CN>年度最佳後援投手獎</CN>
@@ -28162,7 +28162,7 @@
 </HCS>
 <HCS i="4210">
 <EN>Guaranteed Payroll</EN>
-<KR>保證薪資</KR>
+<KR>保證薪資總額</KR>
 <ES>Nómina Garantizada</ES>
 <JP>保証された給与</JP>
 <CN>保證總薪資</CN>
@@ -28380,7 +28380,7 @@
 </HCS>
 <HCS i="4243">
 <EN>Salary Cap Payroll</EN>
-<KR>薪資上限薪資</KR>
+<KR>計入薪資上限的薪資總額</KR>
 <ES>Nómina de tope salarial</ES>
 <JP>サラリーキャップ給与</JP>
 <CN>薪資上限總薪資</CN>
@@ -28712,7 +28712,7 @@
 </HCS>
 <HCS i="4290">
 <EN>Include Current Stats+Standings</EN>
-<KR>包含目前統計資料與排名</KR>
+<KR>包含目前統計資料與戰績</KR>
 <ES>Incluir estadísticas actuales + posiciones</ES>
 <JP>現在の統計と順位を含める</JP>
 <CN>包含目前數據+排名</CN>
@@ -29014,7 +29014,7 @@
 </HCS>
 <HCS i="4346">
 <EN>In it&#39;s inaugural season, league officials have announced that the league holds a draft for the original teams. The draft will fill the major league rosters as well as the minor league rosters</EN>
-<KR>在首個賽季，聯盟官員宣佈聯盟為原始球隊舉行選秀。選秀將填補大聯盟名單以及小聯盟名單</KR>
+<KR>在首個球季，聯盟官員宣佈聯盟為原始球隊舉行選秀。選秀將填補大聯盟名單以及小聯盟名單</KR>
 <ES>En su temporada inaugural, los funcionarios de la liga han anunciado que la liga tiene un borrador para los equipos originales. El draft llenará las listas de las ligas mayores, así como las listas de las ligas menores.</ES>
 <JP>開幕シーズンに、リーグ関係者はリーグが元のチームのドラフトを保持していることを発表しました。ドラフトはメジャーリーグの名簿とマイナーリーグの名簿を埋めます</JP>
 <CN>在其初始賽季，聯盟官方宣布聯盟將為原始球隊舉行選秀，補滿大聯盟球員名單和小聯盟球員名單</CN>
@@ -29534,14 +29534,14 @@
 </HCS>
 <HCS i="4464">
 <EN>Lineup Offense</EN>
-<KR>先發陣容進攻</KR>
+<KR>打線進攻</KR>
 <ES>Ofensa de alineación</ES>
 <JP>ラインナップオフェンス</JP>
 <CN>陣容進攻</CN>
 </HCS>
 <HCS i="4465">
 <EN>Lineup Defense</EN>
-<KR>先發陣容防守</KR>
+<KR>打線防守</KR>
 <ES>Defensa de alineación</ES>
 <JP>ラインナップ防衛</JP>
 <CN>陣容守備</CN>
@@ -29765,7 +29765,7 @@
 </HCS>
 <HCS i="4497">
 <EN>Update Standings</EN>
-<KR>更新排名</KR>
+<KR>更新戰績</KR>
 <ES>Actualizar posiciones</ES>
 <JP>順位を更新する</JP>
 <CN>更新排名</CN>
@@ -30288,7 +30288,7 @@
 </HCS>
 <HCS i="4582">
 <EN>Use real historical transactions</EN>
-<KR>使用真實的歷史交易</KR>
+<KR>使用真實的歷史異動</KR>
 <ES>Usar transacciones históricas reales</ES>
 <JP>実際の履歴トランザクションを使用する</JP>
 <CN>使用真實歷史異動</CN>
@@ -32283,7 +32283,7 @@
 </HCS>
 <HCS i="4881">
 <EN>Position: &#37;s</EN>
-<KR>職位：&#37;s</KR>
+<KR>守備位置：%s</KR>
 <ES>Puesto: &#37;s</ES>
 <JP>位置：％s</JP>
 <CN>守位：&#37;s</CN>
@@ -32754,7 +32754,7 @@
 </HCS>
 <HCS i="4950">
 <EN>Runner on 1st</EN>
-<KR>一壘有跑者</KR>
+<KR>跑者在一壘</KR>
 <ES>corredor en 1ra</ES>
 <JP>1日のランナー</JP>
 <CN>一壘有跑者</CN>
@@ -32789,7 +32789,7 @@
 </HCS>
 <HCS i="4955">
 <EN>First Pitch</EN>
-<KR>開球式</KR>
+<KR>第一球</KR>
 <ES>primer lanzamiento</ES>
 <JP>始球式</JP>
 <CN>首投球</CN>
@@ -32908,7 +32908,7 @@
 </HCS>
 <HCS i="4972">
 <EN>Rule 5 Draft</EN>
-<KR>規則 5 選秀</KR>
+<KR>規則五選秀</KR>
 <ES>Borrador de la regla 5</ES>
 <JP>ルール5ドラフト</JP>
 <CN>規則五選秀</CN>
@@ -33972,7 +33972,7 @@
 </HCS>
 <HCS i="5121">
 <EN>Use Opener Lineup</EN>
-<KR>使用開局投手陣容</KR>
+<KR>使用開局投手打線</KR>
 <ES>Usar alineación de abridores</ES>
 <JP>オープナーラインナップを使用</JP>
 <CN>使用開局投手陣容</CN>
@@ -35507,7 +35507,7 @@
 <HCS i="5341">
 <EN>&#37;pi Pi</EN>
 <DC>18 Pitches</DC>
-<KR>%pi 圓周率</KR>
+<KR>%pi 球</KR>
 <ES>&#37; pi Pi</ES>
 <JP>％pi Pi</JP>
 <CN>&#37;pi球</CN>
@@ -36201,7 +36201,7 @@
 </HCS>
 <HCS i="5438">
 <EN>Paste Lineup vs. LHP+DH</EN>
-<KR>貼上對左投手＋指定打擊的陣容</KR>
+<KR>貼上對左投手＋指定打擊的打線</KR>
 <ES>Alineación de pasta frente a LHP+DH</ES>
 <JP>ペーストラインナップvs.LHP + DH</JP>
 <CN>貼上對左投+指定打擊陣容</CN>
@@ -36222,7 +36222,7 @@
 </HCS>
 <HCS i="5441">
 <EN>Paste Lineup vs. RHP+DH</EN>
-<KR>貼上陣容 vs. RHP+DH</KR>
+<KR>貼上打線 vs. RHP+DH</KR>
 <ES>Alineación de pasta frente a RHP+DH</ES>
 <JP>ペーストラインナップvs.RHP + DH</JP>
 <CN>貼上對右投+指定打擊陣容</CN>
@@ -36268,7 +36268,7 @@
 </HCS>
 <HCS i="5447">
 <EN>Paste Lineup vs. LHP</EN>
-<KR>貼上對左投手陣容</KR>
+<KR>貼上對左投手打線</KR>
 <ES>Pegar alineación vs. LHP</ES>
 <JP>ペーストラインナップvs.LHP</JP>
 <CN>貼上對左投陣容</CN>
@@ -36581,7 +36581,7 @@
 </HCS>
 <HCS i="5491">
 <EN>Paste Lineup vs. RHP</EN>
-<KR>貼上對右投手陣容</KR>
+<KR>貼上對右投手打線</KR>
 <ES>Pegar alineación vs. RHP</ES>
 <JP>ペーストラインナップvs.RHP</JP>
 <CN>貼上對右投陣容</CN>
@@ -36595,28 +36595,28 @@
 </HCS>
 <HCS i="5493">
 <EN>Edit Lineup</EN>
-<KR>編輯陣容</KR>
+<KR>編輯打線</KR>
 <ES>Editar alineación</ES>
 <JP>ラインナップを編集</JP>
 <CN>編輯陣容</CN>
 </HCS>
 <HCS i="5494">
 <EN>Clear Daily Lineup</EN>
-<KR>清除每日陣容</KR>
+<KR>清除每日打線</KR>
 <ES>Borrar alineación diaria</ES>
 <JP>毎日のラインナップをクリア</JP>
 <CN>清除每日陣容</CN>
 </HCS>
 <HCS i="5495">
 <EN>Clear Lineup vs LHP</EN>
-<KR>清除對左投手陣容</KR>
+<KR>清除對左投手打線</KR>
 <ES>Borrar alineación vs LHP</ES>
 <JP>明確なラインナップvsLHP</JP>
 <CN>清除對左投陣容</CN>
 </HCS>
 <HCS i="5496">
 <EN>Clear Lineup vs RHP</EN>
-<KR>清除對右投手陣容</KR>
+<KR>清除對右投手打線</KR>
 <ES>Borrar alineación vs RHP</ES>
 <JP>明確なラインナップvsRHP</JP>
 <CN>清除對右投陣容</CN>
@@ -36798,7 +36798,7 @@
 </HCS>
 <HCS i="5522">
 <EN>Save as Custom Lineup</EN>
-<KR>儲存為自訂陣容</KR>
+<KR>儲存為自訂打線</KR>
 <ES>Guardar como alineación personalizada</ES>
 <JP>カスタムラインナップとして保存</JP>
 <CN>儲存為自訂陣容</CN>
@@ -36819,7 +36819,7 @@
 </HCS>
 <HCS i="5525">
 <EN>Clear lineup</EN>
-<KR>清除陣容</KR>
+<KR>清除打線</KR>
 <ES>Borrar alineación</ES>
 <JP>明確なラインナップ</JP>
 <CN>清除陣容</CN>
@@ -36851,7 +36851,7 @@
 <HCS i="5529">
 <EN>Ask &#37;who for lineup &#37;ver</EN>
 <DC>Ask bench coach for lineup</DC>
-<KR>向板凳教練 &#37;who 詢問陣容 &#37;ver</KR>
+<KR>向板凳教練 %who 詢問打線 %ver</KR>
 <ES>Pregúntale a &#37;who por la alineación &#37;ver</ES>
 <JP>％whoにラインナップを聞いてください％ver</JP>
 <CN>由&#37;who決定&#37;ver陣容</CN>
@@ -36886,14 +36886,14 @@
 </HCS>
 <HCS i="5535">
 <EN>Update lineup &#37;ltype with &#37;mgr choices</EN>
-<KR>依 %mgr 的選擇更新陣容 %ltype</KR>
+<KR>依 %mgr 的選擇更新打線 %ltype</KR>
 <ES>Actualizar alineación &#37;ltype con &#37;mgr opciones</ES>
 <JP>ラインナップ％ltypeを％mgrchoicesで更新</JP>
 <CN>用&#37;mgr的選擇更新&#37;ltype陣容</CN>
 </HCS>
 <HCS i="5536">
 <EN>Ask &#37;mgr for lineup &#37;ltype</EN>
-<KR>向 &#37;mgr 詢問陣容 &#37;ltype</KR>
+<KR>向 %mgr 詢問打線 %ltype</KR>
 <ES>Pregunte a &#37;mgr por la alineación &#37;ltype</ES>
 <JP>ラインナップ％ltypeについては％mgrに問い合わせてください</JP>
 <CN>由&#37;mgr決定&#37;ltype陣容</CN>
@@ -36942,7 +36942,7 @@
 </HCS>
 <HCS i="5543">
 <EN>Ask AI for lineup &#37;ltype</EN>
-<KR>向 AI 詢問陣容 &#37;ltype</KR>
+<KR>向 AI 詢問打線 %ltype</KR>
 <ES>Pregunte a AI por la alineación &#37;ltype</ES>
 <JP>AIにラインナップ％ltypeを依頼する</JP>
 <CN>由AI決定&#37;ltype陣容</CN>
@@ -36970,21 +36970,21 @@
 </HCS>
 <HCS i="5547">
 <EN>Paste lineup</EN>
-<KR>貼上陣容</KR>
+<KR>貼上打線</KR>
 <ES>Pegar alineación</ES>
 <JP>貼り付けラインナップ</JP>
 <CN>貼上陣容</CN>
 </HCS>
 <HCS i="5548">
 <EN>Copy lineup &#37;s</EN>
-<KR>複製陣容 &#37;s</KR>
+<KR>複製打線 %s</KR>
 <ES>Copiar alineación &#37;s</ES>
 <JP>ラインナップ％sをコピー</JP>
 <CN>複製&#37;s陣容</CN>
 </HCS>
 <HCS i="5549">
 <EN>Copy this lineup</EN>
-<KR>複製這個陣容</KR>
+<KR>複製這個打線</KR>
 <ES>Copia esta alineación</ES>
 <JP>このラインナップをコピー</JP>
 <CN>複製此陣容</CN>
@@ -38084,7 +38084,7 @@
 </HCS>
 <HCS i="5707">
 <EN>Now in &#37;position: &#37;playername</EN>
-<KR>現在在 &#37;position: &#37;playername</KR>
+<KR>目前擔任 %position：%playername</KR>
 <ES>Ahora en &#37;posición: &#37;playername</ES>
 <JP>現在％positionにあります：％playername</JP>
 <CN>目前在&#37;position：&#37;playername</CN>
@@ -40026,7 +40026,7 @@
 </HCS>
 <HCS i="6009">
 <EN>Pennant Chase</EN>
-<KR>冠軍爭奪戰</KR>
+<KR>聯盟冠軍爭奪戰</KR>
 <ES>Persecución del banderín</ES>
 <JP>ペナントチェイス</JP>
 <CN>錦旗角逐</CN>
@@ -40082,7 +40082,7 @@
 </HCS>
 <HCS i="6018">
 <EN>Team Home Screen</EN>
-<KR>球隊首頁</KR>
+<KR>球隊主畫面</KR>
 <ES>Pantalla de inicio del equipo</ES>
 <JP>チームホーム画面</JP>
 <CN>球隊主畫面</CN>
@@ -40412,7 +40412,7 @@
 </HCS>
 <HCS i="6069">
 <EN>Transactions History</EN>
-<KR>交易記錄</KR>
+<KR>異動記錄</KR>
 <ES>Historial de transacciones</ES>
 <JP>取引履歴</JP>
 <CN>異動紀錄</CN>
@@ -40518,7 +40518,7 @@
 </HCS>
 <HCS i="6085">
 <EN>Rule 5 Draft Pool</EN>
-<KR>規則 5 選秀名單</KR>
+<KR>規則五選秀名單</KR>
 <ES>Regla 5 Draft Pool</ES>
 <JP>ルール5ドラフトプール</JP>
 <CN>規則五選秀人才庫</CN>
@@ -40828,7 +40828,7 @@
 </HCS>
 <HCS i="6129">
 <EN>Last Rule 5 Draft Log</EN>
-<KR>上次規則 5 選秀紀錄</KR>
+<KR>上次規則五選秀紀錄</KR>
 <ES>Último registro de draft de la regla 5</ES>
 <JP>最後のルール5ドラフトログ</JP>
 <CN>規則五選秀紀錄</CN>
@@ -40884,7 +40884,7 @@
 </HCS>
 <HCS i="6138">
 <EN>Rosters &amp; Transactions</EN>
-<KR>名單和交易</KR>
+<KR>名單和異動</KR>
 <ES>Listas y Transacciones</ES>
 <JP>名簿とトランザクション</JP>
 <CN>球員名單與異動</CN>
@@ -40912,7 +40912,7 @@
 </HCS>
 <HCS i="6142">
 <EN>Team Reports Home</EN>
-<KR>球隊報告主頁</KR>
+<KR>球隊報告首頁</KR>
 <ES>Informes del equipo Inicio</ES>
 <JP>チームレポートホーム</JP>
 <CN>球隊報告首頁</CN>
@@ -41462,7 +41462,7 @@
 </HCS>
 <HCS i="6228">
 <EN>Open Profile &amp; Settings</EN>
-<KR>開啟個人檔案與設定</KR>
+<KR>開啟個人資料與設定</KR>
 <ES>Abrir perfil y configuración</ES>
 <JP>プロファイルと設定を開く</JP>
 <CN>開啟個人資料與設定</CN>
@@ -42295,7 +42295,7 @@
 </HCS>
 <HCS i="6400">
 <EN>Download Box Score</EN>
-<KR>下載比賽記分表</KR>
+<KR>下載成績看板</KR>
 <ES>Descargar Box Score</ES>
 <JP>ボックススコアをダウンロード</JP>
 <CN>下載比賽數據</CN>
@@ -45011,7 +45011,7 @@
 </HCS>
 <HCS i="6804">
 <EN>Fan Reaction to Extension for &#37;n</EN>
-<KR>球迷對延長 %n 合約的反應</KR>
+<KR>球迷對 %n 續約的反應</KR>
 <ES>Reacción de los fans a la extensión de &#37;n</ES>
 <JP>％nの拡張に対するファンの反応</JP>
 <CN>球迷對&#37;n延長合約的反應</CN>
@@ -45606,7 +45606,7 @@
 </HCS>
 <HCS i="6893">
 <EN>Final Box Score</EN>
-<KR>最終比賽記分表</KR>
+<KR>最終成績看板</KR>
 <ES>Cuadro de puntuación final</ES>
 <JP>最終ボックススコア</JP>
 <CN>最終比賽數據</CN>
@@ -47918,7 +47918,7 @@
 </HCS>
 <HCS i="7259">
 <EN>Transactions Log</EN>
-<KR>交易記錄</KR>
+<KR>異動記錄</KR>
 <ES>Registro de transacciones</ES>
 <JP>トランザクションログ</JP>
 <CN>異動紀錄</CN>
@@ -48030,7 +48030,7 @@
 </HCS>
 <HCS i="7277">
 <EN>OOTP Online Profile</EN>
-<KR>OOTP 線上簡介</KR>
+<KR>OOTP 線上個人資料</KR>
 <ES>Perfil en línea de OOTP</ES>
 <JP>OOTPオンラインプロファイル</JP>
 <CN>OOTP Online個人資料</CN>
@@ -48915,14 +48915,14 @@
 </HCS>
 <HCS i="7424">
 <EN>Rookie Draft Pool B</EN>
-<KR>新秀選秀球員池 B</KR>
+<KR>新人選秀球員池 B</KR>
 <ES>Draft de novatos Grupo B</ES>
 <JP>ルーキードラフトプールB</JP>
 <CN>新秀選秀打者人才庫</CN>
 </HCS>
 <HCS i="7425">
 <EN>Rookie Draft Pool P</EN>
-<KR>新秀選秀球員池 P</KR>
+<KR>新人選秀球員池 P</KR>
 <ES>Draft de novatos Grupo P</ES>
 <JP>ルーキードラフトプールP</JP>
 <CN>新秀選秀投手人才庫</CN>
@@ -49042,7 +49042,7 @@
 </HCS>
 <HCS i="7442">
 <EN>Standings Report</EN>
-<KR>排名報告</KR>
+<KR>戰績報告</KR>
 <ES>Informe de posiciones</ES>
 <JP>順位レポート</JP>
 <CN>排名報告</CN>
@@ -49113,7 +49113,7 @@
 </HCS>
 <HCS i="7452">
 <EN>Season Prediction failed for &#37;s - please ensure all teams have valid rosters</EN>
-<KR>&#37;s 的賽季預測失敗 - 請確保所有球隊都有有效的球員名單</KR>
+<KR>%s 的球季預測失敗 - 請確保所有球隊都有有效的球員名單</KR>
 <ES>La predicción de la temporada falló para &#37;s: asegúrese de que todos los equipos tengan listas válidas</ES>
 <JP>％sのシーズン予測に失敗しました-すべてのチームに有効な名簿があることを確認してください</JP>
 <CN>&#37;s賽季預測失敗，請確認所有球隊的球員名單皆有效</CN>
@@ -50991,7 +50991,7 @@
 </HCS>
 <HCS i="7797">
 <EN>Avoid K&#39;s</EN>
-<KR>避免被三振</KR>
+<KR>避免三振</KR>
 <ES>Evita las K</ES>
 <JP>Kを避けてください</JP>
 <CN>避免三振</CN>
@@ -51807,7 +51807,7 @@
 </HCS>
 <HCS i="7916">
 <EN>Rule 5 Former Team</EN>
-<KR>規則 5 前母隊</KR>
+<KR>規則五前母隊</KR>
 <ES>Regla 5 Equipo anterior</ES>
 <JP>ルール5元チーム</JP>
 <CN>規則五前球隊</CN>
@@ -51842,7 +51842,7 @@
 </HCS>
 <HCS i="7921">
 <EN>League Home</EN>
-<KR>聯盟主頁</KR>
+<KR>聯盟首頁</KR>
 <ES>Inicio de la liga</ES>
 <JP>リーグホーム</JP>
 <CN>聯盟首頁</CN>
@@ -52123,14 +52123,14 @@
 </HCS>
 <HCS i="7963">
 <EN>DFA Days Left</EN>
-<KR>DFA 剩餘天數</KR>
+<KR>指定讓渡剩餘天數</KR>
 <ES>Días restantes de DFA</ES>
 <JP>残りのDFA日数</JP>
 <CN>剩餘指定派遣天數</CN>
 </HCS>
 <HCS i="7965">
 <EN>Number of Options Used</EN>
-<KR>已消耗選擇權次數</KR>
+<KR>已用下放權次數</KR>
 <ES>Número de opciones utilizadas</ES>
 <JP>使用されたオプションの数</JP>
 <CN>選擇權已用次數</CN>
@@ -52285,14 +52285,14 @@
 </HCS>
 <HCS i="7987">
 <EN>Introduced minor league options</EN>
-<KR>引進小聯盟選擇權</KR>
+<KR>引進小聯盟下放權</KR>
 <ES>Introdujo opciones de ligas menores</ES>
 <JP>マイナーリーグオプションを導入</JP>
 <CN>導入小聯盟選擇權</CN>
 </HCS>
 <HCS i="7988">
 <EN>Removed minor league options system</EN>
-<KR>取消小聯盟選擇權制度</KR>
+<KR>取消小聯盟下放權制度</KR>
 <ES>Se eliminó el sistema de opciones de ligas menores.</ES>
 <JP>マイナーリーグオプションシステムを削除</JP>
 <CN>取消小聯盟選擇權制度</CN>
@@ -52432,7 +52432,7 @@
 </HCS>
 <HCS i="8008">
 <EN>Player Payroll</EN>
-<KR>球員薪資</KR>
+<KR>球員薪資總額</KR>
 <ES>Nómina del jugador</ES>
 <JP>プレイヤーの給与</JP>
 <CN>球員總薪資</CN>
@@ -52954,7 +52954,7 @@
 </HCS>
 <HCS i="8082">
 <EN>Staff Payroll</EN>
-<KR>員工薪資</KR>
+<KR>員工薪資總額</KR>
 <ES>Nómina del personal</ES>
 <JP>スタッフの給与</JP>
 <CN>人員總薪資</CN>
@@ -53087,7 +53087,7 @@
 </HCS>
 <HCS i="8101">
 <EN>Trade Deadline</EN>
-<KR>交易期限</KR>
+<KR>交易截止日</KR>
 <ES>Fecha límite de cambios</ES>
 <JP>取引期限</JP>
 <CN>交易期限</CN>
@@ -53389,7 +53389,7 @@
 </HCS>
 <HCS i="8144">
 <EN>Turn DP</EN>
-<KR>雙殺守備</KR>
+<KR>雙殺能力</KR>
 <ES>Gire DP</ES>
 <JP>DPを回す</JP>
 <CN>策動雙殺</CN>
@@ -53489,7 +53489,7 @@
 </HCS>
 <HCS i="8158">
 <EN>Signed &#37;jobname &#37;name to a &#37;number-year contract extension</EN>
-<KR>與 %jobname %name 簽下 %number 年延長合約</KR>
+<KR>已與 %jobname %name 簽下 %number 年續約合約</KR>
 <ES>Firmó &#37;jobname &#37;name con una extensión de contrato de &#37;número de años</ES>
 <JP>％jobname％nameを％number-year契約延長に署名しました</JP>
 <CN>已與&#37;jobname&#37;name簽下&#37;number年延長合約</CN>
@@ -53631,7 +53631,7 @@
 <HCS i="8178">
 <EN>LF Line</EN>
 <DC>camera name</DC>
-<KR>左外野邊線</KR>
+<KR>左外野線</KR>
 <ES>Línea de baja frecuencia</ES>
 <JP>LFライン</JP>
 <CN>左外野邊線</CN>
@@ -53639,7 +53639,7 @@
 <HCS i="8179">
 <EN>RF Line</EN>
 <DC>camera name</DC>
-<KR>右外野邊線</KR>
+<KR>右外野線</KR>
 <ES>Línea RF</ES>
 <JP>RFライン</JP>
 <CN>右外野邊線</CN>
@@ -53951,7 +53951,7 @@
 </HCS>
 <HCS i="8223">
 <EN>Not yet, but possibly eligible after this season</EN>
-<KR>還沒有，但本賽季後可能有資格</KR>
+<KR>還沒有，但本球季後可能有資格</KR>
 <ES>Todavía no, pero posiblemente elegible después de esta temporada</ES>
 <JP>まだですが、今シーズン以降は対象となる可能性があります</JP>
 <CN>尚不符合資格，但此賽季後可能會符合</CN>
@@ -53965,7 +53965,7 @@
 </HCS>
 <HCS i="8225">
 <EN>Eligible, but possibly free agent after season</EN>
-<KR>符合條件，但可能在賽季結束後成為自由球員</KR>
+<KR>符合條件，但可能在球季結束後成為自由球員</KR>
 <ES>Elegible, pero posiblemente agente libre después de la temporada</ES>
 <JP>対象ですが、シーズン後にはフリーエージェントになる可能性があります</JP>
 <CN>符合資格，但賽季結束後可能會成為自由球員</CN>
@@ -54603,7 +54603,7 @@
 </HCS>
 <HCS i="8317">
 <EN>No major transactions found</EN>
-<KR>未發現重大交易</KR>
+<KR>未發現重大異動</KR>
 <ES>No se encontraron transacciones importantes</ES>
 <JP>主要な取引は見つかりませんでした</JP>
 <CN>找不到重大異動</CN>
@@ -54659,7 +54659,7 @@
 </HCS>
 <HCS i="8325">
 <EN>&#37;d Rule 5 Draft Log</EN>
-<KR>%d 規則 5 選秀紀錄</KR>
+<KR>%d 規則五選秀紀錄</KR>
 <ES>&#37;d Registro de borradores de la regla 5</ES>
 <JP>％dルール5ドラフトログ</JP>
 <CN>&#37;d規則五選秀紀錄</CN>
@@ -54736,14 +54736,14 @@
 </HCS>
 <HCS i="8336">
 <EN>OF Rng</EN>
-<KR>外野守備範圍</KR>
+<KR>外野範圍</KR>
 <ES>DE Rng</ES>
 <JP>OF Rng</JP>
 <CN>外野守備範圍</CN>
 </HCS>
 <HCS i="8337">
 <EN>Team Leaders</EN>
-<KR>球隊領導者</KR>
+<KR>球隊排行榜</KR>
 <ES>Lideres de equipo</ES>
 <JP>チームリーダー</JP>
 <CN>球隊領先者</CN>
@@ -54995,7 +54995,7 @@
 </HCS>
 <HCS i="8372">
 <EN>IF Rng</EN>
-<KR>內野守備範圍</KR>
+<KR>內野範圍</KR>
 <ES>SI anillo</ES>
 <JP>IF Rng</JP>
 <CN>內野守備範圍</CN>
@@ -55170,7 +55170,7 @@
 </HCS>
 <HCS i="8397">
 <EN>Record last 10 games</EN>
-<KR>最近 10 場戰績</KR>
+<KR>近十場戰績</KR>
 <ES>Grabar los últimos 10 juegos</ES>
 <JP>過去10試合を記録する</JP>
 <CN>最近10場比賽紀錄</CN>
@@ -55350,7 +55350,7 @@
 <HCS i="8422">
 <EN>Control vs. RHB</EN>
 <DC>Pitcher&#39;s Control Rating vs. right-handed Batters</DC>
-<KR>對右打者控球</KR>
+<KR>控球 vs. RHB</KR>
 <ES>Control frente a RHB</ES>
 <JP>コントロール対RHB</JP>
 <CN>對右打控球</CN>
@@ -55373,7 +55373,7 @@
 <HCS i="8425">
 <EN>Movement vs. RHB</EN>
 <DC>Pitcher&#39;s Movement Rating vs. right-handed Batters</DC>
-<KR>對右打者尾勁</KR>
+<KR>尾勁 vs. RHB</KR>
 <ES>Movimiento frente a RHB</ES>
 <JP>動き対RHB</JP>
 <CN>對右打位移</CN>
@@ -55621,7 +55621,7 @@
 </HCS>
 <HCS i="8461">
 <EN>Qualifying Offer</EN>
-<KR>資格報價</KR>
+<KR>合格報價</KR>
 <ES>Oferta calificada</ES>
 <JP>対象となるオファー</JP>
 <CN>合格報價</CN>
@@ -55656,21 +55656,21 @@
 </HCS>
 <HCS i="8467">
 <EN>Player must remain on active roster for &#37;d more days this year or rule 5 status will carry over to next season</EN>
-<KR>球員今年必須在正式名單上多留 &#37;d 天，否則規則 5 狀態將延續到下個賽季</KR>
+<KR>球員今年必須在正式名單上多留 %d 天，否則規則 5 狀態將延續到下個球季</KR>
 <ES>El jugador debe permanecer en la lista activa durante &#37;d días más este año o el estado de la regla 5 se trasladará a la próxima temporada</ES>
 <JP>プレーヤーは、今年さらに％d日間アクティブな名簿に留まる必要があります。そうしないと、ルール5のステータスが次のシーズンに引き継がれます。</JP>
 <CN>球員今年必須在正式球員名單上再待&#37;d天，否則下一賽季會繼續處於規則五狀態</CN>
 </HCS>
 <HCS i="8468">
 <EN>Rule 5 Active Days Left</EN>
-<KR>規則 5 登入名單剩餘天數</KR>
+<KR>規則五登入名單剩餘天數</KR>
 <ES>Regla 5 Días activos restantes</ES>
 <JP>ルール5残りのアクティブな日数</JP>
 <CN>規則五狀態剩餘天數</CN>
 </HCS>
 <HCS i="8469">
 <EN>Rule 5 Draft Former Team</EN>
-<KR>規則 5 選秀前球隊</KR>
+<KR>規則五選秀前球隊</KR>
 <ES>Regla 5 Draft Antiguo Equipo</ES>
 <JP>ルール5ドラフト元チーム</JP>
 <CN>規則五選秀前球隊</CN>
@@ -56062,7 +56062,7 @@
 </HCS>
 <HCS i="8525">
 <EN>Service Time Info</EN>
-<KR>年資資訊</KR>
+<KR>服役年限資訊</KR>
 <ES>Información de tiempo de servicio</ES>
 <JP>サービス時間情報</JP>
 <CN>服役時間資訊</CN>
@@ -56267,7 +56267,7 @@
 </HCS>
 <HCS i="8555">
 <EN>Projected Payroll</EN>
-<KR>預計薪資</KR>
+<KR>預計薪資總額</KR>
 <ES>Nómina Proyectada</ES>
 <JP>予想給与</JP>
 <CN>預估總薪資</CN>
@@ -56422,7 +56422,7 @@
 </HCS>
 <HCS i="8577">
 <EN>Bonus for &#37;s</EN>
-<KR>&#37;s 獎勵</KR>
+<KR>%s 的獎金</KR>
 <ES>Bono para &#37;s</ES>
 <JP>％sのボーナス</JP>
 <CN>&#37;s激勵獎金</CN>
@@ -56472,14 +56472,14 @@
 </HCS>
 <HCS i="8585">
 <EN>Opt-Out if Team is relegated</EN>
-<KR>若球隊遭到降級可行使逃脫條款</KR>
+<KR>若球隊遭到降級可行使跳脫條款</KR>
 <ES>Opt-Out si el equipo desciende</ES>
 <JP>チームが降格した場合のオプトアウト</JP>
 <CN>球隊降階時的跳脫權</CN>
 </HCS>
 <HCS i="8586">
 <EN>Include No-Trade Clause</EN>
-<KR>包括禁止交易條款</KR>
+<KR>包括不可交易條款</KR>
 <ES>Incluir cláusula de no comercio</ES>
 <JP>取引禁止条項を含める</JP>
 <CN>包含不可交易條款</CN>
@@ -56493,7 +56493,7 @@
 </HCS>
 <HCS i="8588">
 <EN>No-Trade Clause</EN>
-<KR>禁止交易條款</KR>
+<KR>不可交易條款</KR>
 <ES>Cláusula de no comercio</ES>
 <JP>取引禁止条項</JP>
 <CN>不可交易條款</CN>
@@ -56521,7 +56521,7 @@
 </HCS>
 <HCS i="8592">
 <EN>Player Opt-Out</EN>
-<KR>球員逃脫條款</KR>
+<KR>球員跳脫條款</KR>
 <ES>Exclusión del jugador</ES>
 <JP>プレーヤーのオプトアウト</JP>
 <CN>球員跳脫權</CN>
@@ -56549,7 +56549,7 @@
 </HCS>
 <HCS i="8596">
 <EN>Vesting Option</EN>
-<KR>自動續約選擇權</KR>
+<KR>自動生效選擇權</KR>
 <ES>Opción de adquisición de derechos</ES>
 <JP>権利確定オプション</JP>
 <CN>自動續約選擇權</CN>
@@ -56899,7 +56899,7 @@
 </HCS>
 <HCS i="8646">
 <EN>Go to Player Profile</EN>
-<KR>前往球員個人頁面</KR>
+<KR>前往球員個人資料</KR>
 <ES>Ir al perfil del jugador</ES>
 <JP>プレイヤープロフィールに移動</JP>
 <CN>前往球員個人資料</CN>
@@ -58901,7 +58901,7 @@
 </HCS>
 <HCS i="8933">
 <EN>Starting Pitching Split Stats Leaders</EN>
-<KR>先發投手分項數據領先者</KR>
+<KR>先發投手分項數據排行榜</KR>
 <ES>Líderes de estadísticas divididas de pitcheo inicial</ES>
 <JP>スプリット統計リーダーのピッチングを開始</JP>
 <CN>先發投手分項數據領先者</CN>
@@ -59111,7 +59111,7 @@
 </HCS>
 <HCS i="8961">
 <EN>Reliever Split Stats Leaders</EN>
-<KR>後援投手分項數據領先者</KR>
+<KR>後援投手分項數據排行榜</KR>
 <ES>Líderes de estadísticas divididas de relevista</ES>
 <JP>リリーフスプリット統計リーダー</JP>
 <CN>後援投手分項數據領先者</CN>
@@ -59140,7 +59140,7 @@
 </HCS>
 <HCS i="8965">
 <EN>Batting Split Stats Leaders</EN>
-<KR>打擊分項數據領先者</KR>
+<KR>打擊分項數據排行榜</KR>
 <ES>Líderes de estadísticas divididas de bateo</ES>
 <JP>スプリット統計リーダーの打撃</JP>
 <CN>打擊分項數據領先者</CN>
@@ -59366,7 +59366,7 @@
 </HCS>
 <HCS i="8995">
 <EN>Starting Pitching Rookie Leaders</EN>
-<KR>先發投手新人領先者</KR>
+<KR>先發投手新人排行榜</KR>
 <ES>Líderes novatos lanzadores abridores</ES>
 <JP>ルーキーリーダーのピッチングを開始</JP>
 <CN>先發投手新秀領先者</CN>
@@ -59606,7 +59606,7 @@
 </HCS>
 <HCS i="9029">
 <EN>Fielding Leaders at &#37;position</EN>
-<KR>%position 的守備領先者</KR>
+<KR>%position 的守備排行榜</KR>
 <ES>Líderes de campo en &#37;posición</ES>
 <JP>％positionのフィールディングリーダー</JP>
 <CN>&#37;position守位守備領先者</CN>
@@ -59721,7 +59721,7 @@
 </HCS>
 <HCS i="9045">
 <EN>Batting Leaders at &#37;position</EN>
-<KR>%position 的打擊領先者</KR>
+<KR>%position 的打擊排行榜</KR>
 <ES>Líderes de bateo en &#37;posición</ES>
 <JP>％positionのバッティングリーダー</JP>
 <CN>&#37;position守位的打擊領先者</CN>
@@ -59989,35 +59989,35 @@
 </HCS>
 <HCS i="9081">
 <EN>Control Vs. RHB</EN>
-<KR>控球 Vs. RHB</KR>
+<KR>控球 vs. RHB</KR>
 <ES>control contra RHB</ES>
 <JP>コントロール対RHB</JP>
 <CN>對右打控球</CN>
 </HCS>
 <HCS i="9082">
 <EN>Movement Vs. RHB</EN>
-<KR>尾勁 Vs. RHB</KR>
+<KR>尾勁 vs. RHB</KR>
 <ES>Movimiento vs. RHB</ES>
 <JP>動き対。 RHB</JP>
 <CN>對右打位移</CN>
 </HCS>
 <HCS i="9083">
 <EN>Stuff Vs. RHB</EN>
-<KR>球威 Vs. RHB</KR>
+<KR>球威 vs. RHB</KR>
 <ES>Cosas vs. RHB</ES>
 <JP>スタッフ対RHB</JP>
 <CN>對右打球威</CN>
 </HCS>
 <HCS i="9084">
 <EN>Control Vs. LHB</EN>
-<KR>控球 Vs. LHB</KR>
+<KR>控球 vs. LHB</KR>
 <ES>control contra LHB</ES>
 <JP>コントロール対LHB</JP>
 <CN>對左打控球</CN>
 </HCS>
 <HCS i="9085">
 <EN>Movement Vs. LHB</EN>
-<KR>尾勁 Vs. LHB</KR>
+<KR>尾勁 vs. LHB</KR>
 <ES>Movimiento vs. LHB</ES>
 <JP>動き対。 LHB</JP>
 <CN>對左打位移</CN>
@@ -60156,7 +60156,7 @@
 </HCS>
 <HCS i="9104">
 <EN>Active Career Pitching Leaders</EN>
-<KR>現役生涯投球領先者</KR>
+<KR>現役生涯投球排行榜</KR>
 <ES>Líderes activos de lanzamiento de carrera</ES>
 <JP>アクティブなキャリアピッチングリーダー</JP>
 <CN>現役生涯投手數據領先者</CN>
@@ -60184,14 +60184,14 @@
 </HCS>
 <HCS i="9108">
 <EN>Active Career Batting Leaders</EN>
-<KR>現役生涯打擊領先者</KR>
+<KR>現役生涯打擊排行榜</KR>
 <ES>Líderes activos de bateo de carrera</ES>
 <JP>アクティブなキャリアバッティングリーダー</JP>
 <CN>現役生涯打擊數據領先者</CN>
 </HCS>
 <HCS i="9109">
 <EN>Career Batting Leaders</EN>
-<KR>生涯打擊領導者</KR>
+<KR>生涯打擊排行榜</KR>
 <ES>Líderes de bateo de carrera</ES>
 <JP>キャリアバッティングリーダー</JP>
 <CN>生涯打擊數據領先者</CN>
@@ -60258,7 +60258,7 @@
 <HCS i="9118">
 <EN>CON vL</EN>
 <DC>Batting Contact Rating vs. left-handed Pitchers</DC>
-<KR>對左控球</KR>
+<KR>對左投擊球</KR>
 <ES>CON vL</ES>
 <JP>CON vL</JP>
 <CN>對左控球</CN>
@@ -60366,7 +60366,7 @@
 </HCS>
 <HCS i="9133">
 <EN>Stuff Vs. LHB</EN>
-<KR>球威 Vs. LHB</KR>
+<KR>球威 vs. LHB</KR>
 <ES>Cosas vs. LHB</ES>
 <JP>スタッフ対LHB</JP>
 <CN>對左打球威</CN>
@@ -60401,7 +60401,7 @@
 </HCS>
 <HCS i="9138">
 <EN>Tournament Playoff Game</EN>
-<KR>錦標賽季後賽</KR>
+<KR>錦標球季後賽</KR>
 <ES>Juego de desempate del torneo</ES>
 <JP>トーナメントプレーオフゲーム</JP>
 <CN>錦標賽季後賽</CN>
@@ -61244,7 +61244,7 @@
 <HCS i="9275">
 <EN>Versus Left</EN>
 <DC>used in a player statistic selection menu</DC>
-<KR>對左投</KR>
+<KR>對左</KR>
 <ES>Contra Izquierda</ES>
 <JP>対左</JP>
 <CN>對左</CN>
@@ -61252,7 +61252,7 @@
 <HCS i="9276">
 <EN>Versus Right</EN>
 <DC>used in a player statistic selection menu</DC>
-<KR>對右投</KR>
+<KR>對右</KR>
 <ES>contra la derecha</ES>
 <JP>対右</JP>
 <CN>對右</CN>
@@ -61314,7 +61314,7 @@
 <HCS i="9284">
 <EN>PT Card Value</EN>
 <DC>Perfect Team Card Value</DC>
-<KR>PT卡片價值</KR>
+<KR>PT卡價值</KR>
 <ES>Valor de la tarjeta PT</ES>
 <JP>PTカードの価値</JP>
 <CN>PT球員卡價值</CN>
@@ -61525,7 +61525,7 @@
 <HCS i="9312">
 <EN>Two Strikes</EN>
 <DC>used in a player statistic selection menu</DC>
-<KR>兩好球</KR>
+<KR>2好球</KR>
 <ES>dos huelgas</ES>
 <JP>2つのストライク</JP>
 <CN>兩好球</CN>
@@ -61904,7 +61904,7 @@
 </HCS>
 <HCS i="9363">
 <EN>Morale Team Transactions</EN>
-<KR>士氣球隊交易</KR>
+<KR>士氣球隊異動</KR>
 <ES>Transacciones del equipo de moral</ES>
 <JP>士気チームトランザクション</JP>
 <CN>球隊異動士氣</CN>
@@ -61997,7 +61997,7 @@
 </HCS>
 <HCS i="9376">
 <EN>Team Chemistry</EN>
-<KR>球隊氣氛</KR>
+<KR>球隊化學反應</KR>
 <ES>La química del equipo</ES>
 <JP>チーム化学</JP>
 <CN>團隊默契</CN>
@@ -62133,7 +62133,7 @@
 <HCS i="9400">
 <EN>Strictly Bullpen</EN>
 <DC>used to describe a pitcher&#39;s possible role in the bullpen or as starter</DC>
-<KR>只限牛棚</KR>
+<KR>僅限牛棚</KR>
 <ES>Estrictamente Bullpen</ES>
 <JP>厳密にブルペン</JP>
 <CN>僅擔任牛棚投手</CN>
@@ -62529,7 +62529,7 @@
 </HCS>
 <HCS i="9455">
 <EN>Cut Payroll</EN>
-<KR>削減薪資</KR>
+<KR>削減薪資總額</KR>
 <ES>Recortar nómina</ES>
 <JP>給与を削減</JP>
 <CN>減少總薪資</CN>
@@ -62658,7 +62658,7 @@
 </HCS>
 <HCS i="9473">
 <EN>Primary lineup</EN>
-<KR>主要陣容</KR>
+<KR>主要打線</KR>
 <ES>alineación principal</ES>
 <JP>主なラインナップ</JP>
 <CN>主要陣容</CN>
@@ -62707,7 +62707,7 @@
 </HCS>
 <HCS i="9480">
 <EN>Open Box Score</EN>
-<KR>開啟記分表</KR>
+<KR>開啟成績看板</KR>
 <ES>Puntuación de caja abierta</ES>
 <JP>オープンボックススコア</JP>
 <CN>開啟比賽數據</CN>
@@ -63604,7 +63604,7 @@
 </HCS>
 <HCS i="9607">
 <EN>Team Standings History Graph</EN>
-<KR>球隊排名歷史圖表</KR>
+<KR>球隊戰績歷史圖表</KR>
 <ES>Gráfico de historial de posiciones de equipo</ES>
 <JP>チーム順位表履歴グラフ</JP>
 <CN>球隊排名紀錄圖表</CN>
@@ -63716,7 +63716,7 @@
 </HCS>
 <HCS i="9624">
 <EN>Player Salary</EN>
-<KR>球員薪水</KR>
+<KR>球員薪資</KR>
 <ES>Salario del jugador</ES>
 <JP>プレイヤーの給与</JP>
 <CN>球員薪資</CN>
@@ -64487,7 +64487,7 @@
 </HCS>
 <HCS i="9733">
 <EN>Rule 5 Draft pick</EN>
-<KR>規則 5 選秀權</KR>
+<KR>規則五選秀權</KR>
 <ES>Regla 5 Draft pick</ES>
 <JP>ルール5ドラフトピック</JP>
 <CN>規則五選秀選入對象</CN>
@@ -64858,14 +64858,14 @@
 </HCS>
 <HCS i="9786">
 <EN>Show/hide visiting team lineup widget</EN>
-<KR>顯示／隱藏客隊打序小工具</KR>
+<KR>顯示／隱藏客隊打線小工具</KR>
 <ES>Mostrar/ocultar widget de alineación del equipo visitante</ES>
 <JP>訪問チームラインナップウィジェットの表示/非表示</JP>
 <CN>顯示/隱藏客隊陣容小工具</CN>
 </HCS>
 <HCS i="9787">
 <EN>Show/hide home team lineup widget</EN>
-<KR>顯示／隱藏主隊打序小工具</KR>
+<KR>顯示／隱藏主隊打線小工具</KR>
 <ES>Mostrar/ocultar widget de alineación del equipo local</ES>
 <JP>ホームチームラインナップウィジェットの表示/非表示</JP>
 <CN>顯示/隱藏主隊陣容小工具</CN>
@@ -65181,7 +65181,7 @@
 <HCS i="9833">
 <EN>Insert PR</EN>
 <DC>Insert a pinch runner</DC>
-<KR>插入代跑</KR>
+<KR>放入代跑</KR>
 <ES>Insertar PR</ES>
 <JP>PRを挿入</JP>
 <CN>放入代跑</CN>
@@ -66593,7 +66593,7 @@
 </HCS>
 <HCS i="10035">
 <EN>Foreign Players on Active Roster Limit</EN>
-<KR>登入名單中的外籍球員上限</KR>
+<KR>正式名單中的外籍球員上限</KR>
 <ES>Límite de jugadores extranjeros en la lista activa</ES>
 <JP>アクティブな名簿制限の外国人プレーヤー</JP>
 <CN>正式球員名單上的外國球員人數上限</CN>
@@ -66719,7 +66719,7 @@
 </HCS>
 <HCS i="10054">
 <EN>Enable Minor League Option Years</EN>
-<KR>啟用小聯盟選擇權年限</KR>
+<KR>啟用小聯盟下放權年限</KR>
 <ES>Habilitar años de opción de ligas menores</ES>
 <JP>マイナーリーグオプション年を有効にする</JP>
 <CN>啟用小聯盟選擇權年份</CN>
@@ -66775,7 +66775,7 @@
 </HCS>
 <HCS i="10062">
 <EN>Service Years Required for Arbitration</EN>
-<KR>仲裁所需服役年限</KR>
+<KR>薪資仲裁所需服役年限</KR>
 <ES>Años de servicio necesarios para el arbitraje</ES>
 <JP>仲裁に必要なサービス年数</JP>
 <CN>符合仲裁資格的服役年資門檻</CN>
@@ -66894,14 +66894,14 @@
 </HCS>
 <HCS i="10079">
 <EN>Enable Shared Rule 5 Draft</EN>
-<KR>啟用共享規則 5 選秀</KR>
+<KR>啟用共享規則五選秀</KR>
 <ES>Habilitar borrador de la regla 5 compartida</ES>
 <JP>共有ルール5ドラフトを有効にする</JP>
 <CN>啟用共同規則五選秀</CN>
 </HCS>
 <HCS i="10080">
 <EN>Rule 5 Draft Date</EN>
-<KR>規則 5 選秀日期</KR>
+<KR>規則五選秀日期</KR>
 <ES>Artículo 5 Fecha del borrador</ES>
 <JP>ルール5ドラフト日付</JP>
 <CN>規則五選秀日</CN>
@@ -67013,7 +67013,7 @@
 </HCS>
 <HCS i="10096">
 <EN>Sample Lineup</EN>
-<KR>範例陣容</KR>
+<KR>範例打線</KR>
 <ES>Línea de muestra</ES>
 <JP>サンプルラインナップ</JP>
 <CN>陣容範例</CN>
@@ -67174,7 +67174,7 @@
 </HCS>
 <HCS i="10119">
 <EN>Scouting Preference</EN>
-<KR>球探偏好</KR>
+<KR>球探預算偏好</KR>
 <ES>Preferencia de exploración</ES>
 <JP>スカウティングの好み</JP>
 <CN>評估偏好</CN>
@@ -67868,7 +67868,7 @@
 </HCS>
 <HCS i="10219">
 <EN>Extension Salary per Year</EN>
-<KR>延長合約年薪</KR>
+<KR>續約年薪</KR>
 <ES>Salario de extensión por año</ES>
 <JP>年間延長給与</JP>
 <CN>延長合約每年薪資</CN>
@@ -67945,21 +67945,21 @@
 </HCS>
 <HCS i="10230">
 <EN>Teach C</EN>
-<KR>捕手教學</KR>
+<KR>指導捕手</KR>
 <ES>Enseñar C</ES>
 <JP>Cを教える</JP>
 <CN>指導捕手</CN>
 </HCS>
 <HCS i="10231">
 <EN>Teach IF</EN>
-<KR>內野教學</KR>
+<KR>指導內野</KR>
 <ES>Enseñar SI</ES>
 <JP>IFを教える</JP>
 <CN>指導內野</CN>
 </HCS>
 <HCS i="10232">
 <EN>Teach OF</EN>
-<KR>外野教學</KR>
+<KR>指導外野</KR>
 <ES>Enseñar de</ES>
 <JP>OFを教える</JP>
 <CN>指導外野</CN>
@@ -68253,7 +68253,7 @@
 </HCS>
 <HCS i="10274">
 <EN>Manager of the Year Awards</EN>
-<KR>年度最佳教練獎</KR>
+<KR>年度最佳總教練獎</KR>
 <ES>Premios al gerente del año</ES>
 <JP>最優秀監督賞</JP>
 <CN>年度最佳總教練獎</CN>
@@ -72385,7 +72385,7 @@
 </HCS>
 <HCS i="10902">
 <EN>K/9 rate</EN>
-<KR>三振率</KR>
+<KR>每九局三振</KR>
 <ES>Tasa K/9</ES>
 <JP>K / 9レート</JP>
 <CN>三振率</CN>
@@ -73421,7 +73421,7 @@
 </HCS>
 <HCS i="11068">
 <EN>This is a beta version of OOTP. Beta versions require that the anonymous usage tracker and the news system are enabled, to give us better feedback about which parts of the game are tested. OOTP enabled these systems now. Thank you for your understanding</EN>
-<KR>這是 OOTP 的測試版本。測試版本必須啟用匿名使用追蹤器與新聞系統，以提供遊戲測試狀況的反饋。OOTP 現已啟用這些系統。感謝您的理解</KR>
+<KR>這是 OOTP 的測試版本。測試版本必須啟用匿名使用追蹤器與新聞系統，以提供遊戲測試狀況的回饋。OOTP 現已啟用這些系統。感謝您的理解</KR>
 <ES>Esta es una versión beta de OOTP. Las versiones beta requieren que el rastreador de uso anónimo y el sistema de noticias estén habilitados para brindarnos una mejor retroalimentación sobre qué partes del juego se prueban. OOTP habilitó estos sistemas ahora. Gracias por su comprensión</ES>
 <JP>これはOOTPのベータ版です。ベータ版では、ゲームのどの部分がテストされているかについてより良いフィードバックを提供するために、匿名の使用状況トラッカーとニュースシステムが有効になっている必要があります。 OOTPはこれらのシステムを有効にしました。ご理解のほどよろしくお願いいたします</JP>
 <CN>此為《OOTP》Beta版。使用Beta版時必須啟用匿名使用情形追蹤與新聞系統，幫助我們進一步了解受到測試的是遊戲的哪些部分。《OOTP》已啟用這些系統。感謝你的理解</CN>
@@ -75594,7 +75594,7 @@
 </HCS>
 <HCS i="11402">
 <EN>No, cut off</EN>
-<KR>不，切斷</KR>
+<KR>否，截斷</KR>
 <ES>No, cortar</ES>
 <JP>いいえ、切り取ります</JP>
 <CN>否，截斷</CN>
@@ -76137,7 +76137,7 @@
 </HCS>
 <HCS i="11479">
 <EN>And you&#39;ve at least maintained a playoff caliber team every season, which is no easy task</EN>
-<KR>而且你至少每個賽季都保持著一支季後賽水準的球隊，這絕非易事</KR>
+<KR>而且你至少每個球季都保持著一支季後賽水準的球隊，這絕非易事</KR>
 <ES>Y al menos ha mantenido un equipo de calibre de playoffs cada temporada, lo cual no es tarea fácil.</ES>
 <JP>そして、あなたは少なくとも毎シーズンプレーオフの口径のチームを維持しました、それは簡単な仕事ではありません</JP>
 <CN>你至少每個賽季都有讓球隊打進季後賽，這可不簡單</CN>
@@ -76173,7 +76173,7 @@
 <HCS i="11484">
 <EN>Cut payroll from &#37;money1 to &#37;money2</EN>
 <DC>EX: Cut payroll from $10 to $8</DC>
-<KR>將薪資從 &#37;money1 削減到 &#37;money2</KR>
+<KR>將薪資總額從 %money1 削減到 %money2</KR>
 <ES>Reducir la nómina de &#37;money1 a &#37;money2</ES>
 <JP>給与を％money1から％money2に削減</JP>
 <CN>將總薪資從&#37;money1減至&#37;money2</CN>
@@ -76215,7 +76215,7 @@
 </HCS>
 <HCS i="11490">
 <EN>Division</EN>
-<KR>組別</KR>
+<KR>分區</KR>
 <ES>División</ES>
 <JP>分割</JP>
 <CN>迪維森高中</CN>
@@ -77776,7 +77776,7 @@
 </HCS>
 <HCS i="11728">
 <EN>Power</EN>
-<KR>力量</KR>
+<KR>長打力</KR>
 <ES>Energía</ES>
 <JP>力</JP>
 <CN>力量</CN>
@@ -78392,14 +78392,14 @@
 </HCS>
 <HCS i="11819">
 <EN>lineup</EN>
-<KR>先發陣容</KR>
+<KR>打線</KR>
 <ES>póngase en fila</ES>
 <JP>並ぶ</JP>
 <CN>陣容</CN>
 </HCS>
 <HCS i="11820">
 <EN>rotation</EN>
-<KR>輪值</KR>
+<KR>先發輪值</KR>
 <ES>rotación</ES>
 <JP>回転</JP>
 <CN>輪值</CN>
@@ -78881,7 +78881,7 @@
 </HCS>
 <HCS i="11890">
 <EN>leaders</EN>
-<KR>領導者</KR>
+<KR>排行榜</KR>
 <ES>lideres</ES>
 <JP>リーダー</JP>
 <CN>領先者</CN>
@@ -79399,7 +79399,7 @@
 </HCS>
 <HCS i="11964">
 <EN>Angry</EN>
-<KR>生氣的</KR>
+<KR>生氣</KR>
 <ES>Enojado</ES>
 <JP>怒り</JP>
 <CN>安格瑞</CN>
@@ -79861,7 +79861,7 @@
 </HCS>
 <HCS i="12035">
 <EN>None</EN>
-<KR>沒有任何</KR>
+<KR>無</KR>
 <ES>Ninguna</ES>
 <JP>なし</JP>
 <CN>無</CN>
@@ -80913,7 +80913,7 @@
 </HCS>
 <HCS i="12187">
 <EN>LINEUP SCREEN</EN>
-<KR>先發陣容畫面</KR>
+<KR>打線畫面</KR>
 <ES>PANTALLA DE ALINEACIÓN</ES>
 <JP>ラインナップ画面</JP>
 <CN>陣容畫面</CN>
@@ -81117,14 +81117,14 @@
 </HCS>
 <HCS i="12217">
 <EN>SELECTED LINEUP</EN>
-<KR>已選先發陣容</KR>
+<KR>已選打線</KR>
 <ES>ALINEACIÓN SELECCIONADA</ES>
 <JP>厳選されたラインナップ</JP>
 <CN>所選陣容</CN>
 </HCS>
 <HCS i="12218">
 <EN>DELETE LINEUP</EN>
-<KR>刪除先發陣容</KR>
+<KR>刪除打線</KR>
 <ES>ELIMINAR ALINEACIÓN</ES>
 <JP>ラインナップを削除</JP>
 <CN>刪除陣容</CN>
@@ -81678,7 +81678,7 @@
 </HCS>
 <HCS i="12300">
 <EN>Fictional</EN>
-<KR>虛構的</KR>
+<KR>虛構</KR>
 <ES>Ficticio</ES>
 <JP>架空の</JP>
 <CN>虛構</CN>
@@ -82932,7 +82932,7 @@
 </HCS>
 <HCS i="12498">
 <EN>REAL LIFE TRANSACTIONS &amp; LINEUPS</EN>
-<KR>真實交易與陣容</KR>
+<KR>真實交易與打線</KR>
 <ES>TRANSACCIONES Y ALINEACIONES DE LA VIDA REAL</ES>
 <JP>実生活の取引とラインナップ</JP>
 <CN>真實世界異動與陣容</CN>
@@ -83273,21 +83273,21 @@
 </HCS>
 <HCS i="12552">
 <EN>Inning 1-3</EN>
-<KR>第1-3局</KR>
+<KR>1-3 局</KR>
 <ES>Entrada 1-3</ES>
 <JP>イニング1-3</JP>
 <CN>第1-3局</CN>
 </HCS>
 <HCS i="12553">
 <EN>Inning 4-6</EN>
-<KR>第4-6局</KR>
+<KR>4-6 局</KR>
 <ES>Entrada 4-6</ES>
 <JP>イニング4-6</JP>
 <CN>第4-6局</CN>
 </HCS>
 <HCS i="12554">
 <EN>Inning 7-9</EN>
-<KR>第7-9局</KR>
+<KR>7-9 局</KR>
 <ES>Entrada 7-9</ES>
 <JP>イニング7-9</JP>
 <CN>第7-9局</CN>
@@ -84399,7 +84399,7 @@
 <HCS i="12707">
 <EN>Top</EN>
 <DC>EX: Top 2: HS Batter 5</DC>
-<KR>上半局</KR>
+<KR>局上</KR>
 <ES>Cima</ES>
 <JP>上</JP>
 <CN>托普</CN>
@@ -84407,7 +84407,7 @@
 <HCS i="12708">
 <EN>&#37;d-run</EN>
 <DC>EX: Jone hit a 2-run home run</DC>
-<KR>&#37;d-分</KR>
+<KR>%d 分</KR>
 <ES>&#37;d-ejecutar</ES>
 <JP>％d-実行</JP>
 <CN>&#37;d分</CN>
@@ -85690,14 +85690,14 @@
 </HCS>
 <HCS i="12900">
 <EN>Poor</EN>
-<KR>差</KR>
+<KR>差勁</KR>
 <ES>Pobre</ES>
 <JP>貧しい</JP>
 <CN>普爾</CN>
 </HCS>
 <HCS i="12901">
 <EN>Fair</EN>
-<KR>普通</KR>
+<KR>尚可</KR>
 <ES>Justo</ES>
 <JP>公平</JP>
 <CN>費爾</CN>
@@ -86096,7 +86096,7 @@
 </HCS>
 <HCS i="12968">
 <EN>Payroll</EN>
-<KR>薪資</KR>
+<KR>薪資總額</KR>
 <ES>Nómina de sueldos</ES>
 <JP>給与</JP>
 <CN>總薪資</CN>
@@ -86593,7 +86593,7 @@
 </HCS>
 <HCS i="13044">
 <EN>Gap</EN>
-<KR>外野空檔</KR>
+<KR>空檔</KR>
 <ES>Brecha</ES>
 <JP>ギャップ</JP>
 <CN>蓋普</CN>
@@ -87716,7 +87716,7 @@
 </HCS>
 <HCS i="13204">
 <EN>Rule 5</EN>
-<KR>規則 5</KR>
+<KR>規則五</KR>
 <ES>Regla 5</ES>
 <JP>ルール5</JP>
 <CN>規則五</CN>
@@ -88019,7 +88019,7 @@
 <HCS i="13248">
 <EN>Moderate</EN>
 <DC>for injury severeness</DC>
-<KR>中等</KR>
+<KR>中度</KR>
 <ES>Moderar</ES>
 <JP>適度</JP>
 <CN>中等</CN>
@@ -88168,7 +88168,7 @@
 </HCS>
 <HCS i="13268">
 <EN>Inactive</EN>
-<KR>不活躍</KR>
+<KR>非現役</KR>
 <ES>Inactivo</ES>
 <JP>非活性</JP>
 <CN>未使用</CN>
@@ -88176,7 +88176,7 @@
 <HCS i="13269">
 <EN>Never</EN>
 <DC>used to describe strategy usage frequency</DC>
-<KR>絕不</KR>
+<KR>從不</KR>
 <ES>Nunca</ES>
 <JP>一度もない</JP>
 <CN>內韋爾</CN>
@@ -88360,7 +88360,7 @@
 <HCS i="13292">
 <EN>Smallball</EN>
 <DC>used to describe manager strategic approach</DC>
-<KR>小球戰術</KR>
+<KR>小球</KR>
 <ES>bola pequeña</ES>
 <JP>スモールボール</JP>
 <CN>小球</CN>
@@ -88456,7 +88456,7 @@
 <HCS i="13304">
 <EN>Neutral</EN>
 <DC>used to describe focus area of pitching coach</DC>
-<KR>中性</KR>
+<KR>中立</KR>
 <ES>Neutral</ES>
 <JP>中性</JP>
 <CN>中性</CN>
@@ -88568,7 +88568,7 @@
 <HCS i="13320">
 <EN>Poor</EN>
 <DC>used to describe a coach&#39;s skill</DC>
-<KR>較差</KR>
+<KR>差勁</KR>
 <ES>Pobre</ES>
 <JP>貧しい</JP>
 <CN>普爾</CN>
@@ -88744,7 +88744,7 @@
 <HCS i="13343">
 <EN>Poor</EN>
 <DC>used to describe the fan loyalty for a baseball team</DC>
-<KR>貧乏的</KR>
+<KR>差勁</KR>
 <ES>Pobre</ES>
 <JP>貧しい</JP>
 <CN>普爾</CN>
@@ -88760,7 +88760,7 @@
 <HCS i="13345">
 <EN>Great</EN>
 <DC>used to describe the fan loyalty for a baseball team</DC>
-<KR>偉大的</KR>
+<KR>偉大</KR>
 <ES>Estupendo</ES>
 <JP>すごい</JP>
 <CN>絕佳</CN>
@@ -89824,7 +89824,7 @@
 <HCS i="13488">
 <EN>Good</EN>
 <DC>used to describe player morale</DC>
-<KR>好</KR>
+<KR>良好</KR>
 <ES>Bien</ES>
 <JP>良い</JP>
 <CN>古德</CN>
@@ -89936,7 +89936,7 @@
 <HCS i="13502">
 <EN>Neutral</EN>
 <DC>team mode descriptions</DC>
-<KR>中性</KR>
+<KR>中立</KR>
 <ES>Neutral</ES>
 <JP>中性</JP>
 <CN>中性</CN>
@@ -90060,7 +90060,7 @@
 <HCS i="13519">
 <EN>Average</EN>
 <DC>describes a relationship of a player towards a coach</DC>
-<KR>普通</KR>
+<KR>一般</KR>
 <ES>Promedio</ES>
 <JP>平均</JP>
 <CN>一般</CN>
@@ -90076,7 +90076,7 @@
 <HCS i="13521">
 <EN>Excellent</EN>
 <DC>describes a relationship of a player towards a coach</DC>
-<KR>優良</KR>
+<KR>優秀</KR>
 <ES>Excelente</ES>
 <JP>優れた</JP>
 <CN>艾克斯倫特</CN>
@@ -92175,7 +92175,7 @@
 </HCS>
 <HCS i="13834">
 <EN>Soft Cap (&#37; of average payroll</EN>
-<KR>團隊薪資軟上限(平均團隊薪資百分比</KR>
+<KR>團隊薪資軟上限(平均團隊薪資總額百分比</KR>
 <ES>Soft Cap (&#37; de la nómina promedio</ES>
 <JP>ソフトキャップ（平均給与の％</JP>
 <CN>軟性薪資上限（佔平均球隊薪資的&#37;</CN>
@@ -92385,7 +92385,7 @@
 </HCS>
 <HCS i="13866">
 <EN>STEP 2 - STARTING PITCHER &amp; LINEUP</EN>
-<KR>步驟 2 - 先發投手與先發打序</KR>
+<KR>步驟 2 - 先發投手與打線</KR>
 <ES>PASO 2 - LANZADOR ABRIDOR Y ALINEACIÓN</ES>
 <JP>ステップ2-先発投手とラインナップ</JP>
 <CN>第二步 - 先發投手與陣容</CN>
@@ -92497,7 +92497,7 @@
 </HCS>
 <HCS i="13882">
 <EN>LINEUP &amp; BENCH</EN>
-<KR>先發陣容與板凳</KR>
+<KR>打線與板凳</KR>
 <ES>ALINEACIÓN Y BANCO</ES>
 <JP>ラインナップ＆ベンチ</JP>
 <CN>陣容與替補</CN>
@@ -92665,7 +92665,7 @@
 </HCS>
 <HCS i="13906">
 <EN>NO EXTENSION SIGNED</EN>
-<KR>未簽署延長合約</KR>
+<KR>未簽署續約</KR>
 <ES>SIN PRÓRROGA FIRMADA</ES>
 <JP>延長は署名されていません</JP>
 <CN>未簽署延長合約</CN>
@@ -94826,7 +94826,7 @@
 </HCS>
 <HCS i="14224">
 <EN>Shortlists</EN>
-<KR>觀察名單</KR>
+<KR>候選名單</KR>
 <ES>Listas cortas</ES>
 <JP>候補リスト</JP>
 <CN>入圍名單</CN>
@@ -95362,7 +95362,7 @@
 </HCS>
 <HCS i="14302">
 <EN>EXTENSION</EN>
-<KR>合約延長</KR>
+<KR>續約</KR>
 <ES>EXTENSIÓN</ES>
 <JP>拡大</JP>
 <CN>合約延長</CN>
@@ -96419,7 +96419,7 @@
 </HCS>
 <HCS i="14459">
 <EN>Selected</EN>
-<KR>已選中</KR>
+<KR>已選擇</KR>
 <ES>Seleccionado</ES>
 <JP>選択済み</JP>
 <CN>已選擇</CN>
@@ -97425,7 +97425,7 @@
 </HCS>
 <HCS i="14629">
 <EN>VESTING OPTIONS &amp; BONUSES</EN>
-<KR>達標選擇權與獎金</KR>
+<KR>自動生效選擇權與獎金</KR>
 <ES>OPCIONES DE ADQUISICIÓN Y BONOS</ES>
 <JP>権利確定オプションとボーナス</JP>
 <CN>自動續約選擇權與獎金</CN>
@@ -97671,14 +97671,14 @@
 </HCS>
 <HCS i="14665">
 <EN>CURRENT LINEUP vs RHP</EN>
-<KR>目前對右投先發打序</KR>
+<KR>目前對右投打線</KR>
 <ES>ALINEACIÓN ACTUAL vs RHP</ES>
 <JP>現在のラインナップとRHP</JP>
 <CN>目前對右投陣容</CN>
 </HCS>
 <HCS i="14666">
 <EN>CURRENT LINEUP vs LHP</EN>
-<KR>目前對左投先發打序</KR>
+<KR>目前對左投打線</KR>
 <ES>ALINEACIÓN ACTUAL vs LHP</ES>
 <JP>現在のラインナップとLHP</JP>
 <CN>目前對左投陣容</CN>
@@ -98091,7 +98091,7 @@
 <HCS i="14732">
 <EN>Rel</EN>
 <DC>Relationships</DC>
-<KR>釋出</KR>
+<KR>關係</KR>
 <ES>real</ES>
 <JP>レル</JP>
 <CN>降</CN>
@@ -98195,7 +98195,7 @@
 <HCS i="14746">
 <EN>Hit</EN>
 <DC>Scout Hitting Focus</DC>
-<KR>打者</KR>
+<KR>打擊</KR>
 <ES>Pegar</ES>
 <JP>打つ</JP>
 <CN>希特</CN>
@@ -98801,7 +98801,7 @@
 <HCS i="14826">
 <EN>Hold</EN>
 <DC>Hold Runners/Prevent Steals</DC>
-<KR>霍爾德</KR>
+<KR>牽制</KR>
 <ES>Sostener</ES>
 <JP>所有</JP>
 <CN>霍爾德</CN>
@@ -98988,7 +98988,7 @@
 <HCS i="14852">
 <EN>Rule 5</EN>
 <DC>Rule 5 Status</DC>
-<KR>規則 5</KR>
+<KR>規則五</KR>
 <ES>Regla 5</ES>
 <JP>ルール5</JP>
 <CN>規則五</CN>
@@ -99296,7 +99296,7 @@
 <HCS i="14891">
 <EN>Comp</EN>
 <DC>School Competition Level</DC>
-<KR>比較</KR>
+<KR>競爭</KR>
 <ES>compensación</ES>
 <JP>コンプ</JP>
 <CN>坎普</CN>
@@ -99603,7 +99603,7 @@
 <HCS i="14932">
 <EN>Comp</EN>
 <DC>Compensation</DC>
-<KR>比較</KR>
+<KR>補償</KR>
 <ES>compensación</ES>
 <JP>コンプ</JP>
 <CN>坎普</CN>
@@ -102081,7 +102081,7 @@
 </HCS>
 <HCS i="15289">
 <EN>a part of the starting lineup</EN>
-<KR>先發陣容的一部分</KR>
+<KR>先發打線的一部分</KR>
 <ES>una parte de la alineación inicial</ES>
 <JP>スタメンの一部</JP>
 <CN>先發陣容的一部份</CN>
@@ -102411,14 +102411,14 @@
 </HCS>
 <HCS i="15336">
 <EN>Must be Active (Rule 5</EN>
-<KR>必須處於活動狀態（規則 5</KR>
+<KR>必須處於活動狀態（規則五</KR>
 <ES>Debe estar Activo (Regla 5</ES>
 <JP>アクティブである必要があります（ルール5</JP>
 <CN>必須為正式名單（規則五</CN>
 </HCS>
 <HCS i="15337">
 <EN>Last10</EN>
-<KR>最後10</KR>
+<KR>近10場</KR>
 <ES>Últimos 10</ES>
 <JP>Last10</JP>
 <CN>近10</CN>
@@ -102531,7 +102531,7 @@
 </HCS>
 <HCS i="15355">
 <EN>FIP</EN>
-<KR>獨立防禦率</KR>
+<KR>投手獨立防禦率</KR>
 <ES>FIP</ES>
 <JP>FIP</JP>
 <CN>獨立防禦率</CN>
@@ -102977,7 +102977,7 @@
 <HCS i="15428">
 <EN>STE</EN>
 <DC>Ability to successfully steal Bases</DC>
-<KR>盜壘能力</KR>
+<KR>盜壘</KR>
 <ES>STE</ES>
 <JP>STE</JP>
 <CN>STE</CN>
@@ -103513,7 +103513,7 @@
 <HCS i="15499">
 <EN>BABIP</EN>
 <DC>Abbreviation for statistic Batting AVG on Balls in Play</DC>
-<KR>場內被安打率</KR>
+<KR>BABIP</KR>
 <ES>BABÍP</ES>
 <JP>BABIP</JP>
 <CN>BABIP</CN>
@@ -104632,7 +104632,7 @@
 </HCS>
 <HCS i="15669">
 <EN>BUY</EN>
-<KR>買</KR>
+<KR>購買</KR>
 <ES>COMPRAR</ES>
 <JP>買う</JP>
 <CN>BUY</CN>
@@ -105539,7 +105539,7 @@
 <HCS i="15817">
 <EN>struck out</EN>
 <DC>EX: Jone struck out</DC>
-<KR>被三振</KR>
+<KR>三振</KR>
 <ES>ponchado</ES>
 <JP>打ち消された</JP>
 <CN>被三振</CN>
@@ -105622,7 +105622,7 @@
 <HCS i="15828">
 <EN>hit a sacrifice fly</EN>
 <DC>EX: Jone hit a sacrifice fly</DC>
-<KR>打出高飛犧牲打</KR>
+<KR>擊出高飛犧牲打</KR>
 <ES>golpear una mosca de sacrificio</ES>
 <JP>犠牲フライを打つ</JP>
 <CN>擊出了高飛犧牲打</CN>
@@ -105952,7 +105952,7 @@
 <HCS i="15873">
 <EN>at &#37;s</EN>
 <DC>EX: at 1st base</DC>
-<KR>在&#37;s</KR>
+<KR>於%s</KR>
 <ES>en &#37;s</ES>
 <JP>％sで</JP>
 <CN>在&#37;s</CN>
@@ -107255,7 +107255,7 @@
 </HCS>
 <HCS i="16063">
 <EN>MLB shortened 2020 season (60 games</EN>
-<KR>美國職業棒球大聯盟縮短了 2020 賽季（60 場比賽）</KR>
+<KR>美國職業棒球大聯盟縮短了 2020 球季（60 場比賽）</KR>
 <ES>MLB acorta temporada 2020 (60 juegos)</ES>
 <JP>MLBは2020年シーズンを短縮しました（60ゲーム</JP>
 <CN>MLB縮短的2020賽季（60場比賽</CN>
@@ -107794,7 +107794,7 @@
 <HCS i="16151">
 <EN>ACT AS</EN>
 <DC>EX: ACT AS AAA team</DC>
-<KR>充當</KR>
+<KR>擔任</KR>
 <ES>ACTUAR DE</ES>
 <JP>として作用します</JP>
 <CN>擔任</CN>
@@ -107836,7 +107836,7 @@
 </HCS>
 <HCS i="16157">
 <EN>unable to navigate to box score</EN>
-<KR>無法前往比賽記分表</KR>
+<KR>無法前往成績看板</KR>
 <ES>no se puede navegar a box score</ES>
 <JP>ボックススコアに移動できません</JP>
 <CN>無法瀏覽比賽數據</CN>
@@ -109096,7 +109096,7 @@
 <HCS i="16334">
 <EN>YRS</EN>
 <DC>Contract Years</DC>
-<KR>年資</KR>
+<KR>年</KR>
 <ES>año</ES>
 <JP>YRS</JP>
 <CN>年</CN>
@@ -109161,7 +109161,7 @@
 </HCS>
 <HCS i="16343">
 <EN>IF</EN>
-<KR>內野手</KR>
+<KR>內野</KR>
 <ES>SI</ES>
 <JP>もしも</JP>
 <CN>內野手</CN>
@@ -109506,7 +109506,7 @@
 <HCS i="16393">
 <EN>Throws (Short</EN>
 <DC>Player Pitching Handedness Abbr</DC>
-<KR>投球（短</KR>
+<KR>投球（簡稱</KR>
 <ES>Lanzamientos (Cortos</ES>
 <JP>スロー（ショート</JP>
 <CN>傳球（短</CN>
@@ -109678,7 +109678,7 @@
 <HCS i="16419">
 <EN>COMP</EN>
 <DC>Competition at HS or College</DC>
-<KR>補償</KR>
+<KR>競爭</KR>
 <ES>COMP.</ES>
 <JP>COMP</JP>
 <CN>高中/大學比賽級別</CN>
@@ -109779,7 +109779,7 @@
 <HCS i="16433">
 <EN>POS</EN>
 <DC>Team Position</DC>
-<KR>正面</KR>
+<KR>名次</KR>
 <ES>TPV</ES>
 <JP>POS</JP>
 <CN>POS</CN>
@@ -110214,7 +110214,7 @@
 <HCS i="16493">
 <EN>T</EN>
 <DC>Abbreviation for statistic Ties</DC>
-<KR>噸</KR>
+<KR>和局</KR>
 <ES>T</ES>
 <JP>T</JP>
 <CN>T</CN>
@@ -110533,7 +110533,7 @@
 </HCS>
 <HCS i="16538">
 <EN>Rule 5 Draft (&#37;s</EN>
-<KR>規則 5 選秀（&#37;s</KR>
+<KR>規則五選秀（%s</KR>
 <ES>Regla 5 Draft (&#37;s</ES>
 <JP>ルール5ドラフト（％s</JP>
 <CN>規則五選秀（&#37;s</CN>
@@ -114088,7 +114088,7 @@
 <HCS i="17060">
 <EN>Records</EN>
 <DC>EX: AAA League Records</DC>
-<KR>記錄</KR>
+<KR>紀錄</KR>
 <ES>Registros</ES>
 <JP>記録</JP>
 <CN>紀錄</CN>
@@ -114969,7 +114969,7 @@
 </HCS>
 <HCS i="17191">
 <EN>Rule 5 Draft List</EN>
-<KR>規則 5 選秀名單</KR>
+<KR>規則五選秀名單</KR>
 <ES>Artículo 5 Proyecto de lista</ES>
 <JP>ルール5ドラフトリスト</JP>
 <CN>規則五選秀名單</CN>
@@ -115314,7 +115314,7 @@
 </HCS>
 <HCS i="17244">
 <EN>Won Manager of the Year Award</EN>
-<KR>榮獲年度最佳教練獎</KR>
+<KR>榮獲年度最佳總教練獎</KR>
 <ES>Ganó el premio Gerente del Año</ES>
 <JP>最優秀監督賞を受賞</JP>
 <CN>贏得了年度最佳總教練獎</CN>
@@ -115538,7 +115538,7 @@
 </HCS>
 <HCS i="17278">
 <EN>reacts to signing bonus offer</EN>
-<KR>對簽約獎金報價做出反應</KR>
+<KR>對簽約金報價做出反應</KR>
 <ES>reacciona a la oferta de bonificación por firmar</ES>
 <JP>契約金に反応する</JP>
 <CN>對簽約獎勵有所反應</CN>
@@ -115875,7 +115875,7 @@
 </HCS>
 <HCS i="17331">
 <EN>Lost In Rule 5 Draft</EN>
-<KR>於規則 5 選秀失去球員</KR>
+<KR>於規則五選秀失去球員</KR>
 <ES>Borrador perdido en la regla 5</ES>
 <JP>ルール5ドラフトで失われた</JP>
 <CN>在規則五選秀中失去</CN>
@@ -116120,14 +116120,14 @@
 </HCS>
 <HCS i="17366">
 <EN>fails to meet vesting option criteria</EN>
-<KR>未能滿足歸屬期權標準</KR>
+<KR>未能滿足自動生效選擇權標準</KR>
 <ES>no cumple con los criterios de la opción de otorgamiento</ES>
 <JP>権利確定オプションの基準を満たしていない</JP>
 <CN>並不符合自動續約選擇權標準</CN>
 </HCS>
 <HCS i="17367">
 <EN>meets vesting option criteria</EN>
-<KR>符合歸屬期權標準</KR>
+<KR>符合自動生效選擇權標準</KR>
 <ES>cumple con los criterios de la opción de adquisición</ES>
 <JP>権利確定オプションの基準を満たしている</JP>
 <CN>符合自動續約選擇權標準</CN>
@@ -116290,7 +116290,7 @@
 </HCS>
 <HCS i="17391">
 <EN>commissioner</EN>
-<KR>專員</KR>
+<KR>聯盟主席</KR>
 <ES>notario</ES>
 <JP>コミッショナー</JP>
 <CN>主席</CN>
@@ -116882,7 +116882,7 @@
 </HCS>
 <HCS i="17483">
 <EN>1910 MLB Season</EN>
-<KR>1910 年 MLB 賽季</KR>
+<KR>1910 年 MLB 球季</KR>
 <ES>Temporada 1910 de la MLB</ES>
 <JP>1910年のMLBシーズン</JP>
 <CN>1910年MLB賽季</CN>
@@ -117671,28 +117671,28 @@
 </HCS>
 <HCS i="17604">
 <EN>Out of Options</EN>
-<KR>無選擇權</KR>
+<KR>無下放權</KR>
 <ES>Sin opciones</ES>
 <JP>オプション外</JP>
 <CN>無選擇權</CN>
 </HCS>
 <HCS i="17605">
 <EN>Out of minor league options</EN>
-<KR>已無小聯盟選擇權</KR>
+<KR>已無小聯盟下放權</KR>
 <ES>Fuera de las opciones de ligas menores</ES>
 <JP>マイナーリーグオプションのうち</JP>
 <CN>無小聯盟選擇權</CN>
 </HCS>
 <HCS i="17606">
 <EN>Rule 5 Elig</EN>
-<KR>規則5資格</KR>
+<KR>規則五資格</KR>
 <ES>Regla 5 Elig</ES>
 <JP>ルール5の適格性</JP>
 <CN>符合規則五資格</CN>
 </HCS>
 <HCS i="17607">
 <EN>Rule 5 Draft eligible</EN>
-<KR>符合規則 5 選秀資格</KR>
+<KR>符合規則五選秀資格</KR>
 <ES>Regla 5 Draft elegible</ES>
 <JP>ルール5ドラフト適格</JP>
 <CN>符合規則五選秀資格</CN>
@@ -117706,7 +117706,7 @@
 </HCS>
 <HCS i="17609">
 <EN>Must be on Active Roster</EN>
-<KR>必須列入現役名單</KR>
+<KR>必須列入正式名單</KR>
 <ES>Debe estar en la lista activa</ES>
 <JP>アクティブな名簿にいる必要があります</JP>
 <CN>必須在正式球員名單</CN>
@@ -117920,7 +117920,7 @@
 </HCS>
 <HCS i="17639">
 <EN>Lineup &amp; Starting Pitcher</EN>
-<KR>先發陣容和先發投手</KR>
+<KR>打線和先發投手</KR>
 <ES>Alineación y lanzador abridor</ES>
 <JP>ラインナップ＆先発投手</JP>
 <CN>打線與先發投手</CN>
@@ -117972,7 +117972,7 @@
 </HCS>
 <HCS i="17646">
 <EN>in their rotation</EN>
-<KR>在他們的輪值中</KR>
+<KR>在他們的先發輪值中</KR>
 <ES>en su rotacion</ES>
 <JP>彼らのローテーションで</JP>
 <CN>在其輪值</CN>
@@ -118173,7 +118173,7 @@
 <HCS i="17673">
 <EN>K9</EN>
 <DC>abbreviation for pitching statistic Strikeouts per 9 innings</DC>
-<KR>9局三振率</KR>
+<KR>K/9（每九局三振）</KR>
 <ES>K9</ES>
 <JP>K9</JP>
 <CN>凱農</CN>
@@ -118196,7 +118196,7 @@
 <HCS i="17676">
 <EN>right-center</EN>
 <DC>ball direction on field</DC>
-<KR>右中外野</KR>
+<KR>右中間</KR>
 <ES>derecha-centro</ES>
 <JP>右中央</JP>
 <CN>右中外野</CN>
@@ -118667,7 +118667,7 @@
 </HCS>
 <HCS i="17743">
 <EN>The assistant general manager is &#37;s</EN>
-<KR>總經理助理是 &#37;s</KR>
+<KR>助理總經理是 %s</KR>
 <ES>El subgerente general es &#37;s</ES>
 <JP>アシスタントゼネラルマネージャーは％sです</JP>
 <CN>副總經理為&#37;s</CN>
@@ -118681,7 +118681,7 @@
 </HCS>
 <HCS i="17745">
 <EN>The assistant GM position is vacant</EN>
-<KR>總經理助理職位空缺</KR>
+<KR>助理總經理職位空缺</KR>
 <ES>El puesto de asistente de GM está vacante</ES>
 <JP>アシスタントGMのポジションは空いています</JP>
 <CN>副總經理職位空缺中</CN>
@@ -118718,7 +118718,7 @@
 <HCS i="17750">
 <EN>left-center</EN>
 <DC>ball direction on field</DC>
-<KR>左中外野</KR>
+<KR>左中間</KR>
 <ES>izquierda-centro</ES>
 <JP>左中央</JP>
 <CN>左中外野</CN>
@@ -120976,7 +120976,7 @@
 </HCS>
 <HCS i="18074">
 <EN>for Extension</EN>
-<KR>供延長合約</KR>
+<KR>供續約</KR>
 <ES>para Extensión</ES>
 <JP>拡張用</JP>
 <CN>延長合約</CN>
@@ -121915,7 +121915,7 @@
 <HCS i="18209">
 <EN>BB/9</EN>
 <DC>Abbreviation for statistic Bases on Balls per 9 Innings</DC>
-<KR>BB/9（保送率）</KR>
+<KR>BB/9（每九局保送）</KR>
 <ES>BB/9</ES>
 <JP>BB / 9</JP>
 <CN>BB/9（保送率）</CN>
@@ -121968,7 +121968,7 @@
 </HCS>
 <HCS i="18216">
 <EN>You will be promoted to a &#37;n once the next season cycle starts tomorrow. Good luck</EN>
-<KR>一旦下個賽季週期明天開始，您將被提升為 &#37;n。祝你好運</KR>
+<KR>一旦下個球季週期明天開始，您將被提升為 %n。祝你好運</KR>
 <ES>Será ascendido a &#37;n una vez que comience el ciclo de la próxima temporada mañana. Buena suerte</ES>
 <JP>次のシーズンサイクルが明日始まると、％nに昇格します。幸運を</JP>
 <CN>明天下一個賽季循環開始後，你就會升階為&#37;n。祝好運</CN>
@@ -122129,7 +122129,7 @@
 </HCS>
 <HCS i="18245">
 <EN>Review of Season Goals</EN>
-<KR>賽季目標回顧</KR>
+<KR>球季目標回顧</KR>
 <ES>Revisión de los objetivos de la temporada</ES>
 <JP>シーズン目標のレビュー</JP>
 <CN>檢視賽季目標</CN>
@@ -122180,7 +122180,7 @@
 </HCS>
 <HCS i="18252">
 <EN>Mid-season Review of Goals</EN>
-<KR>賽季中期目標回顧</KR>
+<KR>球季中期目標回顧</KR>
 <ES>Revisión de objetivos de mitad de temporada</ES>
 <JP>ゴールのシーズン半ばのレビュー</JP>
 <CN>檢視賽季中目標</CN>
@@ -122585,7 +122585,7 @@
 </HCS>
 <HCS i="18309">
 <EN>Players Contract Extension</EN>
-<KR>球員合約延長</KR>
+<KR>球員續約</KR>
 <ES>Ampliación de contrato de jugadores</ES>
 <JP>プレイヤー契約延長</JP>
 <CN>球員合約延長</CN>
@@ -122794,7 +122794,7 @@
 </HCS>
 <HCS i="18338">
 <EN>who is on pace to win &#37;n games this season</EN>
-<KR>誰有望在本賽季贏得 &#37;n 場比賽</KR>
+<KR>誰有望在本球季贏得 %n 場比賽</KR>
 <ES>quién está en camino de ganar &#37;n juegos esta temporada</ES>
 <JP>今シーズン％nゲームに勝つペースで誰が</JP>
 <CN>準備在本賽季贏得&#37;n場比賽</CN>
@@ -122970,7 +122970,7 @@
 </HCS>
 <HCS i="18366">
 <EN>who won the triple-crown last season</EN>
-<KR>上賽季誰贏得了三冠王</KR>
+<KR>上球季誰贏得了三冠王</KR>
 <ES>quién ganó la triple corona la temporada pasada</ES>
 <JP>昨シーズンの三冠を獲得したのは誰ですか</JP>
 <CN>贏得了上一賽季的三冠王</CN>
@@ -123174,7 +123174,7 @@
 </HCS>
 <HCS i="18396">
 <EN>Ovr Pk</EN>
-<KR>總巔峰</KR>
+<KR>總順位</KR>
 <ES>Sobre paquete</ES>
 <JP>Ovr Pk</JP>
 <CN>總順位</CN>
@@ -123909,7 +123909,7 @@
 <HCS i="18508">
 <EN>t</EN>
 <DC>tied-3rd</DC>
-<KR>次</KR>
+<KR>並</KR>
 <ES>t</ES>
 <JP>t</JP>
 <CN>t</CN>
@@ -124073,7 +124073,7 @@
 <HCS i="18531">
 <EN>t</EN>
 <DC>tied</DC>
-<KR>次</KR>
+<KR>並</KR>
 <ES>t</ES>
 <JP>t</JP>
 <CN>t</CN>
@@ -124607,7 +124607,7 @@
 <HCS i="18607">
 <EN>t</EN>
 <DC>tied-</DC>
-<KR>次</KR>
+<KR>並</KR>
 <ES>t</ES>
 <JP>t</JP>
 <CN>t</CN>
@@ -125267,7 +125267,7 @@
 </HCS>
 <HCS i="18711">
 <EN>New contract through arbitration</EN>
-<KR>通過仲裁簽訂新合約</KR>
+<KR>通過薪資仲裁簽訂新合約</KR>
 <ES>Nuevo contrato a través de arbitraje</ES>
 <JP>仲裁による新しい契約</JP>
 <CN>透過仲裁決定的新合約</CN>
@@ -125358,7 +125358,7 @@
 </HCS>
 <HCS i="18725">
 <EN>Historical lineup / SP assigned successfully</EN>
-<KR>歷史先發陣容／先發投手指定成功</KR>
+<KR>歷史打線／先發投手指定成功</KR>
 <ES>Alineación histórica / SP asignado con éxito</ES>
 <JP>過去のラインナップ/ SPが正常に割り当てられました</JP>
 <CN>歷史打線/已成功指派先發投手</CN>
@@ -126209,7 +126209,7 @@
 </HCS>
 <HCS i="18855">
 <EN>arbitration, poss. FA</EN>
-<KR>具仲裁權的自由球員</KR>
+<KR>具薪資仲裁權的自由球員</KR>
 <ES>arbitraje, pos. FA</ES>
 <JP>仲裁、可能性。 FA</JP>
 <CN>具仲裁權的自由球員</CN>
@@ -127514,7 +127514,7 @@
 </HCS>
 <HCS i="19683">
 <EN>Limited Commissioner Powers</EN>
-<KR>受限的主席權限</KR>
+<KR>受限的聯盟主席權限</KR>
 <ES>Poderes limitados del comisionado</ES>
 <JP>限られたコミッショナーパワー</JP>
 <CN>受限的主席權限</CN>
@@ -127612,7 +127612,7 @@
 </HCS>
 <HCS i="19710">
 <EN>Limited Commissioner</EN>
-<KR>受限主席</KR>
+<KR>受限聯盟主席</KR>
 <ES>Comisionado limitado</ES>
 <JP>限定コミッショナー</JP>
 <CN>受限主席</CN>
@@ -129642,7 +129642,7 @@
 </HCS>
 <HCS i="23129">
 <EN>United Shore Professional Baseball League</EN>
-<KR>聯合湖岸職業棒球聯盟</KR>
+<KR>聯合海岸職業棒球聯盟</KR>
 <ES>Liga de béisbol profesional United Shore</ES>
 <JP>ユナイテッドショアプロ野球リーグ</JP>
 <CN>聯合湖岸職業棒球聯盟</CN>
@@ -131295,7 +131295,7 @@
 </HCS>
 <HCS i="23403">
 <EN>Before this season, the &#37;nick_name had made the playoffs &#37;num_made_row times in a row</EN>
-<KR>在本賽季之前，&#37;nick_name 連續 &#37;num_made_row 次進入季後賽</KR>
+<KR>在本球季之前，%nick_name 連續 %num_made_row 次進入季後賽</KR>
 <ES>Antes de esta temporada, &#37;nick_name había llegado a los playoffs &#37;num_made_row veces seguidas.</ES>
 <JP>今シーズンの前に、％nick_nameはプレーオフを％num_made_row回続けて行っていました</JP>
 <CN>在本賽季之前，&#37;nick_name已連續&#37;num_made_row次打進季後賽</CN>
@@ -131575,7 +131575,7 @@
 </HCS>
 <HCS i="23447">
 <EN>Lost &#37;p (Historical Lineup</EN>
-<KR>失去 %p（歷史陣容</KR>
+<KR>失去 %p（歷史打線</KR>
 <ES>Perdió &#37;p (Alineación histórica</ES>
 <JP>％pを失った（歴史的なラインナップ</JP>
 <CN>失去&#37;p（歷史打線</CN>
@@ -131589,7 +131589,7 @@
 </HCS>
 <HCS i="23449">
 <EN>Added &#37;p (Historical Lineup</EN>
-<KR>新增了 &#37;p（歷史陣容</KR>
+<KR>新增了 %p（歷史打線</KR>
 <ES>Se agregó &#37;p (Alineación histórica</ES>
 <JP>％p（歴史的ラインナップ）を追加</JP>
 <CN>新增&#37;p（歷史打線</CN>
@@ -131618,7 +131618,7 @@
 <HCS i="23453">
 <EN>EDIT DEFAULT LINEUP</EN>
 <DC>Edit Default Lineup</DC>
-<KR>編輯預設陣容</KR>
+<KR>編輯預設打線</KR>
 <ES>EDITAR ALINEACIÓN PREDETERMINADA</ES>
 <JP>デフォルトのラインナップを編集</JP>
 <CN>編輯預設打線</CN>
@@ -131626,7 +131626,7 @@
 <HCS i="23454">
 <EN>EDIT ALT LINEUP</EN>
 <DC>Edit Alternate Lineup</DC>
-<KR>編輯備用陣容</KR>
+<KR>編輯備用打線</KR>
 <ES>EDITAR ALINEACIÓN ALTERNATIVA</ES>
 <JP>ALTラインナップを編集</JP>
 <CN>編輯替代打線</CN>
@@ -133261,7 +133261,7 @@
 </HCS>
 <HCS i="23722">
 <EN>Apply Arbitration Demand</EN>
-<KR>套用仲裁要求</KR>
+<KR>套用薪資仲裁要求</KR>
 <ES>Aplicar Demanda de Arbitraje</ES>
 <JP>仲裁請求の申請</JP>
 <CN>套用仲裁要求</CN>
@@ -134043,7 +134043,7 @@
 </HCS>
 <HCS i="23848">
 <EN>Trade Deadline Day</EN>
-<KR>交易期限日</KR>
+<KR>交易截止日</KR>
 <ES>Día de cierre comercial</ES>
 <JP>取引締切日</JP>
 <CN>交易期限日</CN>
@@ -134509,7 +134509,7 @@
 </HCS>
 <HCS i="23929">
 <EN>ADD INTERNATIONAL SIGNING BONUS POOL</EN>
-<KR>新增國際簽約獎金池</KR>
+<KR>新增國際簽約金池</KR>
 <ES>AGREGAR FONDO DE BONO DE FIRMA INTERNACIONAL</ES>
 <JP>国際署名ボーナスプールを追加</JP>
 <CN>新增國際簽約獎金池</CN>
@@ -134957,7 +134957,7 @@
 </HCS>
 <HCS i="23997">
 <EN>Non-escalating Arbitration (KBO Style</EN>
-<KR>非遞增式仲裁(KBO模式</KR>
+<KR>非遞增式薪資仲裁(KBO模式</KR>
 <ES>Arbitraje no escalado (estilo KBO</ES>
 <JP>非エスカレート仲裁 (KBO スタイル)</JP>
 <CN>非遞增式仲裁（KBO風格）</CN>
@@ -136417,7 +136417,7 @@
 <HCS i="24253">
 <EN>Total</EN>
 <DC>As in a total sum of money</DC>
-<KR>總和</KR>
+<KR>合計</KR>
 <ES>Total</ES>
 <JP>合計</JP>
 <CN>總和</CN>
@@ -136591,7 +136591,7 @@
 <HCS i="24287">
 <EN>L</EN>
 <DC>Low</DC>
-<KR>左</KR>
+<KR>低</KR>
 <ES>L</ES>
 <JP>L</JP>
 <CN>左</CN>
@@ -136635,7 +136635,7 @@
 </HCS>
 <HCS i="24293">
 <EN>Expected Player Payroll (Salary Settings</EN>
-<KR>預計球員總薪資(薪資設定</KR>
+<KR>預計球員薪資總額(薪資設定</KR>
 <ES>Nómina esperada del jugador (Configuración de salario</ES>
 <JP>期待選手給与（給与設定）</JP>
 <CN>預期球員薪資總額（薪資設定</CN>
@@ -136657,7 +136657,7 @@
 <HCS i="24296">
 <EN>SUB</EN>
 <DC>pitcher throwing arm slot</DC>
-<KR>替換</KR>
+<KR>下手投</KR>
 <ES>SUB</ES>
 <JP>サブ</JP>
 <CN>SUB</CN>
@@ -136705,7 +136705,7 @@
 <HCS i="24302">
 <EN>IW</EN>
 <DC>intentional walk</DC>
-<KR>敬遠保送</KR>
+<KR>故意四壞</KR>
 <ES>IW</ES>
 <JP>IW</JP>
 <CN>敬遠保送</CN>
@@ -137673,7 +137673,7 @@
 </HCS>
 <HCS i="24486">
 <EN>Other transactions, Revenue Sharing</EN>
-<KR>其他交易、收入分潤</KR>
+<KR>其他交易、收益分享</KR>
 <ES>Otras transacciones, reparto de ingresos</ES>
 <JP>その他の取引、収益分配</JP>
 <CN>其他交易、收入分潤</CN>
@@ -137694,14 +137694,14 @@
 </HCS>
 <HCS i="24489">
 <EN>Projected Revenue Sharing</EN>
-<KR>預估收入分潤</KR>
+<KR>預估收益分享</KR>
 <ES>Reparto de ingresos proyectado</ES>
 <JP>予想される収益分配</JP>
 <CN>預估收入分潤</CN>
 </HCS>
 <HCS i="24491">
 <EN>No Historical Lineup assigned</EN>
-<KR>未指派歷史先發打序</KR>
+<KR>未指派歷史打線</KR>
 <ES>No hay alineación histórica asignada</ES>
 <JP>歴史的なラインナップは割り当てられていません</JP>
 <CN>未指派歷史陣容</CN>
@@ -137841,7 +137841,7 @@
 </HCS>
 <HCS i="24514">
 <EN>Finish Trade Deadline</EN>
-<KR>結束交易期限日</KR>
+<KR>結束交易截止日</KR>
 <ES>Finalizar la fecha límite de intercambio</ES>
 <JP>取引期限を終了する</JP>
 <CN>結束交易期限日</CN>
@@ -141776,7 +141776,7 @@
 </HCS>
 <HCS i="25209">
 <EN>Outstanding</EN>
-<KR>卓越</KR>
+<KR>傑出</KR>
 <ES>Pendiente</ES>
 <JP>並外れた</JP>
 <CN>卓越</CN>
@@ -141924,7 +141924,7 @@
 </HCS>
 <HCS i="25232">
 <EN>&lt;Attention:value_very_low#0&gt;: You are not logged into your Perfect Team user account. Achievements and seasons scores will not be tracked if you play while being offline</EN>
-<KR>&lt;注意:value_very_low#0&gt;：你尚未登入完美球隊使用者帳號。若離線遊玩，將不會記錄成就與賽季分數</KR>
+<KR>&lt;注意:value_very_low#0&gt;：你尚未登入完美球隊使用者帳號。若離線遊玩，將不會記錄成就與球季分數</KR>
 <ES>&lt;Attention:value_very_low#0&gt;: No ha iniciado sesión en su cuenta de usuario de Perfect Team. No se realizará un seguimiento de los logros y las puntuaciones de las temporadas si juegas sin conexión</ES>
 <JP>&lt;Attention:value_very_low#0&gt;: Perfect Team ユーザー アカウントにログインしていません。オフラインでプレイすると、実績とシーズンスコアは追跡されません</JP>
 <CN>&lt;注意:value_very_low#0&gt;：你尚未登入完美球隊使用者帳號。若離線遊玩，將不會記錄成就與賽季分數</CN>
@@ -145293,7 +145293,7 @@
 </HCS>
 <HCS i="25819">
 <EN>Rule 5 pick</EN>
-<KR>規則5選秀球員</KR>
+<KR>規則五選秀球員</KR>
 <ES>Selección de la regla 5</ES>
 <JP>ルール5の選択</JP>
 <CN>規則五選秀對象</CN>
@@ -145892,7 +145892,7 @@
 <HCS i="25928">
 <EN>Normal</EN>
 <DC>used to describe a team owner fiscal personality</DC>
-<KR>一般</KR>
+<KR>普通</KR>
 <ES>Normal</ES>
 <JP>普通</JP>
 <CN>諾莫爾</CN>
@@ -147861,7 +147861,7 @@
 </HCS>
 <HCS i="26260">
 <EN>Drive for the Pennant Mode</EN>
-<KR>冠軍錦旗之路模式</KR>
+<KR>聯盟冠軍之路模式</KR>
 <ES>Modo Conducir por el banderín</ES>
 <JP>ペナントモードを目指して</JP>
 <CN>冠軍錦旗之路模式</CN>
@@ -148213,7 +148213,7 @@
 </HCS>
 <HCS i="26316">
 <EN>Play &lt;Drive for the Pennant Mode:value_bold#0&gt; in a historical league. Drive through the season, jumping you into the action at specific moments</EN>
-<KR>在歷史聯盟中遊玩&lt;冠軍錦旗之路:value_bold#0&gt;。帶領球隊推進整個賽季，並在特定關鍵時刻直接讓你進入比賽行動</KR>
+<KR>在歷史聯盟中遊玩&lt;冠軍錦旗之路:value_bold#0&gt;。帶領球隊推進整個球季，並在特定關鍵時刻直接讓你進入比賽行動</KR>
 <ES>Jugar&lt;Drive for the Pennant Mode:value_bold#0&gt; En una liga histórica. Recorre la temporada y sumérgete en la acción en momentos específicos.</ES>
 <JP>遊ぶ&lt;Drive for the Pennant Mode:value_bold#0&gt;歴史的なリーグでシーズンを駆け抜け、特定の瞬間にアクションに飛び込む</JP>
 <CN>在歷史聯盟中遊玩&lt;冠軍錦旗之路:value_bold#0&gt;。帶領球隊推進整個賽季，並在特定關鍵時刻直接讓你進入比賽行動</CN>
@@ -148735,7 +148735,7 @@
 </HCS>
 <HCS i="26399">
 <EN>TM</EN>
-<KR>球隊名稱</KR>
+<KR>球隊</KR>
 <ES>MT.</ES>
 <JP>TM</JP>
 <CN>球隊名稱</CN>
@@ -150010,7 +150010,7 @@
 <HCS i="26596">
 <EN>Level</EN>
 <DC>The variant card level, 0 to 5</DC>
-<KR>層級</KR>
+<KR>等級</KR>
 <ES>Nivel</ES>
 <JP>レベル</JP>
 <CN>列弗爾</CN>
@@ -153552,7 +153552,7 @@
 </HCS>
 <HCS i="27121">
 <EN>pending more Major League service time</EN>
-<KR>尚待更多大聯盟年資</KR>
+<KR>尚待更多大聯盟服役年限</KR>
 <ES>pendiente de más tiempo de servicio en las Grandes Ligas</ES>
 <JP>メジャーリーグでのさらなる活躍を期待</JP>
 <CN>尚有更多大聯盟服役時間</CN>
@@ -153573,7 +153573,7 @@
 </HCS>
 <HCS i="27124">
 <EN>signed extension</EN>
-<KR>已簽下延長合約</KR>
+<KR>已簽下續約</KR>
 <ES>extensión firmada</ES>
 <JP>符号付き拡張子</JP>
 <CN>已簽下延長合約</CN>
@@ -154536,7 +154536,7 @@
 </HCS>
 <HCS i="27260">
 <EN>Pre-calculated modifiers for historical seasons will be used</EN>
-<KR>將使用歷史賽季預先計算的修正係數</KR>
+<KR>將使用歷史球季預先計算的修正係數</KR>
 <ES>Se utilizarán modificadores precalculados para temporadas históricas</ES>
 <JP>過去のシーズンの事前計算された補正値が使用されます</JP>
 <CN>將使用歷史賽季預先計算的修正係數</CN>
@@ -154679,21 +154679,21 @@
 </HCS>
 <HCS i="27280">
 <EN>Soft&#37;</EN>
-<KR>軟弱擊球%</KR>
+<KR>軟%</KR>
 <ES>Suave&#37;</ES>
 <JP>柔らかい％</JP>
 <CN>軟打擊&#37;</CN>
 </HCS>
 <HCS i="27281">
 <EN>Med&#37;</EN>
-<KR>中等擊球%</KR>
+<KR>中等%</KR>
 <ES>Medicina&#37;</ES>
 <JP>中&#37;</JP>
 <CN>中等打擊&#37;</CN>
 </HCS>
 <HCS i="27282">
 <EN>Hard&#37;</EN>
-<KR>強勁擊球%</KR>
+<KR>強勁%</KR>
 <ES>Duro&#37;</ES>
 <JP>難しい％</JP>
 <CN>強擊球&#37;</CN>
@@ -154723,7 +154723,7 @@
 <HCS i="27286">
 <EN>GB/FB</EN>
 <DC>Groundball/Flyball Ratio</DC>
-<KR>滾地/飛球</KR>
+<KR>滾飛比</KR>
 <ES>GB/FB</ES>
 <JP>GB/FB</JP>
 <CN>滾地/飛球</CN>
@@ -155649,14 +155649,14 @@
 </HCS>
 <HCS i="27415">
 <EN>Daily Lineup Settings</EN>
-<KR>每日陣容設定</KR>
+<KR>每日打線設定</KR>
 <ES>Configuración de la alineación diaria</ES>
 <JP>デイリーラインナップ設定</JP>
 <CN>每日陣容設定</CN>
 </HCS>
 <HCS i="27416">
 <EN>Extension Budget Space</EN>
-<KR>擴展預算空間</KR>
+<KR>續約預算空間</KR>
 <ES>Espacio de presupuesto de extensión</ES>
 <JP>拡張予算スペース</JP>
 <CN>擴展預算空間</CN>
@@ -157349,7 +157349,7 @@
 <HCS i="27656">
 <EN>Cent&#37;</EN>
 <DC>Center Percent</DC>
-<KR>中間%</KR>
+<KR>中外野%</KR>
 <ES>Centavo&#37;</ES>
 <JP>セント％</JP>
 <CN>百分之幾</CN>
@@ -157922,7 +157922,7 @@
 <HCS i="27734">
 <EN>GAP</EN>
 <DC>Gap Power</DC>
-<KR>外野空檔</KR>
+<KR>空檔</KR>
 <ES>BRECHA</ES>
 <JP>ギャップ</JP>
 <CN>差距</CN>
