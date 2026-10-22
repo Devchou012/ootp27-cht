@@ -90,6 +90,20 @@ Steam 更新或「驗證遊戲檔案」會把檔案還原成官方原檔。步�
 3. 動到的檔，用新版原檔重跑對應的 `tools/merge_*.py`，`merge_korean.py --todo` 補翻新增句。
 4. `preflight.py` 全部通過後再複製進遊戲。
 
+## 模組相容性
+
+中文化是用英文字串對照換成中文，模組只要不覆蓋下面這些檔案就不會互相干擾：
+`text/`、`database/`、`misc/`、`storylines/`、`strategy_profiles/`。
+
+| 模組類型 | 例子 | 影響 |
+|---|---|---|
+| 圖片／模型 | 臉孔（Facegen）、球場、球衣、隊徽、球員卡、skin（Rating Bars 27） | 不影響 |
+| 自訂聯盟 | Universe 16、Project Isekai、澳洲職棒 | 介面是中文；對照表沒收錄的隊名、聯盟名顯示英文 |
+| 覆蓋資料檔 | Expanded Names Database（取代 `names.xml`） | 會蓋掉中文化版本，裝了要重新檢查人名欄位 |
+
+已實測：Complete Universe Facegen Pack OOTP27（只有 `custdata/fg_files/*.fg`）、Rating Bars 27。
+中文化被模組蓋掉時，照「安裝」重新複製一次即可。
+
 ## 還原成原版
 
 - Steam：遊戲右鍵 →「內容」→「已安裝檔案」→「驗證遊戲檔案的完整性」。
