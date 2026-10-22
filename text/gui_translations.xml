@@ -2558,10 +2558,10 @@
 </HCS>
 <HCS i="374">
 <EN>Financial &amp; Free Agency Settings</EN>
-<KR>財務與自由球員設定</KR>
+<KR>財務與自由球員市場設定</KR>
 <ES>Configuración financiera y de agencia libre</ES>
 <JP>金融とフリーエージェントの設定</JP>
-<CN>財務與自由球員設定</CN>
+<CN>財務與自由球員市場設定</CN>
 </HCS>
 <HCS i="375">
 <EN>Enable Financial System</EN>
@@ -2880,10 +2880,10 @@
 </HCS>
 <HCS i="422">
 <EN>Luxury Tax</EN>
-<KR>豪華稅</KR>
+<KR>奢侈稅</KR>
 <ES>Impuesto de lujo</ES>
 <JP>贅沢税</JP>
-<CN>豪華稅</CN>
+<CN>奢侈稅</CN>
 </HCS>
 <HCS i="424">
 <EN>Wants more yrs</EN>
@@ -4413,10 +4413,10 @@
 </HCS>
 <HCS i="648">
 <EN>Batting Gap Power</EN>
-<KR>外野空檔長打力</KR>
+<KR>中長打能力</KR>
 <ES>Poder de la brecha de bateo</ES>
 <JP>バッティングギャップパワー</JP>
-<CN>外野空檔長打力</CN>
+<CN>中長打能力</CN>
 </HCS>
 <HCS i="649">
 <EN>Batting Power</EN>
@@ -7441,10 +7441,10 @@
 </HCS>
 <HCS i="1096">
 <EN>Gap Power</EN>
-<KR>空檔長打力</KR>
+<KR>中長打能力</KR>
 <ES>brecha de poder</ES>
 <JP>ギャップパワー</JP>
-<CN>空檔長打力</CN>
+<CN>中長打能力</CN>
 </HCS>
 <HCS i="1097">
 <EN>Home Run Power</EN>
@@ -10792,10 +10792,10 @@
 </HCS>
 <HCS i="1617">
 <EN>Free agency</EN>
-<KR>自由球員</KR>
+<KR>自由球員市場</KR>
 <ES>Agencia libre</ES>
 <JP>フリーエージェント</JP>
-<CN>自由球員</CN>
+<CN>自由球員市場</CN>
 </HCS>
 <HCS i="1618">
 <EN>Recalc all player ratings</EN>
@@ -13699,10 +13699,10 @@
 </HCS>
 <HCS i="2042">
 <EN>Power / Movement</EN>
-<KR>力量/尾勁</KR>
+<KR>長打力/尾勁</KR>
 <ES>Poder / Movimiento</ES>
 <JP>パワー/ムーブメント</JP>
-<CN>力量/尾勁</CN>
+<CN>長打力/尾勁</CN>
 </HCS>
 <HCS i="2043">
 <EN>Contact / Stuff</EN>
@@ -20617,10 +20617,10 @@
 </HCS>
 <HCS i="3049">
 <EN>Power/Movement Potential</EN>
-<KR>力量/尾勁潛力</KR>
+<KR>長打力/尾勁潛力</KR>
 <ES>Potencial de poder/movimiento</ES>
 <JP>パワー/ムーブメントの可能性</JP>
-<CN>力量/尾勁潛力</CN>
+<CN>長打力/尾勁潛力</CN>
 </HCS>
 <HCS i="3050">
 <EN>License could not be redeemed! Please check the license key and try again in a minute, the license may not be active yet</EN>
@@ -20632,10 +20632,10 @@
 <HCS i="3051">
 <EN>Power/Movement Pot</EN>
 <DC>Power/Movement Potential</DC>
-<KR>力量/尾勁潛力</KR>
+<KR>長打力/尾勁潛力</KR>
 <ES>Olla de poder/movimiento</ES>
 <JP>パワー/ムーブメントポット</JP>
-<CN>力量/尾勁潛力</CN>
+<CN>長打力/尾勁潛力</CN>
 </HCS>
 <HCS i="3052">
 <EN>Cannot change pitchers now. Current pitcher must face a batter first</EN>
@@ -28148,10 +28148,10 @@
 </HCS>
 <HCS i="4208">
 <EN>Arbitration Estimates</EN>
-<KR>仲裁估計</KR>
+<KR>薪資仲裁預估</KR>
 <ES>Estimaciones de arbitraje</ES>
 <JP>仲裁の見積もり</JP>
-<CN>仲裁估計</CN>
+<CN>薪資仲裁預估</CN>
 </HCS>
 <HCS i="4209">
 <EN>Perfect League</EN>
@@ -45851,17 +45851,17 @@
 </HCS>
 <HCS i="6945">
 <EN>Power vs. LHP</EN>
-<KR>力量 vs 左投</KR>
+<KR>長打力 vs 左投</KR>
 <ES>Potencia frente a LHP</ES>
 <JP>パワー対LHP</JP>
-<CN>力量 vs 左投</CN>
+<CN>長打力 vs 左投</CN>
 </HCS>
 <HCS i="6946">
 <EN>Power vs. RHP</EN>
-<KR>力量 vs 右投</KR>
+<KR>長打力 vs 右投</KR>
 <ES>Potencia frente a RHP</ES>
 <JP>パワー対RHP</JP>
-<CN>力量 vs 右投</CN>
+<CN>長打力 vs 右投</CN>
 </HCS>
 <HCS i="6949">
 <EN>You are not connected to the Perfect Team Servers. Please check your internet connection, restart OOTP and log back in</EN>
@@ -50955,10 +50955,10 @@
 </HCS>
 <HCS i="7792">
 <EN>Arbitration Eligibility</EN>
-<KR>仲裁資格</KR>
+<KR>薪資仲裁資格</KR>
 <ES>Elegibilidad de arbitraje</ES>
 <JP>仲裁の適格性</JP>
-<CN>仲裁資格</CN>
+<CN>薪資仲裁資格</CN>
 </HCS>
 <HCS i="7793">
 <EN>Split: Vs. Right</EN>
@@ -52530,17 +52530,17 @@
 </HCS>
 <HCS i="8022">
 <EN>POW vsL</EN>
-<KR>對左投力量</KR>
+<KR>對左投長打力</KR>
 <ES>prisionero de guerra contra L</ES>
 <JP>捕虜vsL</JP>
-<CN>對左投力量</CN>
+<CN>對左投長打力</CN>
 </HCS>
 <HCS i="8023">
 <EN>POW vsR</EN>
-<KR>對右投力量</KR>
+<KR>對右投長打力</KR>
 <ES>prisionero de guerra contra R</ES>
 <JP>捕虜vsR</JP>
-<CN>對右投力量</CN>
+<CN>對右投長打力</CN>
 </HCS>
 <HCS i="8024">
 <EN>Prevent Arm Inj</EN>
@@ -53115,10 +53115,10 @@
 </HCS>
 <HCS i="8105">
 <EN>Arbitration Hearings</EN>
-<KR>仲裁聽證會</KR>
+<KR>薪資仲裁聽證會</KR>
 <ES>Audiencias de arbitraje</ES>
 <JP>仲裁聴聞会</JP>
-<CN>仲裁聽證會</CN>
+<CN>薪資仲裁聽證會</CN>
 </HCS>
 <HCS i="8106">
 <EN>Lock popularity ratings</EN>
@@ -53185,10 +53185,10 @@
 </HCS>
 <HCS i="8115">
 <EN>The Arbitration Period Begins</EN>
-<KR>仲裁期開始</KR>
+<KR>薪資仲裁期開始</KR>
 <ES>Comienza el período de arbitraje</ES>
 <JP>仲裁期間が始まります</JP>
-<CN>仲裁期開始</CN>
+<CN>薪資仲裁期開始</CN>
 </HCS>
 <HCS i="8116">
 <EN>Team ranking</EN>
@@ -53958,10 +53958,10 @@
 </HCS>
 <HCS i="8224">
 <EN>Arbitration eligible in offseason</EN>
-<KR>休賽季有資格仲裁</KR>
+<KR>休賽季具薪資仲裁資格</KR>
 <ES>Arbitraje elegible en temporada baja</ES>
 <JP>オフシーズンに適格な仲裁</JP>
-<CN>休賽季有資格仲裁</CN>
+<CN>休賽季具薪資仲裁資格</CN>
 </HCS>
 <HCS i="8225">
 <EN>Eligible, but possibly free agent after season</EN>
@@ -56055,10 +56055,10 @@
 </HCS>
 <HCS i="8524">
 <EN>Arbitration Status</EN>
-<KR>仲裁狀態</KR>
+<KR>薪資仲裁狀態</KR>
 <ES>Estado de arbitraje</ES>
 <JP>仲裁状況</JP>
-<CN>仲裁狀態</CN>
+<CN>薪資仲裁狀態</CN>
 </HCS>
 <HCS i="8525">
 <EN>Service Time Info</EN>
@@ -59192,10 +59192,10 @@
 <HCS i="8972">
 <EN>Power Pot</EN>
 <DC>Home Run Power Potential</DC>
-<KR>力量潛力</KR>
+<KR>長打力潛力</KR>
 <ES>olla de poder</ES>
 <JP>パワーポット</JP>
-<CN>力量潛力</CN>
+<CN>長打力潛力</CN>
 </HCS>
 <HCS i="8973">
 <EN>Gap Pot</EN>
@@ -59284,25 +59284,25 @@
 <HCS i="8984">
 <EN>POW vR</EN>
 <DC>Home Run Power vs. right-handed Pitchers</DC>
-<KR>對右投力量</KR>
+<KR>對右投長打力</KR>
 <ES>prisionero de guerra vr</ES>
 <JP>POW vR</JP>
-<CN>對右投力量</CN>
+<CN>對右投長打力</CN>
 </HCS>
 <HCS i="8985">
 <EN>Power vs. RHP</EN>
 <DC>Home Run Power vs. right-handed Pitchers</DC>
-<KR>力量 vs 右投</KR>
+<KR>長打力 vs 右投</KR>
 <ES>Potencia frente a RHP</ES>
 <JP>パワー対RHP</JP>
-<CN>力量 vs 右投</CN>
+<CN>長打力 vs 右投</CN>
 </HCS>
 <HCS i="8986">
 <EN>Gap Power vs. right-handed Pitchers</EN>
-<KR>對右投外野空檔長打能力</KR>
+<KR>對右投中長打能力</KR>
 <ES>Gap Power vs lanzadores diestros</ES>
 <JP>ギャップパワー対右利き投手</JP>
-<CN>對右投外野空檔長打能力</CN>
+<CN>對右投中長打能力</CN>
 </HCS>
 <HCS i="8987">
 <EN>Power Pitchers</EN>
@@ -59323,10 +59323,10 @@
 <HCS i="8989">
 <EN>GAP vR</EN>
 <DC>Batting Gap Power Rating vs. right-handed Pitchers</DC>
-<KR>對右投空檔</KR>
+<KR>對右投中長打</KR>
 <ES>GAP vR</ES>
 <JP>GAP vR</JP>
-<CN>對右投空檔</CN>
+<CN>對右投中長打</CN>
 </HCS>
 <HCS i="8990">
 <EN>batting AVG</EN>
@@ -60112,10 +60112,10 @@
 <HCS i="9098">
 <EN>POW vL</EN>
 <DC>Batting Home Run Power vs. left-handed Pitchers</DC>
-<KR>對左投力量</KR>
+<KR>對左投長打力</KR>
 <ES>prisionero de guerra vl</ES>
 <JP>POW vL</JP>
-<CN>對左投力量</CN>
+<CN>對左投長打力</CN>
 </HCS>
 <HCS i="9099">
 <EN>total bases</EN>
@@ -60134,25 +60134,25 @@
 <HCS i="9101">
 <EN>Power vs. LHP</EN>
 <DC>Batting Home Run Power vs. left-handed Pitchers</DC>
-<KR>力量 vs 左投</KR>
+<KR>長打力 vs 左投</KR>
 <ES>Potencia frente a LHP</ES>
 <JP>パワー対LHP</JP>
-<CN>力量 vs 左投</CN>
+<CN>長打力 vs 左投</CN>
 </HCS>
 <HCS i="9102">
 <EN>Gap Power vs. left-handed Pitchers</EN>
-<KR>對左投外野空檔長打能力</KR>
+<KR>對左投中長打能力</KR>
 <ES>Gap Power vs lanzadores zurdos</ES>
 <JP>ギャップパワー対左利き投手</JP>
-<CN>對左投外野空檔長打能力</CN>
+<CN>對左投中長打能力</CN>
 </HCS>
 <HCS i="9103">
 <EN>GAP vL</EN>
 <DC>Batting Gap Power Rating vs. left-handed Pitchers</DC>
-<KR>對左投空檔</KR>
+<KR>對左投中長打</KR>
 <ES>GAP vL</ES>
 <JP>GAP vL</JP>
-<CN>對左投空檔</CN>
+<CN>對左投中長打</CN>
 </HCS>
 <HCS i="9104">
 <EN>Active Career Pitching Leaders</EN>
@@ -63919,17 +63919,17 @@
 </HCS>
 <HCS i="9653">
 <EN>Heavily Favor Power</EN>
-<KR>極度偏好力量</KR>
+<KR>極度偏好長打力</KR>
 <ES>Favorece fuertemente el poder</ES>
 <JP>非常に好意的な力</JP>
-<CN>極度偏好力量</CN>
+<CN>極度偏好長打力</CN>
 </HCS>
 <HCS i="9654">
 <EN>Favor Power</EN>
-<KR>偏好力量</KR>
+<KR>偏好長打力</KR>
 <ES>Favorecer el poder</ES>
 <JP>好意の力</JP>
-<CN>偏好力量</CN>
+<CN>偏好長打力</CN>
 </HCS>
 <HCS i="9655">
 <EN>Favor Speed</EN>
@@ -66087,10 +66087,10 @@
 </HCS>
 <HCS i="9962">
 <EN>Arbitration Eligible Players</EN>
-<KR>仲裁合格球員</KR>
+<KR>具薪資仲裁資格球員</KR>
 <ES>Jugadores elegibles para el arbitraje</ES>
 <JP>仲裁対象プレーヤー</JP>
-<CN>仲裁合格球員</CN>
+<CN>具薪資仲裁資格球員</CN>
 </HCS>
 <HCS i="9963">
 <EN>Players with a * are &#39;Super 2&#39; arbitration cases. They became eligible for arbitration because they were in the top &#37;p&#37; of service time among players with at least &#37;n years of service time</EN>
@@ -66227,10 +66227,10 @@
 </HCS>
 <HCS i="9982">
 <EN>Offer Arbitration</EN>
-<KR>提供仲裁</KR>
+<KR>提出薪資仲裁</KR>
 <ES>oferta de arbitraje</ES>
 <JP>仲裁を申し出る</JP>
-<CN>提供仲裁</CN>
+<CN>提出薪資仲裁</CN>
 </HCS>
 <HCS i="9983">
 <EN>You submitted a value lower than the minimum salary or less than 80&#37; of the previous salary</EN>
@@ -66782,10 +66782,10 @@
 </HCS>
 <HCS i="10063">
 <EN>No Arbitration</EN>
-<KR>無仲裁</KR>
+<KR>無薪資仲裁</KR>
 <ES>Sin arbitraje</ES>
 <JP>仲裁なし</JP>
-<CN>無仲裁</CN>
+<CN>無薪資仲裁</CN>
 </HCS>
 <HCS i="10064">
 <EN>Minimum Service Yrs for Minor League FA</EN>
@@ -79266,10 +79266,10 @@
 </HCS>
 <HCS i="11945">
 <EN>Current and potential power ratings</EN>
-<KR>目前和潛在的力量評價</KR>
+<KR>目前和潛在的長打力評價</KR>
 <ES>Potencias nominales actuales y potenciales</ES>
 <JP>現在および潜在的な電力定格</JP>
-<CN>目前和潛在的力量評價</CN>
+<CN>目前和潛在的長打力評價</CN>
 </HCS>
 <HCS i="11946">
 <EN>Current power rating</EN>
@@ -86593,10 +86593,10 @@
 </HCS>
 <HCS i="13044">
 <EN>Gap</EN>
-<KR>空檔</KR>
+<KR>中長打</KR>
 <ES>Brecha</ES>
 <JP>ギャップ</JP>
-<CN>空檔</CN>
+<CN>中長打</CN>
 </HCS>
 <HCS i="13045">
 <EN>GENERAL INFORMATION</EN>
@@ -88424,10 +88424,10 @@
 <HCS i="13300">
 <EN>Power</EN>
 <DC>used to describe focus area of hitting coach, Power Hitting</DC>
-<KR>力量</KR>
+<KR>長打力</KR>
 <ES>Energía</ES>
 <JP>力</JP>
-<CN>力量</CN>
+<CN>長打力</CN>
 </HCS>
 <HCS i="13301">
 <EN>Patience</EN>
@@ -90197,10 +90197,10 @@
 <HCS i="13537">
 <EN>Power</EN>
 <DC>used to describe a pitcher type who throws hard</DC>
-<KR>力量</KR>
+<KR>長打力</KR>
 <ES>Energía</ES>
 <JP>力</JP>
-<CN>力量</CN>
+<CN>長打力</CN>
 </HCS>
 <HCS i="13538">
 <EN>GB&#39;er</EN>
@@ -93059,10 +93059,10 @@
 </HCS>
 <HCS i="13963">
 <EN>POW T</EN>
-<KR>力量潛力</KR>
+<KR>長打力潛力</KR>
 <ES>PODER T</ES>
 <JP>POW T</JP>
-<CN>力量潛力</CN>
+<CN>長打力潛力</CN>
 </HCS>
 <HCS i="13964">
 <EN>EYE T</EN>
@@ -93080,10 +93080,10 @@
 </HCS>
 <HCS i="13966">
 <EN>MOVE T</EN>
-<KR>位移天賦</KR>
+<KR>尾勁天賦</KR>
 <ES>MOVER T</ES>
 <JP>Tを移動</JP>
-<CN>位移天賦</CN>
+<CN>尾勁天賦</CN>
 </HCS>
 <HCS i="13967">
 <EN>CONT T</EN>
@@ -97573,17 +97573,17 @@
 </HCS>
 <HCS i="14650">
 <EN>CON VS.R</EN>
-<KR>對右投接觸</KR>
+<KR>對右投擊球</KR>
 <ES>CON VS.R</ES>
 <JP>CON VS.R</JP>
-<CN>對右投接觸</CN>
+<CN>對右投擊球</CN>
 </HCS>
 <HCS i="14651">
 <EN>POW VS.R</EN>
-<KR>對右投力量</KR>
+<KR>對右投長打力</KR>
 <ES>POW VS.R</ES>
 <JP>POW VS.R</JP>
-<CN>對右投力量</CN>
+<CN>對右投長打力</CN>
 </HCS>
 <HCS i="14652">
 <EN>EYE VS.R</EN>
@@ -97594,17 +97594,17 @@
 </HCS>
 <HCS i="14653">
 <EN>CON VS.L</EN>
-<KR>對左投接觸</KR>
+<KR>對左投擊球</KR>
 <ES>CON VS.L</ES>
 <JP>CON VS.L</JP>
-<CN>對左投接觸</CN>
+<CN>對左投擊球</CN>
 </HCS>
 <HCS i="14654">
 <EN>POW VS.L</EN>
-<KR>對左投力量</KR>
+<KR>對左投長打力</KR>
 <ES>POW VS L</ES>
 <JP>POW VS.L</JP>
-<CN>對左投力量</CN>
+<CN>對左投長打力</CN>
 </HCS>
 <HCS i="14655">
 <EN>EYE VS.L</EN>
@@ -98302,10 +98302,10 @@
 </HCS>
 <HCS i="14761">
 <EN>Speed-Power</EN>
-<KR>速度-力量</KR>
+<KR>速度-長打力</KR>
 <ES>Potencia de velocidad</ES>
 <JP>スピードパワー</JP>
-<CN>速度-力量</CN>
+<CN>速度-長打力</CN>
 </HCS>
 <HCS i="14762">
 <EN>Defense-Offense</EN>
@@ -98665,10 +98665,10 @@
 <HCS i="14809">
 <EN>CON P</EN>
 <DC>Contact Potential</DC>
-<KR>接觸潛力</KR>
+<KR>擊球潛力</KR>
 <ES>CONP</ES>
 <JP>CON P</JP>
-<CN>接觸潛力</CN>
+<CN>擊球潛力</CN>
 </HCS>
 <HCS i="14810">
 <EN>GAP P</EN>
@@ -98681,10 +98681,10 @@
 <HCS i="14811">
 <EN>POW P</EN>
 <DC>Home Run Power Potential</DC>
-<KR>力量潛力</KR>
+<KR>長打力潛力</KR>
 <ES>prisionero de guerra</ES>
 <JP>POW P</JP>
-<CN>力量潛力</CN>
+<CN>長打力潛力</CN>
 </HCS>
 <HCS i="14812">
 <EN>EYE P</EN>
@@ -98713,10 +98713,10 @@
 <HCS i="14815">
 <EN>Movement</EN>
 <DC>Pitcher&#39;s Movement Rating</DC>
-<KR>位移</KR>
+<KR>尾勁</KR>
 <ES>Movimiento</ES>
 <JP>動き</JP>
-<CN>位移</CN>
+<CN>尾勁</CN>
 </HCS>
 <HCS i="14816">
 <EN>Control</EN>
@@ -98737,18 +98737,18 @@
 <HCS i="14818">
 <EN>MOV P</EN>
 <DC>Pitcher&#39;s Movement Rating Potential</DC>
-<KR>位移潛力</KR>
+<KR>尾勁潛力</KR>
 <ES>MOV P</ES>
 <JP>MOV P</JP>
-<CN>位移潛力</CN>
+<CN>尾勁潛力</CN>
 </HCS>
 <HCS i="14819">
 <EN>CON P</EN>
 <DC>Pitcher&#39;s Control Rating Potential</DC>
-<KR>接觸潛力</KR>
+<KR>擊球潛力</KR>
 <ES>CONP</ES>
 <JP>CON P</JP>
-<CN>接觸潛力</CN>
+<CN>擊球潛力</CN>
 </HCS>
 <HCS i="14820">
 <EN>Pitches</EN>
@@ -99130,10 +99130,10 @@
 </HCS>
 <HCS i="14870">
 <EN>Power/Movement</EN>
-<KR>力量/位移</KR>
+<KR>長打力/尾勁</KR>
 <ES>Poder/Movimiento</ES>
 <JP>パワー/ムーブメント</JP>
-<CN>力量/位移</CN>
+<CN>長打力/尾勁</CN>
 </HCS>
 <HCS i="14871">
 <EN>Eye/Control</EN>
@@ -99152,18 +99152,18 @@
 <HCS i="14873">
 <EN>CON/STU P</EN>
 <DC>Contact/Stuff Potential</DC>
-<KR>接觸/球威潛力</KR>
+<KR>擊球/球威潛力</KR>
 <ES>CON/ESTU P</ES>
 <JP>CON / STU P</JP>
-<CN>接觸/球威潛力</CN>
+<CN>擊球/球威潛力</CN>
 </HCS>
 <HCS i="14874">
 <EN>POW/MOV P</EN>
 <DC>Power/Movement Potential</DC>
-<KR>力量/位移潛力</KR>
+<KR>長打力/尾勁潛力</KR>
 <ES>POW/MOV P</ES>
 <JP>POW / MOV P</JP>
-<CN>力量/位移潛力</CN>
+<CN>長打力/尾勁潛力</CN>
 </HCS>
 <HCS i="14875">
 <EN>EYE/CON P</EN>
@@ -101772,10 +101772,10 @@
 </HCS>
 <HCS i="15247">
 <EN>POW (Pot</EN>
-<KR>力量（潛力</KR>
+<KR>長打力（潛力</KR>
 <ES>POW (Olla</ES>
 <JP>POW（ポット</JP>
-<CN>力量（潛力</CN>
+<CN>長打力（潛力</CN>
 </HCS>
 <HCS i="15248">
 <EN>EYE (Pot</EN>
@@ -102305,10 +102305,10 @@
 </HCS>
 <HCS i="15321">
 <EN>POW</EN>
-<KR>力量</KR>
+<KR>長打力</KR>
 <ES>prisionero de guerra</ES>
 <JP>捕虜</JP>
-<CN>力量</CN>
+<CN>長打力</CN>
 </HCS>
 <HCS i="15322">
 <EN>POB</EN>
@@ -107704,10 +107704,10 @@
 <HCS i="16136">
 <EN>CON/STU</EN>
 <DC>Contact/Stuff</DC>
-<KR>接觸/球威</KR>
+<KR>擊球/球威</KR>
 <ES>CON/ESTU</ES>
 <JP>CON / STU</JP>
-<CN>接觸/球威</CN>
+<CN>擊球/球威</CN>
 </HCS>
 <HCS i="16137">
 <EN>GLOBAL BATTING BENCH WHEN FATIGUE &#37;</EN>
@@ -107719,10 +107719,10 @@
 <HCS i="16140">
 <EN>POW/MOV</EN>
 <DC>Power/Movement</DC>
-<KR>力量/位移</KR>
+<KR>長打力/尾勁</KR>
 <ES>POW/MOV</ES>
 <JP>POW / MOV</JP>
-<CN>力量/位移</CN>
+<CN>長打力/尾勁</CN>
 </HCS>
 <HCS i="16141">
 <EN>MINORS</EN>
@@ -109927,10 +109927,10 @@
 <HCS i="16453">
 <EN>GAP</EN>
 <DC>Gap Power Rating</DC>
-<KR>空檔</KR>
+<KR>中長打</KR>
 <ES>BRECHA</ES>
 <JP>ギャップ</JP>
-<CN>空檔</CN>
+<CN>中長打</CN>
 </HCS>
 <HCS i="16454">
 <EN>K/AB</EN>
@@ -109991,10 +109991,10 @@
 <HCS i="16462">
 <EN>POW</EN>
 <DC>Home Run Power Rating</DC>
-<KR>力量</KR>
+<KR>長打力</KR>
 <ES>prisionero de guerra</ES>
 <JP>捕虜</JP>
-<CN>力量</CN>
+<CN>長打力</CN>
 </HCS>
 <HCS i="16463">
 <EN>SCO</EN>
@@ -110384,17 +110384,17 @@
 </HCS>
 <HCS i="16517">
 <EN>CON/STU</EN>
-<KR>接觸/球威</KR>
+<KR>擊球/球威</KR>
 <ES>CON/ESTU</ES>
 <JP>CON / STU</JP>
-<CN>接觸/球威</CN>
+<CN>擊球/球威</CN>
 </HCS>
 <HCS i="16518">
 <EN>POW/MOV</EN>
-<KR>力量/位移</KR>
+<KR>長打力/尾勁</KR>
 <ES>POW/MOV</ES>
 <JP>POW / MOV</JP>
-<CN>力量/位移</CN>
+<CN>長打力/尾勁</CN>
 </HCS>
 <HCS i="16519">
 <EN>EYE/CON</EN>
@@ -110603,10 +110603,10 @@
 </HCS>
 <HCS i="16549">
 <EN>MOVE</EN>
-<KR>位移</KR>
+<KR>尾勁</KR>
 <ES>MUEVETE</ES>
 <JP>動く</JP>
-<CN>位移</CN>
+<CN>尾勁</CN>
 </HCS>
 <HCS i="16550">
 <EN>ERR</EN>
@@ -112393,10 +112393,10 @@
 <HCS i="16812">
 <EN>POW</EN>
 <DC>Power</DC>
-<KR>力量</KR>
+<KR>長打力</KR>
 <ES>prisionero de guerra</ES>
 <JP>捕虜</JP>
-<CN>力量</CN>
+<CN>長打力</CN>
 </HCS>
 <HCS i="16813">
 <EN>CON</EN>
@@ -120399,10 +120399,10 @@
 </HCS>
 <HCS i="17988">
 <EN>Contact Pot</EN>
-<KR>接觸潛力</KR>
+<KR>擊球潛力</KR>
 <ES>Olla de contacto</ES>
 <JP>コンタクトポット</JP>
-<CN>接觸潛力</CN>
+<CN>擊球潛力</CN>
 </HCS>
 <HCS i="17989">
 <EN>1 assist</EN>
@@ -120420,10 +120420,10 @@
 </HCS>
 <HCS i="17991">
 <EN>Power Pot</EN>
-<KR>力量潛力</KR>
+<KR>長打力潛力</KR>
 <ES>olla de poder</ES>
 <JP>パワーポット</JP>
-<CN>力量潛力</CN>
+<CN>長打力潛力</CN>
 </HCS>
 <HCS i="17992">
 <EN>1 total base</EN>
@@ -120491,10 +120491,10 @@
 </HCS>
 <HCS i="18001">
 <EN>Movement Pot</EN>
-<KR>位移潛力</KR>
+<KR>尾勁潛力</KR>
 <ES>Olla de movimiento</ES>
 <JP>ムーブメントポット</JP>
-<CN>位移潛力</CN>
+<CN>尾勁潛力</CN>
 </HCS>
 <HCS i="18002">
 <EN>1 stolen base</EN>
@@ -126209,10 +126209,10 @@
 </HCS>
 <HCS i="18855">
 <EN>arbitration, poss. FA</EN>
-<KR>仲裁，或為自由球員</KR>
+<KR>薪資仲裁，或為自由球員</KR>
 <ES>arbitraje, pos. FA</ES>
 <JP>仲裁、可能性。 FA</JP>
-<CN>仲裁，或為自由球員</CN>
+<CN>薪資仲裁，或為自由球員</CN>
 </HCS>
 <HCS i="18856">
 <EN>nl)Next year is a new year, though.  Here&#39;s what I&#39;d like to see you accomplish going forward:(nl)(nl</EN>
@@ -126244,10 +126244,10 @@
 </HCS>
 <HCS i="18860">
 <EN>arbitration</EN>
-<KR>仲裁</KR>
+<KR>薪資仲裁</KR>
 <ES>arbitraje</ES>
 <JP>仲裁</JP>
-<CN>仲裁</CN>
+<CN>薪資仲裁</CN>
 </HCS>
 <HCS i="18861">
 <EN>1B</EN>
@@ -127276,10 +127276,10 @@
 </HCS>
 <HCS i="19645">
 <EN>Gap Power is a measure of how often hits go for Doubles and Triples</EN>
-<KR>外野空檔長打力是衡量安打形成二壘打或三壘打頻率的資料</KR>
+<KR>中長打能力是衡量安打形成二壘打或三壘打頻率的資料</KR>
 <ES>Gap Power es una medida de la frecuencia de hits para dobles y triples.</ES>
 <JP>ギャップパワーは、ダブルスとトリプルスのヒット数の尺度です。</JP>
-<CN>外野空檔長打力是衡量安打形成二壘打或三壘打頻率的資料</CN>
+<CN>中長打能力是衡量安打形成二壘打或三壘打頻率的資料</CN>
 </HCS>
 <HCS i="19646">
 <EN>Power is a measure of how many HR the players hit</EN>
@@ -133408,10 +133408,10 @@
 </HCS>
 <HCS i="23753">
 <EN>Luxury Sharing</EN>
-<KR>豪華稅分攤</KR>
+<KR>奢侈稅分攤</KR>
 <ES>Compartir lujo</ES>
 <JP>ラグジュアリーシェアリング</JP>
-<CN>豪華稅分攤</CN>
+<CN>奢侈稅分攤</CN>
 </HCS>
 <HCS i="23754">
 <EN>Money added or removed due to payroll threshold taxation</EN>
@@ -137652,10 +137652,10 @@
 </HCS>
 <HCS i="24482">
 <EN>Revenue/Luxury Sharing</EN>
-<KR>收入/豪華稅分潤</KR>
+<KR>收入/奢侈稅分潤</KR>
 <ES>Ingresos/lujo compartido</ES>
 <JP>収益/贅沢品の分配</JP>
-<CN>收入/豪華稅分潤</CN>
+<CN>收入/奢侈稅分潤</CN>
 </HCS>
 <HCS i="24484">
 <EN>Available money that can be used for players</EN>
@@ -137680,17 +137680,17 @@
 </HCS>
 <HCS i="24487">
 <EN>Projected Revenue/Luxury Sharing</EN>
-<KR>預估收入／豪華稅分潤</KR>
+<KR>預估收入／奢侈稅分潤</KR>
 <ES>Ingresos proyectados/compartición de lujo</ES>
 <JP>予想収益/贅沢品の分配</JP>
-<CN>預估收入／豪華稅分潤</CN>
+<CN>預估收入／奢侈稅分潤</CN>
 </HCS>
 <HCS i="24488">
 <EN>Projected Luxury Sharing</EN>
-<KR>預估豪華稅分潤</KR>
+<KR>預估奢侈稅分潤</KR>
 <ES>Compartir lujo proyectado</ES>
 <JP>計画された贅沢な共有</JP>
-<CN>預估豪華稅分潤</CN>
+<CN>預估奢侈稅分潤</CN>
 </HCS>
 <HCS i="24489">
 <EN>Projected Revenue Sharing</EN>
@@ -138212,10 +138212,10 @@
 </HCS>
 <HCS i="24578">
 <EN>Pow Ov</EN>
-<KR>力量整體</KR>
+<KR>長打力整體</KR>
 <ES>prisionero de guerra</ES>
 <JP>パウ・オヴ</JP>
-<CN>力量整體</CN>
+<CN>長打力整體</CN>
 </HCS>
 <HCS i="24579">
 <EN>Con Ov</EN>
@@ -138226,10 +138226,10 @@
 </HCS>
 <HCS i="24580">
 <EN>Pow Pot</EN>
-<KR>力量潛力</KR>
+<KR>長打力潛力</KR>
 <ES>Olla de poder</ES>
 <JP>パウポット</JP>
-<CN>力量潛力</CN>
+<CN>長打力潛力</CN>
 </HCS>
 <HCS i="24581">
 <EN>Con Pot</EN>
@@ -138324,10 +138324,10 @@
 </HCS>
 <HCS i="24594">
 <EN>The pitch ratings above represent the &#39;pure&#39; ratings, inside the game engine the ratings are combined with other ratings like velocity and movement, to create the stuff rating for the player</EN>
-<KR>以上投球評分代表「純」評分，遊戲引擎中會與球速、球路位移等其他評分結合，計算出該球員的球威評分</KR>
+<KR>以上投球評分代表「純」評分，遊戲引擎中會與球速、尾勁等其他評分結合，計算出該球員的球威評分</KR>
 <ES>Las calificaciones de tono anteriores representan las calificaciones &quot;puras&quot;, dentro del motor del juego las calificaciones se combinan con otras calificaciones como velocidad y movimiento, para crear la calificación material para el jugador.</ES>
 <JP>上記のピッチ評価は「純粋な」評価を表しており、ゲーム エンジン内で評価は速度や動きなどの他の評価と組み合わされて、プレーヤーの評価が作成されます。</JP>
-<CN>以上投球評分代表「純」評分，遊戲引擎中會與球速、球路位移等其他評分結合，計算出該球員的球威評分</CN>
+<CN>以上投球評分代表「純」評分，遊戲引擎中會與球速、尾勁等其他評分結合，計算出該球員的球威評分</CN>
 </HCS>
 <HCS i="24595">
 <EN>View Rating</EN>
@@ -138655,10 +138655,10 @@
 </HCS>
 <HCS i="24647">
 <EN>Arb. Estimate</EN>
-<KR>仲裁預估</KR>
+<KR>薪資仲裁預估</KR>
 <ES>Árbitro. Estimar</ES>
 <JP>アーブ。見積もり</JP>
-<CN>仲裁預估</CN>
+<CN>薪資仲裁預估</CN>
 </HCS>
 <HCS i="24648">
 <EN>Desired Job</EN>
@@ -138802,24 +138802,24 @@
 </HCS>
 <HCS i="24673">
 <EN>Current and potential gap ratings</EN>
-<KR>目前與潛力外野空檔擊球評分</KR>
+<KR>目前與潛力中長打評分</KR>
 <ES>Calificaciones de brechas actuales y potenciales</ES>
 <JP>現在および潜在的なギャップ評価</JP>
-<CN>目前與潛力外野空檔擊球評分</CN>
+<CN>目前與潛力中長打評分</CN>
 </HCS>
 <HCS i="24674">
 <EN>Current gap rating</EN>
-<KR>目前外野空檔擊球評分</KR>
+<KR>目前中長打評分</KR>
 <ES>Calificación de brecha actual</ES>
 <JP>現在のギャップ定格</JP>
-<CN>目前外野空檔擊球評分</CN>
+<CN>目前中長打評分</CN>
 </HCS>
 <HCS i="24675">
 <EN>Potential gap rating</EN>
-<KR>潛力外野空檔擊球評分</KR>
+<KR>潛力中長打評分</KR>
 <ES>Calificación de brecha potencial</ES>
 <JP>潜在的なギャップ評価</JP>
-<CN>潛力外野空檔擊球評分</CN>
+<CN>潛力中長打評分</CN>
 </HCS>
 <HCS i="24677">
 <EN>The first round will match teams based on quality for a set number of games, with the top team(s) in each pool moving to a single-elimination bracket</EN>
@@ -140222,10 +140222,10 @@
 </HCS>
 <HCS i="24942">
 <EN>generate gap power</EN>
-<KR>提升外野空檔長打能力</KR>
+<KR>提升中長打能力</KR>
 <ES>generar poder de brecha</ES>
 <JP>ギャップパワーを生み出す</JP>
-<CN>提升外野空檔長打能力</CN>
+<CN>提升中長打能力</CN>
 </HCS>
 <HCS i="24947">
 <EN>learn a new position</EN>
@@ -142365,10 +142365,10 @@
 </HCS>
 <HCS i="25334">
 <EN>Luxury Sharing Money</EN>
-<KR>豪華稅分享金額</KR>
+<KR>奢侈稅分享金額</KR>
 <ES>Lujo compartiendo dinero</ES>
 <JP>贅沢なお金の共有</JP>
-<CN>豪華稅分享金額</CN>
+<CN>奢侈稅分享金額</CN>
 </HCS>
 <HCS i="25335">
 <EN>Cash Owner</EN>
@@ -144593,10 +144593,10 @@
 </HCS>
 <HCS i="25713">
 <EN>Current movement rating decreases by</EN>
-<KR>目前球路位移評分下降了</KR>
+<KR>目前尾勁評分下降了</KR>
 <ES>El índice de movimiento actual disminuye en</ES>
 <JP>現在の移動評価は</JP>
-<CN>目前球路位移評分下降了</CN>
+<CN>目前尾勁評分下降了</CN>
 </HCS>
 <HCS i="25714">
 <EN>Potential power rating improves by</EN>
@@ -144628,24 +144628,24 @@
 </HCS>
 <HCS i="25718">
 <EN>Current movement rating improves by</EN>
-<KR>目前球路位移評分提升了</KR>
+<KR>目前尾勁評分提升了</KR>
 <ES>La calificación de movimiento actual mejora en</ES>
 <JP>現在の移動評価は</JP>
-<CN>目前球路位移評分提升了</CN>
+<CN>目前尾勁評分提升了</CN>
 </HCS>
 <HCS i="25719">
 <EN>Potential movement rating improves by</EN>
-<KR>潛力球路位移評分提升了</KR>
+<KR>潛力尾勁評分提升了</KR>
 <ES>La calificación de movimiento potencial mejora en</ES>
 <JP>潜在的な移動評価は</JP>
-<CN>潛力球路位移評分提升了</CN>
+<CN>潛力尾勁評分提升了</CN>
 </HCS>
 <HCS i="25720">
 <EN>Current movement rating drops by</EN>
-<KR>目前球路位移評分下降了</KR>
+<KR>目前尾勁評分下降了</KR>
 <ES>El índice de movimiento actual cae</ES>
 <JP>現在の移動評価は</JP>
-<CN>目前球路位移評分下降了</CN>
+<CN>目前尾勁評分下降了</CN>
 </HCS>
 <HCS i="25721">
 <EN>Current control rating drops by</EN>
@@ -144684,17 +144684,17 @@
 </HCS>
 <HCS i="25726">
 <EN>Current gap rating improves by</EN>
-<KR>目前外野空檔長打評分提升了</KR>
+<KR>目前中長打評分提升了</KR>
 <ES>La calificación de brecha actual mejora en</ES>
 <JP>現在のギャップ評価は</JP>
-<CN>目前外野空檔長打評分提升了</CN>
+<CN>目前中長打評分提升了</CN>
 </HCS>
 <HCS i="25727">
 <EN>Potential gap rating improves by</EN>
-<KR>潛力外野空檔長打評分提升了</KR>
+<KR>潛力中長打評分提升了</KR>
 <ES>La calificación de brecha potencial mejora en</ES>
 <JP>潜在的ギャップ評価は</JP>
-<CN>潛力外野空檔長打評分提升了</CN>
+<CN>潛力中長打評分提升了</CN>
 </HCS>
 <HCS i="25728">
 <EN>Current avoid k&#39;s rating drops by</EN>
@@ -153580,10 +153580,10 @@
 </HCS>
 <HCS i="27125">
 <EN>arbitration eligible</EN>
-<KR>符合仲裁資格</KR>
+<KR>符合薪資仲裁資格</KR>
 <ES>elegible para arbitraje</ES>
 <JP>仲裁適格</JP>
-<CN>符合仲裁資格</CN>
+<CN>符合薪資仲裁資格</CN>
 </HCS>
 <HCS i="27126">
 <EN>not rookie eligible</EN>
