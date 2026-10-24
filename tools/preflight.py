@@ -8,7 +8,7 @@
   4. 字型能不能開、有沒有繁中字（需要 fontTools，沒有就跳過）
 
 用法:
-    python3 tools/preflight.py "K:/SteamLibrary/steamapps/common/Out of the Park Baseball 27/data" [成品 data 資料夾]
+    python3 tools/preflight.py "J:/SteamLibrary/steamapps/common/Out of the Park Baseball 27/data" [成品 data 資料夾]
 成品資料夾預設是 repo 本身（text/、database/、misc/、fonts/font20/）。
 """
 
